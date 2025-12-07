@@ -161,27 +161,82 @@ Raw Sources → Extraction Scripts → Processed Data → NotebookLM
 
 ```
 the_depositum/
-├── README.md                    # This file
+├── README.md                    # Main project documentation
 ├── LICENSE                      # MIT License
 ├── pyproject.toml               # Python project config & dependencies
+├── .gitignore                   # Git ignore rules
 │
-├── data_final/                   # Final output (ready for NotebookLM)
-│   ├── bible_douay_rheims/      # 73 Bible books
-│   ├── bible_commentary_haydock/ # Commentary files
-│   └── catholic_catechism_trent/ # Catechism file
+├── .cursor/                     # Cursor IDE rules (2025 format)
+│   └── rules/
+│       ├── error-handling.mdc   # Critical error handling rules
+│       └── data-engineering.mdc # Data engineering standards
+│
+├── .github/                     # GitHub configuration
+│   ├── CODEOWNERS              # Code review assignments
+│   └── workflows/
+│       └── security-audit.yml   # Automated security scanning
+│
+├── data_final/                  # Final output (ready for NotebookLM)
+│   ├── README.md               # Output documentation with historical context
+│   ├── bible_douay_rheims/     # 73 Bible books (.md files)
+│   ├── bible_commentary_haydock/ # Commentary files (.md files)
+│   └── catholic_catechism_trent/ # Catechism file (.md file)
 │
 └── data_engineering/            # All technical components
     ├── README.md                # Technical documentation
-    ├── config/                  # Configuration files
-    │   └── pipeline_config.yaml
-    ├── scripts/                 # Pipeline orchestration
-    │   └── run_pipeline.py
+    ├── config/
+    │   └── pipeline_config.yaml # Pipeline configuration
+    ├── scripts/
+    │   └── run_pipeline.py      # Main pipeline orchestrator
     ├── data_sources/            # Extraction scripts
+    │   ├── README.md           # Data sources overview
     │   ├── douay_rheims/
+    │   │   ├── extract_bible.py
+    │   │   └── README.md
     │   ├── haydock/
+    │   │   ├── extract_commentary.py
+    │   │   └── README.md
     │   └── catechism/
-    └── processed_data/          # Intermediate processed files
+    │       ├── extract_catechism.py
+    │       └── README.md
+    └── processed_data/         # Intermediate processed files
 ```
+
+## 📋 Complete File Listing
+
+### Root Level Files
+- `README.md` - Main project documentation
+- `LICENSE` - MIT License
+- `pyproject.toml` - Python project configuration and dependencies
+- `.gitignore` - Git ignore rules
+
+### Configuration & Rules
+- `.cursor/rules/error-handling.mdc` - Error handling standards (applies to all `*.py`)
+- `.cursor/rules/data-engineering.mdc` - Data engineering standards (applies to `data_engineering/**/*.py`)
+- `.github/CODEOWNERS` - Code review assignments
+- `.github/workflows/security-audit.yml` - Security scanning workflow
+
+### Data Engineering Files
+- `data_engineering/README.md` - Technical documentation
+- `data_engineering/config/pipeline_config.yaml` - Pipeline configuration
+- `data_engineering/scripts/run_pipeline.py` - Main pipeline orchestrator
+- `data_engineering/data_sources/README.md` - Data sources overview
+- `data_engineering/data_sources/douay_rheims/extract_bible.py` - Bible extraction script
+- `data_engineering/data_sources/douay_rheims/README.md` - Bible extraction guide
+- `data_engineering/data_sources/haydock/extract_commentary.py` - Commentary extraction script
+- `data_engineering/data_sources/haydock/README.md` - Commentary extraction guide
+- `data_engineering/data_sources/catechism/extract_catechism.py` - Catechism extraction script
+- `data_engineering/data_sources/catechism/README.md` - Catechism extraction guide
+
+### Output Documentation
+- `data_final/README.md` - Final output documentation with historical context for all three sources
+
+### Generated Directories (not in version control)
+- `data_engineering/processed_data/` - Intermediate processed files
+- `data_final/bible_douay_rheims/` - Final Bible output (73 .md files)
+- `data_final/bible_commentary_haydock/` - Final commentary output (.md files)
+- `data_final/catholic_catechism_trent/` - Final catechism output (.md file)
+- `logs/` - Execution logs
 
 ## 🎓 Use Case: NotebookLM Integration
 
@@ -241,6 +296,8 @@ Edit `data_engineering/config/pipeline_config.yaml` to customize:
 For detailed technical information, see:
 - **[data_engineering/README.md](data_engineering/README.md)**: Complete technical documentation
 - **[data_engineering/data_sources/README.md](data_engineering/data_sources/README.md)**: Data sources overview
+- **[data_final/README.md](data_final/README.md)**: Final output documentation with historical context
+- **[FILES.md](FILES.md)**: Complete file listing and organization guide
 - Individual source READMEs in each `data_sources/{source}/` directory
 
 ## 🔍 Troubleshooting

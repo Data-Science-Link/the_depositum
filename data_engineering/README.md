@@ -17,11 +17,24 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 
 ### Data Sources
 - `data_sources/douay_rheims/` - Douay-Rheims Bible extraction from bible-api.com
+  - `extract_bible.py` - Main extraction script
+  - `README.md` - Extraction guide and documentation
 - `data_sources/haydock/` - Haydock Commentary extraction from EPUB
+  - `extract_commentary.py` - Main extraction script
+  - `README.md` - Extraction guide and documentation
 - `data_sources/catechism/` - Roman Catechism extraction from RTF
+  - `extract_catechism.py` - Main extraction script
+  - `README.md` - Extraction guide and documentation
+- `data_sources/README.md` - Overview of all data sources
+
+### Configuration
+- `config/pipeline_config.yaml` - Central pipeline configuration file
+
+### Scripts
+- `scripts/run_pipeline.py` - Main pipeline orchestrator with command-line interface
 
 ### Processed Data
-- `processed_data/` - Intermediate processed files before final formatting
+- `processed_data/` - Intermediate processed files before final formatting (generated, not version controlled)
 
 ## 🚀 Getting Started
 

@@ -76,11 +76,15 @@ python data_engineering/scripts/run_pipeline.py --source catechism
 
 ## Output Locations
 
-All extractors save to:
-- `data_engineering/processed_data/{source_name}/`
+All extractors save intermediate files to:
+- `data_engineering/processed_data/douay_rheims/` (Bible)
+- `data_engineering/processed_data/haydock/` (Commentary)
+- `data_engineering/processed_data/catechism/` (Catechism)
 
-Final output (after pipeline completion) is in:
-- `data_final/{source_name}/`
+Final output (after pipeline completion with `--copy-output`) is in:
+- `data_final/bible_douay_rheims/` (73 Bible books)
+- `data_final/bible_commentary_haydock/` (Commentary files)
+- `data_final/catholic_catechism_trent/` (Catechism file)
 
 ## Data Flow
 
