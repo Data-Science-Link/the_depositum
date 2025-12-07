@@ -1,0 +1,93 @@
+---
+description: Critical error handling rules - always let errors float to the top, never hide them
+globs: "*.py"
+alwaysApply: true
+---
+
+# Error Handling - CRITICAL RULE
+
+**ALWAYS let errors float to the top. DO NOT hide errors.**
+
+- **Never use bare `except:` clauses** - always specify exception types
+- **Never catch and silently ignore exceptions** - if you catch an exception, log it or re-raise it
+- **Avoid `except Exception as e: pass`** - this hides errors and makes debugging impossible
+- **Prefer explicit exception handling**: Catch specific exceptions, log them clearly, and re-raise if appropriate
+- **Let exceptions propagate**: If you can't handle an error meaningfully, let it bubble up to the caller
+- **Log before re-raising**: If you catch an exception to add context, log it and re-raise with `raise` (not `raise e` to preserve stack trace)
+
+## Good Error Handling Examples:
+
+```python
+# ✅ GOOD: Specific exception, logged, re-raised
+try:
+    response = requests.get(url, timeout=30)
+    response.raise_for_status()
+except requests.exceptions.RequestException as e:
+    logger.error(f"Failed to fetch {url}: {e}")
+    raise  # Re-raise to let caller know
+
+# ✅ GOOD: Specific exception, logged, returns None (if None is acceptable)
+try:
+    config = yaml.safe_load(f)
+except yaml.YAMLError as e:
+    logger.error(f"Invalid YAML in config file: {e}")
+    return None  # Only if None is a valid return value
+
+# ✅ GOOD: Let it propagate if you can't handle it
+def process_data(data):
+    # No try/except - let errors bubble up naturally
+    result = transform(data)
+    return result
+```
+
+## Bad Error Handling Examples:
+
+```python
+# ❌ BAD: Hides all errors
+try:
+    process_data()
+except:
+    pass
+
+# ❌ BAD: Catches too broadly and hides
+try:
+    process_data()
+except Exception:
+    pass
+
+# ❌ BAD: Logs but doesn't re-raise when it should
+try:
+    critical_operation()
+except Exception as e:
+    logger.error(e)
+    # Missing: raise or return error indicator
+```
+
+**Reference**: See discussion on why hiding errors is problematic: https://www.reddit.com/r/AskProgramming/comments/1mmddi0/both_ai_models_pointing_out_errors_in_code_but/
+
+## Pipeline Orchestration Exception Handling
+
+For pipeline orchestration scripts, you may catch exceptions to:
+1. Log the error with full context
+2. Continue processing other sources (if appropriate)
+3. Return a status indicator
+4. **BUT**: Always log the full exception with traceback
+
+```python
+# ✅ GOOD: Logs error, returns status, but doesn't hide the error
+def run_extraction():
+    try:
+        extract_data()
+        return True
+    except Exception as e:
+        logger.error(f"Extraction failed: {e}", exc_info=True)  # Include traceback
+        return False  # Status for orchestration
+
+# ❌ BAD: Hides the error
+def run_extraction():
+    try:
+        extract_data()
+        return True
+    except Exception:
+        return False  # No logging, error is lost
+```

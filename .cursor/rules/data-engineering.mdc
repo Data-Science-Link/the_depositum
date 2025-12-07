@@ -1,0 +1,304 @@
+---
+description: Complete data engineering standards including extraction scripts, pipeline orchestration, and best practices
+globs: "data_engineering/**/*.py"
+alwaysApply: true
+---
+
+# Data Engineering Pipeline Standards
+
+## Python Code Standards
+
+### Code Style
+- Follow PEP 8 style guide
+- Use type hints for function parameters and return values
+- Use descriptive variable and function names
+- Keep functions focused and single-purpose
+- Maximum line length: 100 characters (soft limit)
+
+### Imports
+- Group imports: standard library, third-party, local
+- Use absolute imports for project modules
+- Import only what you need
+
+### Logging
+- Use the `logging` module, not `print()` statements
+- Set appropriate log levels: DEBUG, INFO, WARNING, ERROR, CRITICAL
+- Include context in log messages (file paths, IDs, etc.)
+- Use structured logging when possible
+
+### Configuration
+- Load configuration from `data_engineering/config/pipeline_config.yaml`
+- Provide sensible defaults if config loading fails
+- Validate configuration values before use
+- Document configuration options
+
+## Data Engineering Best Practices
+
+### Data Extraction
+- Always validate API responses before processing
+- Implement rate limiting for API calls
+- Handle network timeouts explicitly
+- Verify data structure matches expectations
+- Check for empty or missing data
+
+### File Operations
+- Use `pathlib.Path` for file paths (not `os.path`)
+- Always specify encoding explicitly: `encoding='utf-8'`
+- Use context managers (`with` statements) for file operations
+- Create directories with `mkdir(parents=True, exist_ok=True)`
+- Verify file existence before reading
+
+### Data Processing
+- Validate input data before processing
+- Use type hints to document expected data structures
+- Handle edge cases explicitly (empty lists, None values, etc.)
+- Preserve original data when possible (don't mutate inputs)
+- Return structured data (dicts, dataclasses) rather than tuples
+
+### Error Recovery
+- Implement retry logic for transient failures (network, API)
+- Use exponential backoff for retries
+- Set maximum retry attempts
+- Log retry attempts
+- Fail fast for non-recoverable errors
+
+## Project Structure
+
+### Directory Organization
+- `data_sources/` - Extraction scripts for each source
+- `scripts/` - Pipeline orchestration
+- `config/` - Configuration files
+- `processed_data/` - Intermediate processed files
+
+### File Naming
+- Extraction scripts: `extract_{source}.py`
+- Use snake_case for Python files
+- Keep file names descriptive and consistent
+
+### Module Organization
+- One main function per script: `main()`
+- Separate functions for distinct operations
+- Use functions, not just scripts
+- Document public functions with docstrings
+
+## Dependencies
+
+### Package Management
+- Use `uv` for package management (not pip)
+- Dependencies defined in `pyproject.toml` at project root
+- Install with: `uv pip install -e ..` (from data_engineering directory)
+- Dev dependencies: `uv pip install -e "..[dev]"`
+
+### External Libraries
+- `requests` - HTTP requests
+- `beautifulsoup4` - HTML parsing
+- `ebooklib` - EPUB processing
+- `striprtf` - RTF processing
+- `pyyaml` - YAML configuration
+- `pandas` - Data processing (if needed)
+
+## Extraction Script Standards
+
+### Structure
+- Each extraction script should have a `main()` function
+- Use logging for all output (not print statements)
+- Load configuration from `data_engineering/config/pipeline_config.yaml`
+- Provide sensible defaults if config fails
+- Return success/failure status from main()
+
+### API Calls
+- Always set timeouts: `requests.get(url, timeout=30)`
+- Use `response.raise_for_status()` to catch HTTP errors
+- Implement rate limiting between requests
+- Handle specific request exceptions (Timeout, ConnectionError, etc.)
+
+### File Operations
+- Use `pathlib.Path` for all file paths
+- Always specify encoding: `encoding='utf-8'`
+- Use context managers: `with open(...) as f:`
+- Create output directories: `Path.mkdir(parents=True, exist_ok=True)`
+- Verify file existence before reading
+
+### Data Validation
+- Validate API response structure before processing
+- Check for required fields in data
+- Handle missing or None values explicitly
+- Verify data types match expectations
+
+### Error Messages
+- Include context in error messages (URLs, file paths, IDs)
+- Use structured logging with appropriate levels
+- Don't log sensitive information (API keys, passwords)
+
+## Source-Specific Guidelines
+
+### Bible Extraction (douay_rheims)
+- Fetch book list first, then iterate through books
+- Handle API rate limits with delays
+- Validate book count matches expected (73 books)
+- Check for missing chapters or verses
+
+### Commentary Extraction (haydock)
+- Verify EPUB file exists before processing
+- Handle EPUB parsing errors explicitly
+- Validate HTML structure before extracting
+- Handle missing or malformed commentary sections
+
+### Catechism Extraction (catechism)
+- Verify RTF file exists before processing
+- Handle encoding errors (try utf-8, fallback to latin-1)
+- Validate RTF parsing results
+- Check for proper header detection
+
+## Output Format
+
+### Markdown Files
+- Include YAML frontmatter with metadata
+- Use consistent heading hierarchy (# for book, ## for chapter)
+- Format verses as: `**verse_number** verse_text`
+- Use horizontal rules (`---`) between chapters
+- Ensure UTF-8 encoding
+
+### File Naming
+- Use safe filenames (no special characters)
+- Replace spaces with underscores if needed
+- Keep original names when possible
+- Use `.md` extension
+
+## Pipeline Script Standards
+
+### Main Function
+- Use `argparse` for command-line arguments
+- Return exit codes: `0` for success, non-zero for failure
+- Use `sys.exit(main())` pattern
+- Document all command-line options
+
+### Error Handling Strategy
+- **Extraction functions**: Should raise exceptions (don't catch internally)
+- **Orchestration functions**: May catch to log and continue, but must log fully with `exc_info=True`
+- **Validation functions**: Should raise on validation failures
+- **File operations**: Let exceptions propagate (file not found, permission errors, etc.)
+
+### Pipeline Flow
+
+#### Execution Order
+1. Load configuration
+2. Validate prerequisites (source files, directories)
+3. Run extractions (each may fail independently)
+4. Validate outputs
+5. Copy to final output (if requested)
+6. Report summary
+
+#### Error Recovery
+- Continue processing other sources if one fails
+- Log all failures clearly with full traceback
+- Don't proceed to next step if prerequisites fail
+- Return non-zero exit code if any critical step fails
+
+#### Output Management
+- Verify source directories exist before copying
+- Create destination directories if needed
+- Preserve file metadata when copying
+- Report what was copied
+
+### Status Reporting
+- Report success/failure for each source
+- Provide summary at end of pipeline
+- Include counts and statistics in logs
+- Return appropriate exit codes
+
+## Testing
+
+### Test Structure
+- Write tests for extraction functions
+- Test error handling paths
+- Test with mock data when possible
+- Verify output format and structure
+
+### Running Tests
+- Use pytest: `pytest tests/`
+- Run from project root
+- Ensure virtual environment is activated
+
+### Manual Testing
+- Test individual extraction functions
+- Test full pipeline with `--source` flags
+- Test validation with `--validate` flag
+- Test error scenarios (missing files, network failures)
+
+### Integration Testing
+- Test pipeline end-to-end
+- Verify all outputs are created
+- Check file formats and structure
+- Validate data completeness
+
+## Documentation
+
+### Code Documentation
+- Include module docstrings at top of files
+- Document all public functions with docstrings
+- Use Google-style docstrings
+- Include usage examples in docstrings when helpful
+
+### README Files
+- Each data source should have a README.md
+- Document prerequisites and setup
+- Include usage examples
+- Note any known issues or limitations
+
+## Security
+
+### Best Practices
+- Never commit API keys or secrets
+- Use environment variables for sensitive data
+- Validate and sanitize user inputs
+- Use parameterized queries/requests
+- Follow principle of least privilege
+
+### Security Scanning
+- Code is scanned with Bandit on every push
+- Dependencies are scanned with pip-audit
+- Fix security issues before merging
+
+## Performance
+
+### Optimization
+- Use generators for large datasets
+- Implement caching where appropriate
+- Batch operations when possible
+- Profile before optimizing
+
+### Resource Management
+- Close file handles explicitly
+- Use context managers for resources
+- Clean up temporary files
+- Monitor memory usage for large operations
+
+## Git Workflow
+
+### Commits
+- Write clear, descriptive commit messages
+- Reference issues/PRs when applicable
+- Keep commits focused and atomic
+
+### Code Review
+- All changes require review (see CODEOWNERS)
+- Ensure tests pass before requesting review
+- Address security scan findings before merging
+
+## Example Patterns
+
+### Extraction Script Pattern
+
+```python
+def fetch_data(url: str) -> Optional[Dict]:
+    """Fetch data from API."""
+    try:
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        return response.json()
+    except requests.exceptions.RequestException as e:
+        logger.error(f"Failed to fetch {url}: {e}")
+        raise  # Let caller handle it
+    # Don't catch generic Exception - let other errors propagate
+```
