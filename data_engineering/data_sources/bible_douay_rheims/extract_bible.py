@@ -12,21 +12,38 @@ Usage:
     python extract_bible.py
 """
 
-import requests
-import json
-import os
+import sys
 import time
 import logging
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 import yaml
+import requests
 
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
+# Set up logging to both console and file
+LOG_DIR = Path(__file__).parent.parent.parent.parent / "data_engineering" / "logs"
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+LOG_FILE = LOG_DIR / "bible_extraction.log"
+
+# Configure logger
 logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+logger.handlers.clear()  # Prevent duplicate handlers if script is imported
+
+# Create formatter (shared between handlers)
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+
+# File handler
+file_handler = logging.FileHandler(LOG_FILE, encoding='utf-8')
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+
+# Console handler
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+logger.addHandler(console_handler)
 
 # Load configuration
 CONFIG_PATH = Path(__file__).parent.parent.parent / "config" / "pipeline_config.yaml"
@@ -36,11 +53,16 @@ try:
     API_BASE = config['api']['bible']['base_url']
     RATE_LIMIT_DELAY = config['api']['bible'].get('rate_limit_delay', 2.0)  # Default to 2 seconds for safety
     OUTPUT_DIR = Path(config['paths']['final_output']['douay_rheims'])
-except Exception as e:
+except (FileNotFoundError, yaml.YAMLError, KeyError) as e:
     logger.warning(f"Could not load config, using defaults: {e}")
     API_BASE = "https://bible-api.com/data/dra"
     RATE_LIMIT_DELAY = 0.5
     OUTPUT_DIR = Path(__file__).parent.parent.parent.parent / "data_final" / "bible_douay_rheims"
+
+# Constants
+REQUEST_TIMEOUT = 30
+MAX_RETRIES = 5
+INITIAL_RETRY_WAIT = 5  # seconds
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -53,18 +75,18 @@ def fetch_book_list() -> List[Dict[str, Any]]:
     """
     logger.info(f"Fetching book list from {API_BASE}...")
     try:
-        response = requests.get(API_BASE, timeout=30)
+        response = requests.get(API_BASE, timeout=REQUEST_TIMEOUT)
         response.raise_for_status()
         data = response.json()
         books = data.get('books', [])
         logger.info(f"Found {len(books)} books")
         return books
-    except Exception as e:
+    except requests.exceptions.RequestException as e:
         logger.error(f"Error fetching book list: {e}")
         return []
 
 
-def fetch_book_info(book_id: str, max_retries: int = 5) -> Optional[Dict[str, Any]]:
+def fetch_book_info(book_id: str, max_retries: int = MAX_RETRIES) -> Optional[Dict[str, Any]]:
     """Fetches book information and chapter list for a specific book with retry logic.
 
     Args:
@@ -79,11 +101,11 @@ def fetch_book_info(book_id: str, max_retries: int = 5) -> Optional[Dict[str, An
 
     for attempt in range(max_retries):
         try:
-            response = requests.get(url, timeout=30)
+            response = requests.get(url, timeout=REQUEST_TIMEOUT)
 
-            # Handle rate limiting with exponential backoff (longer waits)
+            # Handle rate limiting with exponential backoff
             if response.status_code == 429:
-                wait_time = 5 * (2 ** attempt)  # Start with 5 seconds, then 10, 20, 40, 80
+                wait_time = INITIAL_RETRY_WAIT * (2 ** attempt)
                 if attempt < max_retries - 1:
                     logger.warning(f"Rate limited on book {book_id}, waiting {wait_time}s before retry (attempt {attempt + 1}/{max_retries})...")
                     time.sleep(wait_time)
@@ -105,7 +127,7 @@ def fetch_book_info(book_id: str, max_retries: int = 5) -> Optional[Dict[str, An
             }
         except requests.exceptions.RequestException as e:
             if attempt < max_retries - 1:
-                wait_time = 5 * (2 ** attempt)
+                wait_time = INITIAL_RETRY_WAIT * (2 ** attempt)
                 logger.warning(f"Request failed for book {book_id}, retrying in {wait_time}s...")
                 time.sleep(wait_time)
             else:
@@ -115,7 +137,7 @@ def fetch_book_info(book_id: str, max_retries: int = 5) -> Optional[Dict[str, An
     return None
 
 
-def fetch_chapter_verses(book_id: str, chapter_num: int, max_retries: int = 5) -> Optional[List[Dict[str, Any]]]:
+def fetch_chapter_verses(book_id: str, chapter_num: int, max_retries: int = MAX_RETRIES) -> Optional[List[Dict[str, Any]]]:
     """Fetches verses for a specific chapter with aggressive retry logic for rate limiting.
 
     Args:
@@ -130,12 +152,11 @@ def fetch_chapter_verses(book_id: str, chapter_num: int, max_retries: int = 5) -
 
     for attempt in range(max_retries):
         try:
-            response = requests.get(url, timeout=30)
+            response = requests.get(url, timeout=REQUEST_TIMEOUT)
 
-            # Handle rate limiting with exponential backoff (longer waits)
+            # Handle rate limiting with exponential backoff
             if response.status_code == 429:
-                # Start with 5 seconds, then 10, 20, 40, 80 seconds
-                wait_time = 5 * (2 ** attempt)
+                wait_time = INITIAL_RETRY_WAIT * (2 ** attempt)
                 if attempt < max_retries - 1:
                     logger.warning(f"Rate limited on chapter {chapter_num}, waiting {wait_time}s before retry (attempt {attempt + 1}/{max_retries})...")
                     time.sleep(wait_time)
@@ -157,7 +178,7 @@ def fetch_chapter_verses(book_id: str, chapter_num: int, max_retries: int = 5) -
                 return None
         except requests.exceptions.RequestException as e:
             if attempt < max_retries - 1:
-                wait_time = 5 * (2 ** attempt)
+                wait_time = INITIAL_RETRY_WAIT * (2 ** attempt)
                 logger.warning(f"Request failed for chapter {chapter_num}, retrying in {wait_time}s...")
                 time.sleep(wait_time)
             else:
@@ -204,7 +225,6 @@ def generate_markdown(book_name: str, book_id: str, book_number: int, chapters: 
             # Process each chapter with validation
             total_chapters = len(chapters)
             successful_chapters = 0
-            failed_chapters = []
 
             for chapter_info in chapters:
                 chapter_num = chapter_info.get('chapter')
@@ -218,46 +238,52 @@ def generate_markdown(book_name: str, book_id: str, book_number: int, chapters: 
 
                 if not verses:
                     logger.error(f"  ❌ FAILED to fetch {book_name} chapter {chapter_num} after all retries")
-                    failed_chapters.append(chapter_num)
-                    continue
+                    logger.error(f"❌ CRITICAL: Cannot proceed without all chapters. Exiting.")
+                    sys.exit(1)
 
                 f.write(f"## Chapter {chapter_num}\n\n")
 
-                # Write verses
+                # Write verses in continuous flow (no paragraph breaks)
                 for verse in verses:
                     verse_num = verse.get('verse')
                     text = verse.get('text', '').strip()
 
-                    if verse_num and text:
-                        # Format: **1** In the beginning...
-                        f.write(f"**{verse_num}** {text}  \n")
+                    if not verse_num or not text:
+                        logger.error(f"❌ CRITICAL: Missing verse data in {book_name} chapter {chapter_num}")
+                        logger.error(f"   Verse data: {verse}")
+                        logger.error(f"❌ Cannot proceed without all verses. Exiting.")
+                        sys.exit(1)
+
+                    # Format: **1** In the beginning...
+                    f.write(f"**{verse_num}** {text}  \n")
 
                 # Horizontal rule between chapters
                 f.write("\n---\n\n")
 
                 successful_chapters += 1
 
-                # Rate limiting delay between chapters (increased significantly)
+                # Rate limiting delay between chapters
                 time.sleep(RATE_LIMIT_DELAY)
 
-            # Validate that we got all chapters
-            if failed_chapters:
-                logger.error(f"❌ MISSING CHAPTERS in {book_name}: {failed_chapters}")
-                logger.error(f"   Only got {successful_chapters}/{total_chapters} chapters")
-                return False
-            elif successful_chapters < total_chapters:
+            # Validate that we got all chapters (should never reach here if we exit on failure)
+            if successful_chapters < total_chapters:
                 logger.error(f"❌ INCOMPLETE: Only got {successful_chapters}/{total_chapters} chapters for {book_name}")
-                return False
-            else:
-                logger.info(f"✅ Saved: {book_name} ({successful_chapters} chapters, all complete)")
-                return True
-    except Exception as e:
-        logger.error(f"Error writing {book_name}: {e}")
+                logger.error(f"❌ CRITICAL: Cannot proceed without all chapters. Exiting.")
+                sys.exit(1)
+
+            logger.info(f"✅ Saved: {book_name} ({successful_chapters} chapters, all complete)")
+            return True
+    except (IOError, OSError) as e:
+        logger.error(f"Error writing {book_name}: {e}", exc_info=True)
         return False
 
 
-def main():
-    """Main extraction function."""
+def main() -> int:
+    """Main extraction function.
+
+    Returns:
+        Exit code: 0 for success, 1 for failure
+    """
     logger.info("Starting Douay-Rheims Bible extraction...")
 
     # Create output directory
@@ -269,14 +295,16 @@ def main():
 
     if not books:
         logger.error("Could not retrieve book list. Aborting.")
-        return
+        return 1
 
     logger.info(f"Found {len(books)} books. Starting download...")
     logger.info(f"⚠️  Using {RATE_LIMIT_DELAY}s delay between requests to avoid rate limits")
+    logger.info(f"📝 Logging to: {LOG_FILE}")
+
 
     # Step 2: Loop through each book and process
+    # Note: Script exits immediately if any book/chapter/verse fails
     success_count = 0
-    failed_books = []
     for idx, book in enumerate(books, start=1):
         book_id = book.get('id')
         book_name_from_list = book.get('name')
@@ -292,15 +320,14 @@ def main():
 
         if not book_info:
             logger.error(f"❌ Failed to fetch book info for {book_id} after all retries")
-            failed_books.append(book_name_from_list)
-            # Wait before trying next book
-            time.sleep(RATE_LIMIT_DELAY * 2)
-            continue
+            logger.error(f"❌ CRITICAL: Cannot proceed without book info. Exiting.")
+            sys.exit(1)
 
         # Rate limiting delay after fetching book info
         time.sleep(RATE_LIMIT_DELAY)
 
         # Generate markdown (this will fetch chapters individually)
+        # Note: generate_markdown will exit if any chapter/verse fails
         if generate_markdown(
             book_name=book_info['name'],
             book_id=book_id,
@@ -310,25 +337,23 @@ def main():
         ):
             success_count += 1
         else:
-            failed_books.append(book_name_from_list)
+            # Should never reach here since we exit on failure, but keep for safety
             logger.error(f"❌ Book {book_name_from_list} failed - missing chapters!")
+            sys.exit(1)
 
         # Polite delay to respect API rate limits between books
         time.sleep(RATE_LIMIT_DELAY * 2)  # Longer delay between books
 
-    # Final summary
+    # Final summary (only reached if all books succeed)
     logger.info(f"\n{'='*60}")
     logger.info(f"📊 EXTRACTION SUMMARY")
     logger.info(f"{'='*60}")
     logger.info(f"✅ Successfully processed: {success_count}/{len(books)} books")
-    if failed_books:
-        logger.error(f"❌ Failed books: {', '.join(failed_books)}")
-        logger.error(f"⚠️  Some books are incomplete! Please review and retry.")
-    else:
-        logger.info(f"🎉 All books completed successfully!")
+    logger.info(f"🎉 All books completed successfully!")
     logger.info(f"Files saved in '{OUTPUT_DIR}/'")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
 
