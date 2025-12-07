@@ -2,34 +2,34 @@
 # This file defines who should review changes to different parts of the codebase
 
 # Global owners - these people will be requested for review on any change
-* @michaellink
+* @Data-Science-Link
 
 # Data Engineering Components
 # These require technical review for data quality and pipeline integrity
-/data_engineering/ @michaellink
-/data_engineering/data_sources/ @michaellink
-/data_engineering/scripts/ @michaellink
-/data_engineering/config/ @michaellink
+/data_engineering/ @Data-Science-Link
+/data_engineering/data_sources/ @Data-Science-Link
+/data_engineering/scripts/ @Data-Science-Link
+/data_engineering/config/ @Data-Science-Link
 
 # Critical Configuration Files
 # Changes to these files require careful review
-pyproject.toml @michaellink
-.github/workflows/ @michaellink
+pyproject.toml @Data-Science-Link
+.github/workflows/ @Data-Science-Link
 
 # Documentation
 # Documentation changes are important for public repositories
-README.md @michaellink
-*.md @michaellink
+README.md @Data-Science-Link
+*.md @Data-Science-Link
 
 # Security and Compliance
 # Security-related files need careful review
-.gitignore @michaellink
-.github/CODEOWNERS @michaellink
+.gitignore @Data-Science-Link
+.github/CODEOWNERS @Data-Science-Link
 
 # Final Data Output
 # Changes to processed data need review for accuracy
-/data_final/ @michaellink
+/data_final/ @Data-Science-Link
 
 # License
-LICENSE @michaellink
+LICENSE @Data-Science-Link
 
