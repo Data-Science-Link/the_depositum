@@ -66,6 +66,27 @@ INITIAL_RETRY_WAIT = 5  # seconds
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+# Deuterocanonical books missing from bible-api.com
+# These are the 7 books that should be in the Catholic canon but are not returned by the API
+DEUTEROCANONICAL_BOOKS = [
+    {'id': 'TOB', 'name': 'Tobit', 'position': 17},  # After Esther
+    {'id': 'JDT', 'name': 'Judith', 'position': 18},  # After Tobit
+    {'id': 'WIS', 'name': 'Wisdom', 'position': 23},  # After Song of Solomon
+    {'id': 'SIR', 'name': 'Sirach', 'position': 24},  # After Wisdom (also called Ecclesiasticus)
+    {'id': 'BAR', 'name': 'Baruch', 'position': 26},  # After Lamentations
+    {'id': '1MA', 'name': '1 Maccabees', 'position': 40},  # After Malachi
+    {'id': '2MA', 'name': '2 Maccabees', 'position': 41},  # After 1 Maccabees
+]
+
+
+def get_deuterocanonical_books() -> List[Dict[str, Any]]:
+    """Returns the list of deuterocanonical books that should be included in the Catholic canon.
+
+    Returns:
+        List of book dictionaries with 'id', 'name', and 'position' keys
+    """
+    return DEUTEROCANONICAL_BOOKS.copy()
+
 
 def fetch_book_list() -> List[Dict[str, Any]]:
     """Fetches the list of books officially supported by the API for this translation.
@@ -290,14 +311,68 @@ def main() -> int:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     logger.info(f"Output directory: {OUTPUT_DIR}")
 
-    # Step 1: Get the list of books
+    # Step 1: Get the list of books from API
     books = fetch_book_list()
 
     if not books:
         logger.error("Could not retrieve book list. Aborting.")
         return 1
 
-    logger.info(f"Found {len(books)} books. Starting download...")
+    logger.info(f"Found {len(books)} books from API")
+
+    # Step 1.5: Check for missing deuterocanonical books and try to fetch them
+    api_book_ids = {book.get('id') for book in books}
+    deuterocanonical_books = get_deuterocanonical_books()
+    missing_books = [book for book in deuterocanonical_books if book['id'] not in api_book_ids]
+    unavailable_books = []  # Books that are not available from the API
+
+    if missing_books:
+        logger.warning(f"⚠️  API is missing {len(missing_books)} deuterocanonical books: {', '.join(b['name'] for b in missing_books)}")
+        logger.info(f"Attempting to fetch missing books directly from API...")
+
+        for missing_book in missing_books:
+            book_id = missing_book['id']
+            logger.info(f"  Trying to fetch {missing_book['name']} ({book_id})...")
+
+            # Try to fetch the book info directly
+            book_info = fetch_book_info(book_id)
+
+            if book_info:
+                logger.info(f"  ✅ Successfully found {missing_book['name']} in API (not in book list)")
+                # Add it to the books list with a placeholder entry
+                books.append({
+                    'id': book_id,
+                    'name': book_info['name'],
+                    'is_deuterocanonical': True,
+                    'position': missing_book['position']
+                })
+            else:
+                logger.warning(f"  ❌ {missing_book['name']} ({book_id}) is not available in the API")
+                logger.warning(f"     This book must be obtained from an alternative source")
+                unavailable_books.append(missing_book)
+
+            time.sleep(RATE_LIMIT_DELAY)
+
+    # Validate book count
+    total_books = len(books)
+    expected_books = 73
+
+    if total_books < expected_books:
+        logger.error(f"❌ CRITICAL: Only {total_books} books found, but Catholic Douay-Rheims should have {expected_books} books")
+        logger.error(f"   Missing {expected_books - total_books} books from the Catholic canon")
+        if unavailable_books:
+            logger.error(f"   The following deuterocanonical books are not available from the API:")
+            for book in unavailable_books:
+                logger.error(f"     - {book['name']} ({book['id']})")
+        logger.error(f"   These books are not available from bible-api.com and must be obtained from an alternative source")
+        logger.error(f"   See README.md for information on alternative sources")
+        logger.error(f"   Continuing with available books, but extraction is incomplete...")
+    elif total_books > expected_books:
+        logger.warning(f"⚠️  Found {total_books} books, expected {expected_books} for Catholic canon")
+    else:
+        logger.info(f"✅ Found all {expected_books} books for Catholic canon")
+
+    logger.info(f"Starting download of {total_books} books...")
     logger.info(f"⚠️  Using {RATE_LIMIT_DELAY}s delay between requests to avoid rate limits")
     logger.info(f"📝 Logging to: {LOG_FILE}")
 
@@ -344,14 +419,23 @@ def main() -> int:
         # Polite delay to respect API rate limits between books
         time.sleep(RATE_LIMIT_DELAY * 2)  # Longer delay between books
 
-    # Final summary (only reached if all books succeed)
+    # Final summary
     logger.info(f"\n{'='*60}")
     logger.info(f"📊 EXTRACTION SUMMARY")
     logger.info(f"{'='*60}")
     logger.info(f"✅ Successfully processed: {success_count}/{len(books)} books")
-    logger.info(f"🎉 All books completed successfully!")
-    logger.info(f"Files saved in '{OUTPUT_DIR}/'")
-    return 0
+
+    if total_books < expected_books:
+        logger.error(f"❌ INCOMPLETE: Only {total_books}/{expected_books} books extracted")
+        logger.error(f"   Missing {expected_books - total_books} deuterocanonical books from Catholic canon")
+        logger.error(f"   The bible-api.com service only provides 66 books (Protestant canon)")
+        logger.error(f"   To get the complete 73-book Catholic canon, you need to obtain the missing books from an alternative source")
+        logger.info(f"Files saved in '{OUTPUT_DIR}/'")
+        return 1
+    else:
+        logger.info(f"🎉 All {expected_books} books completed successfully!")
+        logger.info(f"Files saved in '{OUTPUT_DIR}/'")
+        return 0
 
 
 if __name__ == "__main__":
