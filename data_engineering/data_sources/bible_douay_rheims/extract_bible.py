@@ -34,13 +34,13 @@ try:
     with open(CONFIG_PATH, 'r') as f:
         config = yaml.safe_load(f)
     API_BASE = config['api']['bible']['base_url']
-    RATE_LIMIT_DELAY = config['api']['bible']['rate_limit_delay']
-    OUTPUT_DIR = Path(config['paths']['processed_data']['douay_rheims'])
+    RATE_LIMIT_DELAY = config['api']['bible'].get('rate_limit_delay', 2.0)  # Default to 2 seconds for safety
+    OUTPUT_DIR = Path(config['paths']['final_output']['douay_rheims'])
 except Exception as e:
     logger.warning(f"Could not load config, using defaults: {e}")
     API_BASE = "https://bible-api.com/data/dra"
     RATE_LIMIT_DELAY = 0.5
-    OUTPUT_DIR = Path(__file__).parent.parent.parent / "processed_data" / "bible_douay_rheims"
+    OUTPUT_DIR = Path(__file__).parent.parent.parent.parent / "data_final" / "bible_douay_rheims"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -64,47 +64,130 @@ def fetch_book_list() -> List[Dict[str, Any]]:
         return []
 
 
-def fetch_book_content(book_id: str) -> Optional[Dict[str, Any]]:
-    """Fetches the full text of a specific book by its ID.
+def fetch_book_info(book_id: str, max_retries: int = 5) -> Optional[Dict[str, Any]]:
+    """Fetches book information and chapter list for a specific book with retry logic.
 
     Args:
-        book_id: The book identifier (e.g., 'genesis', 'exodus')
+        book_id: The book identifier (e.g., 'GEN', 'EXO')
+        max_retries: Maximum number of retry attempts
 
     Returns:
-        Book data dictionary or None if fetch failed
+        Dictionary with 'name' and 'chapters' keys, or None if fetch failed
     """
     url = f"{API_BASE}/{book_id}"
-    logger.info(f"Downloading {book_id}...")
-    try:
-        response = requests.get(url, timeout=30)
-        response.raise_for_status()
-        return response.json()
-    except Exception as e:
-        logger.error(f"Failed to download {book_id}: {e}")
-        return None
+    logger.info(f"Fetching book info for {book_id}...")
+
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, timeout=30)
+
+            # Handle rate limiting with exponential backoff (longer waits)
+            if response.status_code == 429:
+                wait_time = 5 * (2 ** attempt)  # Start with 5 seconds, then 10, 20, 40, 80
+                if attempt < max_retries - 1:
+                    logger.warning(f"Rate limited on book {book_id}, waiting {wait_time}s before retry (attempt {attempt + 1}/{max_retries})...")
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    logger.error(f"Rate limited on book {book_id} after {max_retries} attempts")
+                    return None
+
+            response.raise_for_status()
+            data = response.json()
+
+            # Extract book name from first chapter (all chapters have same book name)
+            chapters = data.get('chapters', [])
+            book_name = chapters[0].get('book', 'Unknown') if chapters else 'Unknown'
+
+            return {
+                'name': book_name,
+                'chapters': chapters
+            }
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1:
+                wait_time = 5 * (2 ** attempt)
+                logger.warning(f"Request failed for book {book_id}, retrying in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                logger.error(f"Failed to fetch book info for {book_id} after {max_retries} attempts: {e}")
+                return None
+
+    return None
 
 
-def generate_markdown(book_data: Dict[str, Any], output_folder: Path) -> bool:
-    """Converts a single book's JSON data into Markdown.
+def fetch_chapter_verses(book_id: str, chapter_num: int, max_retries: int = 5) -> Optional[List[Dict[str, Any]]]:
+    """Fetches verses for a specific chapter with aggressive retry logic for rate limiting.
 
     Args:
-        book_data: Dictionary containing book name and chapters
+        book_id: The book identifier (e.g., 'GEN', 'EXO')
+        chapter_num: The chapter number
+        max_retries: Maximum number of retry attempts
+
+    Returns:
+        List of verse dictionaries, or None if fetch failed
+    """
+    url = f"{API_BASE}/{book_id}/{chapter_num}"
+
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, timeout=30)
+
+            # Handle rate limiting with exponential backoff (longer waits)
+            if response.status_code == 429:
+                # Start with 5 seconds, then 10, 20, 40, 80 seconds
+                wait_time = 5 * (2 ** attempt)
+                if attempt < max_retries - 1:
+                    logger.warning(f"Rate limited on chapter {chapter_num}, waiting {wait_time}s before retry (attempt {attempt + 1}/{max_retries})...")
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    logger.error(f"Rate limited on chapter {chapter_num} after {max_retries} attempts")
+                    return None
+
+            response.raise_for_status()
+            data = response.json()
+            verses = data.get('verses', [])
+            if verses:
+                return verses
+            else:
+                logger.warning(f"No verses returned for chapter {chapter_num}, retrying...")
+                if attempt < max_retries - 1:
+                    time.sleep(RATE_LIMIT_DELAY * 2)
+                    continue
+                return None
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1:
+                wait_time = 5 * (2 ** attempt)
+                logger.warning(f"Request failed for chapter {chapter_num}, retrying in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                logger.error(f"Failed to fetch chapter {chapter_num} for {book_id} after {max_retries} attempts: {e}")
+                return None
+
+    return None
+
+
+def generate_markdown(book_name: str, book_id: str, book_number: int, chapters: List[Dict[str, Any]], output_folder: Path) -> bool:
+    """Converts a book's data into Markdown by fetching verses for each chapter.
+
+    Args:
+        book_name: The name of the book (e.g., 'Genesis')
+        book_id: The book identifier (e.g., 'GEN')
+        book_number: The sequential number of the book (1, 2, 3, etc.)
+        chapters: List of chapter dictionaries with chapter numbers
         output_folder: Directory to save the Markdown file
 
     Returns:
         True if successful, False otherwise
     """
-    book_name = book_data.get('name', 'Unknown')
-    chapters = book_data.get('chapters', [])
-
     if not book_name or not chapters:
         logger.warning(f"Invalid book data for {book_name}")
         return False
 
-    # Clean filename (removes spaces and special chars for safer file handling)
+    # Clean filename with book number prefix (e.g., "1_Genesis.md")
     safe_filename = "".join(c for c in book_name if c.isalnum() or c in (' ', '-', '_')).strip()
     safe_filename = safe_filename.replace(' ', '_')
-    filename = f"{safe_filename}.md"
+    filename = f"{book_number}_{safe_filename}.md"
     filepath = output_folder / filename
 
     try:
@@ -118,15 +201,29 @@ def generate_markdown(book_data: Dict[str, Any], output_folder: Path) -> bool:
             # Book title
             f.write(f"# {book_name}\n\n")
 
-            # Process chapters
-            for chapter in chapters:
-                chapter_num = chapter.get('chapter')
+            # Process each chapter with validation
+            total_chapters = len(chapters)
+            successful_chapters = 0
+            failed_chapters = []
+
+            for chapter_info in chapters:
+                chapter_num = chapter_info.get('chapter')
                 if chapter_num is None:
+                    continue
+
+                logger.info(f"  Fetching chapter {chapter_num} ({successful_chapters + 1}/{total_chapters})...")
+
+                # Fetch verses for this chapter with retries
+                verses = fetch_chapter_verses(book_id, chapter_num)
+
+                if not verses:
+                    logger.error(f"  ❌ FAILED to fetch {book_name} chapter {chapter_num} after all retries")
+                    failed_chapters.append(chapter_num)
                     continue
 
                 f.write(f"## Chapter {chapter_num}\n\n")
 
-                verses = chapter.get('verses', [])
+                # Write verses
                 for verse in verses:
                     verse_num = verse.get('verse')
                     text = verse.get('text', '').strip()
@@ -138,8 +235,22 @@ def generate_markdown(book_data: Dict[str, Any], output_folder: Path) -> bool:
                 # Horizontal rule between chapters
                 f.write("\n---\n\n")
 
-        logger.info(f"Saved: {book_name}")
-        return True
+                successful_chapters += 1
+
+                # Rate limiting delay between chapters (increased significantly)
+                time.sleep(RATE_LIMIT_DELAY)
+
+            # Validate that we got all chapters
+            if failed_chapters:
+                logger.error(f"❌ MISSING CHAPTERS in {book_name}: {failed_chapters}")
+                logger.error(f"   Only got {successful_chapters}/{total_chapters} chapters")
+                return False
+            elif successful_chapters < total_chapters:
+                logger.error(f"❌ INCOMPLETE: Only got {successful_chapters}/{total_chapters} chapters for {book_name}")
+                return False
+            else:
+                logger.info(f"✅ Saved: {book_name} ({successful_chapters} chapters, all complete)")
+                return True
     except Exception as e:
         logger.error(f"Error writing {book_name}: {e}")
         return False
@@ -161,28 +272,60 @@ def main():
         return
 
     logger.info(f"Found {len(books)} books. Starting download...")
+    logger.info(f"⚠️  Using {RATE_LIMIT_DELAY}s delay between requests to avoid rate limits")
 
     # Step 2: Loop through each book and process
     success_count = 0
-    for book in books:
+    failed_books = []
+    for idx, book in enumerate(books, start=1):
         book_id = book.get('id')
-        book_name = book.get('name')
+        book_name_from_list = book.get('name')
 
         if not book_id:
-            logger.warning(f"Skipping book with no ID: {book_name}")
+            logger.warning(f"Skipping book with no ID: {book_name_from_list}")
             continue
 
-        # Download data for this specific book
-        book_data = fetch_book_content(book_id)
+        logger.info(f"\n📖 Processing {book_name_from_list} ({book_id}) - Book {idx}/{len(books)}...")
 
-        if book_data:
-            if generate_markdown(book_data, OUTPUT_DIR):
-                success_count += 1
+        # Fetch book info (name and chapter list)
+        book_info = fetch_book_info(book_id)
 
-        # Polite delay to respect API rate limits
+        if not book_info:
+            logger.error(f"❌ Failed to fetch book info for {book_id} after all retries")
+            failed_books.append(book_name_from_list)
+            # Wait before trying next book
+            time.sleep(RATE_LIMIT_DELAY * 2)
+            continue
+
+        # Rate limiting delay after fetching book info
         time.sleep(RATE_LIMIT_DELAY)
 
-    logger.info(f"\n✅ Success! Processed {success_count}/{len(books)} books")
+        # Generate markdown (this will fetch chapters individually)
+        if generate_markdown(
+            book_name=book_info['name'],
+            book_id=book_id,
+            book_number=idx,
+            chapters=book_info['chapters'],
+            output_folder=OUTPUT_DIR
+        ):
+            success_count += 1
+        else:
+            failed_books.append(book_name_from_list)
+            logger.error(f"❌ Book {book_name_from_list} failed - missing chapters!")
+
+        # Polite delay to respect API rate limits between books
+        time.sleep(RATE_LIMIT_DELAY * 2)  # Longer delay between books
+
+    # Final summary
+    logger.info(f"\n{'='*60}")
+    logger.info(f"📊 EXTRACTION SUMMARY")
+    logger.info(f"{'='*60}")
+    logger.info(f"✅ Successfully processed: {success_count}/{len(books)} books")
+    if failed_books:
+        logger.error(f"❌ Failed books: {', '.join(failed_books)}")
+        logger.error(f"⚠️  Some books are incomplete! Please review and retry.")
+    else:
+        logger.info(f"🎉 All books completed successfully!")
     logger.info(f"Files saved in '{OUTPUT_DIR}/'")
 
 

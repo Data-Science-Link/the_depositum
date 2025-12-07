@@ -6,7 +6,7 @@ api:
   bible:
     base_url: "https://bible-api.com/data/dra"
     translation_id: "dra"
-    rate_limit_delay: 0.5  # seconds between requests
+    rate_limit_delay: 2.0  # seconds between requests (increased to avoid rate limits)
     timeout: 30
 
 # File Paths
