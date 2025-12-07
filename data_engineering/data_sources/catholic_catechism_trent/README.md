@@ -4,22 +4,27 @@ This directory contains the extraction script for the Catechism of the Council o
 
 ## Overview
 
-The script extracts the catechism from an RTF (Rich Text Format) file and converts it to clean Markdown. RTF is used because:
+The script extracts the catechism from a PDF file and converts it to clean Markdown format.
 
 - **Translation Accuracy**: SaintsBooks.net provides the correct McHugh & Callan translation (not the older Donovan translation)
-- **Better Structure**: RTF preserves text hierarchy better than PDF scans
-- **Easier Parsing**: More structured than raw text files
+- **Source**: The PDF file is available directly from SaintsBooks.net
 
 ## Prerequisites
 
-1. **Download the RTF file**:
-   - Source: SaintsBooks.net
-   - File: `Catechism of the Council of Trent.rtf`
-   - **Important**: Ensure it's the McHugh & Callan translation (1923), not the Donovan translation (1829)
+1. **Download the PDF file**:
+   - **Source**: [SaintsBooks.net](https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf)
+   - **Direct URL**: https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf
+   - **File**: `The Roman Catechism.pdf`
+   - **Important**: This is the McHugh & Callan translation (1923), not the older Donovan translation (1829)
 
-2. **Place in raw directory**:
+2. **Place in this directory**:
    ```bash
-   cp ~/Downloads/Catechism\ of\ the\ Council\ of\ Trent.rtf raw/
+   cp ~/Downloads/The\ Roman\ Catechism.pdf data_engineering/data_sources/catholic_catechism_trent/
+   ```
+
+   Or if you're already in this directory:
+   ```bash
+   cp ~/Downloads/The\ Roman\ Catechism.pdf .
    ```
 
 ## Usage
@@ -30,7 +35,7 @@ python extract_catechism.py
 
 ## Output
 
-The script generates a single Markdown file: `Catechism_McHugh_Callan.md` in `data_engineering/processed_data/catholic_catechism_trent/` (intermediate), which is then copied to `data_final/catholic_catechism_trent/` (final output).
+The script generates a single Markdown file: `Catechism_McHugh_Callan.md` directly in `data_final/catholic_catechism_trent/` (final output location).
 
 The file includes:
 - `# PART` headers for main parts
@@ -45,12 +50,12 @@ The script uses regex patterns to detect headers:
 - `ARTICLE I`, `ARTICLE II`, etc. → `## ARTICLE I`
 - `QUESTION I`, `QUESTION II`, etc. → `### QUESTION I`
 
-If your RTF has different header patterns, adjust the regex in `add_markdown_headers()`.
+If your PDF has different header patterns, adjust the regex in `add_markdown_headers()`.
 
 ## Requirements
 
-- RTF file in `raw/` directory
-- `striprtf` library
+- PDF file in this directory (`data_engineering/data_sources/catholic_catechism_trent/`)
+- `pypdf` library (for PDF text extraction)
 - Python 3.10+
 
 ## Post-Processing
@@ -62,7 +67,7 @@ After extraction, you may need to manually:
 
 ## Notes
 
-- The script tries UTF-8 encoding first, then falls back to latin-1
-- RTF conversions can leave artifacts; manual cleanup may be needed
+- PDF text extraction may have formatting artifacts; manual cleanup may be needed
 - Footnotes often need manual adjustment after extraction
+- Page numbers and headers/footers are automatically removed during extraction
 

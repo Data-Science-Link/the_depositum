@@ -13,7 +13,7 @@ api:
 paths:
   raw_data:
     haydock: "data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub"
-    catechism: "data_engineering/data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf"
+    catechism: "data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf"
 
   processed_data:
     base: "data_engineering/processed_data"

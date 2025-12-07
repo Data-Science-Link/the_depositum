@@ -3,46 +3,64 @@
 McHugh & Callan Catechism Extraction Script
 
 This script extracts the Catechism of the Council of Trent (McHugh & Callan Translation)
-from an RTF file and converts it to clean Markdown format.
+from a PDF file and converts it to clean Markdown format.
 
-The script uses the striprtf library to convert Rich Text Format to plain text,
+The script uses the pypdf library to extract text from PDF,
 then applies regex patterns to detect headers and insert Markdown syntax.
 
 Prerequisites:
-    - Download the RTF file from SaintsBooks.net
-    - Place it in the raw/ directory
+    - Download the PDF file from SaintsBooks.net
+    - Place it in this directory
 
 Usage:
     python extract_catechism.py
 """
 
+import sys
 import re
-import os
 import logging
 from pathlib import Path
 from typing import Optional
 import yaml
-from striprtf.striprtf import rtf_to_text
+from pypdf import PdfReader
 
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
+# Set up logging to both console and file
+LOG_DIR = Path(__file__).parent.parent.parent.parent / "data_engineering" / "logs"
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+LOG_FILE = LOG_DIR / "catechism_extraction.log"
+
+# Configure logger
 logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+logger.handlers.clear()  # Prevent duplicate handlers if script is imported
+
+# Create formatter (shared between handlers)
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+
+# File handler
+file_handler = logging.FileHandler(LOG_FILE, encoding='utf-8')
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+
+# Console handler
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+logger.addHandler(console_handler)
 
 # Load configuration
 CONFIG_PATH = Path(__file__).parent.parent.parent / "config" / "pipeline_config.yaml"
 try:
-    with open(CONFIG_PATH, 'r') as f:
+    with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
         config = yaml.safe_load(f)
     INPUT_FILENAME = Path(config['paths']['raw_data']['catechism'])
-    OUTPUT_DIR = Path(config['paths']['processed_data']['catechism'])
+    OUTPUT_DIR = Path(config['paths']['final_output']['catechism'])
     OUTPUT_FILENAME = config['output']['naming']['catechism']
-except Exception as e:
+except (FileNotFoundError, yaml.YAMLError, KeyError) as e:
     logger.warning(f"Could not load config, using defaults: {e}")
-    INPUT_FILENAME = Path(__file__).parent / "raw" / "Catechism of the Council of Trent.rtf"
-    OUTPUT_DIR = Path(__file__).parent.parent.parent / "processed_data" / "catholic_catechism_trent"
+    INPUT_FILENAME = Path(__file__).parent / "The Roman Catechism.pdf"
+    OUTPUT_DIR = Path(__file__).parent.parent.parent.parent / "data_final" / "catholic_catechism_trent"
     OUTPUT_FILENAME = "Catechism_McHugh_Callan.md"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -50,23 +68,26 @@ OUTPUT_FILEPATH = OUTPUT_DIR / OUTPUT_FILENAME
 
 
 def clean_text(text: str) -> str:
-    """Cleans up the raw text converted from RTF.
+    """Cleans up the raw text extracted from PDF.
 
     Args:
-        text: Raw text from RTF conversion
+        text: Raw text from PDF extraction
 
     Returns:
         Cleaned text string
     """
-    # Normalize line breaks (RTF often creates excessive whitespace)
+    # Normalize line breaks (PDF often creates excessive whitespace)
     text = re.sub(r'\n{3,}', '\n\n', text)
 
-    # Remove common OCR/RTF artifacts
+    # Remove common PDF artifacts
     text = text.replace('\x00', '')
     text = text.replace('\r', '')
 
     # Clean up extra spaces
     text = re.sub(r'[ \t]+', ' ', text)
+
+    # Remove page numbers and headers/footers (common patterns)
+    text = re.sub(r'^\s*\d+\s*$', '', text, flags=re.MULTILINE)
 
     return text
 
@@ -100,58 +121,84 @@ def add_markdown_headers(text: str) -> str:
     return text
 
 
-def main():
-    """Main extraction function."""
+def main() -> int:
+    """Main extraction function.
+
+    Returns:
+        Exit code: 0 for success, 1 for failure
+    """
     logger.info("Starting Catechism extraction...")
+    logger.info(f"Output directory: {OUTPUT_DIR}")
+    logger.info(f"📝 Logging to: {LOG_FILE}")
 
-    # Check if RTF file exists
+    # Check if PDF file exists
     if not INPUT_FILENAME.exists():
-        logger.error(f"Error: Could not find '{INPUT_FILENAME}' in this folder.")
-        logger.info("Please download the RTF file from SaintsBooks.net and place it in the raw/ directory")
-        return
+        logger.error(f"Error: Could not find '{INPUT_FILENAME}'")
+        logger.info("Please download the PDF file from SaintsBooks.net and place it in this directory")
+        logger.info("URL: https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf")
+        return 1
 
-    logger.info(f"Reading {INPUT_FILENAME}...")
+    logger.info(f"Reading PDF: {INPUT_FILENAME}...")
 
-    # RTF files can sometimes be quirky with encoding. 'utf-8' or 'latin-1' usually works.
+    # Extract text from PDF
+    text_content: Optional[str] = None
     try:
-        with open(INPUT_FILENAME, 'r', encoding='utf-8', errors='ignore') as f:
-            rtf_content = f.read()
-    except UnicodeDecodeError:
-        logger.info("UTF-8 encoding failed, trying latin-1...")
-        try:
-            with open(INPUT_FILENAME, 'r', encoding='latin-1', errors='ignore') as f:
-                rtf_content = f.read()
-        except Exception as e:
-            logger.error(f"Error reading file: {e}")
-            return
-    except Exception as e:
-        logger.error(f"Error reading file: {e}")
-        return
+        reader = PdfReader(INPUT_FILENAME)
+        total_pages = len(reader.pages)
+        logger.info(f"PDF has {total_pages} pages, extracting text...")
 
-    logger.info("Converting RTF to Plain Text...")
-    try:
-        text_content = rtf_to_text(rtf_content)
+        text_parts = []
+        for page_num, page in enumerate(reader.pages, start=1):
+            if page_num % 50 == 0:
+                logger.info(f"  Processing page {page_num}/{total_pages}...")
+            try:
+                page_text = page.extract_text()
+                if page_text:
+                    text_parts.append(page_text)
+            except Exception as e:
+                logger.warning(f"  Warning: Could not extract text from page {page_num}: {e}")
+                continue
+
+        text_content = '\n'.join(text_parts)
+
+        if not text_content or len(text_content.strip()) < 100:
+            logger.error("Extracted text appears to be empty or too short")
+            return 1
+
+        logger.info(f"Successfully extracted {len(text_content)} characters from PDF")
     except Exception as e:
-        logger.error(f"Error parsing RTF: {e}")
-        return
+        logger.error(f"Error reading PDF file: {e}", exc_info=True)
+        return 1
+
+    if text_content is None:
+        logger.error("Failed to extract text from PDF")
+        return 1
 
     logger.info("Applying Markdown formatting...")
     clean_content = clean_text(text_content)
     final_content = add_markdown_headers(clean_content)
 
-    # Write output file
+    # Write output file with frontmatter
     try:
         with open(OUTPUT_FILEPATH, 'w', encoding='utf-8') as f:
+            # Frontmatter
+            f.write("---\n")
+            f.write("title: Catechism of the Council of Trent (McHugh & Callan Translation)\n")
+            f.write("tags: catechism, council-of-trent, mchugh-callan, magisterium\n")
+            f.write("---\n\n")
+
+            # Content
             f.write(final_content)
 
         file_size_kb = OUTPUT_FILEPATH.stat().st_size / 1024
         logger.info(f"✅ Success! Converted text saved to: {OUTPUT_FILEPATH}")
         logger.info(f"File size: {file_size_kb:.2f} KB")
-    except Exception as e:
-        logger.error(f"Error writing output file: {e}")
-        return
+        return 0
+    except (IOError, OSError) as e:
+        logger.error(f"Error writing output file: {e}", exc_info=True)
+        return 1
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
 
