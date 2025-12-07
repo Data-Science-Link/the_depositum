@@ -4,7 +4,7 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 
 ## Available Sources
 
-### 1. Douay-Rheims Bible (`douay_rheims/`)
+### 1. Douay-Rheims Bible (`bible_douay_rheims/`)
 **Status**: ✅ Ready - No prerequisites
 
 **Overview**: Downloads the complete Douay-Rheims Bible (1899 American Edition) from bible-api.com.
@@ -15,20 +15,20 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 - Rate-limited API calls
 - No manual downloads required
 
-**See**: [douay_rheims/README.md](douay_rheims/README.md) for details
+**See**: [bible_douay_rheims/README.md](bible_douay_rheims/README.md) for details
 
-### 2. Haydock Commentary (`haydock/`)
+### 2. Haydock Commentary (`bible_commentary_haydock/`)
 **Status**: ⚠️ Requires EPUB download
 
 **Overview**: Extracts commentary from EPUB format.
 
 **Prerequisites**:
 - Download EPUB from Isidore E-Book Library or JohnBlood GitLab
-- Place in `haydock/raw/` directory
+- Place in `bible_commentary_haydock/raw/` directory
 
-**See**: [haydock/README.md](haydock/README.md) for details
+**See**: [bible_commentary_haydock/README.md](bible_commentary_haydock/README.md) for details
 
-### 3. Roman Catechism (`catechism/`)
+### 3. Roman Catechism (`catholic_catechism_trent/`)
 **Status**: ⚠️ Requires RTF download
 
 **Overview**: Extracts catechism from RTF format.
@@ -36,9 +36,9 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 **Prerequisites**:
 - Download RTF from SaintsBooks.net
 - Ensure it's the McHugh & Callan translation (1923)
-- Place in `catechism/raw/` directory
+- Place in `catholic_catechism_trent/raw/` directory
 
-**See**: [catechism/README.md](catechism/README.md) for details
+**See**: [catholic_catechism_trent/README.md](catholic_catechism_trent/README.md) for details
 
 ## Running Individual Extractors
 
@@ -46,15 +46,15 @@ Each source has its own extraction script:
 
 ```bash
 # Bible (no prerequisites)
-cd douay_rheims
+cd bible_douay_rheims
 python extract_bible.py
 
 # Commentary (requires EPUB)
-cd haydock
+cd bible_commentary_haydock
 python extract_commentary.py
 
 # Catechism (requires RTF)
-cd catechism
+cd catholic_catechism_trent
 python extract_catechism.py
 ```
 
@@ -77,9 +77,9 @@ python data_engineering/scripts/run_pipeline.py --source catechism
 ## Output Locations
 
 All extractors save intermediate files to:
-- `data_engineering/processed_data/douay_rheims/` (Bible)
-- `data_engineering/processed_data/haydock/` (Commentary)
-- `data_engineering/processed_data/catechism/` (Catechism)
+- `data_engineering/processed_data/bible_douay_rheims/` (Bible)
+- `data_engineering/processed_data/bible_commentary_haydock/` (Commentary)
+- `data_engineering/processed_data/catholic_catechism_trent/` (Catechism)
 
 Final output (after pipeline completion with `--copy-output`) is in:
 - `data_final/bible_douay_rheims/` (73 Bible books)

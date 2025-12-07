@@ -16,13 +16,13 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 ## 📁 Contents
 
 ### Data Sources
-- `data_sources/douay_rheims/` - Douay-Rheims Bible extraction from bible-api.com
+- `data_sources/bible_douay_rheims/` - Douay-Rheims Bible extraction from bible-api.com
   - `extract_bible.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
-- `data_sources/haydock/` - Haydock Commentary extraction from EPUB
+- `data_sources/bible_commentary_haydock/` - Haydock Commentary extraction from EPUB
   - `extract_commentary.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
-- `data_sources/catechism/` - Roman Catechism extraction from RTF
+- `data_sources/catholic_catechism_trent/` - Roman Catechism extraction from RTF
   - `extract_catechism.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
 - `data_sources/README.md` - Overview of all data sources
@@ -51,14 +51,12 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 This project uses `uv` for dependency management. Install it first:
 
 ```bash
-# macOS/Linux
+# macOS (recommended)
+brew install uv
+
+# Linux/Windows (alternative)
 curl -LsSf https://astral.sh/uv/install.sh | sh
-
-# Windows (PowerShell)
-powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
-
-# Or with pip (if you have it)
-pip install uv
+# Or: pip install uv
 ```
 
 **Why uv?**
@@ -66,28 +64,42 @@ pip install uv
 - Automatic virtual environment management
 - Better dependency resolution
 - Modern Python packaging standard
+- Uses `pyproject.toml` for dependency management
 
 ### Installation
 
-1. **Install Python dependencies with uv**:
+1. **Set up virtual environment and install dependencies**:
    ```bash
    # From project root
    cd /path/to/the_depositum
 
-   # Create virtual environment (creates .venv/)
+   # Create virtual environment in project root (.venv/)
+   # This creates .venv/ directory in the project root
    uv venv
 
-   # Activate virtual environment
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   # Install all dependencies from pyproject.toml
+   # Automatically installs project in editable mode
+   uv sync
 
-   # Install project and dependencies
-   uv pip install -e ..
-
-   # Or install with dev dependencies for testing
-   uv pip install -e "..[dev]"
+   # Optional: Install with dev dependencies for testing
+   uv sync --extra dev
    ```
 
-   **Note**: The `-e` flag installs the project in "editable" mode, so changes to the code are immediately available.
+   **Note**:
+   - The virtual environment is created at `.venv/` in the project root
+   - `uv sync` reads `pyproject.toml` and installs all dependencies automatically
+   - The project is installed in editable mode, so code changes are immediately available
+   - You can use `uv run <command>` to run commands without activating the venv manually
+
+2. **Activate virtual environment** (optional):
+   ```bash
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   ```
+
+   **Alternative**: Use `uv run` to execute commands in the venv without activation:
+   ```bash
+   uv run python data_engineering/scripts/run_pipeline.py
+   ```
 
 2. **Set up environment variables** (optional):
    ```bash
@@ -97,20 +109,20 @@ pip install uv
 
 3. **Download source files**:
    - **Haydock Commentary**: Download EPUB from Isidore E-Book Library or JohnBlood GitLab
-     - Place in `data_sources/haydock/raw/Haydock Catholic Bible Commentary.epub`
+     - Place in `data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub`
    - **Catechism**: Download RTF from SaintsBooks.net
-     - Place in `data_sources/catechism/raw/Catechism of the Council of Trent.rtf`
+     - Place in `data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf`
 
 ## 🔧 Running Individual Extractors
 
 ### Douay-Rheims Bible
 
 ```bash
-cd data_sources/douay_rheims
+cd data_sources/bible_douay_rheims
 python extract_bible.py
 ```
 
-**Output**: 73 Markdown files in `processed_data/douay_rheims/`
+**Output**: 73 Markdown files in `processed_data/bible_douay_rheims/`
 
 **Configuration**:
 - API endpoint: `https://bible-api.com/data/dra`
@@ -120,26 +132,26 @@ python extract_bible.py
 ### Haydock Commentary
 
 ```bash
-cd data_sources/haydock
+cd data_sources/bible_commentary_haydock
 python extract_commentary.py
 ```
 
 **Prerequisites**: EPUB file must be in `raw/` directory
 
-**Output**: Commentary files in `processed_data/haydock/`
+**Output**: Commentary files in `processed_data/bible_commentary_haydock/`
 
 **Note**: You may need to inspect the EPUB structure and adjust parsing logic based on the specific EPUB version you download.
 
 ### Roman Catechism
 
 ```bash
-cd data_sources/catechism
+cd data_sources/catholic_catechism_trent
 python extract_catechism.py
 ```
 
 **Prerequisites**: RTF file must be in `raw/` directory
 
-**Output**: Single Markdown file in `processed_data/catechism/`
+**Output**: Single Markdown file in `processed_data/catholic_catechism_trent/`
 
 ## 🔄 Running the Full Pipeline
 
@@ -221,8 +233,8 @@ BIBLE_API_BASE_URL=https://bible-api.com/data/dra
 API_RATE_LIMIT_DELAY=0.5
 
 # File Paths
-HAYDOCK_EPUB_PATH=data_engineering/data_sources/haydock/raw/Haydock Catholic Bible Commentary.epub
-CATECHISM_RTF_PATH=data_engineering/data_sources/catechism/raw/Catechism of the Council of Trent.rtf
+HAYDOCK_EPUB_PATH=data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub
+CATECHISM_RTF_PATH=data_engineering/data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf
 
 # Output Directories
 OUTPUT_DIR=data_final
@@ -235,7 +247,7 @@ LOG_DIR=logs
 
 - **uv not found**: Install uv using the commands above, or add it to your PATH
 - **Virtual environment not activating**: Ensure you're in the project root and `.venv/` exists
-- **Import errors**: Make sure virtual environment is activated and run `uv pip install -e ..` again
+- **Import errors**: Make sure virtual environment is activated and run `uv sync` again
 
 ### Bible Extraction Issues
 
@@ -257,10 +269,10 @@ LOG_DIR=logs
 
 ### uv-Specific Tips
 
-- **Update dependencies**: `uv pip install -e .. --upgrade`
+- **Update dependencies**: `uv sync --upgrade`
 - **Check installed packages**: `uv pip list`
-- **Recreate virtual environment**: Delete `.venv/` and run `uv venv` again
-- **Install specific version**: `uv pip install package==version`
+- **Recreate virtual environment**: Delete `.venv/` and run `uv venv` then `uv sync`
+- **Install specific version**: Edit `pyproject.toml` and run `uv sync`
 
 ## 📈 Data Flow
 
@@ -285,8 +297,8 @@ Raw Sources → Extraction Scripts → Validation → Processed Data
 2. **Set up development environment**:
    ```bash
    uv venv
-   source .venv/bin/activate
-   uv pip install -e "..[dev]"  # Installs with dev dependencies
+   uv sync --extra dev  # Installs with dev dependencies
+   source .venv/bin/activate  # Optional: activate venv
    ```
 3. **Make your changes**
 4. **Test your changes**:

@@ -42,7 +42,7 @@ try:
 except Exception as e:
     logger.warning(f"Could not load config, using defaults: {e}")
     INPUT_FILENAME = Path(__file__).parent / "raw" / "Catechism of the Council of Trent.rtf"
-    OUTPUT_DIR = Path(__file__).parent.parent.parent / "processed_data" / "catechism"
+    OUTPUT_DIR = Path(__file__).parent.parent.parent / "processed_data" / "catholic_catechism_trent"
     OUTPUT_FILENAME = "Catechism_McHugh_Callan.md"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

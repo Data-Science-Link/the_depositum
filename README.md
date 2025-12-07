@@ -50,11 +50,12 @@ This pipeline produces Markdown files specifically optimized for AI tools and No
 
 **Step 1: Install uv** (if you don't have it):
 ```bash
-# macOS/Linux
-curl -LsSf https://astral.sh/uv/install.sh | sh
+# macOS (recommended)
+brew install uv
 
-# Windows (PowerShell)
-powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+# Linux/Windows (alternative)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+# Or: pip install uv
 ```
 
 **Step 2: Set up the project**:
@@ -63,14 +64,22 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 git clone https://github.com/your-username/the_depositum.git
 cd the_depositum
 
-# Create virtual environment and install dependencies
+# Create virtual environment in project root (.venv/)
+# This will create .venv/ directory in the project root
 uv venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-uv pip install -e .
 
-# Or install with dev dependencies for testing
-uv pip install -e ".[dev]"
+# Install all dependencies (uses pyproject.toml)
+# This automatically installs the project in editable mode
+uv sync
+
+# Optional: Install with dev dependencies for testing
+uv sync --extra dev
+
+# Activate virtual environment (optional - uv run works without activation)
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
+
+**Note**: The virtual environment (`.venv/`) is created in the project root directory. You can use `uv run <command>` to run commands in the venv without activating it manually.
 
 **Step 3: Download Source Files** (if needed):
 
@@ -78,12 +87,12 @@ uv pip install -e ".[dev]"
 
 **Haydock Commentary**:
 1. Download EPUB from Isidore E-Book Library or JohnBlood GitLab
-2. Place in: `data_engineering/data_sources/haydock/raw/Haydock Catholic Bible Commentary.epub`
+2. Place in: `data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub`
 
 **Catechism**:
 1. Download RTF from SaintsBooks.net
 2. **Important**: Ensure it's the McHugh & Callan translation (1923)
-3. Place in: `data_engineering/data_sources/catechism/raw/Catechism of the Council of Trent.rtf`
+3. Place in: `data_engineering/data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf`
 
 **Step 4: Run the Pipeline**:
 
@@ -121,7 +130,7 @@ This pipeline extracts and processes three foundational Catholic texts that toge
 - **Source**: bible-api.com (ebible.org data)
 - **Format**: API → JSON → Markdown
 - **Output**: 73 individual Markdown files (Genesis.md through Apocalypse.md)
-- **Script**: `data_engineering/data_sources/douay_rheims/extract_bible.py`
+- **Script**: `data_engineering/data_sources/bible_douay_rheims/extract_bible.py`
 - **No prerequisites**: Downloads directly from API
 - **Historical Significance**: First officially authorized Catholic Bible in English, translated from the Latin Vulgate. The 1899 American Edition represents the Challoner revision, which became the standard English Catholic Bible for centuries.
 - **Role in Deposit of Faith**: Represents **Sacred Scripture** - the written Word of God
@@ -130,7 +139,7 @@ This pipeline extracts and processes three foundational Catholic texts that toge
 - **Source**: EPUB file (from Isidore E-Book Library or JohnBlood GitLab)
 - **Format**: EPUB → HTML → Markdown
 - **Output**: Commentary files organized by book/chapter
-- **Script**: `data_engineering/data_sources/haydock/extract_commentary.py`
+- **Script**: `data_engineering/data_sources/bible_commentary_haydock/extract_commentary.py`
 - **Prerequisite**: Download EPUB file separately
 - **Historical Significance**: Comprehensive Catholic Bible commentary compiled by Father George Leo Haydock, drawing extensively from Church Fathers (Augustine, Jerome, Chrysostom) and traditional Catholic exegesis. The 1859 edition represents the mature form of this influential commentary.
 - **Role in Deposit of Faith**: Represents **Sacred Tradition** - the living transmission of how the Church has understood Scripture through the ages, preserving the interpretive insights of the Church Fathers
@@ -139,7 +148,7 @@ This pipeline extracts and processes three foundational Catholic texts that toge
 - **Source**: RTF file from SaintsBooks.net
 - **Format**: RTF → Plain Text → Markdown
 - **Output**: Single Markdown file with proper headers
-- **Script**: `data_engineering/data_sources/catechism/extract_catechism.py`
+- **Script**: `data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py`
 - **Prerequisite**: Download RTF file separately (McHugh & Callan translation, 1923)
 - **Historical Significance**: Official catechism commissioned by the Council of Trent (1545-1563) and published in 1566. The McHugh & Callan translation (1923) is considered one of the most accurate English translations, produced by Dominican scholars. This catechism represents authoritative post-Tridentine Catholic doctrine.
 - **Role in Deposit of Faith**: Represents **Magisterium** - the teaching authority of the Church providing official interpretation and explanation of the faith
@@ -221,12 +230,12 @@ the_depositum/
 - `data_engineering/config/pipeline_config.yaml` - Pipeline configuration
 - `data_engineering/scripts/run_pipeline.py` - Main pipeline orchestrator
 - `data_engineering/data_sources/README.md` - Data sources overview
-- `data_engineering/data_sources/douay_rheims/extract_bible.py` - Bible extraction script
-- `data_engineering/data_sources/douay_rheims/README.md` - Bible extraction guide
-- `data_engineering/data_sources/haydock/extract_commentary.py` - Commentary extraction script
-- `data_engineering/data_sources/haydock/README.md` - Commentary extraction guide
-- `data_engineering/data_sources/catechism/extract_catechism.py` - Catechism extraction script
-- `data_engineering/data_sources/catechism/README.md` - Catechism extraction guide
+- `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` - Bible extraction script
+- `data_engineering/data_sources/bible_douay_rheims/README.md` - Bible extraction guide
+- `data_engineering/data_sources/bible_commentary_haydock/extract_commentary.py` - Commentary extraction script
+- `data_engineering/data_sources/bible_commentary_haydock/README.md` - Commentary extraction guide
+- `data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py` - Catechism extraction script
+- `data_engineering/data_sources/catholic_catechism_trent/README.md` - Catechism extraction guide
 
 ### Output Documentation
 - `data_final/README.md` - Final output documentation with historical context for all three sources
@@ -276,8 +285,8 @@ Edit `data_engineering/config/pipeline_config.yaml` to customize:
 2. **Set up environment**:
    ```bash
    uv venv
-   source .venv/bin/activate
-   uv pip install -e ".[dev]"
+   uv sync --extra dev  # Installs with dev dependencies
+   source .venv/bin/activate  # Optional: activate venv
    ```
 3. **Run tests**:
    ```bash
@@ -315,8 +324,8 @@ For detailed technical information, see:
 - For Catechism: Check RTF encoding (script tries UTF-8 and latin-1)
 
 ### Import errors
-- Ensure virtual environment is activated
-- Reinstall dependencies: `uv pip install -e .`
+- Ensure virtual environment is activated (or use `uv run`)
+- Reinstall dependencies: `uv sync`
 
 ## 🔒 Security
 
@@ -331,8 +340,8 @@ Security scans are automatically performed via GitHub Actions. See [`.github/wor
 
 To run security scans locally:
 ```bash
-# Install security tools
-uv pip install -e ".[dev]"
+# Install security tools (if not already installed)
+uv sync --extra dev
 
 # Run Bandit code scan
 bandit -r data_engineering/

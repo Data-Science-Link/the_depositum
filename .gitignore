@@ -66,8 +66,7 @@ data_engineering/processed_data/*
 !data_engineering/processed_data/.gitkeep
 
 # Final data output (keep structure, ignore content)
-data_final/bible_douay_rheims/*
-!data_final/bible_douay_rheims/.gitkeep
+# Note: Markdown files in data_final are tracked by git
 data_final/bible_commentary_haydock/*
 !data_final/bible_commentary_haydock/.gitkeep
 data_final/catholic_catechism_trent/*

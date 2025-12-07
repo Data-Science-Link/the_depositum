@@ -6,20 +6,20 @@ api:
   bible:
     base_url: "https://bible-api.com/data/dra"
     translation_id: "dra"
-    rate_limit_delay: 0.5  # seconds between requests
+    rate_limit_delay: 2.0  # seconds between requests (increased to avoid rate limits)
     timeout: 30
 
 # File Paths
 paths:
   raw_data:
-    haydock: "data_engineering/data_sources/haydock/raw/Haydock Catholic Bible Commentary.epub"
-    catechism: "data_engineering/data_sources/catechism/raw/Catechism of the Council of Trent.rtf"
+    haydock: "data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub"
+    catechism: "data_engineering/data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf"
 
   processed_data:
     base: "data_engineering/processed_data"
-    douay_rheims: "data_engineering/processed_data/douay_rheims"
-    haydock: "data_engineering/processed_data/haydock"
-    catechism: "data_engineering/processed_data/catechism"
+    douay_rheims: "data_engineering/processed_data/bible_douay_rheims"
+    haydock: "data_engineering/processed_data/bible_commentary_haydock"
+    catechism: "data_engineering/processed_data/catholic_catechism_trent"
 
   final_output:
     base: "data_final"

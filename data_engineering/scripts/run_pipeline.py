@@ -22,9 +22,9 @@ import shutil
 project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root))
 
-from data_engineering.data_sources.douay_rheims.extract_bible import main as extract_bible
-from data_engineering.data_sources.haydock.extract_commentary import main as extract_commentary
-from data_engineering.data_sources.catechism.extract_catechism import main as extract_catechism
+from data_engineering.data_sources.bible_douay_rheims.extract_bible import main as extract_bible
+from data_engineering.data_sources.bible_commentary_haydock.extract_commentary import main as extract_commentary
+from data_engineering.data_sources.catholic_catechism_trent.extract_catechism import main as extract_catechism
 
 # Set up logging
 logging.basicConfig(
