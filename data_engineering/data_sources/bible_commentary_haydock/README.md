@@ -29,7 +29,7 @@ python extract_commentary.py
 
 ## Output
 
-The script generates Markdown files organized by book/chapter in `data_engineering/processed_data/haydock/` (intermediate), which are then copied to `data_final/haydock/` (final output).
+The script generates Markdown files organized by book/chapter in `data_engineering/processed_data/bible_commentary_haydock/` (intermediate), which are then copied to `data_final/bible_commentary_haydock/` (final output).
 
 ## Customization
 

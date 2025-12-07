@@ -44,7 +44,7 @@ try:
 except Exception as e:
     logger.warning(f"Could not load config, using defaults: {e}")
     INPUT_EPUB = Path(__file__).parent / "raw" / "Haydock Catholic Bible Commentary.epub"
-    OUTPUT_DIR = Path(__file__).parent.parent.parent / "processed_data" / "haydock"
+    OUTPUT_DIR = Path(__file__).parent.parent.parent / "processed_data" / "bible_commentary_haydock"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

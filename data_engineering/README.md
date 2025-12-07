@@ -16,13 +16,13 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 ## 📁 Contents
 
 ### Data Sources
-- `data_sources/douay_rheims/` - Douay-Rheims Bible extraction from bible-api.com
+- `data_sources/bible_douay_rheims/` - Douay-Rheims Bible extraction from bible-api.com
   - `extract_bible.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
-- `data_sources/haydock/` - Haydock Commentary extraction from EPUB
+- `data_sources/bible_commentary_haydock/` - Haydock Commentary extraction from EPUB
   - `extract_commentary.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
-- `data_sources/catechism/` - Roman Catechism extraction from RTF
+- `data_sources/catholic_catechism_trent/` - Roman Catechism extraction from RTF
   - `extract_catechism.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
 - `data_sources/README.md` - Overview of all data sources
@@ -97,20 +97,20 @@ pip install uv
 
 3. **Download source files**:
    - **Haydock Commentary**: Download EPUB from Isidore E-Book Library or JohnBlood GitLab
-     - Place in `data_sources/haydock/raw/Haydock Catholic Bible Commentary.epub`
+     - Place in `data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub`
    - **Catechism**: Download RTF from SaintsBooks.net
-     - Place in `data_sources/catechism/raw/Catechism of the Council of Trent.rtf`
+     - Place in `data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf`
 
 ## 🔧 Running Individual Extractors
 
 ### Douay-Rheims Bible
 
 ```bash
-cd data_sources/douay_rheims
+cd data_sources/bible_douay_rheims
 python extract_bible.py
 ```
 
-**Output**: 73 Markdown files in `processed_data/douay_rheims/`
+**Output**: 73 Markdown files in `processed_data/bible_douay_rheims/`
 
 **Configuration**:
 - API endpoint: `https://bible-api.com/data/dra`
@@ -120,26 +120,26 @@ python extract_bible.py
 ### Haydock Commentary
 
 ```bash
-cd data_sources/haydock
+cd data_sources/bible_commentary_haydock
 python extract_commentary.py
 ```
 
 **Prerequisites**: EPUB file must be in `raw/` directory
 
-**Output**: Commentary files in `processed_data/haydock/`
+**Output**: Commentary files in `processed_data/bible_commentary_haydock/`
 
 **Note**: You may need to inspect the EPUB structure and adjust parsing logic based on the specific EPUB version you download.
 
 ### Roman Catechism
 
 ```bash
-cd data_sources/catechism
+cd data_sources/catholic_catechism_trent
 python extract_catechism.py
 ```
 
 **Prerequisites**: RTF file must be in `raw/` directory
 
-**Output**: Single Markdown file in `processed_data/catechism/`
+**Output**: Single Markdown file in `processed_data/catholic_catechism_trent/`
 
 ## 🔄 Running the Full Pipeline
 
@@ -221,8 +221,8 @@ BIBLE_API_BASE_URL=https://bible-api.com/data/dra
 API_RATE_LIMIT_DELAY=0.5
 
 # File Paths
-HAYDOCK_EPUB_PATH=data_engineering/data_sources/haydock/raw/Haydock Catholic Bible Commentary.epub
-CATECHISM_RTF_PATH=data_engineering/data_sources/catechism/raw/Catechism of the Council of Trent.rtf
+HAYDOCK_EPUB_PATH=data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub
+CATECHISM_RTF_PATH=data_engineering/data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf
 
 # Output Directories
 OUTPUT_DIR=data_final

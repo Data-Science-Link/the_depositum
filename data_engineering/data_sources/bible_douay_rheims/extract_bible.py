@@ -40,7 +40,7 @@ except Exception as e:
     logger.warning(f"Could not load config, using defaults: {e}")
     API_BASE = "https://bible-api.com/data/dra"
     RATE_LIMIT_DELAY = 0.5
-    OUTPUT_DIR = Path(__file__).parent.parent.parent / "processed_data" / "douay_rheims"
+    OUTPUT_DIR = Path(__file__).parent.parent.parent / "processed_data" / "bible_douay_rheims"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

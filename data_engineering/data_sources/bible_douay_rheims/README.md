@@ -18,7 +18,7 @@ python extract_bible.py
 
 ## Output
 
-The script generates 73 Markdown files (one per book) in `data_engineering/processed_data/douay_rheims/` (intermediate), which are then copied to `data_final/douay_rheims/` (final output).
+The script generates 73 Markdown files (one per book) in `data_engineering/processed_data/bible_douay_rheims/` (intermediate), which are then copied to `data_final/bible_douay_rheims/` (final output).
 
 Each file contains:
 - Frontmatter with title and tags

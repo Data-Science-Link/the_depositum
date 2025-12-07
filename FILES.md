@@ -48,20 +48,20 @@ This document provides a complete listing of all files in The Depositum reposito
 #### Douay-Rheims Bible
 | File | Description |
 |------|-------------|
-| `data_engineering/data_sources/douay_rheims/extract_bible.py` | Extraction script that downloads from bible-api.com and converts to Markdown |
-| `data_engineering/data_sources/douay_rheims/README.md` | Extraction guide with API details and configuration |
+| `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` | Extraction script that downloads from bible-api.com and converts to Markdown |
+| `data_engineering/data_sources/bible_douay_rheims/README.md` | Extraction guide with API details and configuration |
 
 #### Haydock Commentary
 | File | Description |
 |------|-------------|
-| `data_engineering/data_sources/haydock/extract_commentary.py` | Extraction script that processes EPUB files and extracts commentary to Markdown |
-| `data_engineering/data_sources/haydock/README.md` | Extraction guide with EPUB structure notes and customization instructions |
+| `data_engineering/data_sources/bible_commentary_haydock/extract_commentary.py` | Extraction script that processes EPUB files and extracts commentary to Markdown |
+| `data_engineering/data_sources/bible_commentary_haydock/README.md` | Extraction guide with EPUB structure notes and customization instructions |
 
 #### Roman Catechism
 | File | Description |
 |------|-------------|
-| `data_engineering/data_sources/catechism/extract_catechism.py` | Extraction script that converts RTF files to Markdown with proper header detection |
-| `data_engineering/data_sources/catechism/README.md` | Extraction guide with RTF parsing details and header detection patterns |
+| `data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py` | Extraction script that converts RTF files to Markdown with proper header detection |
+| `data_engineering/data_sources/catholic_catechism_trent/README.md` | Extraction guide with RTF parsing details and header detection patterns |
 
 #### Data Sources Overview
 | File | Description |
@@ -82,9 +82,9 @@ This document provides a complete listing of all files in The Depositum reposito
 These directories are created by the pipeline and contain generated files:
 
 - `data_engineering/processed_data/` - Intermediate processed files
-  - `douay_rheims/` - Intermediate Bible files
-  - `haydock/` - Intermediate commentary files
-  - `catechism/` - Intermediate catechism file
+  - `bible_douay_rheims/` - Intermediate Bible files
+  - `bible_commentary_haydock/` - Intermediate commentary files
+  - `catholic_catechism_trent/` - Intermediate catechism file
 
 - `data_final/` - Final output directories
   - `bible_douay_rheims/` - 73 Markdown files (Genesis.md through Apocalypse.md)
