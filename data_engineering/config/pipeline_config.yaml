@@ -1,0 +1,70 @@
+# Pipeline Configuration
+# Configuration file for The Depositum data extraction pipeline
+
+# API Settings
+api:
+  bible:
+    base_url: "https://bible-api.com/data/dra"
+    translation_id: "dra"
+    rate_limit_delay: 0.5  # seconds between requests
+    timeout: 30
+
+# File Paths
+paths:
+  raw_data:
+    haydock: "data_engineering/data_sources/haydock/raw/Haydock Catholic Bible Commentary.epub"
+    catechism: "data_engineering/data_sources/catechism/raw/Catechism of the Council of Trent.rtf"
+
+  processed_data:
+    base: "data_engineering/processed_data"
+    douay_rheims: "data_engineering/processed_data/douay_rheims"
+    haydock: "data_engineering/processed_data/haydock"
+    catechism: "data_engineering/processed_data/catechism"
+
+  final_output:
+    base: "data_final"
+    douay_rheims: "data_final/bible_douay_rheims"
+    haydock: "data_final/bible_commentary_haydock"
+    catechism: "data_final/catholic_catechism_trent"
+
+# Output Settings
+output:
+  # Markdown formatting
+  markdown:
+    include_frontmatter: true
+    frontmatter_template: |
+      ---
+      title: {title}
+      tags: {tags}
+      ---
+
+    verse_format: "**{verse_num}** {text}"
+    chapter_separator: "\n---\n"
+
+  # File naming
+  naming:
+    douay_rheims: "{book_name}.md"
+    haydock: "{book_name}_commentary.md"
+    catechism: "Catechism_McHugh_Callan.md"
+
+# Validation
+validation:
+  douay_rheims:
+    expected_books: 73
+    required_books:
+      - "Genesis"
+      - "Exodus"
+      - "Apocalypse"
+
+  haydock:
+    min_files: 1
+
+  catechism:
+    min_size_kb: 100
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/pipeline.log"
+
