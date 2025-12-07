@@ -10,8 +10,8 @@ echo ""
 if command -v uv &> /dev/null; then
     echo "Using uv for package management..."
     uv venv
+    uv sync --extra dev
     source .venv/bin/activate
-    uv pip install -e ".[dev]"
 else
     echo "Using standard Python venv (uv not found)..."
     python3 -m venv .venv

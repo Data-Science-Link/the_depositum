@@ -50,11 +50,12 @@ This pipeline produces Markdown files specifically optimized for AI tools and No
 
 **Step 1: Install uv** (if you don't have it):
 ```bash
-# macOS/Linux
-curl -LsSf https://astral.sh/uv/install.sh | sh
+# macOS (recommended)
+brew install uv
 
-# Windows (PowerShell)
-powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+# Linux/Windows (alternative)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+# Or: pip install uv
 ```
 
 **Step 2: Set up the project**:
@@ -63,14 +64,22 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 git clone https://github.com/your-username/the_depositum.git
 cd the_depositum
 
-# Create virtual environment and install dependencies
+# Create virtual environment in project root (.venv/)
+# This will create .venv/ directory in the project root
 uv venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-uv pip install -e .
 
-# Or install with dev dependencies for testing
-uv pip install -e ".[dev]"
+# Install all dependencies (uses pyproject.toml)
+# This automatically installs the project in editable mode
+uv sync
+
+# Optional: Install with dev dependencies for testing
+uv sync --extra dev
+
+# Activate virtual environment (optional - uv run works without activation)
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
+
+**Note**: The virtual environment (`.venv/`) is created in the project root directory. You can use `uv run <command>` to run commands in the venv without activating it manually.
 
 **Step 3: Download Source Files** (if needed):
 
@@ -276,8 +285,8 @@ Edit `data_engineering/config/pipeline_config.yaml` to customize:
 2. **Set up environment**:
    ```bash
    uv venv
-   source .venv/bin/activate
-   uv pip install -e ".[dev]"
+   uv sync --extra dev  # Installs with dev dependencies
+   source .venv/bin/activate  # Optional: activate venv
    ```
 3. **Run tests**:
    ```bash
@@ -315,8 +324,8 @@ For detailed technical information, see:
 - For Catechism: Check RTF encoding (script tries UTF-8 and latin-1)
 
 ### Import errors
-- Ensure virtual environment is activated
-- Reinstall dependencies: `uv pip install -e .`
+- Ensure virtual environment is activated (or use `uv run`)
+- Reinstall dependencies: `uv sync`
 
 ## 🔒 Security
 
@@ -331,8 +340,8 @@ Security scans are automatically performed via GitHub Actions. See [`.github/wor
 
 To run security scans locally:
 ```bash
-# Install security tools
-uv pip install -e ".[dev]"
+# Install security tools (if not already installed)
+uv sync --extra dev
 
 # Run Bandit code scan
 bandit -r data_engineering/
