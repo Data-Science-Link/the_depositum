@@ -5,17 +5,22 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 ## Available Sources
 
 ### 1. Douay-Rheims Bible (`bible_douay_rheims/`)
-**Status**: ✅ Ready - No prerequisites
+**Status**: ⚠️ Partial - 66 books (missing 7 deuterocanonical books)
 
-**Overview**: Downloads the complete Douay-Rheims Bible (1899 American Edition) from bible-api.com.
+**Overview**: Downloads the Douay-Rheims Bible (1899 American Edition) from bible-api.com.
+
+**Current Limitation**:
+- The `bible-api.com` service only provides 66 books (Protestant canon)
+- Missing 7 deuterocanonical books: Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees
 
 **Key Features**:
-- Automatic detection of all 73 books
+- Automatic detection of available books (currently 66)
 - Clean Markdown output
 - Rate-limited API calls
 - No manual downloads required
+- Future plan: Transition to IQ Bible API for complete 73-book canon (see README for details)
 
-**See**: [bible_douay_rheims/README.md](bible_douay_rheims/README.md) for details
+**See**: [bible_douay_rheims/README.md](bible_douay_rheims/README.md) for details and future migration plans
 
 ### 2. Haydock Commentary (`bible_commentary_haydock/`)
 **Status**: ⚠️ Requires EPUB download
@@ -82,7 +87,7 @@ All extractors save intermediate files to:
 - `data_engineering/processed_data/catholic_catechism_trent/` (Catechism)
 
 Final output (after pipeline completion with `--copy-output`) is in:
-- `data_final/bible_douay_rheims/` (73 Bible books)
+- `data_final/bible_douay_rheims/` (66 Bible books - see note above about missing deuterocanonical books)
 - `data_final/bible_commentary_haydock/` (Commentary files)
 - `data_final/catholic_catechism_trent/` (Catechism file)
 
