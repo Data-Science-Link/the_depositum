@@ -47,34 +47,39 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: Install security tools
+    - name: Create virtual environment
       run: |
-        uv pip install bandit pip-audit
+        uv venv
+        echo "$PWD/.venv/bin" >> $GITHUB_PATH
+
+    - name: Install project dependencies
+      run: |
+        source .venv/bin/activate
+        uv pip install -e ".[dev]"
+
+    - name: Install system dependencies
+      run: |
         sudo apt-get update && sudo apt-get install -y jq
 
     - name: Code security scan (Bandit)
       continue-on-error: true
       run: |
         echo "📋 Scanning Python code for security issues..."
+        source .venv/bin/activate
         bandit -r data_engineering/ -f json -o bandit-report.json || true
 
     - name: Dependency vulnerability scan (pip-audit)
       continue-on-error: true
       run: |
         echo "📦 Scanning dependencies for known vulnerabilities..."
-        # Export dependencies from pyproject.toml to requirements format for pip-audit
-        uv pip compile pyproject.toml -o requirements-lock.txt || true
-        if [ -f requirements-lock.txt ]; then
-          pip-audit --requirement requirements-lock.txt || true
-        else
-          # Fallback: install project and audit installed packages
-          uv pip install -e .
-          pip-audit || true
-        fi
+        source .venv/bin/activate
+        # Use pip-audit directly on the installed environment
+        pip-audit --format json --output pip-audit-report.json || true
 
     - name: Check for high/critical vulnerabilities
       run: |
         echo "🔍 Analyzing scan results..."
+        source .venv/bin/activate
         VULN_COUNT=0
 
         # Check Bandit for high-severity issues
@@ -86,20 +91,9 @@ jobs:
           fi
         fi
 
-        # Check dependencies
-        if [ -f requirements-lock.txt ]; then
-          AUDIT_OUTPUT=$(pip-audit --requirement requirements-lock.txt 2>&1 || true)
-          AUDIT_COUNT=$(echo "$AUDIT_OUTPUT" | grep -c "Found.*known vulnerability" || echo "0")
-
-          if [ "$AUDIT_COUNT" -gt 0 ]; then
-            echo "❌ Found $AUDIT_COUNT vulnerable dependencies"
-            VULN_COUNT=$((VULN_COUNT + AUDIT_COUNT))
-          fi
-        else
-          # Fallback check
-          AUDIT_OUTPUT=$(pip-audit 2>&1 || true)
-          AUDIT_COUNT=$(echo "$AUDIT_OUTPUT" | grep -c "Found.*known vulnerability" || echo "0")
-
+        # Check pip-audit results
+        if [ -f pip-audit-report.json ]; then
+          AUDIT_COUNT=$(cat pip-audit-report.json | jq '.vulnerabilities | length' 2>/dev/null || echo "0")
           if [ "$AUDIT_COUNT" -gt 0 ]; then
             echo "❌ Found $AUDIT_COUNT vulnerable dependencies"
             VULN_COUNT=$((VULN_COUNT + AUDIT_COUNT))
@@ -122,7 +116,7 @@ jobs:
         name: security-scan-results
         path: |
           bandit-report.json
-          requirements-lock.txt
+          pip-audit-report.json
         retention-days: 7
 
     - name: Comment on PR with results
@@ -130,17 +124,46 @@ jobs:
       uses: actions/github-script@v6
       with:
         script: |
-          const comment = `## 🔒 Security Scan Complete
+          const fs = require('fs');
+          let commentBody = `## 🔒 Security Scan Complete\n\n`;
+          let hasIssues = false;
 
-          **Code Security:** ✅ Checked with Bandit
-          **Dependencies:** ✅ Checked with pip-audit
+          if (fs.existsSync('bandit-report.json')) {
+            const banditReport = JSON.parse(fs.readFileSync('bandit-report.json', 'utf8'));
+            const highMediumIssues = banditReport.metrics?.["_totals"]?.issue_counts?.HIGH + banditReport.metrics?.["_totals"]?.issue_counts?.MEDIUM || 0;
+            if (highMediumIssues > 0) {
+              commentBody += `**Code Security (Bandit):** ❌ Found ${highMediumIssues} high/medium severity issues.\n`;
+              hasIssues = true;
+            } else {
+              commentBody += `**Code Security (Bandit):** ✅ No high/medium severity issues found.\n`;
+            }
+          } else {
+            commentBody += `**Code Security (Bandit):** ⚠️ Report not found. Check logs.\n`;
+          }
 
-          All security checks passed! See Actions logs for details.`;
+          if (fs.existsSync('pip-audit-report.json')) {
+            const pipAuditReport = JSON.parse(fs.readFileSync('pip-audit-report.json', 'utf8'));
+            const vulnCount = pipAuditReport.vulnerabilities?.length || 0;
+            if (vulnCount > 0) {
+              commentBody += `**Dependencies (pip-audit):** ❌ Found ${vulnCount} vulnerable dependencies.\n`;
+              hasIssues = true;
+            } else {
+              commentBody += `**Dependencies (pip-audit):** ✅ No vulnerable dependencies found.\n`;
+            }
+          } else {
+            commentBody += `**Dependencies (pip-audit):** ⚠️ Report not found. Check logs.\n`;
+          }
+
+          if (hasIssues) {
+            commentBody += `\n**Action Required:** Please review the issues and fix them before merging. See Actions logs for details.`;
+          } else {
+            commentBody += `\nAll security checks passed!`;
+          }
 
           github.rest.issues.createComment({
             issue_number: context.issue.number,
             owner: context.repo.owner,
             repo: context.repo.repo,
-            body: comment
+            body: commentBody
           });
 
