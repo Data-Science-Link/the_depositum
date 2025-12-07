@@ -261,6 +261,29 @@ For detailed technical information, see:
 - Ensure virtual environment is activated
 - Reinstall dependencies: `uv pip install -e .`
 
+## 🔒 Security
+
+This project implements automated security scanning:
+
+- **Code Security**: Bandit scans Python code for security vulnerabilities
+- **Dependency Scanning**: pip-audit checks for known vulnerabilities in dependencies
+- **Automated Workflows**: Security audits run on every push and pull request
+- **Weekly Scans**: Scheduled security audits run every Monday
+
+Security scans are automatically performed via GitHub Actions. See [`.github/workflows/security-audit.yml`](.github/workflows/security-audit.yml) for details.
+
+To run security scans locally:
+```bash
+# Install security tools
+uv pip install -e ".[dev]"
+
+# Run Bandit code scan
+bandit -r data_engineering/
+
+# Run pip-audit dependency scan
+pip-audit
+```
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

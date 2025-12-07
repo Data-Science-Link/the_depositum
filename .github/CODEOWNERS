@@ -1,0 +1,35 @@
+# CODEOWNERS file for The Depositum Data Pipeline
+# This file defines who should review changes to different parts of the codebase
+
+# Global owners - these people will be requested for review on any change
+* @michaellink
+
+# Data Engineering Components
+# These require technical review for data quality and pipeline integrity
+/data_engineering/ @michaellink
+/data_engineering/data_sources/ @michaellink
+/data_engineering/scripts/ @michaellink
+/data_engineering/config/ @michaellink
+
+# Critical Configuration Files
+# Changes to these files require careful review
+pyproject.toml @michaellink
+.github/workflows/ @michaellink
+
+# Documentation
+# Documentation changes are important for public repositories
+README.md @michaellink
+*.md @michaellink
+
+# Security and Compliance
+# Security-related files need careful review
+.gitignore @michaellink
+.github/CODEOWNERS @michaellink
+
+# Final Data Output
+# Changes to processed data need review for accuracy
+/data_final/ @michaellink
+
+# License
+LICENSE @michaellink
+

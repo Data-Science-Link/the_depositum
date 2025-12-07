@@ -1,0 +1,146 @@
+name: Security Audit Pipeline
+
+on:
+  push:
+    branches: [ main, master, develop ]
+  pull_request:
+    branches: [ main, master, develop ]
+  schedule:
+    # Run weekly security audit every Monday at 12:00 PM UTC
+    - cron: '0 12 * * 1'
+
+permissions:
+  contents: read
+  pull-requests: write
+  security-events: write
+
+jobs:
+  security-audit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🔍 Display context
+      run: |
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        if [ "${{ github.event_name }}" == "pull_request" ]; then
+          echo "🔵 Pull Request: ${{ github.event.pull_request.title }}"
+          echo "   PR Number: #${{ github.event.pull_request.number }}"
+        else
+          echo "🔵 Push to: ${{ github.ref_name }}"
+        fi
+        COMMIT_SHORT=$(echo "${{ github.sha }}" | cut -c1-7)
+        echo "📝 Commit: $COMMIT_SHORT"
+        echo "👤 Author: ${{ github.actor }}"
+        echo "📅 Date: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v4
+      with:
+        version: "latest"
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install security tools
+      run: |
+        uv pip install bandit pip-audit
+        sudo apt-get update && sudo apt-get install -y jq
+
+    - name: Code security scan (Bandit)
+      continue-on-error: true
+      run: |
+        echo "📋 Scanning Python code for security issues..."
+        bandit -r data_engineering/ -f json -o bandit-report.json || true
+
+    - name: Dependency vulnerability scan (pip-audit)
+      continue-on-error: true
+      run: |
+        echo "📦 Scanning dependencies for known vulnerabilities..."
+        # Export dependencies from pyproject.toml to requirements format for pip-audit
+        uv pip compile pyproject.toml -o requirements-lock.txt || true
+        if [ -f requirements-lock.txt ]; then
+          pip-audit --requirement requirements-lock.txt || true
+        else
+          # Fallback: install project and audit installed packages
+          uv pip install -e .
+          pip-audit || true
+        fi
+
+    - name: Check for high/critical vulnerabilities
+      run: |
+        echo "🔍 Analyzing scan results..."
+        VULN_COUNT=0
+
+        # Check Bandit for high-severity issues
+        if [ -f bandit-report.json ]; then
+          HIGH_COUNT=$(cat bandit-report.json | jq '[.results[]? | select(.issue_severity == "HIGH" or .issue_severity == "MEDIUM")] | length' 2>/dev/null || echo "0")
+          if [ "$HIGH_COUNT" -gt 0 ]; then
+            echo "❌ Found $HIGH_COUNT high/medium severity code issues"
+            VULN_COUNT=$((VULN_COUNT + HIGH_COUNT))
+          fi
+        fi
+
+        # Check dependencies
+        if [ -f requirements-lock.txt ]; then
+          AUDIT_OUTPUT=$(pip-audit --requirement requirements-lock.txt 2>&1 || true)
+          AUDIT_COUNT=$(echo "$AUDIT_OUTPUT" | grep -c "Found.*known vulnerability" || echo "0")
+
+          if [ "$AUDIT_COUNT" -gt 0 ]; then
+            echo "❌ Found $AUDIT_COUNT vulnerable dependencies"
+            VULN_COUNT=$((VULN_COUNT + AUDIT_COUNT))
+          fi
+        else
+          # Fallback check
+          AUDIT_OUTPUT=$(pip-audit 2>&1 || true)
+          AUDIT_COUNT=$(echo "$AUDIT_OUTPUT" | grep -c "Found.*known vulnerability" || echo "0")
+
+          if [ "$AUDIT_COUNT" -gt 0 ]; then
+            echo "❌ Found $AUDIT_COUNT vulnerable dependencies"
+            VULN_COUNT=$((VULN_COUNT + AUDIT_COUNT))
+          fi
+        fi
+
+        # Fail if any high/critical issues found
+        if [ "$VULN_COUNT" -gt 0 ]; then
+          echo "❌ BLOCKING: Found $VULN_COUNT security issue(s) that must be fixed"
+          echo "Please update vulnerable dependencies and fix code issues"
+          exit 1
+        else
+          echo "✅ No blocking security issues found in project code"
+        fi
+
+    - name: Upload security scan results
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: security-scan-results
+        path: |
+          bandit-report.json
+          requirements-lock.txt
+        retention-days: 7
+
+    - name: Comment on PR with results
+      if: github.event_name == 'pull_request'
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const comment = `## 🔒 Security Scan Complete
+
+          **Code Security:** ✅ Checked with Bandit
+          **Dependencies:** ✅ Checked with pip-audit
+
+          All security checks passed! See Actions logs for details.`;
+
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: comment
+          });
+
