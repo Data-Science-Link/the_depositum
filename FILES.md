@@ -60,8 +60,8 @@ This document provides a complete listing of all files in The Depositum reposito
 #### Roman Catechism
 | File | Description |
 |------|-------------|
-| `data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py` | Extraction script that converts RTF files to Markdown with proper header detection |
-| `data_engineering/data_sources/catholic_catechism_trent/README.md` | Extraction guide with RTF parsing details and header detection patterns |
+| `data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py` | Extraction script that converts PDF files to Markdown with comprehensive header detection and italic formatting |
+| `data_engineering/data_sources/catholic_catechism_trent/README.md` | Extraction guide with PDF parsing details, header detection methods, and content preservation rules |
 
 #### Data Sources Overview
 | File | Description |
