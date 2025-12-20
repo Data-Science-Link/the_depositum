@@ -40,1216 +40,1162 @@ Roman edition of 1907 and the Turin edition of 1914. The purpose in the present 
 the sense of the original as exactly as possible in clear, dignified, modern English. 
 The translation and preface by John A. McHugh, O.P. and Charles J. Callan, O.P. (circa 1923) 
  
-PREFACE.............................................................................................................................................25 
-ORIGIN OF THE ROMAN CATECHISM..........................................................................................25 
-AUTHORITY AND EXCELLENCE OF THE ROMAN CATECHISM ...............................................26 
- 
-CATECHISM OF THE COUNCIL OF TRENT FOR PARISH PRIESTS..............................................29 
- 
-INTRODUCTORY.................................................................................................................................29 
-The Necessity Of Religious Instruction .........................................................................................29 
-Need of an Authoritative Catholic Catechism................................................................................29 
-The Nature of this Work ................................................................................................................30 
-The Ends of Religious Instruction..................................................................................................30 
-Knowledge Of Christ .....................................................................................................................31 
-Observance Of The Commandments ...........................................................................................31 
-Love Of God ..................................................................................................................................31 
-The Means Required for Religious Instruction..............................................................................31 
-Instruction Should Be Accommodated To The Capacity Of The Hearer ......................................32 
-Zeal................................................................................................................................................32 
-Study Of The Word Of God...........................................................................................................32 
-Division of this Catechism .............................................................................................................32 
-How This Work Is To Be Used ......................................................................................................33 
- 
-# PART I : THE CREED..........................................................................................................................33 
-Faith ..................................................................................................................................................33 
-Necessity Of Faith.............................................................................................................................33 
-Unity Of Faith ....................................................................................................................................33 
-The Creed .........................................................................................................................................34 
-Division Of The Creed.......................................................................................................................34 
- 
+PREFACE
+ORIGIN OF THE ROMAN CATECHISM
+AUTHORITY AND EXCELLENCE OF THE ROMAN CATECHISM 
+CATECHISM OF THE COUNCIL OF TRENT FOR PARISH PRIESTS
+INTRODUCTORY
+The Necessity Of Religious Instruction 
+Need of an Authoritative Catholic Catechism
+The Nature of this Work 
+The Ends of Religious Instruction
+Knowledge Of Christ 
+Observance Of The Commandments 
+Love Of God 
+The Means Required for Religious Instruction
+Instruction Should Be Accommodated To The Capacity Of The Hearer 
+Zeal
+Study Of The Word Of God
+Division of this Catechism 
+How This Work Is To Be Used 
+# PART I : THE CREED
+Faith 
+### Necessity Of Faith
+Unity Of Faith 
+The Creed 
+Division Of The Creed
 ## ARTICLE I : "I BELIEVE IN GOD, THE FATHER ALMIGHTY, CREATOR OF HEAVEN AND 
-EARTH" ............................................................................................................................................34 
-Meaning Of This Article.................................................................................................................34 
-"I Believe" ......................................................................................................................................35 
-Faith Excludes Doubt ....................................................................................................................35 
-Faith Excludes Curiosity................................................................................................................35 
+EARTH Meaning Of This Article
+"I Believe" 
+Faith Excludes Doubt 
+Faith Excludes Curiosity
 
-Faith Requires Open Profession...................................................................................................35 
-"In God" .........................................................................................................................................36 
-Knowledge Of God More Easily Obtained Through Faith Than Through Reason........................36 
-Knowledge Of God Obtained Through Faith Is Clearer................................................................36 
-Knowledge Of God Obtained Through Faith Is More Certain.......................................................36 
-Knowledge Of God Obtained Through Faith Is More Ample And Exalted....................................37 
-The Unity Of Nature In God...........................................................................................................37 
-The Trinity Of Persons In God.......................................................................................................37 
-"The Father" ..................................................................................................................................38 
-God Is Called Father Because He Is Creator And Ruler ..............................................................38 
-God Is Called Father Because He Adopts Christians Through Grace..........................................38 
-The Name Father Also Discloses The Plurality Of Persons In God..............................................38 
-The Doctrine Of The Trinity...........................................................................................................38 
-Practical Admonitions Concerning The Mystery Of The Trinity ....................................................39 
-"Almighty" ......................................................................................................................................39 
-Meaning Of The Term Almighty"...................................................................................................39 
-Why Omnipotence Alone Is Mentioned In The: Creed..................................................................40 
-Advantages Of Faith In God’s Omnipotence.................................................................................40 
-Not Three Almighties But One Almighty........................................................................................41 
-"Creator"........................................................................................................................................41 
-"Of Heaven and Earth"..................................................................................................................41 
-Creation Of The World Of Spirits...................................................................................................41 
-Formation Of The Universe...........................................................................................................42 
-Production Of Man ........................................................................................................................42 
-"Of all Things Visible and Invisible"...............................................................................................42 
-God Preserves, Rules And Moves All Created Things .................................................................42 
-Creation Is The Work Of The Three Persons................................................................................43 
- 
-## ARTICLE II : "AND IN JESUS CHRIST, HIS ONLY SON, OUR LORD"........................................43 
-Advantages Of Faith In This Article...............................................................................................43 
-Necessity Of Faith In This Article..................................................................................................44 
-"Jesus"...........................................................................................................................................44 
-"Christ"...........................................................................................................................................45 
-"His Only Son"...............................................................................................................................46 
-"Our Lord"......................................................................................................................................46 
-Duties Owed To Christ Our Lord...................................................................................................47 
- 
-## ARTICLE III : "WHO WAS CONCEIVED BY THE HOLY GHOST, BORN OF THE VIRGIN MARY"
-..........................................................................................................................................................47 
-Importance Of This Article.............................................................................................................48 
-First Part of this Article: "Who was Conceived,'................................................................................48 
-"By the Holy Ghost".......................................................................................................................48 
-In The Incarnation Some Things Were Natural, Others Supernatural..........................................49 
-How To Profit By The Mystery Of The Incarnation........................................................................49 
-Second Part Of This Article: "Born Of The Virgin Mary" ...............................................................50 
-The Nativity Of Christ Transcends The Order Of Nature..............................................................50 
-Christ Compared to Adam" Mary to Eve .......................................................................................50 
-Types and Prophecies of the Conception and Nativity .................................................................50 
-Lessons which this Article Teaches ..............................................................................................51 
-Humility And Poverty Of Christ......................................................................................................51 
-Elevation And Dignity Of Man .......................................................................................................51 
-Duty Of Spiritual Nativity ...............................................................................................................51 
- 
-## ARTICLE IV : "Suffered Under Pontius Pilate, Was Crucified, Dead, And Buried'".................52 
-Importance Of This Article.............................................................................................................52 
-First Part of this Article: '"Suffered Under Pontius Pilate, was Crucified”,.....................................52 
+Faith Requires Open Profession
+"In God" 
+Knowledge Of God More Easily Obtained Through Faith Than Through Reason
+Knowledge Of God Obtained Through Faith Is Clearer
+Knowledge Of God Obtained Through Faith Is More Certain
+Knowledge Of God Obtained Through Faith Is More Ample And Exalted
+The Unity Of Nature In God
+The Trinity Of Persons In God
+"The Father" 
+God Is Called Father Because He Is Creator And Ruler 
+God Is Called Father Because He Adopts Christians Through Grace
+The Name Father Also Discloses The Plurality Of Persons In God
+The Doctrine Of The Trinity
+Practical Admonitions Concerning The Mystery Of The Trinity 
+"Almighty" 
+Meaning Of The Term Almighty"
+Why Omnipotence Alone Is Mentioned In The: Creed
+### Advantages Of Faith In God’s Omnipotence
+Not Three Almighties But One Almighty
+"Creator"
+"Of Heaven and Earth"
+Creation Of The World Of Spirits
+Formation Of The Universe
+Production Of Man 
+"Of all Things Visible and Invisible"
+God Preserves, Rules And Moves All Created Things 
+Creation Is The Work Of The Three Persons
+## ARTICLE II : "AND IN JESUS CHRIST, HIS ONLY SON, OUR LORD Advantages Of Faith In This Article
+Necessity Of Faith In This Article
+"Jesus"
+"Christ"
+"His Only Son"
+"Our Lord"
+Duties Owed To Christ Our Lord
+## ARTICLE III : "WHO WAS CONCEIVED BY THE HOLY GHOST, BORN OF THE VIRGIN MARY Importance Of This Article
+First Part of this Article: "Who was Conceived,'
+"By the Holy Ghost"
+In The Incarnation Some Things Were Natural, Others Supernatural
+How To Profit By The Mystery Of The Incarnation
+### Second Part Of This Article: "Born Of The Virgin Mary" 
+The Nativity Of Christ Transcends The Order Of Nature
+Christ Compared to Adam" Mary to Eve 
+Types and Prophecies of the Conception and Nativity 
+Lessons which this Article Teaches 
+Humility And Poverty Of Christ
+Elevation And Dignity Of Man 
+Duty Of Spiritual Nativity 
+## ARTICLE IV : "Suffered Under Pontius Pilate, Was Crucified, Dead, And Buried' Importance Of This Article
+First Part of this Article: '"Suffered Under Pontius Pilate, was Crucified”,
 
-"Suffered," .....................................................................................................................................52 
-"Under Pontius Pilate"...................................................................................................................52 
-"Was Crucified"..............................................................................................................................53 
-Importance Of The History Of The Passion ..................................................................................53 
-Figures And Prophecies Of The Passion And Death Of The Saviour...........................................53 
-Second Part Of This Article: "Dead, And Buried"..........................................................................54 
-Christ Really Died..........................................................................................................................54 
-Christ Died Freely..........................................................................................................................54 
-The Thought Of Christ's Death Should Excite Our Love And Gratitude .......................................54 
-Christ Was Really Buried ..............................................................................................................55 
-Circumstances Of Christ’s Burial...................................................................................................55 
-Useful Considerations on the Passion ..........................................................................................55 
-The Dignity Of The Sufferer ..........................................................................................................55 
-Reasons Why Christ Suffered.......................................................................................................56 
-Christ Was Delivered Over To Death By The Father And By Himself..........................................56 
-The: Bitterness Of Christ's Passion...............................................................................................56 
-Fruits Of Christ's Passion..............................................................................................................57 
-Christ’s Passion, -- A Satisfaction, A Sacrifice, A Redemption An Example ................................57 
-Admonition.....................................................................................................................................58 
- 
+"Suffered," 
+"Under Pontius Pilate"
+"Was Crucified"
+Importance Of The History Of The Passion 
+Figures And Prophecies Of The Passion And Death Of The Saviour
+### Second Part Of This Article: "Dead, And Buried"
+Christ Really Died
+Christ Died Freely
+The Thought Of Christ's Death Should Excite Our Love And Gratitude 
+Christ Was Really Buried 
+Circumstances Of Christ’s Burial
+Useful Considerations on the Passion 
+The Dignity Of The Sufferer 
+Reasons Why Christ Suffered
+Christ Was Delivered Over To Death By The Father And By Himself
+The: Bitterness Of Christ's Passion
+Fruits Of Christ's Passion
+Christ’s Passion, -- A Satisfaction, A Sacrifice, A Redemption An Example 
+Admonition
 ## ARTICLE V : "HE DESCENDED INTO HELL, THE THIRD DAY HE ROSE AGAIN FROM THE 
-DEAD" ..............................................................................................................................................58 
-Importance Of This Article.............................................................................................................58 
-First Part of this Article: "He Descended into Hell"........................................................................58 
-"Hell"..............................................................................................................................................59 
-Different Abodes Called Hell"........................................................................................................59 
-"He Descended" ............................................................................................................................59 
-Why He Descended into Hell ........................................................................................................60 
-To Liberate The Just .....................................................................................................................60 
-To Proclaim His Power..................................................................................................................60 
-Second Part of this Article: "The Third Day He arose again from the Dead"................................60 
-"He arose Again" ...........................................................................................................................61 
-"From the Dead"............................................................................................................................61 
-"The Third Day" .............................................................................................................................61 
-"According to the Scriptures".........................................................................................................62 
-Three Useful Considerations on this Article..................................................................................62 
-Necessity Of The Resurrection .....................................................................................................62 
-Ends Of The Resurrection.............................................................................................................63 
-Advantages Of The: Resurrection.................................................................................................63 
-Signs Of Spiritual Resurrection .....................................................................................................63 
- 
+DEAD Importance Of This Article
+First Part of this Article: "He Descended into Hell"
+"Hell"
+Different Abodes Called Hell"
+"He Descended" 
+Why He Descended into Hell 
+To Liberate The Just 
+To Proclaim His Power
+Second Part of this Article: "The Third Day He arose again from the Dead"
+"He arose Again" 
+"From the Dead"
+"The Third Day" 
+"According to the Scriptures"
+Three Useful Considerations on this Article
+Necessity Of The Resurrection 
+Ends Of The Resurrection
+Advantages Of The: Resurrection
+Signs Of Spiritual Resurrection 
 ## ARTICLE VI : "HE ASCENDED INTO HEAVEN, SITTETH AT THE RIGHT HAND OF GOD THE 
-FATHER ALMIGHTY"......................................................................................................................64 
-Importance Of This Article.............................................................................................................64 
-First Part of this Article: "He Ascended into Heaven"....................................................................64 
-"Into Heaven".................................................................................................................................64 
-"He Ascended" ..............................................................................................................................64 
-Second Part of this Article: "Sitteth at the Right Hand of God the Father Almighty".....................65 
-"At the Right Hand" .......................................................................................................................65 
-"Sitteth"..........................................................................................................................................65 
-Reflections on the Ascension:.......................................................................................................65 
-Its History.......................................................................................................................................65 
-Greatness Of This Mystery............................................................................................................65 
-Reasons Of The Ascension...........................................................................................................66 
-Results Of The Ascension.............................................................................................................66 
-Virtues Promoted By The Ascension. ...........................................................................................67 
+FATHER ALMIGHTY Importance Of This Article
+First Part of this Article: "He Ascended into Heaven"
+"Into Heaven"
+"He Ascended" 
+Second Part of this Article: "Sitteth at the Right Hand of God the Father Almighty"
+"At the Right Hand" 
+"Sitteth"
+Reflections on the Ascension:
+Its History
+Greatness Of This Mystery
+Reasons Of The Ascension
+Results Of The Ascension
+Virtues Promoted By The Ascension. 
 
-The Ascension Benefits The Church And The Individual..............................................................67 
+The Ascension Benefits The Church And The Individual
 ## ARTICLE VII : "FROM THENCE HE SHALL COME TO JUDGE THE LIVING AND THE DEAD"68 
-Meaning Of This Article.................................................................................................................68 
-"From Thence He Shall Come" .....................................................................................................68 
-"To Judge the Living and the Dead"..............................................................................................68 
-Two Judgments .............................................................................................................................68 
-Reasons For General Judgment...................................................................................................69 
-This Truth has Rightly been made an Article of the Creed ...........................................................69 
-Circumstances of the Judgment:...................................................................................................70 
-The Judge......................................................................................................................................70 
-Signs Of The General Judgment...................................................................................................70 
-The Sentence Of The Just ............................................................................................................70 
-The Sentence Of The Wicked .......................................................................................................71 
-Importance of Instruction on this Article........................................................................................71 
- 
-## ARTICLE VIII : "I BELIEVE IN THE HOLY GHOST"......................................................................72 
-Importance Of This Article.............................................................................................................72 
-"Holy Ghost" ..................................................................................................................................72 
-"I Believe in the Holy Ghost" .........................................................................................................73 
-The Holy Ghost Is Equal To The Father And The Son .................................................................73 
-The Holy Ghost Is Distinct From The Father And The Son ..........................................................73 
-"The Lord"......................................................................................................................................74 
-"Life-Giver" ....................................................................................................................................74 
-"Who Proceedeth from the Father and the Son"...........................................................................74 
-Certain Divine Works are Appropriated to the Holy Ghost............................................................75 
-Creation, Government, Life ...........................................................................................................75 
-The Seven Gifts.............................................................................................................................75 
-Justifying Grace.............................................................................................................................75 
- 
-## ARTICLE IX : "I BELIEVE IN THE HOLY CATHOLIC CHURCH; THE COMMUNION OF SAINTS"
-..........................................................................................................................................................76 
-The Importance Of This Article......................................................................................................76 
-First Part Of This Article : "I Believe In The Holy Catholic Church................................................76 
-"Church" ........................................................................................................................................76 
-Mysteries Which The Word Church Comprises ............................................................................77 
-Other Names Given The Church In Scripture ...............................................................................77 
-The Parts of the Church ................................................................................................................77 
-The Members Of The Church Militant...........................................................................................78 
-Those Who Are Not Members Of The Church..............................................................................78 
-Other Uses of the Word "Church" .................................................................................................78 
-The Marks Of The Church.............................................................................................................79 
-"One'..............................................................................................................................................79 
-Unity In Government .....................................................................................................................79 
-Unity In Spirit, Hope And Faith......................................................................................................80 
-"Holy".............................................................................................................................................80 
-"Catholic".......................................................................................................................................81 
-Apostolic........................................................................................................................................81 
-Figures of the Church....................................................................................................................82 
-"I Believe the Holy Catholic Church".............................................................................................82 
-Second Part of this Article: "The Communion of Saints"...............................................................83 
-Importance Of This Truth ..............................................................................................................83 
-Meaning of "The Communion of Saints" .......................................................................................83 
-Communion Of Good Works .........................................................................................................83 
-Those Who Share In This Communion.........................................................................................84 
-Communion In Other Blessings.....................................................................................................84 
+### Meaning Of This Article
+"From Thence He Shall Come" 
+"To Judge the Living and the Dead"
+Two Judgments 
+Reasons For General Judgment
+This Truth has Rightly been made an Article of the Creed 
+Circumstances of the Judgment:
+The Judge
+Signs Of The General Judgment
+The Sentence Of The Just 
+The Sentence Of The Wicked 
+Importance of Instruction on this Article
+## ARTICLE VIII : "I BELIEVE IN THE HOLY GHOST Importance Of This Article
+"Holy Ghost" 
+"I Believe in the Holy Ghost" 
+The Holy Ghost Is Equal To The Father And The Son 
+The Holy Ghost Is Distinct From The Father And The Son 
+"The Lord"
+"Life-Giver" 
+"Who Proceedeth from the Father and the Son"
+Certain Divine Works are Appropriated to the Holy Ghost
+Creation, Government, Life 
+The Seven Gifts
+Justifying Grace
+## ARTICLE IX : "I BELIEVE IN THE HOLY CATHOLIC CHURCH; THE COMMUNION OF SAINTS The Importance Of This Article
+### First Part Of This Article : "I Believe In The Holy Catholic Church
+"Church" 
+Mysteries Which The Word Church Comprises 
+Other Names Given The Church In Scripture 
+The Parts of the Church 
+The Members Of The Church Militant
+Those Who Are Not Members Of The Church
+Other Uses of the Word "Church" 
+The Marks Of The Church
+"One'
+Unity In Government 
+Unity In Spirit, Hope And Faith
+"Holy"
+"Catholic"
+Apostolic
+Figures of the Church
+"I Believe the Holy Catholic Church"
+Second Part of this Article: "The Communion of Saints"
+Importance Of This Truth 
+Meaning of "The Communion of Saints" 
+Communion Of Good Works 
+Those Who Share In This Communion
+Communion In Other Blessings
 
-## ARTICLE X : "THE FORGIVENESS OF SINS"...............................................................................84 
-Importance Of This Article.............................................................................................................84 
-The Church Has the Power of Forgiving Sins...............................................................................85 
-Extent of this Power: .....................................................................................................................85 
-All Sins That Precede Baptism......................................................................................................85 
-All Sins Committed After Baptism .................................................................................................85 
-Limitation of this Power: ................................................................................................................86 
-It Is Not Limited As To Sins, Persons, Or Time.............................................................................86 
-It Is Limited As To Its Ministers And Exercise...............................................................................86 
-Greatness of this Power................................................................................................................86 
-Sin Can Be Forgiven Only By The Power Of God ........................................................................86 
-This Power Communicated To None Before Christ......................................................................87 
-Sin Remitted Through The Blood Of Christ...................................................................................87 
-The Great Evil From Which Forgiveness Delivers Man................................................................87 
-Exhortation: ...................................................................................................................................88 
-This Remedy To Be Used .............................................................................................................88 
-Abuse To Be Guarded Against......................................................................................................88 
- 
-## ARTICLE XI : "THE RESURRECTION OF THE BODY" ................................................................88 
-Importance Of This Article.............................................................................................................88 
-"The Resurrection of the Body".....................................................................................................89 
-The Fact of the Resurrection:........................................................................................................89 
-Examples And Proofs Derived From Scripture .............................................................................89 
-Analogies From Nature .................................................................................................................89 
-Arguments Drawn From Reason...................................................................................................90 
-All Shall Rise .................................................................................................................................90 
-The Body Shall Rise Substantially the Same................................................................................91 
-Restoration Of All That Pertains To The Nature And Adornment Of The Body............................91 
-Restoration Of All That Pertains To The Integrity Of The Body....................................................92 
-The Condition of the Risen Body Shall be Different......................................................................92 
-Immortality.....................................................................................................................................92 
-The Qualities Of A Glorified Body .................................................................................................93 
-Impassibility...................................................................................................................................93 
-Brightness......................................................................................................................................93 
-Agility.............................................................................................................................................93 
-Subtility..........................................................................................................................................93 
-Advantages of Deep Meditation on this Article .............................................................................94 
- 
-## ARTICLE XII : "LIFE EVERLASTING"............................................................................................94 
-Importance Of This Article.............................................................................................................94 
-"Life Everlasting" ...........................................................................................................................95 
-"Everlasting" ..................................................................................................................................95 
-Life.................................................................................................................................................95 
-Negative and Positive Elements of Eternal Life............................................................................96 
-The Negative .................................................................................................................................96 
-The Positive...................................................................................................................................96 
-Essential Happiness......................................................................................................................96 
-The Light Of Glory.........................................................................................................................97 
-The Beatific Vision.........................................................................................................................97 
-An Illustration Of This Truth...........................................................................................................97 
-Accessory Happiness....................................................................................................................98 
-Glory..............................................................................................................................................98 
-Honour...........................................................................................................................................98 
-Peace ............................................................................................................................................98 
-How to Arrive at the Enjoyment of this Happiness........................................................................99 
+## ARTICLE X : "THE FORGIVENESS OF SINS Importance Of This Article
+The Church Has the Power of Forgiving Sins
+Extent of this Power: 
+All Sins That Precede Baptism
+All Sins Committed After Baptism 
+Limitation of this Power: 
+It Is Not Limited As To Sins, Persons, Or Time
+It Is Limited As To Its Ministers And Exercise
+Greatness of this Power
+Sin Can Be Forgiven Only By The Power Of God 
+This Power Communicated To None Before Christ
+Sin Remitted Through The Blood Of Christ
+The Great Evil From Which Forgiveness Delivers Man
+Exhortation: 
+This Remedy To Be Used 
+Abuse To Be Guarded Against
+## ARTICLE XI : "THE RESURRECTION OF THE BODY" 
+### Importance Of This Article
+"The Resurrection of the Body"
+The Fact of the Resurrection:
+Examples And Proofs Derived From Scripture 
+Analogies From Nature 
+Arguments Drawn From Reason
+All Shall Rise 
+The Body Shall Rise Substantially the Same
+Restoration Of All That Pertains To The Nature And Adornment Of The Body
+Restoration Of All That Pertains To The Integrity Of The Body
+The Condition of the Risen Body Shall be Different
+Immortality
+The Qualities Of A Glorified Body 
+Impassibility
+Brightness
+Agility
+Subtility
+Advantages of Deep Meditation on this Article 
+## ARTICLE XII : "LIFE EVERLASTING Importance Of This Article
+"Life Everlasting" 
+"Everlasting" 
+Life
+Negative and Positive Elements of Eternal Life
+The Negative 
+The Positive
+Essential Happiness
+The Light Of Glory
+The Beatific Vision
+An Illustration Of This Truth
+Accessory Happiness
+Glory
+Honour
+Peace 
+How to Arrive at the Enjoyment of this Happiness
 
-# PART II : THE SACRAMENTS............................................................................................................99 
-Importance Of Instruction On The Sacraments.............................................................................99 
-The Word "Sacrament"..................................................................................................................99 
-Definition of a Sacrament............................................................................................................100 
-"A Sacrament is a Sign" ..............................................................................................................100 
-Proof From Reason.....................................................................................................................100 
-Proof From Scripture...................................................................................................................101 
-"Sign of a Sacred Thing" : Kind of Sign Meant Here...................................................................101 
-Natural Signs...............................................................................................................................101 
-Signs Invented By Man, ..............................................................................................................101 
-Signs Instituted By God...............................................................................................................102 
-Kind of Sacred Thing Meant Here...............................................................................................102 
-Other Sacred Things Signified By The Sacraments....................................................................102 
-All The Sacraments Signify Something Present, Something Past, Something Future:..............102 
-A Sacrament Sometimes Signifies The Presence Of More Than One Thing.............................103 
-Why the Sacraments were Instituted ..........................................................................................103 
-Constituent Parts of the Sacraments ..........................................................................................104 
-Ceremonies Used in the Administration of the Sacraments .......................................................105 
-The Number Of The Sacraments................................................................................................105 
-Comparisons among the Sacraments.........................................................................................106 
-The Author of the Sacraments ....................................................................................................106 
-The Ministers of the Sacraments.................................................................................................106 
-Unworthiness Of The Minister And Validity.................................................................................107 
-Lawfulness Of Administration......................................................................................................107 
-Effects of the Sacraments ...........................................................................................................108 
-First Effect: Justifying Grace .......................................................................................................108 
-Second Effect: Sacramental Character.......................................................................................109 
-How to Make Instruction on the Sacraments Profitable..............................................................109 
- 
-THE SACRAMENT OF BAPTISM..................................................................................................110 
-Importance Of Instruction On Baptism........................................................................................110 
-Names of this Sacrament............................................................................................................110 
-Definition Of Baptism...................................................................................................................111 
-Constituent Elements Of Baptism ...............................................................................................111 
-Matter of Baptism ........................................................................................................................111 
-Testimony Of Scripture Concerning The Matter Of Baptism.......................................................111 
-Figures.........................................................................................................................................112 
-Prophecies...................................................................................................................................112 
-Fitness.........................................................................................................................................112 
-Chrism Added To Water For Solemn Baptism............................................................................112 
-Form of Baptism ..........................................................................................................................113 
-Words Of The Form.....................................................................................................................113 
-Essential And Non-Essential Words Of The Form......................................................................113 
-Baptism In The Name Of Christ ..................................................................................................114 
-Administration of Baptism............................................................................................................114 
-Institution Of Baptism ..................................................................................................................114 
-Baptism Instituted At Christ's Baptism ........................................................................................115 
-Baptism Made Obligatory After Christ's Resurrection.................................................................115 
-Reflection.....................................................................................................................................115 
-The Ministers of Baptism.............................................................................................................116 
-Bishops And Priests The Ordinary Ministers...............................................................................116 
-Deacons Extraordinary Ministers Of Baptism .............................................................................116 
-Ministers In Case Of Necessity ...................................................................................................116 
-The Sponsors at Baptism............................................................................................................117 
-Why Sponsors Are Required At Baptism ....................................................................................117 
-Antiquity Of This Law ..................................................................................................................117 
+# PART II : THE SACRAMENTS
+Importance Of Instruction On The Sacraments
+The Word "Sacrament"
+Definition of a Sacrament
+"A Sacrament is a Sign" 
+Proof From Reason
+Proof From Scripture
+"Sign of a Sacred Thing" : Kind of Sign Meant Here
+Natural Signs
+Signs Invented By Man, 
+Signs Instituted By God
+Kind of Sacred Thing Meant Here
+Other Sacred Things Signified By The Sacraments
+All The Sacraments Signify Something Present, Something Past, Something Future:
+A Sacrament Sometimes Signifies The Presence Of More Than One Thing
+Why the Sacraments were Instituted 
+Constituent Parts of the Sacraments 
+Ceremonies Used in the Administration of the Sacraments 
+The Number Of The Sacraments
+Comparisons among the Sacraments
+The Author of the Sacraments 
+The Ministers of the Sacraments
+Unworthiness Of The Minister And Validity
+Lawfulness Of Administration
+Effects of the Sacraments 
+First Effect: Justifying Grace 
+Second Effect: Sacramental Character
+How to Make Instruction on the Sacraments Profitable
+THE SACRAMENT OF BAPTISM
+Importance Of Instruction On Baptism
+Names of this Sacrament
+### Definition Of Baptism
+Constituent Elements Of Baptism 
+Matter of Baptism 
+Testimony Of Scripture Concerning The Matter Of Baptism
+Figures
+Prophecies
+Fitness
+Chrism Added To Water For Solemn Baptism
+Form of Baptism 
+Words Of The Form
+Essential And Non-Essential Words Of The Form
+Baptism In The Name Of Christ 
+Administration of Baptism
+Institution Of Baptism 
+Baptism Instituted At Christ's Baptism 
+Baptism Made Obligatory After Christ's Resurrection
+Reflection
+The Ministers of Baptism
+Bishops And Priests The Ordinary Ministers
+Deacons Extraordinary Ministers Of Baptism 
+Ministers In Case Of Necessity 
+The Sponsors at Baptism
+Why Sponsors Are Required At Baptism 
+Antiquity Of This Law 
 
-Affinity Contracted By Sponsors..................................................................................................117 
-Duties Of Sponsors .....................................................................................................................118 
-Who May Not Be Sponsors.........................................................................................................118 
-Number Of Sponsors...................................................................................................................118 
-Necessity of Baptism...................................................................................................................118 
-Infant Baptism: It's Necessity ......................................................................................................119 
-Infants Receive The Graces Of Baptism.....................................................................................119 
-Baptism Of Infants Should Not Be Delayed ................................................................................119 
-Baptism Of Adults........................................................................................................................120 
-They Should Not Delay Their Baptism Unduly............................................................................120 
-Ordinarily They Are Not Baptised At Once..................................................................................120 
-In Case Of Necessity Adults May Be: Baptised At Once............................................................120 
-Dispositions for Baptism..............................................................................................................121 
-Intention.......................................................................................................................................121 
-Faith.............................................................................................................................................121 
-Repentance .................................................................................................................................121 
-Advantages To Be Derived From These Reflections..................................................................122 
-Effects of Baptism .......................................................................................................................122 
-First Effect Of Baptism: Remission Of Sin ..................................................................................122 
-Concupiscence Which Remains After Baptism Is No Sin...........................................................123 
-Further Proof Of The First Effect Of Baptism..............................................................................123 
-The Second Effect Of Baptism: Remission Of All Punishment Due To Sin................................123 
-Baptism Does Not Exempt From Penalties Of The Civil Law .....................................................124 
-Baptism Remits The Punishment Due To Original Sin After Death............................................124 
-Baptism Does Not Free Us From The Miseries Of Life...............................................................124 
-Baptism A Source Of Happiness To The Christian Even In This Life.........................................125 
-Third Effect Of Baptism: Grace Of Regeneration........................................................................125 
-Fourth Effect Of Baptism: Infused Virtues And Incorporation With Christ ..................................125 
-Why The Practice Of Virtue Is Difficult Even After Baptism........................................................126 
-Fifth Effect Of Baptism: Character Of Christian ..........................................................................126 
-Baptism Not To Be Repeated......................................................................................................126 
-In Conditional Baptism The Sacrament Is Not Repeated ...........................................................126 
-Sixth Effect Of Baptism: Opening The Gates Of Heaven ...........................................................127 
-Effects Of Baptism Foreshadowed In The Baptism Of Christ.....................................................127 
-Measure In Which Those Effects Are Obtained..........................................................................127 
-Ceremonies of Baptism...............................................................................................................127 
-Their Importance .........................................................................................................................127 
-Three Classes Of Ceremonies In Baptism..................................................................................128 
+Affinity Contracted By Sponsors
+Duties Of Sponsors 
+Who May Not Be Sponsors
+Number Of Sponsors
+Necessity of Baptism
+Infant Baptism: It's Necessity 
+Infants Receive The Graces Of Baptism
+Baptism Of Infants Should Not Be Delayed 
+Baptism Of Adults
+They Should Not Delay Their Baptism Unduly
+Ordinarily They Are Not Baptised At Once
+In Case Of Necessity Adults May Be: Baptised At Once
+Dispositions for Baptism
+Intention
+Faith
+Repentance 
+Advantages To Be Derived From These Reflections
+Effects of Baptism 
+First Effect Of Baptism: Remission Of Sin 
+Concupiscence Which Remains After Baptism Is No Sin
+Further Proof Of The First Effect Of Baptism
+The Second Effect Of Baptism: Remission Of All Punishment Due To Sin
+Baptism Does Not Exempt From Penalties Of The Civil Law 
+Baptism Remits The Punishment Due To Original Sin After Death
+Baptism Does Not Free Us From The Miseries Of Life
+Baptism A Source Of Happiness To The Christian Even In This Life
+Third Effect Of Baptism: Grace Of Regeneration
+Fourth Effect Of Baptism: Infused Virtues And Incorporation With Christ 
+Why The Practice Of Virtue Is Difficult Even After Baptism
+Fifth Effect Of Baptism: Character Of Christian 
+Baptism Not To Be Repeated
+In Conditional Baptism The Sacrament Is Not Repeated 
+Sixth Effect Of Baptism: Opening The Gates Of Heaven 
+Effects Of Baptism Foreshadowed In The Baptism Of Christ
+Measure In Which Those Effects Are Obtained
+Ceremonies of Baptism
+Their Importance 
+Three Classes Of Ceremonies In Baptism
 Ceremonies That Are Observed Before Coming To The Font: Consecration Of Baptismal Water
-.....................................................................................................................................................128 
-The Person To Be Baptised Stands At The Church Door...........................................................128 
-Catechetical Instruction...............................................................................................................128 
-The Exorcism...............................................................................................................................129 
-The Salt .......................................................................................................................................129 
-The Sign Of The Cross................................................................................................................129 
-The Saliva....................................................................................................................................129 
-The Ceremonies Observed After Coming To The Font ..............................................................129 
-The Renunciation Of Satan.........................................................................................................129 
-The Profession Of Faith ..............................................................................................................129 
-The Wish To Be Baptised............................................................................................................130 
-The Ceremonies That Follow Baptism: Chrism...........................................................................130 
-The White Garment.....................................................................................................................130 
-The Lighted Candle.....................................................................................................................130 
-The Name Given In Baptism .......................................................................................................130 
-Recapitulation..............................................................................................................................131 
 
-THE SACRAMENT OF CONFIRMATION......................................................................................131 
-Importance Of Instruction On Confirmation.................................................................................131 
-Name of this Sacrament..............................................................................................................131 
-Confirmation is a Sacrament.......................................................................................................132 
-Confirmation is Distinct from Baptism .........................................................................................132 
-Institution of Confirmation............................................................................................................133 
-Component Parts of Confirmation...............................................................................................133 
-The Matter ...................................................................................................................................133 
-The Remote Matter Of Confirmation Is Chrism...........................................................................133 
-The Appropriateness Of Chrism..................................................................................................134 
-Chrism To Be Consecrated By The Bishop ................................................................................134 
-The Form Of Confirmation...........................................................................................................134 
-Minister of Confirmation ..............................................................................................................135 
-Sponsors at Confirmation............................................................................................................135 
-The Subject of Confirmation........................................................................................................135 
-All Should Be Confirmed .............................................................................................................136 
-The Proper Age For Confirmation...............................................................................................136 
-Dispositions For Receiving Confirmation ....................................................................................136 
-The Effects of Confirmation.........................................................................................................136 
-The Grace Of Strength................................................................................................................137 
-Increase In Grace........................................................................................................................137 
-Character Of Soldier Of Christ ....................................................................................................137 
-Ceremonies Of Confirmation.......................................................................................................138 
-The Anointing Of The Forehead..................................................................................................138 
-The Sign Of The Cross................................................................................................................138 
-Time When Confirmation Should Be Conferred..........................................................................138 
-The Slap On The Cheek..............................................................................................................138 
-The Pax .......................................................................................................................................138 
-Admonition...................................................................................................................................139 
- 
-THE SACRAMENT OF THE EUCHARIST ....................................................................................139 
-Importance Of Instruction On The Eucharist...............................................................................139 
-Institution of the Eucharist...........................................................................................................139 
-Meaning of the Word "Eucharist" ................................................................................................139 
-Other Names Of This Sacrament................................................................................................140 
-The Eucharist Is a Sacrament Properly So Called......................................................................140 
-In What Respect The Eucharist Is A Sacrament.........................................................................141 
-How The Eucharist Differs From All The Other Sacraments ......................................................141 
-The Eucharist Is But One Sacrament..........................................................................................141 
-The Eucharist Signifies Three Things .........................................................................................142 
-Constituent Parts of the Eucharist...............................................................................................142 
-The Matter ...................................................................................................................................142 
-The First Element Of The Eucharist Is Bread .............................................................................142 
-The Sacramental Bread Must Be Wheaten.................................................................................142 
-The Sacramental Bread Should Be Unleavened ........................................................................143 
-Unleavened Bread Not Essential ................................................................................................143 
-Quantity Of The Bread ................................................................................................................143 
-The Second Element Of The Eucharist Is Wine..........................................................................143 
-Water Should Be Mixed With The Wine......................................................................................144 
-No Other Elements Pertain To This Sacrament..........................................................................144 
-Peculiar Fitness Of Bread And Wine...........................................................................................144 
-Form Of The Eucharist................................................................................................................145 
-Form To Be Used In The Consecration Of The Bread................................................................145 
-Not All The Words Used Are Essential .......................................................................................145 
-Form To Be Used In The Consecration Of The Wine.................................................................146 
-Explanation Of The Form Used In The Consecration Of The Wine............................................146 
+The Person To Be Baptised Stands At The Church Door
+Catechetical Instruction
+The Exorcism
+The Salt 
+The Sign Of The Cross
+The Saliva
+The Ceremonies Observed After Coming To The Font 
+The Renunciation Of Satan
+The Profession Of Faith 
+The Wish To Be Baptised
+The Ceremonies That Follow Baptism: Chrism
+The White Garment
+The Lighted Candle
+The Name Given In Baptism 
+Recapitulation
 
-Three Mysteries Of The Eucharist ..............................................................................................147 
-The Mystery of the Real Presence..............................................................................................148 
-Proof From Scripture...................................................................................................................148 
-Proof From The Teaching Of The Church...................................................................................148 
-Testimony Of The Fathers...........................................................................................................148 
-Teaching Of The Councils...........................................................................................................149 
-Two Great Benefits Of Proving The Real Presence....................................................................149 
-Faith Is Strengthened..................................................................................................................149 
-The Soul Is Gladdened................................................................................................................150 
-Meaning of the Real Presence....................................................................................................150 
-Christ Whole And Entire Is Present In The Eucharist .................................................................150 
-Presence In Virtue Of The Sacrament And In Virtue Of Concomitance .....................................150 
-Christ Whole And Entire Present Under Each Species ..............................................................151 
-Christ Whole And Entire Present In Every Part Of Each Species...............................................151 
-The Mystery of Transubstantiation..............................................................................................151 
-Proof From The Dogma Of The Real Presence..........................................................................151 
-Proof From The Councils ............................................................................................................152 
-Proof From Scripture...................................................................................................................152 
-Proof From The Fathers..............................................................................................................152 
-Why The Eucharist Is Called Bread After Consecration .............................................................152 
-The Meaning of Transubstantiation.............................................................................................153 
-Transubstantiation A Total Conversion.......................................................................................153 
-A Consequence Of Transubstantiation .......................................................................................153 
-The Mystery of the Accidents without a Subject .........................................................................154 
-Proof From The Preceding Dogmas ...........................................................................................154 
-Proof From The Teaching Of The Church...................................................................................154 
-Advantages Of This Mystery .......................................................................................................154 
-The Effects of the Eucharist ........................................................................................................155 
-The Eucharist Contains Christ And Is The Food Of The Soul ....................................................155 
-The Eucharist Gives Grace .........................................................................................................155 
-The Grace Of The Eucharist Sustains ........................................................................................155 
-The Grace Of The Eucharist Invigorates And Delights...............................................................156 
-The Eucharist Remits Venial Sins...............................................................................................156 
-The Eucharist Strengthens Against Temptation..........................................................................156 
-The Eucharist Facilitates The Attainment Of Eternal Life ...........................................................156 
-How The Effects Of The Eucharist May Be Developed And Illustrated......................................157 
-Recipient of the Eucharist ...........................................................................................................157 
-Threefold Manner Of Communicating.........................................................................................157 
-Necessity Of Previous Preparation For Communion ..................................................................157 
-Preparation Of Soul.....................................................................................................................158 
-Preparation Of Body....................................................................................................................158 
-The Obligation of Communion.....................................................................................................159 
-How Often Must Communion Be Received?...............................................................................159 
-The Church Desires The Faithful To Communicate Daily...........................................................159 
-The Church Commands; The Faithful To Communicate Once A Year.......................................159 
-Who Are Obliged By The Law Of Communion............................................................................160 
-The Rite of Administering Communion .......................................................................................160 
-Why The Celebrant Alone Receives Under Both Species..........................................................160 
-The Minister of the Eucharist.......................................................................................................161 
-Only Priests Have Power To Consecrate And Administer The Eucharist...................................161 
-The Laity Prohibited To Touch The Sacred Vessels...................................................................161 
-The Unworthiness Of The Minister Does Not Invalidate The Sacrament ...................................162 
-The Eucharist as a Sacrifice........................................................................................................162 
-Importance Of Instruction On The Mass .....................................................................................162 
-Distinction of Sacrament and Sacrifice .......................................................................................162 
-The Mass Is a True Sacrifice.......................................................................................................163 
+THE SACRAMENT OF CONFIRMATION
+Importance Of Instruction On Confirmation
+Name of this Sacrament
+Confirmation is a Sacrament
+Confirmation is Distinct from Baptism 
+Institution of Confirmation
+Component Parts of Confirmation
+The Matter 
+The Remote Matter Of Confirmation Is Chrism
+The Appropriateness Of Chrism
+Chrism To Be Consecrated By The Bishop 
+The Form Of Confirmation
+Minister of Confirmation 
+Sponsors at Confirmation
+The Subject of Confirmation
+All Should Be Confirmed 
+The Proper Age For Confirmation
+Dispositions For Receiving Confirmation 
+The Effects of Confirmation
+The Grace Of Strength
+Increase In Grace
+Character Of Soldier Of Christ 
+Ceremonies Of Confirmation
+The Anointing Of The Forehead
+The Sign Of The Cross
+Time When Confirmation Should Be Conferred
+The Slap On The Cheek
+The Pax 
+Admonition
+THE SACRAMENT OF THE EUCHARIST 
+Importance Of Instruction On The Eucharist
+Institution of the Eucharist
+Meaning of the Word "Eucharist" 
+Other Names Of This Sacrament
+The Eucharist Is a Sacrament Properly So Called
+In What Respect The Eucharist Is A Sacrament
+How The Eucharist Differs From All The Other Sacraments 
+The Eucharist Is But One Sacrament
+The Eucharist Signifies Three Things 
+Constituent Parts of the Eucharist
+The Matter 
+The First Element Of The Eucharist Is Bread 
+The Sacramental Bread Must Be Wheaten
+The Sacramental Bread Should Be Unleavened 
+Unleavened Bread Not Essential 
+Quantity Of The Bread 
+The Second Element Of The Eucharist Is Wine
+Water Should Be Mixed With The Wine
+No Other Elements Pertain To This Sacrament
+Peculiar Fitness Of Bread And Wine
+Form Of The Eucharist
+Form To Be Used In The Consecration Of The Bread
+Not All The Words Used Are Essential 
+Form To Be Used In The Consecration Of The Wine
+Explanation Of The Form Used In The Consecration Of The Wine
 
-Proof From The Council Of Trent................................................................................................163 
-Proof From Scripture...................................................................................................................163 
-Excellence of the Mass ...............................................................................................................164 
-The Mass Is The Same Sacrifice As That Of The Cross ............................................................164 
-The Mass A Sacrifice Of Praise, Thanksgiving And Propitiation ................................................164 
-The Mass Profits Both The Living And The Dead.......................................................................164 
-The Rites and ceremonies of the Mass.......................................................................................165 
- 
-THE SACRAMENT OF PENANCE................................................................................................165 
-Importance Of Instruction On This Sacrament............................................................................165 
-Different Meanings of the Word "Penance".................................................................................165 
-The Virtue of Penance.................................................................................................................166 
-Meaning Of Penance...................................................................................................................166 
-Penance Proved To Be A Virtue .................................................................................................166 
-The Steps Which Lead Up To This Virtue...................................................................................167 
-Penance as a Sacrament............................................................................................................167 
-Why Christ Instituted This Sacrament.........................................................................................168 
-Penance Is a Sacrament.............................................................................................................168 
-This Sacrament May Be Repeated .............................................................................................168 
-The Constituent Parts of Penance ..............................................................................................169 
-The Matter ...................................................................................................................................169 
-The Form Of Penance.................................................................................................................169 
-The Rites Observed in the Sacrament of Penance.....................................................................169 
-Effects of the Sacrament of Penance..........................................................................................170 
-The Necessity of the Sacrament of Penance..............................................................................170 
-The Three Integral Parts of Penance..........................................................................................171 
-Their Existence............................................................................................................................171 
-Their Nature.................................................................................................................................171 
-Necessity Of These Integral Parts ..............................................................................................171 
-The First Part of Penance.........................................................................................................172 
-Contrition .....................................................................................................................................172 
-The Meaning Of Contrition ..........................................................................................................172 
-Contrition Produces Sorrow ........................................................................................................172 
-Names Of Sorrow For Sin ...........................................................................................................173 
-Qualities of Sorrow for Sin...........................................................................................................173 
-It Should Be Supreme .................................................................................................................173 
-Sorrow For Sin Should Be Intense..............................................................................................174 
-Sorrow For Sin Should Be Universal...........................................................................................174 
-Conditions Required for Contrition..............................................................................................174 
-Detestation Of Sin .......................................................................................................................174 
-Intention Of Confession And Satisfaction....................................................................................175 
-Purpose Of Amendment..............................................................................................................175 
-Reasons For These Conditions...................................................................................................175 
-Forgiveness Of Injuries ...............................................................................................................175 
-The Effects of Contrition..............................................................................................................176 
-Means of Arousing True Contrition .............................................................................................176 
-The Second Part of Penance....................................................................................................176 
-Confession...................................................................................................................................176 
-Necessity Of Confession.............................................................................................................177 
-Advantages Of Confession..........................................................................................................177 
-Definition Of Confession..............................................................................................................177 
-Confession Instituted By Christ ...................................................................................................178 
-Rites Added By The Church........................................................................................................178 
-The Law of Confession................................................................................................................179 
-Proof Of The Obligation...............................................................................................................179 
-The Age At Which The Law Of Confession Obliges ...................................................................179 
+Three Mysteries Of The Eucharist 
+The Mystery of the Real Presence
+Proof From Scripture
+Proof From The Teaching Of The Church
+Testimony Of The Fathers
+Teaching Of The Councils
+Two Great Benefits Of Proving The Real Presence
+Faith Is Strengthened
+The Soul Is Gladdened
+Meaning of the Real Presence
+Christ Whole And Entire Is Present In The Eucharist 
+Presence In Virtue Of The Sacrament And In Virtue Of Concomitance 
+Christ Whole And Entire Present Under Each Species 
+Christ Whole And Entire Present In Every Part Of Each Species
+The Mystery of Transubstantiation
+Proof From The Dogma Of The Real Presence
+Proof From The Councils 
+Proof From Scripture
+Proof From The Fathers
+Why The Eucharist Is Called Bread After Consecration 
+The Meaning of Transubstantiation
+Transubstantiation A Total Conversion
+A Consequence Of Transubstantiation 
+The Mystery of the Accidents without a Subject 
+Proof From The Preceding Dogmas 
+Proof From The Teaching Of The Church
+### Advantages Of This Mystery 
+The Effects of the Eucharist 
+The Eucharist Contains Christ And Is The Food Of The Soul 
+The Eucharist Gives Grace 
+The Grace Of The Eucharist Sustains 
+The Grace Of The Eucharist Invigorates And Delights
+The Eucharist Remits Venial Sins
+The Eucharist Strengthens Against Temptation
+The Eucharist Facilitates The Attainment Of Eternal Life 
+How The Effects Of The Eucharist May Be Developed And Illustrated
+Recipient of the Eucharist 
+Threefold Manner Of Communicating
+### Necessity Of Previous Preparation For Communion 
+Preparation Of Soul
+Preparation Of Body
+The Obligation of Communion
+How Often Must Communion Be Received?
+The Church Desires The Faithful To Communicate Daily
+The Church Commands; The Faithful To Communicate Once A Year
+Who Are Obliged By The Law Of Communion
+The Rite of Administering Communion 
+Why The Celebrant Alone Receives Under Both Species
+The Minister of the Eucharist
+Only Priests Have Power To Consecrate And Administer The Eucharist
+The Laity Prohibited To Touch The Sacred Vessels
+The Unworthiness Of The Minister Does Not Invalidate The Sacrament 
+The Eucharist as a Sacrifice
+Importance Of Instruction On The Mass 
+Distinction of Sacrament and Sacrifice 
+The Mass Is a True Sacrifice
 
-At What Time The Law Of Confession Obliges...........................................................................179 
-The Qualities of Confession ........................................................................................................180 
-Confession Should Be Entire ......................................................................................................180 
-Sins Concealed ...........................................................................................................................181 
-Sins Forgotten .............................................................................................................................181 
-Confession Should Be Plain, Simple, Sincere ............................................................................181 
-Confession Should Be Prudent, Modest, Brief............................................................................181 
-Confession Should Be Made Privately And Often.......................................................................181 
-The Minister of the Sacrament of Penance.................................................................................182 
-The Usual Minister ......................................................................................................................182 
-The Minister In Danger Of Death ................................................................................................182 
-Qualifications Of The Minister .....................................................................................................182 
-The Confessor Must Observe The Seal Of Confession..............................................................183 
-Duties of the Confessor towards Various Classes of Penitents..................................................183 
-The Well Disposed Should Be Exhorted To Thanksgiving And Perseverance...........................183 
-The Indisposed Should Be Helped..............................................................................................183 
-Those Who Seek To Excuse Their Sins Should Be Corrected...................................................184 
-The Careless Should Be Rebuked..............................................................................................184 
-The Unprepared Should Be Dismissed Or Led To Good Disposition.........................................184 
-The Pastor Should Show The Wrong Of Human Respect..........................................................185 
-The Third Part of Penance........................................................................................................185 
-Satisfaction..................................................................................................................................185 
-General Meaning Of The Word "Satisfaction,"............................................................................185 
-Various Kinds Of Satisfaction To God.........................................................................................185 
-Elements Of Sacramental Satisfaction........................................................................................186 
-Necessity Of Satisfaction ............................................................................................................186 
-Advantages of Satisfaction..........................................................................................................186 
-It Is Required By God’s Justice And Mercy.................................................................................187 
-Satisfaction Atones To The Church ............................................................................................187 
-By Satisfaction We Are Made Like Unto Christ...........................................................................187 
-Satisfaction Heals The Wounds Of Sin.......................................................................................188 
-Satisfaction Disarms The Divine Vengeance..............................................................................188 
-Source of the Efficacy of Satisfactory Works ..............................................................................188 
-Conditions for Satisfaction...........................................................................................................189 
-Works Of Satisfaction Are Of Three Kinds..................................................................................189 
-One Can Satisfy For Another ......................................................................................................189 
-Duties of the Confessor as Regards Satisfaction........................................................................190 
-Restitution Must Be Insisted On..................................................................................................190 
-Quantity And Quality Of Penances Should Be Reasonable .......................................................190 
-Voluntary Works Of Penance Should Be Recommended...........................................................190 
-Admonition...................................................................................................................................191 
- 
-THE SACRAMENT OF EXTREME UNCTION...............................................................................191 
-Importance Of Instruction On Extreme Unction ..........................................................................191 
-Names of this Sacrament............................................................................................................191 
-Extreme Unction Is a True Sacrament........................................................................................191 
-Extreme Unction Is But One Sacrament .....................................................................................192 
-Essential Parts of Extreme Unction.............................................................................................192 
-The Matter Of Extreme Unction...................................................................................................192 
-The Form Of Extreme Unction ....................................................................................................192 
-The Ceremonies Of Extreme Unction .........................................................................................193 
-Institution of Extreme Unction .....................................................................................................193 
-The Subject of Extreme Unction..................................................................................................193 
-The Danger Must Arise From Sickness ......................................................................................194 
-The Person Anointed Must Have Attained The Use Of Reason.................................................194 
-Administration of Extreme Unction..............................................................................................194 
+Proof From The Council Of Trent
+Proof From Scripture
+Excellence of the Mass 
+The Mass Is The Same Sacrifice As That Of The Cross 
+The Mass A Sacrifice Of Praise, Thanksgiving And Propitiation 
+The Mass Profits Both The Living And The Dead
+The Rites and ceremonies of the Mass
+THE SACRAMENT OF PENANCE
+Importance Of Instruction On This Sacrament
+Different Meanings of the Word "Penance"
+The Virtue of Penance
+Meaning Of Penance
+Penance Proved To Be A Virtue 
+The Steps Which Lead Up To This Virtue
+Penance as a Sacrament
+Why Christ Instituted This Sacrament
+Penance Is a Sacrament
+This Sacrament May Be Repeated 
+The Constituent Parts of Penance 
+The Matter 
+The Form Of Penance
+The Rites Observed in the Sacrament of Penance
+Effects of the Sacrament of Penance
+The Necessity of the Sacrament of Penance
+The Three Integral Parts of Penance
+Their Existence
+Their Nature
+Necessity Of These Integral Parts 
+The First Part of Penance
+Contrition 
+The Meaning Of Contrition 
+Contrition Produces Sorrow 
+Names Of Sorrow For Sin 
+Qualities of Sorrow for Sin
+It Should Be Supreme 
+Sorrow For Sin Should Be Intense
+Sorrow For Sin Should Be Universal
+Conditions Required for Contrition
+Detestation Of Sin 
+Intention Of Confession And Satisfaction
+Purpose Of Amendment
+Reasons For These Conditions
+Forgiveness Of Injuries 
+The Effects of Contrition
+Means of Arousing True Contrition 
+The Second Part of Penance
+Confession
+Necessity Of Confession
+Advantages Of Confession
+Definition Of Confession
+Confession Instituted By Christ 
+Rites Added By The Church
+The Law of Confession
+Proof Of The Obligation
+The Age At Which The Law Of Confession Obliges 
 
-Dispositions for the Reception of Extreme Unction.....................................................................194 
-The Minister of Extreme Unction.................................................................................................195 
-The Effects of Extreme Unction...................................................................................................195 
-Admonition...................................................................................................................................196 
- 
-THE SACRAMENT OF HOLY ORDERS .......................................................................................196 
-Importance Of Instruction On This Sacrament............................................................................196 
-Dignity of this Sacrament ............................................................................................................197 
-Requirements in Candidates for Orders......................................................................................197 
-Holiness, Knowledge, Prudence .................................................................................................197 
-Divine Call ...................................................................................................................................197 
-Right Intention .............................................................................................................................198 
-The Twofold Power Conferred by this Sacrament ......................................................................198 
-The Power Of Orders ..................................................................................................................199 
-Greatness Of This Power............................................................................................................199 
-Names of this Sacrament............................................................................................................199 
-Holy Orders Is a Sacrament........................................................................................................199 
-Number of Orders........................................................................................................................200 
-Tonsure .......................................................................................................................................200 
-The Name "Cleric".......................................................................................................................200 
-Origin And Meaning Of Tonsure .................................................................................................200 
-The Minor Orders ........................................................................................................................201 
-Porter...........................................................................................................................................201 
-Reader.........................................................................................................................................201 
-Exorcist........................................................................................................................................202 
-Acolyte.........................................................................................................................................202 
-The Major Orders ........................................................................................................................202 
-Subdeacon ..................................................................................................................................202 
-Deacon ........................................................................................................................................203 
-Priest ...........................................................................................................................................203 
-Twofold Priesthood......................................................................................................................203 
-The Internal Priesthood...............................................................................................................203 
-The External Priesthood..............................................................................................................204 
-Functions of the Priesthood.........................................................................................................204 
-Degrees of the Priesthood...........................................................................................................205 
-Priests..........................................................................................................................................205 
-Bishops........................................................................................................................................205 
-Archbishops.................................................................................................................................205 
-Patriarchs ....................................................................................................................................205 
-The Pope.....................................................................................................................................205 
-The Minister of Holy Orders ........................................................................................................206 
-The Recipient of Holy Orders......................................................................................................206 
-Qualifications for the Priesthood .................................................................................................206 
-Holiness Of Life ...........................................................................................................................206 
-Competent Knowledge................................................................................................................207 
-Canonical Fitness........................................................................................................................207 
-Effects of Holy Orders .................................................................................................................207 
-Admonition...................................................................................................................................208 
- 
-THE SACRAMENT OF MATRIMONY ...........................................................................................208 
-Importance Of Instruction On This Sacrament............................................................................208 
-Nature and Meaning of Marriage ................................................................................................208 
-Names Of This Sacrament..........................................................................................................209 
-Definition Of Matrimony...............................................................................................................209 
-Essence And Cause Of Marriage................................................................................................209 
-The Kind of Consent Required in Matrimony ..............................................................................210 
+At What Time The Law Of Confession Obliges
+The Qualities of Confession 
+Confession Should Be Entire 
+Sins Concealed 
+Sins Forgotten 
+Confession Should Be Plain, Simple, Sincere 
+Confession Should Be Prudent, Modest, Brief
+Confession Should Be Made Privately And Often
+The Minister of the Sacrament of Penance
+The Usual Minister 
+The Minister In Danger Of Death 
+Qualifications Of The Minister 
+The Confessor Must Observe The Seal Of Confession
+Duties of the Confessor towards Various Classes of Penitents
+The Well Disposed Should Be Exhorted To Thanksgiving And Perseverance
+The Indisposed Should Be Helped
+Those Who Seek To Excuse Their Sins Should Be Corrected
+The Careless Should Be Rebuked
+The Unprepared Should Be Dismissed Or Led To Good Disposition
+The Pastor Should Show The Wrong Of Human Respect
+The Third Part of Penance
+Satisfaction
+General Meaning Of The Word "Satisfaction,"
+Various Kinds Of Satisfaction To God
+Elements Of Sacramental Satisfaction
+Necessity Of Satisfaction 
+Advantages of Satisfaction
+It Is Required By God’s Justice And Mercy
+Satisfaction Atones To The Church 
+By Satisfaction We Are Made Like Unto Christ
+Satisfaction Heals The Wounds Of Sin
+Satisfaction Disarms The Divine Vengeance
+Source of the Efficacy of Satisfactory Works 
+Conditions for Satisfaction
+Works Of Satisfaction Are Of Three Kinds
+One Can Satisfy For Another 
+Duties of the Confessor as Regards Satisfaction
+Restitution Must Be Insisted On
+Quantity And Quality Of Penances Should Be Reasonable 
+Voluntary Works Of Penance Should Be Recommended
+Admonition
+THE SACRAMENT OF EXTREME UNCTION
+Importance Of Instruction On Extreme Unction 
+Names of this Sacrament
+Extreme Unction Is a True Sacrament
+Extreme Unction Is But One Sacrament 
+Essential Parts of Extreme Unction
+The Matter Of Extreme Unction
+The Form Of Extreme Unction 
+The Ceremonies Of Extreme Unction 
+Institution of Extreme Unction 
+The Subject of Extreme Unction
+The Danger Must Arise From Sickness 
+The Person Anointed Must Have Attained The Use Of Reason
+Administration of Extreme Unction
 
-Mutual..........................................................................................................................................210 
-External .......................................................................................................................................210 
-Present ........................................................................................................................................210 
-The Essence of Marriage Constituted by the Consent ...............................................................210 
-Twofold Consideration of Marriage .............................................................................................211 
-Marriage As A Natural Contract ..................................................................................................211 
-Instituted By God.........................................................................................................................211 
-Marriage Is Indissoluble By Divine Law ......................................................................................211 
-Marriage Not Obligatory On All ...................................................................................................211 
-The Motives And Ends Of Marriage............................................................................................212 
-Marriage Considered as a Sacrament ........................................................................................212 
-Marriage Is A Sacrament.............................................................................................................213 
-Marriage before Christ.................................................................................................................213 
-It Was Not A Sacrament..............................................................................................................213 
-Before Christ Marriage Had Fallen From Its Primitive Unity And Indissolubility.........................214 
-Christ Restored to Marriage its Primitive Qualities......................................................................214 
-Unity Of Marriage ........................................................................................................................214 
-Indissolubility Of Marriage...........................................................................................................214 
-Advantages Of Indissolubility ......................................................................................................214 
-The Three Blessings of Marriage................................................................................................215 
-Offspring......................................................................................................................................215 
-Fidelity .........................................................................................................................................215 
-Sacrament ...................................................................................................................................216 
-The Duties of Married People......................................................................................................216 
-Duties Of A Husband...................................................................................................................216 
-Duties Of A Wife..........................................................................................................................216 
-The Law of the Church on Marriage............................................................................................217 
-The Rite To Be Observed............................................................................................................217 
-The Impediments Of Marriage.....................................................................................................217 
-The Recipient of Matrimony ........................................................................................................217 
-Dispositions With Which The Sacrament Is To Be Approached.................................................217 
-Consent Of Parents.....................................................................................................................218 
-The Use Of Marriage...................................................................................................................218 
- 
-# PART III : THE DECALOGUE ...........................................................................................................218 
-Importance Of Instruction On The Commandments ...................................................................218 
-Motives for Observing the Commandments................................................................................219 
-God Is The Giver Of The Commandments .................................................................................219 
-The Commandments Were Proclaimed With Great Solemnity...................................................220 
-The Observance Of The Commandments Is Not Difficult...........................................................220 
-The Observance Of The Commandments Is Necessary ............................................................220 
-The Observance Of The Commandments Is Attended By Many Blessings ...............................221 
-God's Goodness Invites Us To Keep His Commandments ........................................................221 
-The Promulgation of the Law ......................................................................................................222 
-The People To Whom The Law Was Given................................................................................222 
-Epitome Of Jewish History ..........................................................................................................222 
-Lessons To Be Drawn From Jewish History ...............................................................................222 
-The Time And Place In Which The Law Was Promulgated........................................................223 
- 
+Dispositions for the Reception of Extreme Unction
+The Minister of Extreme Unction
+The Effects of Extreme Unction
+Admonition
+THE SACRAMENT OF HOLY ORDERS 
+Importance Of Instruction On This Sacrament
+Dignity of this Sacrament 
+Requirements in Candidates for Orders
+Holiness, Knowledge, Prudence 
+Divine Call 
+Right Intention 
+The Twofold Power Conferred by this Sacrament 
+The Power Of Orders 
+Greatness Of This Power
+Names of this Sacrament
+Holy Orders Is a Sacrament
+Number of Orders
+Tonsure 
+The Name "Cleric"
+Origin And Meaning Of Tonsure 
+The Minor Orders 
+Porter
+Reader
+Exorcist
+Acolyte
+The Major Orders 
+Subdeacon 
+Deacon 
+Priest 
+Twofold Priesthood
+The Internal Priesthood
+The External Priesthood
+Functions of the Priesthood
+Degrees of the Priesthood
+Priests
+Bishops
+Archbishops
+Patriarchs 
+The Pope
+The Minister of Holy Orders 
+The Recipient of Holy Orders
+Qualifications for the Priesthood 
+Holiness Of Life 
+Competent Knowledge
+Canonical Fitness
+Effects of Holy Orders 
+Admonition
+THE SACRAMENT OF MATRIMONY 
+Importance Of Instruction On This Sacrament
+Nature and Meaning of Marriage 
+Names Of This Sacrament
+Definition Of Matrimony
+Essence And Cause Of Marriage
+The Kind of Consent Required in Matrimony 
+
+Mutual
+External 
+Present 
+The Essence of Marriage Constituted by the Consent 
+Twofold Consideration of Marriage 
+Marriage As A Natural Contract 
+Instituted By God
+Marriage Is Indissoluble By Divine Law 
+Marriage Not Obligatory On All 
+The Motives And Ends Of Marriage
+Marriage Considered as a Sacrament 
+Marriage Is A Sacrament
+Marriage before Christ
+It Was Not A Sacrament
+Before Christ Marriage Had Fallen From Its Primitive Unity And Indissolubility
+Christ Restored to Marriage its Primitive Qualities
+Unity Of Marriage 
+Indissolubility Of Marriage
+Advantages Of Indissolubility 
+The Three Blessings of Marriage
+Offspring
+Fidelity 
+Sacrament 
+The Duties of Married People
+Duties Of A Husband
+Duties Of A Wife
+The Law of the Church on Marriage
+The Rite To Be Observed
+The Impediments Of Marriage
+The Recipient of Matrimony 
+Dispositions With Which The Sacrament Is To Be Approached
+Consent Of Parents
+The Use Of Marriage
+# PART III : THE DECALOGUE 
+Importance Of Instruction On The Commandments 
+Motives for Observing the Commandments
+God Is The Giver Of The Commandments 
+The Commandments Were Proclaimed With Great Solemnity
+The Observance Of The Commandments Is Not Difficult
+The Observance Of The Commandments Is Necessary 
+The Observance Of The Commandments Is Attended By Many Blessings 
+God's Goodness Invites Us To Keep His Commandments 
+The Promulgation of the Law 
+The People To Whom The Law Was Given
+Epitome Of Jewish History 
+Lessons To Be Drawn From Jewish History 
+The Time And Place In Which The Law Was Promulgated
 THE FIRST COMMANDMENT : "I am the lord thy god, who brought thee out of the land of Egypt, 
 out of the house of bondage. Thou shalt not have strange gods before me. Thou shalt not make to 
 thyself a graven thing, nor the likeness of any thing that is in heaven above, or in the earth beneath, 
 nor of those things that are in the waters under the earth. Thou shalt not adore them, nor serve 
 them. I am the lord thy god, mighty, jealous, visiting the iniquity of the fathers upon the children, to 
 the third and fourth generation of them that hate me, and showing mercy unto thousands of them 
-that love me, and keep my commandments." ................................................................................223 
+that love me, and keep my commandments." 
 
-"I am the Lord thy God"...............................................................................................................223 
-"Who Brought thee out of the Land of Egypt, out of the House of Bondage" .............................223 
-"Thou shalt not have Strange Gods before Me"..........................................................................224 
-The Above Words Contain A Command And A Prohibition........................................................224 
-What They Command .................................................................................................................224 
-What They Forbid........................................................................................................................224 
-Importance Of This Commandment............................................................................................225 
-Sins Against This Commandment...............................................................................................225 
-Veneration And Invocation Of Angels And Saints Not Forbidden By This Commandment........225 
-It Is Lawful To Honour And Invoke The Angels...........................................................................225 
-It Is Lawful To Honour And Invoke The Saints............................................................................226 
-Objections Answered ..................................................................................................................226 
-The Honour And Invocation Of Saints Is Approved By Miracles.................................................227 
+"I am the Lord thy God"
+"Who Brought thee out of the Land of Egypt, out of the House of Bondage" 
+"Thou shalt not have Strange Gods before Me"
+The Above Words Contain A Command And A Prohibition
+What They Command 
+What They Forbid
+Importance Of This Commandment
+Sins Against This Commandment
+Veneration And Invocation Of Angels And Saints Not Forbidden By This Commandment
+It Is Lawful To Honour And Invoke The Angels
+It Is Lawful To Honour And Invoke The Saints
+Objections Answered 
+The Honour And Invocation Of Saints Is Approved By Miracles
 "Thou shalt not make to thyself a graven thing, nor the likeness of any thing that is in 
 heaven above, or in the earth beneath, nor of those things that are in the waters under the 
-earth: thou shalt not adore them nor serve them" ................................................................227 
-The Above Words Do Not Forbid All Images ..............................................................................227 
-They Forbid Idols And Representations Of The Deity ................................................................227 
-They Do Not Forbid Representations Of The Divine Persons And Angels.................................228 
-They Do Not Forbid Images Of Christ And The Saints...............................................................228 
-Usefulness Of Sacred Images.....................................................................................................228 
+earth: thou shalt not adore them nor serve them" 
+The Above Words Do Not Forbid All Images 
+They Forbid Idols And Representations Of The Deity 
+They Do Not Forbid Representations Of The Divine Persons And Angels
+They Do Not Forbid Images Of Christ And The Saints
+Usefulness Of Sacred Images
 "I am the Lord thy God, mighty, jealous, visiting the iniquity of the fathers upon the 
 children, to the third and fourth generation of them that hate me, and showing mercy unto 
-thousands of them that love me, and keep my commandments.".......................................229
- 
-Mighty..........................................................................................................................................229 
-Jealous ........................................................................................................................................230 
-Zeal In The Service Of God.........................................................................................................230 
-"Visiting The Iniquity," Etc. ..........................................................................................................230 
-"And Showing Mercy, Etc............................................................................................................231 
-"Of Them That Hate Me".............................................................................................................231 
- 
-THE SECOND COMMANDMENT : "Thou shalt not take the name of the lord thy god in vain"...231 
-Why This Commandment Is Distinct From The First ..................................................................231 
-Importance Of Instruction On This Commandment.....................................................................232 
-Positive Part of this Commandment............................................................................................232 
-Various Ways Of Honouring God's Name...................................................................................232 
-Public Profession Of Faith...........................................................................................................232 
-Respect For The Word Of God ...................................................................................................233 
-Praise And Thanksgiving.............................................................................................................233 
-Prayer..........................................................................................................................................233 
-Oaths...........................................................................................................................................233 
-Meaning Of An Oath....................................................................................................................234 
-Oaths Are Affirmatory And Promissory .......................................................................................234 
-Conditions Of A Lawful Oath.......................................................................................................234 
-First Condition: Truth...................................................................................................................234 
-Second Condition: Judgment ......................................................................................................235 
-Third Condition: Justice...............................................................................................................235 
-Lawfulness Of Oaths...................................................................................................................235 
-An Objection Against Oaths ........................................................................................................236 
-Negative Part of this Commandment ..........................................................................................236 
-Various Ways In Which Cod's Name Is Dishonoured: False Oaths ...........................................237 
-Unjust Oaths................................................................................................................................237 
-Rash Oaths..................................................................................................................................237 
-Oaths By False Gods ..................................................................................................................237 
-Irreverent Speech........................................................................................................................238 
-Neglect Of Prayer........................................................................................................................238 
+thousands of them that love me, and keep my commandments."
+Mighty
+Jealous 
+Zeal In The Service Of God
+"Visiting The Iniquity," Etc. 
+"And Showing Mercy, Etc
+"Of Them That Hate Me"
+THE SECOND COMMANDMENT : "Thou shalt not take the name of the lord thy god in vain"
+Why This Commandment Is Distinct From The First 
+Importance Of Instruction On This Commandment
+Positive Part of this Commandment
+Various Ways Of Honouring God's Name
+Public Profession Of Faith
+Respect For The Word Of God 
+Praise And Thanksgiving
+Prayer
+Oaths
+Meaning Of An Oath
+Oaths Are Affirmatory And Promissory 
+Conditions Of A Lawful Oath
+First Condition: Truth
+Second Condition: Judgment 
+Third Condition: Justice
+Lawfulness Of Oaths
+An Objection Against Oaths 
+Negative Part of this Commandment 
+Various Ways In Which Cod's Name Is Dishonoured: False Oaths 
+Unjust Oaths
+Rash Oaths
+Oaths By False Gods 
+Irreverent Speech
+Neglect Of Prayer
 
-Blasphemy...................................................................................................................................238 
-Sanction of this Commandment ..................................................................................................238 
- 
+Blasphemy
+Sanction of this Commandment 
 THIRD COMMANDMENT : "Remember that thou keep holy the sabbath day. Six days shalt thou 
 labour, and do all thy works; but on the seventh day is the sabbath of the lord thy god; thou shalt do 
 no work on it, neither thou nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, 
 nor thy beast, nor the stranger that is within thy gates. For in six days the lord made heaven and 
 earth, and the sea, and all things that are in them, and rested on the seventh day; wherefore the 
-lord blessed the seventh day and sanctified it." .............................................................................239 
-Reasons For This Commandment ..............................................................................................239 
-Importance Of Instruction On This Commandment.....................................................................239 
-How The Third Differs From The Other Commandments...........................................................240 
-How The Third Is Like The Other Commandments.....................................................................240 
-The Jewish Sabbath Changed To Sunday By The Apostles ......................................................240 
-Four Parts Of This Commandment .............................................................................................241 
-First Part of this Commandment..................................................................................................241 
-"Remember" ................................................................................................................................241 
-Sabbath .......................................................................................................................................241 
-"Keep Holy" .................................................................................................................................242 
-Second Part of this Commandment ............................................................................................242 
-"The Seventh Day Is The Sabbath Of The Lord Thy God" .........................................................242 
-Other Festivals Observed By The Jews......................................................................................243 
-The Sabbath, Why Changed To Sunday ....................................................................................243 
-Other Festivals Observed By The Church ..................................................................................243 
-"Six Days Shalt Thou Labour And Do All Thy Work" ..................................................................243 
-Third Part of this Commandment ................................................................................................244 
-Works Forbidden .........................................................................................................................244 
-Works Permitted..........................................................................................................................244 
-Why Animals Are Not To Be Employed On The Sabbath...........................................................244 
-Works Commanded Or Recommended......................................................................................245 
-Motives for the Observance of this Commandment....................................................................245 
-Reasonableness Of This Duty.....................................................................................................245 
-The Observance Of This Commandment Brings Many Blessings..............................................245 
-Neglect Of This Commandment A Great Crime..........................................................................246 
- 
+lord blessed the seventh day and sanctified it." 
+Reasons For This Commandment 
+Importance Of Instruction On This Commandment
+How The Third Differs From The Other Commandments
+How The Third Is Like The Other Commandments
+The Jewish Sabbath Changed To Sunday By The Apostles 
+Four Parts Of This Commandment 
+First Part of this Commandment
+"Remember" 
+Sabbath 
+"Keep Holy" 
+Second Part of this Commandment 
+"The Seventh Day Is The Sabbath Of The Lord Thy God" 
+Other Festivals Observed By The Jews
+The Sabbath, Why Changed To Sunday 
+Other Festivals Observed By The Church 
+"Six Days Shalt Thou Labour And Do All Thy Work" 
+Third Part of this Commandment 
+Works Forbidden 
+Works Permitted
+Why Animals Are Not To Be Employed On The Sabbath
+Works Commanded Or Recommended
+Motives for the Observance of this Commandment
+Reasonableness Of This Duty
+The Observance Of This Commandment Brings Many Blessings
+Neglect Of This Commandment A Great Crime
 THE FOURTH COMMANDMENT : "Honour thy father and thy mother, that thou mayest be long 
-lived upon the land which the lord thy god will give thee." .............................................................246 
-Relative Importance Of The Preceding And The Following Commandments ............................246 
-Importance Of Instruction On The Fourth Commandment..........................................................246 
-The Two Tables Of The Law.......................................................................................................247 
-Explanation of the Fourth Commandment: "Honour"..................................................................248 
-"Thy Father".................................................................................................................................248 
-Why Parents Should Be Honoured .............................................................................................248 
-"And Thy Mother" ........................................................................................................................248 
-Manner Of Honouring Parents ....................................................................................................249 
-Manner Of Honouring Other Superiors .......................................................................................249 
-The Honour Due To Bishops And Priests ...................................................................................250 
-The Honour Due To Civil Rulers .................................................................................................250 
-'That Thou Mayest be Long-lived," etc........................................................................................250 
-Reward Promised For Observance Of This Commandment ......................................................251 
-Why This Reward Is Not Always Conferred On Dutiful Children ................................................251 
-Punishment For Violation Of This Commandment......................................................................251 
-Duties of Parents Towards their Children ...................................................................................252 
-Three Things To Be Avoided By Parents....................................................................................252 
- 
-THE FIFTH COMMANDMENT : "Thou shalt not kill" .....................................................................252 
+lived upon the land which the lord thy god will give thee." 
+Relative Importance Of The Preceding And The Following Commandments 
+Importance Of Instruction On The Fourth Commandment
+The Two Tables Of The Law
+Explanation of the Fourth Commandment: "Honour"
+"Thy Father"
+Why Parents Should Be Honoured 
+"And Thy Mother" 
+Manner Of Honouring Parents 
+Manner Of Honouring Other Superiors 
+The Honour Due To Bishops And Priests 
+The Honour Due To Civil Rulers 
+'That Thou Mayest be Long-lived," etc
+Reward Promised For Observance Of This Commandment 
+Why This Reward Is Not Always Conferred On Dutiful Children 
+Punishment For Violation Of This Commandment
+Duties of Parents Towards their Children 
+Three Things To Be Avoided By Parents
+THE FIFTH COMMANDMENT : "Thou shalt not kill" 
 
-Importance Of Instruction On This Commandment.....................................................................252 
-Two Parts Of This Commandment..............................................................................................253 
-The Prohibitory Part of this Commandment................................................................................253 
-Exceptions: The Killing Of Animals .............................................................................................253 
-Execution Of Criminals................................................................................................................253 
-Killing In A Just War ....................................................................................................................253 
-Killing By Accident.......................................................................................................................254 
-Killing In Self-Defence.................................................................................................................254 
-Negative Part Of This Commandment Forbids Murder And Suicide ..........................................254 
-Sinful Anger Is Also Forbidden By The Fifth Commandment .....................................................255 
-Remedies Against The Violation Of This Commandment...........................................................255 
-Positive Part of this commandment.............................................................................................256 
-Love Of Neighbour Inculcated.....................................................................................................256 
-Charity To All Commanded .........................................................................................................256 
-Patience, Beneficence And Mildness Commanded....................................................................256 
-Forgiveness Of Injuries Commanded..........................................................................................256 
-How to Persuade Men to Forgive Injuries...................................................................................257 
-All We Have To Endure Comes From God.................................................................................257 
-Advantages Of Forgiveness........................................................................................................257 
-Disadvantages Of Revenge ........................................................................................................257 
-Remedies Against Hatred ...........................................................................................................258 
- 
-THE SIXTH COMMANDMENT : "Thou shalt not commit adultery"...............................................258 
-The Position Of This Commandment In The Decalogue Is Most Suitable..................................258 
-Importance Of Careful Instruction On This Commandment........................................................258 
-Two Parts Of This Commandment..............................................................................................259 
-What this Commandment Prohibits.............................................................................................259 
-Adultery Forbidden......................................................................................................................259 
-Other Sins Against Chastity Are Forbidden ................................................................................259 
-Why Adultery Is Expressly Mentioned.........................................................................................259 
-What this Commandment Prescribes..........................................................................................260 
-Purity Enjoined ............................................................................................................................260 
-Reflections which Help one to Practice Purity.............................................................................260 
-Impurity Excludes From Heaven .................................................................................................260 
-Impurity Is A Filthy Sin.................................................................................................................260 
-Adultery Is A Grave Injustice.......................................................................................................261 
-Adultery Is Disgraceful ................................................................................................................261 
-Impurity Severely Punished.........................................................................................................261 
-Impurity Blinds The Mind And Hardens The Heart......................................................................261 
-Means of practicing purity ...........................................................................................................262 
-Avoidance Of Idleness ................................................................................................................262 
-Temperance ................................................................................................................................262 
-Custody Of The Eyes ..................................................................................................................262 
-Avoidance Of Immodest Dress....................................................................................................262 
-Avoidance Of Impure Conversation, Reading, Pictures..............................................................263 
-Frequentation Of The Sacraments..............................................................................................263 
-Mortification .................................................................................................................................263 
- 
-THE SEVENTH COMMANDMENT : "Thou shalt not steal"...........................................................263 
-Importance Of Instruction On This Commandment.....................................................................263 
+Importance Of Instruction On This Commandment
+Two Parts Of This Commandment
+The Prohibitory Part of this Commandment
+Exceptions: The Killing Of Animals 
+Execution Of Criminals
+Killing In A Just War 
+Killing By Accident
+Killing In Self-Defence
+Negative Part Of This Commandment Forbids Murder And Suicide 
+Sinful Anger Is Also Forbidden By The Fifth Commandment 
+Remedies Against The Violation Of This Commandment
+Positive Part of this commandment
+Love Of Neighbour Inculcated
+Charity To All Commanded 
+Patience, Beneficence And Mildness Commanded
+Forgiveness Of Injuries Commanded
+How to Persuade Men to Forgive Injuries
+All We Have To Endure Comes From God
+### Advantages Of Forgiveness
+Disadvantages Of Revenge 
+Remedies Against Hatred 
+THE SIXTH COMMANDMENT : "Thou shalt not commit adultery"
+The Position Of This Commandment In The Decalogue Is Most Suitable
+Importance Of Careful Instruction On This Commandment
+Two Parts Of This Commandment
+What this Commandment Prohibits
+Adultery Forbidden
+Other Sins Against Chastity Are Forbidden 
+Why Adultery Is Expressly Mentioned
+What this Commandment Prescribes
+Purity Enjoined 
+Reflections which Help one to Practice Purity
+Impurity Excludes From Heaven 
+Impurity Is A Filthy Sin
+Adultery Is A Grave Injustice
+Adultery Is Disgraceful 
+Impurity Severely Punished
+Impurity Blinds The Mind And Hardens The Heart
+Means of practicing purity 
+Avoidance Of Idleness 
+Temperance 
+Custody Of The Eyes 
+Avoidance Of Immodest Dress
+Avoidance Of Impure Conversation, Reading, Pictures
+Frequentation Of The Sacraments
+Mortification 
+THE SEVENTH COMMANDMENT : "Thou shalt not steal"
+Importance Of Instruction On This Commandment
 This Commandment A Proof Of The Love Of God Towards Us And A Claim On Our Gratitude264 
-Two Parts Of This Commandment..............................................................................................264 
-Negative Part of this Commandment ..........................................................................................264 
-Stealing Forbidden ......................................................................................................................264 
-Theft And Robbery Forbidden.....................................................................................................264 
-Various Names Given To Stealing..............................................................................................265 
+Two Parts Of This Commandment
+Negative Part of this Commandment 
+Stealing Forbidden 
+Theft And Robbery Forbidden
+Various Names Given To Stealing
 
-Desire Of Stealing Forbidden......................................................................................................265 
-Gravity Of The Sin Of Stealing....................................................................................................265 
-The Chief Kinds Of Stealing........................................................................................................265 
-Various Forms Of Theft...............................................................................................................265 
-Various Forms Of Robbery..........................................................................................................266 
-Positive Part of this Commandment............................................................................................267 
-Restitution Enjoined ....................................................................................................................267 
-Who Are Held To Restitution.......................................................................................................267 
-Almsdeeds Enjoined....................................................................................................................268 
-Inducements To Practice Almsgiving..........................................................................................268 
-Ways Of Giving Alms ..................................................................................................................268 
-Frugality Is Enjoined....................................................................................................................269 
-Sanction Of This Commandment................................................................................................269 
-The Punishment Of Its Violation..................................................................................................269 
-The Reward Of Observing This Commandment.........................................................................269 
-Excuses for Stealing Refuted......................................................................................................269 
-The Plea Of Rank And Position...................................................................................................270 
-The Plea Of Greater Ease And Elegance ...................................................................................270 
-The Plea Of The Other's Wealth .................................................................................................270 
-The Plea Of Force Of Habit.........................................................................................................270 
-The Plea Of Favourable Opportunity ..........................................................................................271 
-The Plea Of Revenge..................................................................................................................271 
-The Plea Of Financial Embarrassment .......................................................................................271 
- 
-THE EIGHTH COMMANDMENT : "Thou shalt not bear false witness against thy neighbour" ....271 
-Importance Of Instruction On This Commandment.....................................................................271 
-This Commandment Should Call Forth Our Gratitude................................................................272 
-Two Parts Of This Commandment..............................................................................................272 
-Negative Part Of This Commandment ........................................................................................272 
-"Against Thy Neighbour" .............................................................................................................272 
-False Testimony In Favour Of A Neighbour Is Also Forbidden...................................................273 
-"Thou Shalt Not Bear False Witness" .........................................................................................273 
-All Falsehoods In Lawsuits Are Forbidden..................................................................................273 
-False Testimony Out Of Court Is Forbidden ...............................................................................273 
-This Commandment Forbids Detraction .....................................................................................274 
-Various Kinds Of Detraction........................................................................................................274 
-This Commandment Forbids Flattery..........................................................................................274 
-This Commandment Forbids Lies Of All Kinds ...........................................................................275 
-This Commandment Forbids Hypocrisy......................................................................................275 
-Positive Part of this Commandment............................................................................................275 
-Judges Must Pass Sentence According To Law And Justice.....................................................275 
-Witnesses Must Give Testimony Truthfully.................................................................................276 
-Lawyers And Plaintiffs Must Be Guided By Love Of Justice.......................................................276 
-All Must Speak Truthfully And With Charity ................................................................................276 
-Inducements To Truthfulness......................................................................................................276 
-How To Avoid Lying ....................................................................................................................277 
-Excuses for Lying Refuted ..........................................................................................................277 
-The Plea Of Prudence.................................................................................................................277 
-The Plea Of Revenge..................................................................................................................277 
-The Pleas Of Frailty, Habit, And Bad. Example..........................................................................278 
-The Pleas Of Convenience, Amusement, And Advantage .........................................................278 
- 
+Desire Of Stealing Forbidden
+Gravity Of The Sin Of Stealing
+The Chief Kinds Of Stealing
+Various Forms Of Theft
+Various Forms Of Robbery
+Positive Part of this Commandment
+Restitution Enjoined 
+Who Are Held To Restitution
+Almsdeeds Enjoined
+Inducements To Practice Almsgiving
+Ways Of Giving Alms 
+Frugality Is Enjoined
+Sanction Of This Commandment
+The Punishment Of Its Violation
+The Reward Of Observing This Commandment
+Excuses for Stealing Refuted
+The Plea Of Rank And Position
+The Plea Of Greater Ease And Elegance 
+The Plea Of The Other's Wealth 
+The Plea Of Force Of Habit
+The Plea Of Favourable Opportunity 
+The Plea Of Revenge
+The Plea Of Financial Embarrassment 
+THE EIGHTH COMMANDMENT : "Thou shalt not bear false witness against thy neighbour" 
+Importance Of Instruction On This Commandment
+This Commandment Should Call Forth Our Gratitude
+Two Parts Of This Commandment
+Negative Part Of This Commandment 
+"Against Thy Neighbour" 
+False Testimony In Favour Of A Neighbour Is Also Forbidden
+"Thou Shalt Not Bear False Witness" 
+All Falsehoods In Lawsuits Are Forbidden
+False Testimony Out Of Court Is Forbidden 
+This Commandment Forbids Detraction 
+Various Kinds Of Detraction
+This Commandment Forbids Flattery
+This Commandment Forbids Lies Of All Kinds 
+This Commandment Forbids Hypocrisy
+Positive Part of this Commandment
+Judges Must Pass Sentence According To Law And Justice
+Witnesses Must Give Testimony Truthfully
+Lawyers And Plaintiffs Must Be Guided By Love Of Justice
+All Must Speak Truthfully And With Charity 
+Inducements To Truthfulness
+How To Avoid Lying 
+Excuses for Lying Refuted 
+The Plea Of Prudence
+The Plea Of Revenge
+The Pleas Of Frailty, Habit, And Bad. Example
+The Pleas Of Convenience, Amusement, And Advantage 
 THE NINTH AND TENTH COMMANDMENTS : "Thou shalt not covet thy neighbour's house: 
 neither shalt thou desire his wife, nor his servant, nor his hand-maid, nor his ox, nor his ass, nor 
-anything that is his."........................................................................................................................278
- 
-Importance Of Instruction On These Two Commandments........................................................278 
+anything that is his."
+Importance Of Instruction On These Two Commandments
 
-Why These Two Commandments Are Explained Here Together...............................................279 
-Necessity Of Promulgating These Two Commandments ...........................................................279 
-These Two Commandments Teach God's Love For Us And Our Need Of Him.........................279 
-Two Parts Of These Commandments.........................................................................................280 
-Negative Part...............................................................................................................................280 
-"Thou Shalt Not Covet" ...............................................................................................................280 
-What Sort Of Concupiscence Is Not Forbidden..........................................................................280 
-What Sort Of Concupiscence Is Here Prohibited........................................................................281 
-Two Kinds Of Sinful Concupiscence...........................................................................................281 
-The Various Objects We Are Forbidden To Covet......................................................................281 
-Thy Neighbour’s House...............................................................................................................282 
-"Nor His Ox, Nor His Ass'............................................................................................................282 
-"Nor His Servant..........................................................................................................................282 
-"Thy Neighbour's"........................................................................................................................282 
-Goods For Sale Not Included Under This Prohibition.................................................................282 
-"His Wife".....................................................................................................................................282 
-Positive Part ................................................................................................................................283 
-Detachment From Riches Enjoined ............................................................................................283 
-The Desire Of Heavenly And Spiritual Things Enjoined .............................................................283 
-Thoughts which Help one to Keep these Commandments.........................................................283 
-Chief Ways in which These two Commandments are Violated ..................................................284 
- 
-# PART IV : THE LORD'S PRAYER ....................................................................................................284 
- 
-PRAYER .........................................................................................................................................284 
-Importance Of Instruction On Prayer ..........................................................................................284 
-Necessity of Prayer .....................................................................................................................285 
-The Fruits of Prayer.....................................................................................................................285 
-Prayer Honours God ...................................................................................................................285 
-Prayer Obtains What We Request..............................................................................................286 
-Proof............................................................................................................................................286 
-Unwise And Indevout Prayers Unheard......................................................................................286 
-To Devout Prayer And Dispositions God Grants More Than Is Asked.......................................286 
-Prayer Exercises And Increases Faith........................................................................................287 
-Prayer Strengthens Our Hope In God.........................................................................................287 
-Prayer Increases Charity.............................................................................................................287 
-Prayer Disposes The Soul For Divine Blessings.........................................................................287 
-Prayer Makes Us Realise Our Own Needfulness.......................................................................287 
-Prayer Is A Protection Against The Devil....................................................................................288 
-Prayer Promotes A Virtuous Life.................................................................................................288 
-Prayer Disarms The Divine Vengeance......................................................................................288 
-The Parts Of Prayer ....................................................................................................................288 
-The Two Chief Parts Of Prayer Petition And Thanksgiving ........................................................288 
-Degrees Of Petition And Thanksgiving .......................................................................................289 
-The Highest Degree Of Prayer: The Prayer Of The Just............................................................289 
-The Second Degree Of Prayer: The Prayer Of Sinners..............................................................289 
-The Third Degree Of Prayer: The Prayer Of Unbelievers...........................................................290 
-The Lowest Degree Of Prayer: The Prayer Of The Impenitent...................................................290 
-What We Should Pray For...........................................................................................................290 
-Spiritual Goods............................................................................................................................290 
-External Goods And Goods Of Body ..........................................................................................290 
-Goods Of The Mind.....................................................................................................................291 
-For Whom We Ought to Pray......................................................................................................291 
-The Prayer Of Petition Should Be Offered For All.......................................................................291 
-Those For Whom We Should Especially Offer Our Petitions: Pastors .......................................291 
-Rulers Of Our Country.................................................................................................................292 
+Why These Two Commandments Are Explained Here Together
+### Necessity Of Promulgating These Two Commandments 
+These Two Commandments Teach God's Love For Us And Our Need Of Him
+Two Parts Of These Commandments
+Negative Part
+"Thou Shalt Not Covet" 
+What Sort Of Concupiscence Is Not Forbidden
+What Sort Of Concupiscence Is Here Prohibited
+Two Kinds Of Sinful Concupiscence
+The Various Objects We Are Forbidden To Covet
+Thy Neighbour’s House
+"Nor His Ox, Nor His Ass'
+"Nor His Servant
+"Thy Neighbour's"
+Goods For Sale Not Included Under This Prohibition
+"His Wife"
+Positive Part 
+Detachment From Riches Enjoined 
+The Desire Of Heavenly And Spiritual Things Enjoined 
+Thoughts which Help one to Keep these Commandments
+Chief Ways in which These two Commandments are Violated 
+# PART IV : THE LORD'S PRAYER 
+PRAYER 
+Importance Of Instruction On Prayer 
+Necessity of Prayer 
+The Fruits of Prayer
+Prayer Honours God 
+Prayer Obtains What We Request
+Proof
+Unwise And Indevout Prayers Unheard
+To Devout Prayer And Dispositions God Grants More Than Is Asked
+Prayer Exercises And Increases Faith
+Prayer Strengthens Our Hope In God
+Prayer Increases Charity
+Prayer Disposes The Soul For Divine Blessings
+Prayer Makes Us Realise Our Own Needfulness
+Prayer Is A Protection Against The Devil
+Prayer Promotes A Virtuous Life
+Prayer Disarms The Divine Vengeance
+The Parts Of Prayer 
+The Two Chief Parts Of Prayer Petition And Thanksgiving 
+Degrees Of Petition And Thanksgiving 
+The Highest Degree Of Prayer: The Prayer Of The Just
+The Second Degree Of Prayer: The Prayer Of Sinners
+The Third Degree Of Prayer: The Prayer Of Unbelievers
+The Lowest Degree Of Prayer: The Prayer Of The Impenitent
+What We Should Pray For
+Spiritual Goods
+External Goods And Goods Of Body 
+Goods Of The Mind
+For Whom We Ought to Pray
+The Prayer Of Petition Should Be Offered For All
+Those For Whom We Should Especially Offer Our Petitions: Pastors 
+Rulers Of Our Country
 
-The Just.......................................................................................................................................292 
-Enemies And Those Outside The Church...................................................................................292 
-The Dead.....................................................................................................................................292 
-Sinners ........................................................................................................................................292 
-The Prayer Of Thanksgiving Should Be Offered For All .............................................................293 
-Our Thanksgiving Should Especially Be Offered: For The Saints ..............................................293 
-For The Blessed Virgin Mary.......................................................................................................293 
-To Whom We Should Pray..........................................................................................................293 
-To God.........................................................................................................................................293 
-To The Saints ..............................................................................................................................294 
-God And The Saints Addressed Differently ................................................................................294 
-Preparation for Prayer.................................................................................................................294 
-Humility........................................................................................................................................294 
-Sorrow For Sin ............................................................................................................................295 
-Freedom From Violence, Anger, Hatred And Inhumanity...........................................................295 
-Freedom From Pride And Contempt Of God's Word ..................................................................295 
-Faith And Confidence..................................................................................................................295 
-Motives Of Confidence In Prayer ................................................................................................296 
-Correspondence With God's Will ................................................................................................296 
-Fraternal Charity..........................................................................................................................296 
-How to Pray Well.........................................................................................................................296 
-We Must Pray In Spirit And In Truth............................................................................................297 
-Mental Prayer ..............................................................................................................................297 
-Vocal Prayer................................................................................................................................297 
-Private And Public Prayer ...........................................................................................................297 
-Those Who Do Nor Pray In Spirit................................................................................................297 
-Those Who Do Not Pray In Truth................................................................................................298 
-We Must Pray With Perseverance ..............................................................................................298 
-We Must Pray In The Name Of Jesus Christ ..............................................................................298 
-We Must Pray With Fervour, Uniting Petition To Thanksgiving..................................................298 
-Fasting And Almsdeeds Should Be Joined To Prayer................................................................298 
- 
-OPENING WORDS OF THE LORD'S PRAYER............................................................................299 
-"Our Father who art in heaven"...............................................................................................299 
-Importance Of Instruction On These Words................................................................................299 
-"Father"........................................................................................................................................299 
-God Is Called Father Because He Created Us ...........................................................................299 
-God Is Called Father Because He Provides For Us....................................................................300 
-God's Care For Us Is Seen In The Appointment Of Guardian Angels........................................300 
-How We Are Helped By The Angels ...........................................................................................300 
-God's Care For Us Seen In The Love He Has Ever Shown To Man..........................................301 
-God Is Called Father Because He Has Granted Us Redemption...............................................301 
-Duties We Owe Our Heavenly Father.........................................................................................302 
-"Our" ............................................................................................................................................303 
-Dispositions That Should Accompany The Words, "Our Father": Fraternal Regard ..................303 
-Filial Confidence And Piety .........................................................................................................304 
-"Who art in Heaven" ....................................................................................................................304 
-Meaning Of These Words ...........................................................................................................304 
-Lessons Taught By The Words, "Who Art In Heaven"................................................................305 
- 
-THE FIRST PETITION OF THE LORD'S PRAYER : "Hallowed be thy name" .............................305 
-Why This Petition Is Placed First.................................................................................................305 
-Object Of The First Three Petitions.............................................................................................306 
-Hallowed Be Thy Name...............................................................................................................306 
-On Earth As It Is In Heaven" .......................................................................................................306 
-What Sanctification of God's Name we should Pray For ............................................................306 
+The Just
+Enemies And Those Outside The Church
+The Dead
+Sinners 
+The Prayer Of Thanksgiving Should Be Offered For All 
+Our Thanksgiving Should Especially Be Offered: For The Saints 
+For The Blessed Virgin Mary
+To Whom We Should Pray
+To God
+To The Saints 
+God And The Saints Addressed Differently 
+Preparation for Prayer
+Humility
+Sorrow For Sin 
+Freedom From Violence, Anger, Hatred And Inhumanity
+Freedom From Pride And Contempt Of God's Word 
+Faith And Confidence
+Motives Of Confidence In Prayer 
+Correspondence With God's Will 
+Fraternal Charity
+How to Pray Well
+We Must Pray In Spirit And In Truth
+Mental Prayer 
+Vocal Prayer
+Private And Public Prayer 
+Those Who Do Nor Pray In Spirit
+Those Who Do Not Pray In Truth
+We Must Pray With Perseverance 
+We Must Pray In The Name Of Jesus Christ 
+We Must Pray With Fervour, Uniting Petition To Thanksgiving
+Fasting And Almsdeeds Should Be Joined To Prayer
+OPENING WORDS OF THE LORD'S PRAYER
+"Our Father who art in heaven"
+Importance Of Instruction On These Words
+"Father"
+God Is Called Father Because He Created Us 
+God Is Called Father Because He Provides For Us
+God's Care For Us Is Seen In The Appointment Of Guardian Angels
+How We Are Helped By The Angels 
+God's Care For Us Seen In The Love He Has Ever Shown To Man
+God Is Called Father Because He Has Granted Us Redemption
+Duties We Owe Our Heavenly Father
+"Our" 
+Dispositions That Should Accompany The Words, "Our Father": Fraternal Regard 
+Filial Confidence And Piety 
+"Who art in Heaven" 
+Meaning Of These Words 
+Lessons Taught By The Words, "Who Art In Heaven"
+THE FIRST PETITION OF THE LORD'S PRAYER : "Hallowed be thy name" 
+Why This Petition Is Placed First
+Object Of The First Three Petitions
+Hallowed Be Thy Name
+On Earth As It Is In Heaven" 
+What Sanctification of God's Name we should Pray For 
 
-That The Faithful May Glorify Him...............................................................................................306 
-That Unbelievers May Be Converted ..........................................................................................307 
-That Sinners May Be Converted.................................................................................................307 
-That God May Be Thanked For His Favours ..............................................................................307 
-That The Church May Be Recognised By All..............................................................................307 
-What Sanctification Of God's Name We Should Practice...........................................................308 
- 
-THE SECOND PETITION OF THE LORD'S PRAYER : "Thy kingdom come" .............................308 
-Importance Of Instruction On This Petition .................................................................................308 
-Greatness Of This Petition ..........................................................................................................308 
-Necessity Of Rightly Making This Petition ..................................................................................309 
-Motives For Adopting The Necessary Means .............................................................................309 
-"Thy Kingdom".............................................................................................................................310 
-The Kingdom Of Nature ..............................................................................................................310 
-The Kingdom Of Grace ...............................................................................................................310 
-The Kingdom Of Glory.................................................................................................................311 
-"Come" ........................................................................................................................................311 
-We Pray For The Propagation Of The Church............................................................................311 
-For The Conversion Of Sinners...................................................................................................312 
-That Christ May Reign Over All...................................................................................................312 
-Dispositions That Should Accompany This Petition....................................................................312 
-We Should Prize God's Kingdom Above All Things....................................................................312 
-We Must Realise That We Are Exiles .........................................................................................313 
-We Must Labor To Obtain God's Kingdom..................................................................................313 
-Recapitulation..............................................................................................................................313 
- 
-THE THIRD PETITION OF THE LORD'S PRAYER : "Thy will be done" ......................................313 
-The Relation Of This Petition To The Previous One...................................................................313 
-Necessity Of This Petition ...........................................................................................................314 
-Man’s Proneness To Act Against God’s Will...............................................................................314 
-Man’s Blindness Concerning God’s Will.....................................................................................314 
-Man’s Weakness In Fulfilling God’s Will.....................................................................................314 
-Remedy For These Evils.............................................................................................................315 
-Man's Passions Rebel Against God's Will...................................................................................315 
-"Thy Will" .....................................................................................................................................316 
-"Be Done"....................................................................................................................................316 
-We Ask That We May Fulfil What God Desires Of Us................................................................316 
-We Ask That We May Not Yield To Our Own Inordinate Desires...............................................317 
-We Ask That Our Mistaken Requests Be Not Granted...............................................................317 
+That The Faithful May Glorify Him
+That Unbelievers May Be Converted 
+That Sinners May Be Converted
+That God May Be Thanked For His Favours 
+That The Church May Be Recognised By All
+What Sanctification Of God's Name We Should Practice
+THE SECOND PETITION OF THE LORD'S PRAYER : "Thy kingdom come" 
+Importance Of Instruction On This Petition 
+Greatness Of This Petition 
+Necessity Of Rightly Making This Petition 
+Motives For Adopting The Necessary Means 
+"Thy Kingdom"
+The Kingdom Of Nature 
+The Kingdom Of Grace 
+The Kingdom Of Glory
+"Come" 
+We Pray For The Propagation Of The Church
+For The Conversion Of Sinners
+That Christ May Reign Over All
+Dispositions That Should Accompany This Petition
+We Should Prize God's Kingdom Above All Things
+We Must Realise That We Are Exiles 
+We Must Labor To Obtain God's Kingdom
+Recapitulation
+THE THIRD PETITION OF THE LORD'S PRAYER : "Thy will be done" 
+The Relation Of This Petition To The Previous One
+Necessity Of This Petition 
+Man’s Proneness To Act Against God’s Will
+Man’s Blindness Concerning God’s Will
+Man’s Weakness In Fulfilling God’s Will
+Remedy For These Evils
+Man's Passions Rebel Against God's Will
+"Thy Will" 
+"Be Done"
+We Ask That We May Fulfil What God Desires Of Us
+We Ask That We May Not Yield To Our Own Inordinate Desires
+We Ask That Our Mistaken Requests Be Not Granted
 We Ask That Even Our Good Requests Be Granted Only When They Are According To God’s 
-Will...............................................................................................................................................317 
-We Ask That God May Perfect In Us What His Grace Has Begun.............................................318 
-We Ask That All May Know God’s Will........................................................................................318 
-"On Earth as it is in Heaven".......................................................................................................318 
-This Petition Contains an Act of Thanksgiving............................................................................318 
-The Dispositions that should Accompany this Petition ...............................................................319 
-A Sense Of Our Own Weakness Of Will.....................................................................................319 
-Appreciation Of The Dignity Of Doing God's Will........................................................................319 
-Resignation To God’s Will...........................................................................................................319 
- 
-THE FOURTH PETITION OF THE LORD'S PRAYER : "Give us this day our daily bread"..........319 
-The Relation Of The Following Petitions To Those That Preceded............................................320 
-How To Pray For Temporal Blessings ........................................................................................320 
-Means Of Ascertaining Purity Of Intention In Offering This Petition ...........................................320 
-Necessity of the Fourth Petition ..................................................................................................320 
-Man Needs Many Things For His Bodily Life..............................................................................320 
+Will
+We Ask That God May Perfect In Us What His Grace Has Begun
+We Ask That All May Know God’s Will
+"On Earth as it is in Heaven"
+This Petition Contains an Act of Thanksgiving
+The Dispositions that should Accompany this Petition 
+A Sense Of Our Own Weakness Of Will
+Appreciation Of The Dignity Of Doing God's Will
+Resignation To God’s Will
+THE FOURTH PETITION OF THE LORD'S PRAYER : "Give us this day our daily bread"
+The Relation Of The Following Petitions To Those That Preceded
+How To Pray For Temporal Blessings 
+Means Of Ascertaining Purity Of Intention In Offering This Petition 
+Necessity of the Fourth Petition 
+Man Needs Many Things For His Bodily Life
 
-To Supply His Bodily Wants Man Must Labor.............................................................................321 
-Without God’s Help Man’s Labor Is Vain....................................................................................321 
-Inducements to Use this Petition.................................................................................................321 
-"Bread" ........................................................................................................................................322 
-We Ask For Temporal Blessings.................................................................................................322 
-It Is Lawful To Pray For Temporal Blessings ..............................................................................322 
-The Wants, Not The Luxuries Of This Life Are Meant By The Word "Bread".............................322 
-"Our" ............................................................................................................................................323 
-"Daily" ..........................................................................................................................................323 
-"Give"...........................................................................................................................................324 
-"us" ..............................................................................................................................................324 
-"This Day"....................................................................................................................................324 
-The Spiritual Bread Asked for in this Petition..............................................................................324 
-The Word Of God Is Our Spiritual Bread ....................................................................................325 
-Christ Is Our Spiritual Bread, Especially In The Holy Eucharist..................................................325 
-Why The Holy Eucharist Is Called Our "Daily" Bread .................................................................325 
-Exhortations.................................................................................................................................326 
- 
+To Supply His Bodily Wants Man Must Labor
+Without God’s Help Man’s Labor Is Vain
+Inducements to Use this Petition
+"Bread" 
+We Ask For Temporal Blessings
+It Is Lawful To Pray For Temporal Blessings 
+The Wants, Not The Luxuries Of This Life Are Meant By The Word "Bread"
+"Our" 
+"Daily" 
+"Give"
+"us" 
+"This Day"
+The Spiritual Bread Asked for in this Petition
+The Word Of God Is Our Spiritual Bread 
+Christ Is Our Spiritual Bread, Especially In The Holy Eucharist
+Why The Holy Eucharist Is Called Our "Daily" Bread 
+Exhortations
 THE FIFTH PETITION OF THE LORD'S PRAYER : "And forgive us our debts, as we forgive our 
-debtors" ..........................................................................................................................................326 
-The Importance Of Explaining This Petition................................................................................326 
-Difference Between This And The Preceding Petitions ..............................................................326 
-Dispositions with which this petition should be Offered ..............................................................326 
-Acknowledgment Of Sin..............................................................................................................327 
-Sorrow For Sin ............................................................................................................................327 
-Motives For Sorrow Over Sin: The Baseness Of Sin..................................................................327 
-The Consequences Of Sin ..........................................................................................................328 
-Confidence In God's Mercy.........................................................................................................328 
-"Debts".........................................................................................................................................329 
-"Our" ............................................................................................................................................329 
-"Forgive Us".................................................................................................................................330 
-"As we Forgive our Debtors" .......................................................................................................330 
-Necessity Of Forgiveness ...........................................................................................................330 
-Reasons For Forgiveness ...........................................................................................................331 
-This Petition Should Not be Neglected .......................................................................................331 
-Those Unable To Forget Injuries.................................................................................................331 
-Those Who Do Not Love Their Enemies.....................................................................................331 
-How to Make this Petition Fruitful................................................................................................332 
-Penitential Dispositions ...............................................................................................................332 
-Avoidance Of Dangers Of Sin .....................................................................................................332 
-Imitation Of Fervent Penitents.....................................................................................................332 
-Frequent Use Of The Sacraments ..............................................................................................332 
-Almsdeeds...................................................................................................................................333 
-The Spirit Of Forgiveness............................................................................................................333 
- 
-THE SIXTH PETITION OF THE LORD'S PRAYER : "And lead us not into temptation."..............333 
-Importance Of Instruction On This Petition .................................................................................333 
-Necessity of the Sixth Petition.....................................................................................................334 
-Human Frailty ..............................................................................................................................334 
-The Assaults Of The Flesh..........................................................................................................334 
-The Temptations Of The Devil ....................................................................................................334 
-Audacity Of The Demons ............................................................................................................335 
-Number Of The Demons .............................................................................................................335 
-Malignity And Power Of The Demons.........................................................................................335 
-Prayer Protects Man's Weakness Against The Enemies Of His Soul ........................................335 
-"Temptation"................................................................................................................................336 
+debtors" 
+The Importance Of Explaining This Petition
+Difference Between This And The Preceding Petitions 
+Dispositions with which this petition should be Offered 
+Acknowledgment Of Sin
+Sorrow For Sin 
+Motives For Sorrow Over Sin: The Baseness Of Sin
+The Consequences Of Sin 
+Confidence In God's Mercy
+"Debts"
+"Our" 
+"Forgive Us"
+"As we Forgive our Debtors" 
+Necessity Of Forgiveness 
+Reasons For Forgiveness 
+This Petition Should Not be Neglected 
+Those Unable To Forget Injuries
+Those Who Do Not Love Their Enemies
+How to Make this Petition Fruitful
+Penitential Dispositions 
+Avoidance Of Dangers Of Sin 
+Imitation Of Fervent Penitents
+Frequent Use Of The Sacraments 
+Almsdeeds
+The Spirit Of Forgiveness
+THE SIXTH PETITION OF THE LORD'S PRAYER : "And lead us not into temptation."
+Importance Of Instruction On This Petition 
+Necessity of the Sixth Petition
+Human Frailty 
+The Assaults Of The Flesh
+The Temptations Of The Devil 
+Audacity Of The Demons 
+Number Of The Demons 
+Malignity And Power Of The Demons
+Prayer Protects Man's Weakness Against The Enemies Of His Soul 
+"Temptation"
 
-"Lead us not into Temptation" .....................................................................................................336 
-Objects of the Sixth Petition ........................................................................................................337 
-What We Do Not Pray For...........................................................................................................337 
-What We Pray For In This Petition..............................................................................................338 
-Dispositions which should Accompany this Petition....................................................................338 
-Distrust Of Self And Confidence In God......................................................................................338 
-Remembrance Of The Victory Of Christ And His Saints.............................................................338 
-Watchfulness...............................................................................................................................339 
-The Author of victory over Temptation........................................................................................339 
-The Rewards of Victories over temptation ..................................................................................339 
- 
-THE SEVENTH PETITION OF THE LORD'S PRAYER : "But deliver us from evil"......................340 
-The Importance Of Instruction On This Petition..........................................................................340 
-Necessity Of This Petition ...........................................................................................................340 
-Our Chief Hope Of Deliverance Should Be In God.....................................................................341 
-We Must Confidently Expect His Help ........................................................................................341 
-"From Evil"...................................................................................................................................342 
-What We Do Not Pray For...........................................................................................................342 
-What We Do Pray For .................................................................................................................342 
-"Deliver Us" .................................................................................................................................342 
-Deliverance From Satan Especially Asked For...........................................................................343 
-Patience and Joy under Continued Affliction ..............................................................................343 
- 
-THE SEAL OF THE LORD'S PRAYER ..........................................................................................344 
-"Amen" .......................................................................................................................................344 
-Necessity Of Explaining The Conclusion Of The Lord's Prayer..................................................344 
-fruits that Come at the Conclusion of Prayer ..............................................................................344 
-Assurance That We Have Been Heard.......................................................................................344 
-Fervour And Illumination .............................................................................................................344 
-Sweetness...................................................................................................................................345 
-Confidence And Gratitude...........................................................................................................345 
-Illustrations From The Psalms.....................................................................................................345 
-Meaning of the Word "Amen"......................................................................................................346 
-First Explanation..........................................................................................................................346 
-Other Explanations Of The Word "Amen"...................................................................................346 
-Advantages of Terminating our Prayer with this Word................................................................346 
+"Lead us not into Temptation" 
+Objects of the Sixth Petition 
+What We Do Not Pray For
+What We Pray For In This Petition
+Dispositions which should Accompany this Petition
+Distrust Of Self And Confidence In God
+Remembrance Of The Victory Of Christ And His Saints
+Watchfulness
+The Author of victory over Temptation
+The Rewards of Victories over temptation 
+THE SEVENTH PETITION OF THE LORD'S PRAYER : "But deliver us from evil"
+The Importance Of Instruction On This Petition
+### Necessity Of This Petition 
+Our Chief Hope Of Deliverance Should Be In God
+We Must Confidently Expect His Help 
+"From Evil"
+What We Do Not Pray For
+What We Do Pray For 
+"Deliver Us" 
+Deliverance From Satan Especially Asked For
+Patience and Joy under Continued Affliction 
+THE SEAL OF THE LORD'S PRAYER 
+"Amen" 
+Necessity Of Explaining The Conclusion Of The Lord's Prayer
+fruits that Come at the Conclusion of Prayer 
+Assurance That We Have Been Heard
+Fervour And Illumination 
+Sweetness
+Confidence And Gratitude
+Illustrations From The Psalms
+Meaning of the Word "Amen"
+First Explanation
+Other Explanations Of The Word "Amen"
+Advantages of Terminating our Prayer with this Word
 
 PREFACE 
 ORIGIN OF THE ROMAN CATECHISM 
@@ -1603,7 +1549,7 @@ meaning of faith. Following their example, we have thought it well to treat firs
 Though the word faith has a variety of meanings in the Sacred Scriptures, we here speak only of that faith by 
 which we yield our entire assent to whatever has been divinely revealed. 
  
-Necessity Of Faith 
+### Necessity Of Faith 
 That faith thus understood is necessary to salvation no man can reasonably doubt, particularly since it is written: 
 Without faith it is impossible to please God. For as the end proposed to man as his ultimate happiness is far 
 above the reach of human understanding, it was therefore necessary that it should be made known to him by 
@@ -1648,9 +1594,7 @@ used by the Fathers; for as the members of the body are divided by joints (artic
 whatever is to be believed distinctly and separately from anything else is rightly and suitably called an Article. 
  
 ## ARTICLE I : "I BELIEVE IN GOD, THE FATHER ALMIGHTY, CREATOR OF HEAVEN AND 
-EARTH" 
- 
-Meaning Of This Article 
+EARTH Meaning Of This Article 
 The meaning of the above words is this: I believe with certainty, and without a shadow of doubt profess my 
 belief in God the Father, the First Person of the Trinity, who by His omnipotence created from nothing and 
 preserves and governs the heavens and the earth and all things which they contain; and not only do I believe in 
@@ -1881,7 +1825,7 @@ announce, the more willingly does the mind deem them worthy of belief. And shoul
 from heaven, we are not discouraged by the greatness of the desired benefit, but are cheered and confirmed by 
 frequently considering that there is nothing which an omnipotent God cannot effect. 
  
-Advantages Of Faith In God’s Omnipotence 
+### Advantages Of Faith In God’s Omnipotence 
 With this faith, then, we should be specially fortified whenever we are required to render any extraordinary 
 service to our neighbour or seek to obtain by prayer any favour from God. Its necessity in the one case we learn 
 from the Lord Himself, who, when rebuking the incredulity of the Apostles, said: If you have faith as a grain of 
@@ -1996,9 +1940,7 @@ of whom the Scripture says, all things were made by him; and of the Holy Ghost, 
 spirit of God moved over the waters, and again, By the word of the Lord the heavens were established; and all 
 the power of them by the spirit of his mouth. 
  
-## ARTICLE II : "AND IN JESUS CHRIST, HIS ONLY SON, OUR LORD" 
- 
-Advantages Of Faith In This Article 
+## ARTICLE II : "AND IN JESUS CHRIST, HIS ONLY SON, OUR LORD Advantages Of Faith In This Article 
 That wonderful and superabundant are the blessings which flow to the human race from the belief and 
 profession of this Article we learn from these words of St. John: Whosoever shall confess that Jesus is the Son 
 of God, God abideth in him, and he in God; and also from the words of Christ the Lord, proclaiming the Prince 
@@ -2021,7 +1963,7 @@ condition and replace it in its primitive state. To remedy the evil and repair t
 Son of God, whose power is infinite, clothed in the weakness of our flesh, should remove the infinite weight of 
 sin and reconcile us to God in His blood. 
  
-Necessity Of Faith In This Article 
+### Necessity Of Faith In This Article 
 The belief and profession of this our redemption, which God declared from the beginning, are now, and always 
 have been, necessary to salvation. In the sentence of condemnation pronounced against the human race 
 immediately after the sin of Adam the hope of redemption was held out in these words, which announced to the 
@@ -2192,9 +2134,7 @@ the most just, and perhaps the strongest, claim to induce us always to acknowled
 our Lord. 
  
 ## ARTICLE III : "WHO WAS CONCEIVED BY THE HOLY GHOST, BORN OF THE VIRGIN 
-MARY" 
-
-Importance Of This Article 
+MARY Importance Of This Article 
 From what has been said in the preceding Article, the faithful can understand that in bringing us from the 
 relentless tyranny of Satan into liberty, God has conferred a singular and surpassing blessing on the human race. 
 But if we place before our eyes also the plan and means by which He deigned chiefly to accomplish this, then, 
@@ -2277,7 +2217,7 @@ consideration, let them, in the humility of faith, believe and adore all the mys
 not indulge a curious inquisitiveness by investigating and scrutinising them -- an attempt scarcely ever 
 unattended with danger. 
 
-Second Part Of This Article: "Born Of The Virgin Mary" 
+### Second Part Of This Article: "Born Of The Virgin Mary" 
 These words comprise another part of this Article. In its exposition the pastor should exercise considerable 
 diligence, because the faithful are bound to believe that Jesus the Lord was not only conceived by the power of 
 the Holy Ghost, but was also born of the Virgin Mary. The words of the Angel who first announced the happy 
@@ -2371,9 +2311,7 @@ purity of soul which so much becomes men regenerated by the Spirit of God. Thus 
 image of the holy Conception and Nativity of the Son of God, which are the objects of our firm faith, and 
 believing which we revere and adore the wisdom of God in a mystery which is hidden. 
  
-## ARTICLE IV : "Suffered Under Pontius Pilate, Was Crucified, Dead, And Buried'" 
- 
-Importance Of This Article 
+## ARTICLE IV : "Suffered Under Pontius Pilate, Was Crucified, Dead, And Buried' Importance Of This Article 
 How necessary is a knowledge of this Article, and how assiduous the pastor should be in stirring up in the 
 minds of the faithful the frequent recollection of our Lord's Passion" we learn from the Apostle when he says 
 that he knows nothing but Jesus Christ and him crucified.' The pastor, therefore, should exercise the greatest 
@@ -2441,7 +2379,7 @@ development here. Not to speak of David, whose Psalms embrace all the principal 
 oracles of Isaias in particular are so clear and graphic that he might be said rather to have recorded a past than 
 predicted a future event. a 
  
-Second Part Of This Article: "Dead, And Buried" 
+### Second Part Of This Article: "Dead, And Buried" 
  
 Christ Really Died 
 The pastor should explain that these words present for our belief that Jesus Christ, after He was crucified, really 
@@ -2625,9 +2563,7 @@ may at length, through His grace and mercy, be found worthy to be made partakers
 glory ! 
  
 ## ARTICLE V : "HE DESCENDED INTO HELL, THE THIRD DAY HE ROSE AGAIN FROM THE 
-DEAD" 
- 
-Importance Of This Article 
+DEAD Importance Of This Article 
 To know the glory of the burial of our Lord Jesus Christ, of which we last treated, is highly important; but of 
 still higher importance is it to the faithful to know the splendid triumphs which He obtained by having subdued 
 the devil and despoiled the abodes of hell. Of these triumphs, and also of His Resurrection, we are now about to 
@@ -2790,7 +2726,7 @@ To understand still better the force and meaning of this Article, there are thre
 and understand: first, why the Resurrection was necessary; secondly, its end and object; thirdly, the blessings 
 and advantages of which it is to us the source. 
  
-Necessity Of The Resurrection 
+### Necessity Of The Resurrection 
 With regard to the first, it was necessary that Christ should rise again in order to manifest the justice of God; for 
 it was most congruous that He who through obedience to God was degraded, and loaded with ignominy, should 
 by Him be exalted. This is a reason assigned by the Apostle when he says to the Philippians: He humbled 
@@ -2831,7 +2767,7 @@ rising again from the dead, dieth now no more, death shall no more have dominion
 to sin, he died once; but in that he liveth, he liveth unto God: so do you also reckon, that you are dead to sin, but 
 alive unto God, in Christ Jesus. 
  
-Advantages Of The: Resurrection 
+### Advantages Of The: Resurrection 
 From the Resurrection of Christ, therefore, we should draw two lessons: the one, that after we have washed 
 away the stains of sin, we should begin to lead a new life, distinguished by integrity, innocence, holiness, 
 modesty, justice, beneficence and humility; the other, that we should so persevere in that newness of life as 
@@ -2857,9 +2793,7 @@ modest, whatever just, whatever holy, and experiences within him the sweetness o
 may consider a very strong proof that such a one has risen with Christ Jesus to a new and spiritual life. 
  
 ## ARTICLE VI : "HE ASCENDED INTO HEAVEN, SITTETH AT THE RIGHT HAND OF GOD THE 
-FATHER ALMIGHTY" 
- 
-Importance Of This Article 
+FATHER ALMIGHTY Importance Of This Article 
 Filled with the Spirit of God, and contemplating the blessed and glorious Ascension of our Lord, the Prophet 
 David exhorts all to celebrate that splendid triumph with the greatest joy and gladness: Clap your hands, all ye 
 nations: shout unto God with he voice of joy.... God is ascended with jubilee. 
@@ -3001,9 +2935,7 @@ merits opened heaven to the just, yet His Ascension is not only proposed to us a
 look on high and ascend in spirit into heaven, but it also imparts to us a divine virtue which enables us to 
 accomplish what it teaches. 
 
-## ARTICLE VII : "FROM THENCE HE SHALL COME TO JUDGE THE LIVING AND THE DEAD" 
- 
-Meaning Of This Article 
+## ARTICLE VII : "FROM THENCE HE SHALL COME TO JUDGE THE LIVING AND THE DEAD Meaning Of This Article 
 For the glory and adornment of His Church Jesus Christ is invested with three eminent offices and functions: 
 those of Redeemer, Mediator, and Judge. Since in the preceding Articles it was shown that the human race was 
 redeemed by His Passion and death, and since by His Ascension into heaven it is manifest that He has 
@@ -3159,9 +3091,7 @@ It only remains, then, for the pastor to exhort the faithful to lead holy lives 
 they may be enabled to look forward with confidence to the coming of that great day of the Lord -- nay, as 
 becomes children, even to desire it most fervently. 
 
-## ARTICLE VIII : "I BELIEVE IN THE HOLY GHOST" 
- 
-Importance Of This Article 
+## ARTICLE VIII : "I BELIEVE IN THE HOLY GHOST Importance Of This Article 
 Hitherto we have expounded, as far as the nature of the subject seemed to require, what pertains to the First and 
 Second Per sons of the Holy Trinity. It now remains to explain what the Creed contains with regard to the Third 
 Person, the Holy Ghost. 
@@ -3318,9 +3248,7 @@ within us the sacred flame of piety, forms us to newness of life, renders us par
 enables us to be called and really to be the sons of God. 
 
 ## ARTICLE IX : "I BELIEVE IN THE HOLY CATHOLIC CHURCH; THE COMMUNION OF 
-SAINTS" 
- 
-The Importance Of This Article 
+SAINTS The Importance Of This Article 
 With what great diligence pastors ought to explain to the faithful the truth of this ninth Article will be easily 
 seen, if we attend chiefly to two considerations. 
 First, as St. Augustine observes, the Prophets spoke more plainly and openly of the Church than of Christ, 
@@ -3337,7 +3265,7 @@ faithful, having known this mystery and guarded against the wiles of Satan, may 
 This Article hinges upon the preceding one; for, it having been already shown that the Holy Ghost is the source 
 and giver of all holiness, we here profess our belief that the Church has been endowed by Him with sanctity. 
  
-First Part Of This Article : "I Believe In The Holy Catholic Church 
+### First Part Of This Article : "I Believe In The Holy Catholic Church 
 The Latins, having borrowed the word ecclesia (church) from the Greeks, have transferred it, since the 
 preaching of the Gospel, to sacred things. It becomes necessary, therefore, to explain its meaning. 
  
@@ -3675,9 +3603,7 @@ Those, therefore, who belong to this holy communion, it is manifest, do now enjo
 and can truly say: How lovely are thy tabernacles, O Lord of hosts! my soul longeth and fainteth for the courts 
 of the Lord.... Blessed are they who dwell in thy house, Lord. 
  
-## ARTICLE X : "THE FORGIVENESS OF SINS" 
- 
-Importance Of This Article 
+## ARTICLE X : "THE FORGIVENESS OF SINS Importance Of This Article 
 
 The enumeration of this among the other Articles of the Creed is alone sufficient to satisfy us that it conveys a 
 truth, which is not only in itself a divine mystery, but also a mystery very necessary to salvation. We have 
@@ -3823,7 +3749,7 @@ forfeited.
  
 ## ARTICLE XI : "THE RESURRECTION OF THE BODY" 
  
-Importance Of This Article 
+### Importance Of This Article 
 That this Article supplies a convincing proof of the truth of our faith appears chiefly from the fact that not only 
 is it proposed in the Sacred Scriptures to the belief of the faithful, but is also confirmed by numerous arguments. 
 This we scarcely find to be the case with regard to the other Articles, which justifies the inference that on this 
@@ -4062,9 +3988,7 @@ On the other hand, nothing will have greater effect in subduing the passions and
 than frequently to remind the sinner of the miseries and torments with which the reprobate will be visited, who 
 on the last day will come forth unto the resurrection of judgment. 
  
-## ARTICLE XII : "LIFE EVERLASTING" 
- 
-Importance Of This Article 
+## ARTICLE XII : "LIFE EVERLASTING Importance Of This Article 
 The holy Apostles, our guides, thought fit to conclude the Creed, which is the summary of our faith, with the 
 Article on eternal life: first, because after the resurrection of the body the only object of the Christian's hope is 
 the reward of everlasting life; and secondly, in order that perfect happiness, embracing as it does the fullness of 
@@ -4735,7 +4659,7 @@ St. Denis calls it the beginning of the most holy Commandments, for this obvious
 were, the gate through which we enter into the fellowship of the Christian life, and begin thenceforward to obey 
 the Commandments. So much should be briefly explained concerning the name (of this Sacrament) . 
  
-Definition Of Baptism 
+### Definition Of Baptism 
 With regard to the definition of Baptism although many can be given from sacred writers, nevertheless that 
 which may be gathered from the words of our Lord recorded in John, and of the Apostle to the Ephesians, 
 appears the most appropriate and suitable. Unless, says our Lord, a man be born again of water and the Holy 
@@ -6449,7 +6373,7 @@ This has been at all times the uniform doctrine of the Catholic Church; and it c
 same authorities which, as we have already proved, make it plain that the substance of the bread and wine 
 ceases to exist in the Eucharist. 
  
-Advantages Of This Mystery 
+### Advantages Of This Mystery 
 Nothing more becomes the piety of the faithful than, omitting all curious questionings, to revere and adore the 
 majesty of this august Sacrament, and to recognise the wisdom of God in commanding that these holy mysteries 
 should be administered under the species of bread and wine. For since it is most revolting to human nature to 
@@ -6572,7 +6496,7 @@ described. Hence it is clear that those who, having it in their power to receive
 Sacrament of the body of the Lord, are yet satisfied with a spiritual Communion only, deprive themselves of the 
 greatest and most heavenly advantages. 
  
-Necessity Of Previous Preparation For Communion 
+### Necessity Of Previous Preparation For Communion 
 We now come to point out the manner in which the faithful should be previously prepared for sacramental 
 Communion. To demonstrate the great necessity of this previous preparation, the example of the Saviour should 
 be adduced. Before He gave to His Apostles the Sacrament of His precious body and blood, although they were 
@@ -7124,7 +7048,7 @@ These three parts, then, are so intimately connected with one another, that cont
 resolution of confessing and making satisfaction; contrition and the resolution of making satisfaction imply 
 confession; while the other two precede satisfaction. 
  
-Necessity Of These Integral Parts 
+### Necessity Of These Integral Parts 
 The reason why these are the integral parts may be thus explained. Sins against God are committed by thought, 
 by word and by deed. It is, then, but reasonable, that in recurring to the power of the keys we should endeavour 
 to appease God's wrath, and obtain pardon for our sins by means of the very same things which we employed to 
@@ -7333,7 +7257,7 @@ through the agency of the ministers of his wicked designs, have assailed with al
 were, of Christian virtue. It should be shown, therefore, in the first place that the institution of confession is 
 most useful and even necessary to us. 
  
-Necessity Of Confession 
+### Necessity Of Confession 
 Contrition, it is true, blots out sin; but who does not know that to effect this it must be so intense, so ardent, so 
 vehement, as to bear a proportion to the magnitude of the crimes which it effaces? This is a degree of contrition 
 which few reach; and hence, in this way, very few indeed could hope to obtain the pardon of their sins. It, 
@@ -7348,7 +7272,7 @@ most holy men, our Fathers, proclaim that by the keys of the Church the gate of 
 which no one can doubt since the Council of Florence has decreed that the effect of Penance is absolution from 
 sin. 
  
-Advantages Of Confession 
+### Advantages Of Confession 
 To appreciate further the great advantages of confession we may turn to a fact taught by experience. To those 
 who have led immoral lives nothing is found so useful towards a reformation of morals as sometimes to disclose 
 their secret thoughts, all their words and actions, to a prudent and faithful friend, who can assist them by his 
@@ -7364,7 +7288,7 @@ of secret and heinous crimes -- crimes too, and others of still greater enormity
 been depraved by vicious habits, will not dread to commit in open day. The salutary shame that attends 
 confession restrains licentiousness, bridles desire and checks wickedness. 
  
-Definition Of Confession 
+### Definition Of Confession 
 Having explained the advantages of confession, pastors should next unfold its nature and efficacy. Confession, 
 then, is defined: A sacramental accusation of one's sins, made to obtain pardon by virtue of the keys. 
 It is rightly called an accusation, because sins are not to be told as if the sinner boasted of his crimes, as they do 
@@ -7706,7 +7630,7 @@ against its suggestions. In accordance with this idea of satisfaction some have 
 effaces whatever defilement may remain in the soul from the stains of sin, and which exempts us from the 
 temporal chastisements due to sin. 
  
-Necessity Of Satisfaction 
+### Necessity Of Satisfaction 
 Such being the nature of satisfaction, it will not be difficult to convince the faithful of the necessity imposed on 
 the penitent of performing works of satisfaction. They are to be taught that sin carries in its train two evils, the 
 stain and the punishment. Whenever the stain is effaced, the punishment of eternal death is forgiven with the 
@@ -8615,7 +8539,7 @@ were, by a common yoke.
 It is called nuptials, because, as St. Ambrose observes, the bride veiled her face through modesty -- a custom 
 which would also seem to imply that she was to be subject and obedient to her husband. 
  
-Definition Of Matrimony 
+### Definition Of Matrimony 
 Matrimony, according to the general opinion of theologians, is defined: The conjugal union of man and woman, 
 contracted between two qualified persons, which obliges them to live together throughout life. 
 In order that the different parts of this definition may be better understood, it should be taught that, although a 
@@ -8832,7 +8756,7 @@ if she depart that she remain unmarried or be reconciled to her husband. To the 
 has left her husband, the Apostle offers this alternative: Let her either remain unmarried or be reconciled to her 
 husband. Nor does holy Church permit husband and wife to separate without weighty reasons. 
  
-Advantages Of Indissolubility 
+### Advantages Of Indissolubility 
 
 Lest, however, the law of Matrimony should seem too severe on account of its absolute indissolubility, the 
 advantages of this indissolubility should be pointed out. 
@@ -10522,7 +10446,7 @@ he will certainly find that he has received no injury or loss from others. For a
 injury from external causes, he is himself his greatest enemy by wickedly staining his soul with hatred, 
 malevolence and envy. 
  
-Advantages Of Forgiveness 
+### Advantages Of Forgiveness 
 The second consideration is that there are two advantages, which are the special rewards of those, who, 
 influenced by a holy desire to please God, freely forgive injuries. In the first place, God has promised that he 
 who forgives, shall himself obtain forgiveness of sins, a promise which clearly shows how acceptable to God is 
@@ -11366,7 +11290,7 @@ looks only to utility and interest, the other to unlawful desire and criminal pl
 a field or house, pursues profit rather than pleasure, while he who covets another man's wife yields to a desire of 
 pleasure, not of profit. 
  
-Necessity Of Promulgating These Two Commandments 
+### Necessity Of Promulgating These Two Commandments 
 The promulgation of these two Commandments was necessary for two reasons. The first is to explain the sixth 
 and seventh Commandments. Reason alone shows that to prohibit adultery is also to prohibit the desire of 
 another man's wife, because, were the desire lawful, its indulgence must be so too; nevertheless, many of the 
@@ -12544,7 +12468,7 @@ immediately subjoins: All these things shall be added unto you. Thus does he dec
 with bountiful hand bestows upon man an abundance of all things, whose infinite goodness enraptured David 
 when he sang: The Lord ruleth me, and I shall want nothing. 
  
-Necessity Of Rightly Making This Petition 
+### Necessity Of Rightly Making This Petition 
 It is not enough, however, that we utter an earnest petition for the kingdom of God; we must also add to our 
 prayer the use of all those means by which that kingdom is sought and found.- The five foolish virgins uttered 
 earnestly the same petition in these words: Lord, Lord, open to us; but they used not the means necessary to 
@@ -12737,7 +12661,7 @@ the Lord has said: Not every one that says to me, Lord, Lord, shall enter into t
 doth the will of my Father who is in heaven, he shall enter into the kingdom of heaven. Consequently this 
 Petition follows immediately after the one which prays for the kingdom of heaven. 
  
-Necessity Of This Petition 
+### Necessity Of This Petition 
 In order that the faithful may know the necessity of this Petition and the numerous and salutary gifts which we 
 obtain through it, the pastor should direct their attention to the misery and wretchedness in which the sin of 
 Adam has involved mankind. 
@@ -13404,7 +13328,7 @@ God should grant us the pardon of our offences, we ourselves must pardon those f
 injury; for so rigorously does God exact from us forgetfulness of injuries and mutual affection and love, that He 
 rejects and despises the gifts and sacrifices of those who are not reconciled to one another. 
  
-Necessity Of Forgiveness 
+### Necessity Of Forgiveness 
 Even the law of nature requires that we conduct ourselves towards others as we would have them conduct 
 themselves towards us; hence he would be most impudent who would ask of God the pardon of his own 
 offences while he continued to cherish enmity against his neighbour. 
@@ -13787,7 +13711,7 @@ Such, then, being the importance of this Petition, the diligence of the pastor i
 The difference between this and the preceding Petition consists in this, that in the one we beg to avoid sin, in the 
 other, to escape punishment. 
  
-Necessity Of This Petition 
+### Necessity Of This Petition 
 It cannot be necessary to remind the faithful of the numerous evils and calamities to which we are exposed, and 
 how much we stand in need of the divine assistance. The many and serious miseries of human life have been 
 fully described by sacred and profane writers, and there is hardly any one who has not observed them either in 
@@ -13946,7 +13870,7 @@ hath been in awe of thy words; I will rejoice at thy words, as one that hath fou
 THE SEAL OF THE LORD'S PRAYER 
 "Amen" 
  
-Necessity Of Explaining The Conclusion Of The Lord's Prayer 
+### Necessity Of Explaining The Conclusion Of The Lord's Prayer 
 St. Jerome in his commentary on St. Matthew rightly calls this word what it really is, the seal of the Lord's 
 Prayer. As then we have already admonished the faithful with regard to the preparation to be made before this 
 holy prayer, so we deem it necessary that they should also know why we close our prayers with this word, and 
@@ -14042,5 +13966,5 @@ rather, understanding that they have been all granted, and feeling the divine as
 us, we cry out together with the Prophet: Behold God is my helper; and the Lord is the protector of my soul. 
 Nor can anyone doubt that God is moved by the name of His Son, and by a word so often uttered by Him who, 
 as the Apostle says, was always heard for his reverence. 
-THE END OF THE CATECHISM 
+## THE END OF THE CATECHISM 
  

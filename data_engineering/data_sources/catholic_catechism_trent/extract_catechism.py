@@ -8,6 +8,10 @@ from a PDF file and converts it to clean Markdown format.
 The script uses the pypdf library to extract text from PDF,
 then applies regex patterns to detect headers and insert Markdown syntax.
 
+CRITICAL RULE: This script NEVER removes words or content from the PDF. All text content
+is preserved exactly as extracted. Only formatting artifacts (null bytes, excessive whitespace,
+page number references) are removed. The copyright notice and all substantive content are preserved.
+
 Prerequisites:
     - Download the PDF file from SaintsBooks.net
     - Place it in this directory
@@ -73,53 +77,81 @@ OUTPUT_FILEPATH = OUTPUT_DIR / OUTPUT_FILENAME
 def clean_text(text: str) -> str:
     """Cleans up the raw text extracted from PDF.
 
+    CRITICAL: This function only removes formatting artifacts (null bytes, excessive whitespace, etc.).
+    It NEVER removes actual content or words from the PDF. All text content is preserved.
+
     Args:
         text: Raw text from PDF extraction
 
     Returns:
-        Cleaned text string
+        Cleaned text string with all content preserved
     """
-    # Normalize line breaks (PDF often creates excessive whitespace)
-    text = re.sub(r'\n{3,}', '\n\n', text)
-
-    # Remove common PDF artifacts
+    # Remove common PDF artifacts (not content)
     text = text.replace('\x00', '')
     text = text.replace('\r', '')
 
-    # Clean up extra spaces
+    # Remove page number references (formatting only - lines with only dots and numbers at the end)
+    # Pattern: "Text.............................................................................25"
+    # This removes the dots and numbers, but preserves the text before them
+    text = re.sub(r'\.{3,}\s*\d+\s*$', '', text, flags=re.MULTILINE)
+
+    # Remove standalone page numbers (formatting only - lines with only numbers)
+    text = re.sub(r'^\s*\d+\s*$', '', text, flags=re.MULTILINE)
+
+    # Clean up excessive dots used for spacing in PDF (formatting artifact)
+    # Only remove dots that are clearly spacing, not content dots
+    text = re.sub(r'\.{6,}', '', text)
+
+    # Clean up extra spaces (formatting only)
     text = re.sub(r'[ \t]+', ' ', text)
 
-    # Remove page numbers and headers/footers (common patterns)
-    text = re.sub(r'^\s*\d+\s*$', '', text, flags=re.MULTILINE)
+    # Normalize line breaks (formatting only - PDF often creates excessive whitespace)
+    text = re.sub(r'\n{3,}', '\n\n', text)
 
     return text
 
 
 def add_markdown_headers(text: str) -> str:
-    """Identifies headers based on capitalization conventions in the McHugh/Callan text
-    and applies Markdown syntax.
+    """Identifies major structural headers and applies Markdown syntax.
+
+    CRITICAL: This function only adds markdown formatting. It NEVER removes or modifies
+    the actual content. All words and text are preserved exactly as extracted from the PDF.
 
     Args:
         text: Cleaned plain text
 
     Returns:
-        Text with Markdown headers applied
+        Text with Markdown headers applied (content unchanged)
     """
     # 1. Main Parts (e.g., "PART I") -> # Header 1
     text = re.sub(r'^PART ([IVX]+)', r'# PART \1', text, flags=re.MULTILINE)
 
     # 2. Articles (e.g., "ARTICLE I") -> ## Header 2
+    # Handle split headers across lines (common in PDF extraction)
+    text = re.sub(r'^ARTICLE ([IVX]+)\s*:\s*"([^"]+)"\s*\n\s*([^"]+)"',
+                  r'## ARTICLE \1 : "\2 \3"', text, flags=re.MULTILINE)
+    text = re.sub(r'^ARTICLE ([IVX]+)\s*:\s*"([^"]+)"', r'## ARTICLE \1 : "\2"', text, flags=re.MULTILINE)
     text = re.sub(r'^ARTICLE ([IVX]+)', r'## ARTICLE \1', text, flags=re.MULTILINE)
 
-    # 3. Questions/Sub-sections -> ### Header 3
-    # Note: Sometimes these are "QUESTION I" or just bolded text.
-    # This pattern looks for "QUESTION" at the start of a line.
-    text = re.sub(r'^(QUESTION [IVX0-9]+)', r'### \1', text, flags=re.MULTILINE)
+    # 3. Major section titles (only the most important structural elements)
+    # These are major subsections within articles that deserve ### headers
+    # Be conservative - only catch clear section titles, not every capitalized phrase
+    major_section_patterns = [
+        r'^(Meaning Of This Article)',
+        r'^(Importance Of This Article)',
+        r'^(Advantages Of [A-Z][^\.]{15,})',  # Only longer phrases
+        r'^(Necessity Of [A-Z][^\.]{15,})',
+        r'^(Definition Of [A-Z][^\.]{15,})',
+        r'^(First Part [Oo]f This Article)',
+        r'^(Second Part [Oo]f This Article)',
+        r'^(Third Part [Oo]f This Article)',
+    ]
+    for pattern in major_section_patterns:
+        text = re.sub(pattern, r'### \1', text, flags=re.MULTILINE)
 
-    # 4. Additional patterns for sections (adjust based on your RTF structure)
-    # Common patterns in catechisms:
-    text = re.sub(r'^SECTION ([IVX0-9]+)', r'### SECTION \1', text, flags=re.MULTILINE)
-    text = re.sub(r'^CHAPTER ([IVX0-9]+)', r'## CHAPTER \1', text, flags=re.MULTILINE)
+    # 4. Special sections
+    text = re.sub(r'^(QUESTION [IVX0-9]+)', r'### \1', text, flags=re.MULTILINE)
+    text = re.sub(r'^(THE END OF THE CATECHISM)', r'## \1', text, flags=re.MULTILINE)
 
     return text
 
@@ -190,6 +222,7 @@ def main() -> int:
         return 1
 
     logger.info("Applying Markdown formatting...")
+    # CRITICAL: All content from PDF is preserved. Only formatting is applied.
     clean_content = clean_text(text_content)
     final_content = add_markdown_headers(clean_content)
 
