@@ -34,14 +34,20 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 **See**: [bible_commentary_haydock/README.md](bible_commentary_haydock/README.md) for details
 
 ### 3. Roman Catechism (`catholic_catechism_trent/`)
-**Status**: ⚠️ Requires RTF download
+**Status**: ⚠️ Requires PDF download
 
-**Overview**: Extracts catechism from RTF format.
+**Overview**: Extracts catechism from PDF format with advanced header detection and italic formatting.
 
 **Prerequisites**:
-- Download RTF from SaintsBooks.net
+- Download PDF from SaintsBooks.net
 - Ensure it's the McHugh & Callan translation (1923)
-- Place in `catholic_catechism_trent/raw/` directory
+- Place `The Roman Catechism.pdf` in `catholic_catechism_trent/` directory
+
+**Key Features**:
+- Advanced header detection (PART, ARTICLE, major sections, italicized subsections)
+- Italic text detection using `pdfplumber` font analysis
+- Pattern-based fallback for known section titles
+- Content preservation (never removes actual text, only formatting artifacts)
 
 **See**: [catholic_catechism_trent/README.md](catholic_catechism_trent/README.md) for details
 
@@ -58,7 +64,7 @@ python extract_bible.py
 cd bible_commentary_haydock
 python extract_commentary.py
 
-# Catechism (requires RTF)
+# Catechism (requires PDF)
 cd catholic_catechism_trent
 python extract_catechism.py
 ```
@@ -96,17 +102,18 @@ Final output (after pipeline completion with `--copy-output`) is in:
 ```
 Raw Sources → Extraction Scripts → Processed Data → Final Output
      ↓              ↓                    ↓              ↓
-  API/EPUB/RTF   Python Scripts    Validation      Markdown Files
+  API/EPUB/PDF   Python Scripts    Validation      Markdown Files
 ```
 
 ## Troubleshooting
 
 ### Common Issues
 
-1. **Missing source files**: Ensure EPUB/RTF files are in the correct `raw/` directories
+1. **Missing source files**: Ensure EPUB/PDF files are in the correct directories
 2. **API timeouts**: Increase delay in config for Bible extraction
-3. **Parsing errors**: Check EPUB/RTF structure and adjust parsing logic
+3. **Parsing errors**: Check EPUB/PDF structure and adjust parsing logic
 4. **Encoding issues**: Scripts handle UTF-8 and latin-1 automatically
+5. **Italic detection**: Catechism script uses font analysis; some italicized sections may use pattern-based fallback
 
 ### Getting Help
 

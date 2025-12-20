@@ -22,7 +22,7 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 - `data_sources/bible_commentary_haydock/` - Haydock Commentary extraction from EPUB
   - `extract_commentary.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
-- `data_sources/catholic_catechism_trent/` - Roman Catechism extraction from RTF
+- `data_sources/catholic_catechism_trent/` - Roman Catechism extraction from PDF
   - `extract_catechism.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
 - `data_sources/README.md` - Overview of all data sources
@@ -44,7 +44,7 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 - **uv** (fast Python package manager) - [Installation instructions below](#installing-uv)
 - Internet connection (for Bible API)
 - EPUB file for Haydock Commentary (download separately)
-- RTF file for Catechism (download separately)
+- PDF file for Catechism (download separately)
 
 ### Installing uv
 
@@ -110,8 +110,8 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 3. **Download source files**:
    - **Haydock Commentary**: Download EPUB from Isidore E-Book Library or JohnBlood GitLab
      - Place in `data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub`
-   - **Catechism**: Download RTF from SaintsBooks.net
-     - Place in `data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf`
+   - **Catechism**: Download PDF from SaintsBooks.net
+     - Place `The Roman Catechism.pdf` in `data_sources/catholic_catechism_trent/`
 
 ## 🔧 Running Individual Extractors
 
@@ -149,9 +149,9 @@ cd data_sources/catholic_catechism_trent
 python extract_catechism.py
 ```
 
-**Prerequisites**: RTF file must be in `raw/` directory
+**Prerequisites**: PDF file (`The Roman Catechism.pdf`) must be in the `catholic_catechism_trent/` directory
 
-**Output**: Single Markdown file in `processed_data/catholic_catechism_trent/`
+**Output**: Single Markdown file (`Catholic_Catechism_Trent_McHugh_Callan.md`) in `data_final/catholic_catechism_trent/`
 
 ## 🔄 Running the Full Pipeline
 
@@ -188,9 +188,10 @@ python data_engineering/scripts/run_pipeline.py --validate
 - Proper Markdown headers
 
 **Roman Catechism**:
-- Single file: `Catechism_McHugh_Callan.md`
-- Headers: `# PART`, `## ARTICLE`, `### QUESTION`
+- Single file: `Catholic_Catechism_Trent_McHugh_Callan.md`
+- Headers: `# PART`, `## ARTICLE`, `##` for major sections, `###` for subsections, `####` for italicized section titles
 - Clean text with proper formatting
+- All content preserved from PDF (only formatting artifacts removed)
 
 ## 🧪 Testing
 
@@ -234,7 +235,7 @@ API_RATE_LIMIT_DELAY=0.5
 
 # File Paths
 HAYDOCK_EPUB_PATH=data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub
-CATECHISM_RTF_PATH=data_engineering/data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf
+CATECHISM_PDF_PATH=data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf
 
 # Output Directories
 OUTPUT_DIR=data_final
@@ -263,7 +264,7 @@ LOG_DIR=logs
 
 ### Catechism Extraction Issues
 
-- **RTF Parsing Errors**: Try different encoding (utf-8, latin-1)
+- **PDF Parsing Errors**: Check PDF structure and header detection patterns
 - **Header Detection**: Adjust regex patterns for header detection
 - **Footnotes**: May require manual cleanup after extraction
 
@@ -279,7 +280,7 @@ LOG_DIR=logs
 ```
 Raw Sources → Extraction Scripts → Validation → Processed Data
      ↓              ↓                  ↓              ↓
-  API/EPUB/RTF   Python Scripts    Quality Checks  Markdown Files
+  API/EPUB/PDF   Python Scripts    Quality Checks  Markdown Files
 ```
 
 ## 🔒 Security & Privacy

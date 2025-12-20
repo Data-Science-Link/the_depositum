@@ -32,7 +32,7 @@ This pipeline produces Markdown files specifically optimized for AI tools and No
 
 - **📖 Douay-Rheims Bible**: 73 books extracted from bible-api.com and converted to Markdown
 - **📚 Haydock Bible Commentary**: Full commentary extracted from EPUB format
-- **✝️ Roman Catechism (McHugh & Callan)**: Catechism of the Council of Trent converted from RTF to Markdown
+- **✝️ Roman Catechism (McHugh & Callan)**: Catechism of the Council of Trent converted from PDF to Markdown
 - **🔄 Reproducible Pipeline**: Complete automation for data extraction and transformation
 - **📁 NotebookLM-Ready Output**: Clean, formatted Markdown files optimized for AI tools
 
@@ -44,7 +44,7 @@ This pipeline produces Markdown files specifically optimized for AI tools and No
 - **uv** (fast Python package manager) - See installation instructions below
 - Internet connection (for API downloads)
 - EPUB file for Haydock Commentary (download separately)
-- RTF file for Catechism (download separately)
+- PDF file for Catechism (download separately)
 
 ### Installation
 
@@ -90,9 +90,9 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 2. Place in: `data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub`
 
 **Catechism**:
-1. Download RTF from SaintsBooks.net
+1. Download PDF from SaintsBooks.net
 2. **Important**: Ensure it's the McHugh & Callan translation (1923)
-3. Place in: `data_engineering/data_sources/catholic_catechism_trent/raw/Catechism of the Council of Trent.rtf`
+3. Place `The Roman Catechism.pdf` in: `data_engineering/data_sources/catholic_catechism_trent/`
 
 **Step 4: Run the Pipeline**:
 
@@ -145,11 +145,11 @@ This pipeline extracts and processes three foundational Catholic texts that toge
 - **Role in Deposit of Faith**: Represents **Sacred Tradition** - the living transmission of how the Church has understood Scripture through the ages, preserving the interpretive insights of the Church Fathers
 
 ### Pillar C: Catechism of the Council of Trent (McHugh & Callan Translation, 1923)
-- **Source**: RTF file from SaintsBooks.net
-- **Format**: RTF → Plain Text → Markdown
-- **Output**: Single Markdown file with proper headers
+- **Source**: PDF file from SaintsBooks.net
+- **Format**: PDF → Text with Formatting → Markdown
+- **Output**: Single Markdown file with comprehensive header detection (PART, ARTICLE, major sections, italicized subsections)
 - **Script**: `data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py`
-- **Prerequisite**: Download RTF file separately (McHugh & Callan translation, 1923)
+- **Prerequisite**: Download PDF file separately (McHugh & Callan translation, 1923)
 - **Historical Significance**: Official catechism commissioned by the Council of Trent (1545-1563) and published in 1566. The McHugh & Callan translation (1923) is considered one of the most accurate English translations, produced by Dominican scholars. This catechism represents authoritative post-Tridentine Catholic doctrine.
 - **Role in Deposit of Faith**: Represents **Magisterium** - the teaching authority of the Church providing official interpretation and explanation of the faith
 
@@ -158,7 +158,7 @@ This pipeline extracts and processes three foundational Catholic texts that toge
 ```
 Raw Sources → Extraction Scripts → Processed Data → NotebookLM
      ↓              ↓                    ↓
-  API/EPUB/RTF   Python Scripts    Clean Markdown
+  API/EPUB/PDF   Python Scripts    Clean Markdown
 ```
 
 1. **Extraction**: Download and parse source materials
@@ -312,7 +312,7 @@ For detailed technical information, see:
 ## 🔍 Troubleshooting
 
 ### "File not found" errors
-- Ensure source files (EPUB/RTF) are in the correct `raw/` directories
+- Ensure source files (EPUB/PDF) are in the correct directories
 - Check file names match exactly (case-sensitive)
 
 ### API timeout errors
@@ -321,7 +321,7 @@ For detailed technical information, see:
 
 ### Parsing errors
 - For Haydock: Inspect EPUB structure and adjust parsing logic in extraction script
-- For Catechism: Check RTF encoding (script tries UTF-8 and latin-1)
+- For Catechism: Check PDF structure and header detection patterns
 
 ### Import errors
 - Ensure virtual environment is activated (or use `uv run`)
@@ -361,7 +361,7 @@ All source texts (Douay-Rheims, Haydock Commentary, Roman Catechism) are in the 
 - **bible-api.com**: For providing structured Bible data
 - **ebible.org**: For maintaining public domain Bible texts
 - **Isidore E-Book Library / JohnBlood GitLab**: For Haydock Commentary EPUB
-- **SaintsBooks.net**: For McHugh & Callan Catechism RTF
+- **SaintsBooks.net**: For McHugh & Callan Catechism PDF
 
 ---
 
