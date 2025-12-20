@@ -188,7 +188,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 - Proper Markdown headers
 
 **Roman Catechism**:
-- Single file: `Catechism_McHugh_Callan.md`
+- Single file: `Catholic_Catechism_Trent_McHugh_Callan.md`
 - Headers: `# PART`, `## ARTICLE`, `### QUESTION`
 - Clean text with proper formatting
 

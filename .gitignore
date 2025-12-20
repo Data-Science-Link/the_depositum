@@ -71,6 +71,7 @@ data_final/bible_commentary_haydock/*
 !data_final/bible_commentary_haydock/.gitkeep
 data_final/catholic_catechism_trent/*
 !data_final/catholic_catechism_trent/.gitkeep
+!data_final/catholic_catechism_trent/*.md
 
 # Logs
 logs/

@@ -35,7 +35,7 @@ python extract_catechism.py
 
 ## Output
 
-The script generates a single Markdown file: `Catechism_McHugh_Callan.md` directly in `data_final/catholic_catechism_trent/` (final output location).
+The script generates a single Markdown file: `Catholic_Catechism_Trent_McHugh_Callan.md` directly in `data_final/catholic_catechism_trent/` (final output location).
 
 The file includes:
 - `# PART` headers for main parts

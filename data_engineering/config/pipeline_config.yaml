@@ -45,7 +45,7 @@ output:
   naming:
     douay_rheims: "{book_name}.md"
     haydock: "{book_name}_commentary.md"
-    catechism: "Catechism_McHugh_Callan.md"
+    catechism: "Catholic_Catechism_Trent_McHugh_Callan.md"
 
 # Validation
 validation:

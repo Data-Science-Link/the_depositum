@@ -18,6 +18,7 @@ Usage:
 
 import sys
 import re
+import argparse
 import logging
 from pathlib import Path
 from typing import Optional
@@ -51,17 +52,19 @@ logger.addHandler(console_handler)
 
 # Load configuration
 CONFIG_PATH = Path(__file__).parent.parent.parent / "config" / "pipeline_config.yaml"
+PROJECT_ROOT = Path(__file__).parent.parent.parent.parent  # Go up to project root
 try:
     with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
         config = yaml.safe_load(f)
-    INPUT_FILENAME = Path(config['paths']['raw_data']['catechism'])
-    OUTPUT_DIR = Path(config['paths']['final_output']['catechism'])
+    # Resolve paths relative to project root
+    INPUT_FILENAME = PROJECT_ROOT / config['paths']['raw_data']['catechism']
+    OUTPUT_DIR = PROJECT_ROOT / config['paths']['final_output']['catechism']
     OUTPUT_FILENAME = config['output']['naming']['catechism']
 except (FileNotFoundError, yaml.YAMLError, KeyError) as e:
     logger.warning(f"Could not load config, using defaults: {e}")
     INPUT_FILENAME = Path(__file__).parent / "The Roman Catechism.pdf"
     OUTPUT_DIR = Path(__file__).parent.parent.parent.parent / "data_final" / "catholic_catechism_trent"
-    OUTPUT_FILENAME = "Catechism_McHugh_Callan.md"
+    OUTPUT_FILENAME = "Catholic_Catechism_Trent_McHugh_Callan.md"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 OUTPUT_FILEPATH = OUTPUT_DIR / OUTPUT_FILENAME
@@ -127,9 +130,17 @@ def main() -> int:
     Returns:
         Exit code: 0 for success, 1 for failure
     """
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(description='Extract Catechism of the Council of Trent from PDF')
+    parser.add_argument('--max-pages', type=int, default=None,
+                        help='Maximum number of pages to extract (for testing)')
+    args = parser.parse_args()
+
     logger.info("Starting Catechism extraction...")
     logger.info(f"Output directory: {OUTPUT_DIR}")
     logger.info(f"📝 Logging to: {LOG_FILE}")
+    if args.max_pages:
+        logger.info(f"⚠️  TEST MODE: Limiting extraction to first {args.max_pages} pages")
 
     # Check if PDF file exists
     if not INPUT_FILENAME.exists():
@@ -147,10 +158,14 @@ def main() -> int:
         total_pages = len(reader.pages)
         logger.info(f"PDF has {total_pages} pages, extracting text...")
 
+        # Limit pages if --max-pages is specified (for testing)
+        pages_to_process = reader.pages[:args.max_pages] if args.max_pages else reader.pages
+        actual_page_count = len(pages_to_process)
+
         text_parts = []
-        for page_num, page in enumerate(reader.pages, start=1):
-            if page_num % 50 == 0:
-                logger.info(f"  Processing page {page_num}/{total_pages}...")
+        for page_num, page in enumerate(pages_to_process, start=1):
+            if page_num % 10 == 0 or page_num == 1:
+                logger.info(f"  Processing page {page_num}/{actual_page_count}...")
             try:
                 page_text = page.extract_text()
                 if page_text:

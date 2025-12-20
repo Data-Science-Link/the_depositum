@@ -690,6 +690,18 @@ wheels = [
 ]
 
 [[package]]
+name = "pypdf"
+version = "6.4.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "typing-extensions", marker = "python_full_version < '3.11'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/bd/c2/b59b02ff7f2dc006799d2c5dc3a8877686890abdd915176ef799070edf17/pypdf-6.4.2.tar.gz", hash = "sha256:c466ff1272ffb4712c2348d2bbc3019bc93f1c62ccfaf50808e3b9f13c3dc527", size = 5275502, upload-time = "2025-12-14T14:30:58.58Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/38/99/3147435e15ccd97c0451efc3d13495dc22602e9887f81e64f1b135bae821/pypdf-6.4.2-py3-none-any.whl", hash = "sha256:014dcff867fd99fc0b6fc90ed1f7e1347ef2317ae038a489c2caa64106d268f4", size = 328212, upload-time = "2025-12-14T14:30:56.701Z" },
+]
+
+[[package]]
 name = "pytest"
 version = "9.0.2"
 source = { registry = "https://pypi.org/simple" }
@@ -865,6 +877,7 @@ source = { editable = "." }
 dependencies = [
     { name = "beautifulsoup4" },
     { name = "ebooklib" },
+    { name = "pypdf" },
     { name = "pyyaml" },
     { name = "requests" },
     { name = "striprtf" },
@@ -884,6 +897,7 @@ requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.12.0" },
     { name = "ebooklib", specifier = ">=0.18" },
     { name = "pip-audit", marker = "extra == 'dev'", specifier = ">=2.6.1" },
+    { name = "pypdf", specifier = ">=3.17.0" },
     { name = "pytest", marker = "extra == 'dev'", specifier = ">=7.4.0" },
     { name = "pytest-cov", marker = "extra == 'dev'", specifier = ">=4.1.0" },
     { name = "pyyaml", specifier = ">=6.0" },
