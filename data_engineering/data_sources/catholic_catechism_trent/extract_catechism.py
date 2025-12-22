@@ -196,6 +196,113 @@ def _format_italicized_headers(text: str, italicized_texts: List[str]) -> str:
     return '\n'.join(lines)
 
 
+def _split_merged_headers(text: str) -> str:
+    """Split merged headers that appear on a single line.
+
+    PDF extraction sometimes merges multiple headers into one line.
+    This function identifies and splits them based on common patterns.
+
+    CRITICAL: This function only adds line breaks. It NEVER removes content.
+
+    Args:
+        text: Text that may contain merged headers
+
+    Returns:
+        Text with merged headers split into separate lines
+    """
+    lines = text.split('\n')
+    result_lines = []
+
+    for line in lines:
+        stripped = line.strip()
+
+        # Skip empty lines
+        if not stripped:
+            result_lines.append(line)
+            continue
+
+        # Pattern 1: Multiple all-caps section titles merged (before formatting)
+        # Example: "PREFACE ORIGIN OF THE ROMAN CATECHISM AUTHORITY AND EXCELLENCE..."
+        if not stripped.startswith('#') and re.match(r'^[A-Z\s]+$', stripped) and len(stripped.split()) > 8:
+            # Try to split on known section boundaries
+            # Look for patterns like "ORIGIN OF", "AUTHORITY AND", "EXCELLENCE OF"
+            words = stripped.split()
+            sections = []
+            current_section = []
+
+            # Known section starter patterns
+            section_markers = ['ORIGIN', 'AUTHORITY', 'EXCELLENCE', 'CATECHISM', 'NECESSITY',
+                             'NATURE', 'ENDS', 'MEANING', 'IMPORTANCE', 'ADVANTAGES']
+
+            i = 0
+            while i < len(words):
+                word = words[i]
+                current_section.append(word)
+
+                # Check if next word might start a new section
+                if i + 1 < len(words):
+                    next_word = words[i + 1]
+                    # If current word is a section marker and we have a reasonable section length
+                    if word in section_markers and len(current_section) >= 3:
+                        # Check if this looks like end of section
+                        if next_word in ['OF', 'AND', 'THE'] and len(current_section) >= 4:
+                            sections.append(' '.join(current_section))
+                            current_section = []
+
+                i += 1
+
+            # Add remaining
+            if current_section:
+                sections.append(' '.join(current_section))
+
+            # Only split if we found 2-4 reasonable sections
+            if 2 <= len(sections) <= 4 and all(3 <= len(s.split()) <= 12 for s in sections):
+                result_lines.extend([f"## {section}" for section in sections])
+                continue
+
+        # Pattern 2: Multiple title-case subsection headers merged
+        # Example: "Meaning Of This Article Importance Of This Article"
+        if not stripped.startswith('#') and len(stripped.split()) > 8:
+            words = stripped.split()
+            phrases = []
+            current_phrase = []
+
+            for i, word in enumerate(words):
+                # Title case word (capital first letter)
+                is_capital = word and word[0].isupper()
+
+                if is_capital:
+                    # Check if this might start a new phrase
+                    if current_phrase:
+                        # Common phrase endings that suggest completion
+                        last_word = current_phrase[-1].upper()
+                        if last_word in ['ARTICLE', 'COMMANDMENT', 'SACRAMENT', 'THIS', 'THAT', 'THESE', 'THOSE']:
+                            if len(current_phrase) >= 2:
+                                phrases.append(' '.join(current_phrase))
+                                current_phrase = [word]
+                            else:
+                                current_phrase.append(word)
+                        else:
+                            current_phrase.append(word)
+                    else:
+                        current_phrase.append(word)
+                else:
+                    if current_phrase:
+                        current_phrase.append(word)
+
+            if current_phrase and len(current_phrase) >= 2:
+                phrases.append(' '.join(current_phrase))
+
+            # Only split if we found 2-4 reasonable phrases
+            if 2 <= len(phrases) <= 4 and all(2 <= len(p.split()) <= 8 for p in phrases):
+                result_lines.extend([f"#### {phrase}" for phrase in phrases])
+                continue
+
+        result_lines.append(line)
+
+    return '\n'.join(result_lines)
+
+
 def _split_long_lines(text: str) -> str:
     """Split long lines on structural markers to improve readability.
 
@@ -277,6 +384,98 @@ def _merge_consecutive_headers(lines: List[str]) -> List[str]:
     return merged
 
 
+def _generate_table_of_contents(text: str) -> str:
+    """Generate a table of contents from markdown headers.
+
+    Extracts all headers (## and above) and creates a TOC with proper indentation.
+    Skips headers in the copyright/preface section.
+
+    Args:
+        text: Markdown text with headers
+
+    Returns:
+        Table of contents as markdown list
+    """
+    lines = text.split('\n')
+    toc_items = []
+    in_preface = True  # Skip copyright/preface section
+
+    for line in lines:
+        stripped = line.strip()
+
+        # Stop skipping after we see the first PART or ARTICLE
+        if re.match(r'^#\s+PART\s+[IVX]+', stripped, re.IGNORECASE):
+            in_preface = False
+
+        if in_preface:
+            continue
+
+        # Extract headers
+        header_match = re.match(r'^(#+)\s+(.+)$', stripped)
+        if header_match:
+            level = len(header_match.group(1))
+            title = header_match.group(2).strip()
+
+            # Only include ## and ### headers in TOC (skip ####)
+            if level <= 3:
+                # Create anchor-friendly link
+                anchor = re.sub(r'[^\w\s-]', '', title).strip()
+                anchor = re.sub(r'[-\s]+', '-', anchor).lower()
+
+                indent = '  ' * (level - 1)
+                toc_items.append(f"{indent}- [{title}](#{anchor})")
+
+    if not toc_items:
+        return ""
+
+    return "## Table of Contents\n\n" + "\n".join(toc_items) + "\n"
+
+
+def _format_copyright_section(text: str) -> str:
+    """Format the copyright notice and preface section as a blockquote.
+
+    Args:
+        text: Text that may contain copyright notice
+
+    Returns:
+        Text with copyright section formatted as blockquote
+    """
+    lines = text.split('\n')
+    result_lines = []
+    in_copyright = False
+    copyright_start = -1
+
+    # Find copyright section boundaries (first pass)
+    copyright_end = -1
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+
+        # Detect start of copyright section
+        if not in_copyright and any(word in stripped.upper() for word in ['COPYRIGHT', 'CATHOLIC PRIMER', 'PUBLIC DOMAIN']):
+            in_copyright = True
+            copyright_start = i
+
+        # Check if we've reached the main content (first ## header that's not a copyright artifact)
+        if copyright_end == -1 and stripped.startswith('##') and not stripped.startswith('####'):
+            # Check if it's actually a content header (not copyright)
+            if not any(word in stripped.upper() for word in ['ADOBE', 'ACROBAT', 'COPYRIGHT', 'CATHOLIC PRIMER']):
+                copyright_end = i
+                break  # Found end, can stop searching
+
+    # Process all lines (second pass)
+    for i, line in enumerate(lines):
+        # Format copyright section as blockquote
+        if copyright_start >= 0 and copyright_end > copyright_start and copyright_start <= i < copyright_end:
+            if line.strip() and not line.strip().startswith('##'):
+                result_lines.append('> ' + line.strip())
+            else:
+                result_lines.append(line)
+        else:
+            result_lines.append(line)
+
+    return '\n'.join(result_lines)
+
+
 def add_markdown_headers(text: str, italicized_texts: Optional[List[str]] = None) -> str:
     """Applies Markdown headers using formulaic rules based on text structure.
 
@@ -300,6 +499,9 @@ def add_markdown_headers(text: str, italicized_texts: Optional[List[str]] = None
     # This is the primary signal for subsection headers
     if italicized_texts:
         text = _format_italicized_headers(text, italicized_texts)
+
+    # Step 1.5: Split merged headers (multiple headers on one line)
+    text = _split_merged_headers(text)
 
     # Step 2: Split long lines on structural markers
     text = _split_long_lines(text)
@@ -405,7 +607,121 @@ def add_markdown_headers(text: str, italicized_texts: Optional[List[str]] = None
     # Remove page numbers from headers
     text = re.sub(r'(#+\s+[^#\n]+?)(\d{1,3})(\s|$)', r'\1\3', text, flags=re.MULTILINE)
 
-    # Normalize excessive line breaks
+    # Step 6: Post-process to split remaining merged headers in formatted text
+    lines = text.split('\n')
+    result_lines = []
+
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+
+        # Check for merged ## headers (multiple section titles)
+        if stripped.startswith('##') and not stripped.startswith('###'):
+            header_text = stripped[2:].strip()
+
+            # Pattern: Multiple all-caps section titles merged
+            # Example: "PREFACE ORIGIN OF THE ROMAN CATECHISM AUTHORITY AND EXCELLENCE..."
+            if len(header_text.split()) > 10 and header_text.isupper():
+                # Split on specific known patterns
+                # Pattern 1: "PREFACE" followed by "ORIGIN OF THE ROMAN CATECHISM"
+                if 'PREFACE' in header_text and 'ORIGIN' in header_text:
+                    # Try to split at "ORIGIN"
+                    idx = header_text.find('ORIGIN')
+                    if idx > 0:
+                        part1 = header_text[:idx].strip()
+                        part2 = header_text[idx:].strip()
+                        # Further split part2 if it contains "AUTHORITY"
+                        if 'AUTHORITY' in part2:
+                            idx2 = part2.find('AUTHORITY')
+                            if idx2 > 0:
+                                part2a = part2[:idx2].strip()
+                                part2b = part2[idx2:].strip()
+                                # Check if part2b contains "EXCELLENCE"
+                                if 'EXCELLENCE' in part2b:
+                                    idx3 = part2b.find('EXCELLENCE')
+                                    if idx3 > 0:
+                                        part2b1 = part2b[:idx3].strip()
+                                        part2b2 = part2b[idx3:].strip()
+                                        # Split into: PREFACE, ORIGIN..., AUTHORITY..., EXCELLENCE...
+                                        parts = [part1, part2a, part2b1, part2b2]
+                                        if all(3 <= len(p.split()) <= 15 for p in parts):
+                                            result_lines.extend([f"## {p}" for p in parts])
+                                            continue
+                                else:
+                                    parts = [part1, part2a, part2b]
+                                    if all(3 <= len(p.split()) <= 15 for p in parts):
+                                        result_lines.extend([f"## {p}" for p in parts])
+                                        continue
+                            else:
+                                parts = [part1, part2]
+                                if all(3 <= len(p.split()) <= 20 for p in parts):
+                                    result_lines.extend([f"## {p}" for p in parts])
+                                    continue
+
+        # Check for merged #### headers (multiple subsection titles)
+        if stripped.startswith('####'):
+            header_text = stripped[4:].strip()
+
+            # Pattern: Multiple title-case phrases merged
+            # Example: "Meaning Of This Article Importance Of This Article"
+            if len(header_text.split()) > 10:
+                # Look for repeated patterns like "Of This Article", "Of The", etc.
+                words = header_text.split()
+                phrases = []
+                current_phrase = []
+
+                # Common phrase endings that indicate completion
+                phrase_endings = ['Article', 'Commandment', 'Sacrament', 'This', 'That', 'These', 'Those']
+
+                i_word = 0
+                while i_word < len(words):
+                    word = words[i_word]
+                    current_phrase.append(word)
+
+                    # Check if this word might end a phrase
+                    if word in phrase_endings and len(current_phrase) >= 3:
+                        # Check if next word starts with capital (new phrase)
+                        if i_word + 1 < len(words) and words[i_word + 1][0].isupper():
+                            phrases.append(' '.join(current_phrase))
+                            current_phrase = []
+
+                    i_word += 1
+
+                if current_phrase and len(current_phrase) >= 2:
+                    phrases.append(' '.join(current_phrase))
+
+                # Only split if we found 2-4 reasonable phrases
+                if 2 <= len(phrases) <= 4 and all(2 <= len(p.split()) <= 10 for p in phrases):
+                    result_lines.extend([f"#### {phrase}" for phrase in phrases])
+                    continue
+
+        result_lines.append(line)
+
+    text = '\n'.join(result_lines)
+
+    # Step 7: Improve spacing - ensure blank lines around headers
+    lines = text.split('\n')
+    result_lines = []
+
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+
+        # Add blank line before headers (except at start of file)
+        if stripped.startswith('#') and i > 0:
+            prev_line = result_lines[-1] if result_lines else ''
+            if prev_line.strip() and not prev_line.strip().startswith('>'):
+                result_lines.append('')
+
+        result_lines.append(line)
+
+        # Add blank line after headers if next line is not empty and not a header
+        if stripped.startswith('#') and i + 1 < len(lines):
+            next_line = lines[i + 1].strip()
+            if next_line and not next_line.startswith('#') and not next_line.startswith('>'):
+                result_lines.append('')
+
+    text = '\n'.join(result_lines)
+
+    # Normalize excessive line breaks (max 2 consecutive)
     text = re.sub(r'\n{3,}', '\n\n', text)
 
     return text
@@ -572,14 +888,39 @@ def main() -> int:
 
     final_content = add_markdown_headers(clean_content, cleaned_italicized_texts)
 
+    # Format copyright section
+    final_content = _format_copyright_section(final_content)
+
+    # Generate table of contents
+    logger.info("Generating table of contents...")
+    toc = _generate_table_of_contents(final_content)
+
     # Write output file with frontmatter
     try:
         with open(OUTPUT_FILEPATH, 'w', encoding='utf-8') as f:
-            # Frontmatter
+            # Enhanced frontmatter
             f.write("---\n")
             f.write("title: Catechism of the Council of Trent (McHugh & Callan Translation)\n")
-            f.write("tags: catechism, council-of-trent, mchugh-callan, magisterium\n")
+            f.write("subtitle: The Roman Catechism / Catechism of Pius V\n")
+            f.write("authors:\n")
+            f.write("  - name: John A. McHugh, O.P.\n")
+            f.write("  - name: Charles J. Callan, O.P.\n")
+            f.write("translation_date: 1923\n")
+            f.write("source: SaintsBooks.net\n")
+            f.write("tags:\n")
+            f.write("  - catechism\n")
+            f.write("  - council-of-trent\n")
+            f.write("  - mchugh-callan\n")
+            f.write("  - magisterium\n")
+            f.write("  - roman-catechism\n")
+            f.write("language: en\n")
+            f.write("format: markdown\n")
             f.write("---\n\n")
+
+            # Table of contents
+            if toc:
+                f.write(toc)
+                f.write("\n")
 
             # Content
             f.write(final_content)
