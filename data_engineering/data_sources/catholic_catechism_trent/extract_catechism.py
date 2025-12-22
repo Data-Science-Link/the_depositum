@@ -74,6 +74,58 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 OUTPUT_FILEPATH = OUTPUT_DIR / OUTPUT_FILENAME
 
 
+def _extract_original_toc_from_raw(text: str) -> Tuple[str, str]:
+    """Extract and preserve the original PDF table of contents from raw text.
+
+    The original TOC is identified by finding the earliest and latest lines with 5+
+    consecutive dots (.....) which indicate page number references. All lines between
+    these boundaries (inclusive) are treated as TOC content, even if some lines don't
+    have dots (e.g., when dots appear on the next line).
+    This must be done BEFORE clean_text() removes the dots.
+
+    Args:
+        text: Raw text from PDF extraction (before cleaning)
+
+    Returns:
+        Tuple of (text_without_toc, original_toc_text)
+    """
+    lines = text.split('\n')
+
+    # Pattern to match lines with 5+ consecutive dots (TOC format)
+    # Example: "Advantages of Terminating our Prayer with this Word................................................................346"
+    dot_pattern = re.compile(r'\.{5,}')
+
+    # Find the earliest line with dots (TOC start)
+    toc_start = -1
+    for i, line in enumerate(lines):
+        if dot_pattern.search(line):
+            toc_start = i
+            break
+
+    # Find the latest line with dots (TOC end)
+    toc_end = -1
+    for i in range(len(lines) - 1, -1, -1):
+        if dot_pattern.search(lines[i]):
+            toc_end = i
+            break
+
+    # Extract TOC section if both boundaries found
+    if toc_start >= 0 and toc_end >= toc_start:
+        toc_lines = lines[toc_start:toc_end + 1]  # Inclusive range
+        original_toc = '\n'.join(toc_lines)
+
+        # Remove TOC from main text
+        text_without_toc_lines = lines[:toc_start] + lines[toc_end + 1:]
+        text_without_toc = '\n'.join(text_without_toc_lines)
+
+        logger.info(f"Extracted original PDF table of contents (lines {toc_start}-{toc_end}, {len(toc_lines)} lines total)")
+        return text_without_toc, original_toc
+
+    # If no TOC boundaries found, return original text
+    logger.warning("Could not detect original PDF table of contents (no lines with 5+ consecutive dots)")
+    return text, ""
+
+
 def clean_text(text: str) -> str:
     """Cleans up the raw text extracted from PDF.
 
@@ -955,7 +1007,13 @@ def main() -> int:
 
     logger.info("Applying Markdown formatting...")
     # CRITICAL: All content from PDF is preserved. Only formatting is applied.
-    clean_content = clean_text(text_content)
+
+    # Extract original PDF table of contents BEFORE cleaning (dots will be removed by clean_text)
+    logger.info("Extracting original PDF table of contents...")
+    text_without_toc, original_toc = _extract_original_toc_from_raw(text_content)
+
+    # Clean the text (excluding the original TOC which we'll preserve as-is)
+    clean_content = clean_text(text_without_toc)
 
     # Clean italicized_texts to match the cleaned content (for proper matching)
     # Note: clean_text works on full text, so we need to clean each italicized line individually
@@ -1002,10 +1060,24 @@ def main() -> int:
             f.write("format: markdown\n")
             f.write("---\n\n")
 
-            # Table of contents
+            # Table of contents (dynamically generated from detected headers)
             if toc:
                 f.write(toc)
                 f.write("\n")
+
+            # Original PDF table of contents (preserved as-is, commented out)
+            # NOTE: The table of contents above is the correct, dynamically generated one.
+            # The section below is the original PDF table of contents preserved for reference only.
+            if original_toc:
+                f.write("<!--\n")
+                f.write("ORIGINAL PDF TABLE OF CONTENTS (PRESERVED FOR REFERENCE)\n")
+                f.write("========================================================\n")
+                f.write("NOTE: The table of contents above is the correct, dynamically generated one.\n")
+                f.write("This section below is the original PDF table of contents preserved as-is.\n")
+                f.write("========================================================\n\n")
+                # Write the original TOC exactly as extracted (no cleaning, no formatting)
+                f.write(original_toc)
+                f.write("\n-->\n\n")
 
             # Content
             f.write(final_content)
