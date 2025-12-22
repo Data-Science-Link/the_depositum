@@ -153,27 +153,36 @@ def _format_italicized_headers(text: str, italicized_texts: List[str]) -> str:
         if not stripped or stripped.startswith('#'):
             continue
 
-        # Normalize the line for comparison
+        # Normalize the line for comparison (remove trailing punctuation for better matching)
         normalized_line = ' '.join(stripped.split())
+        # Also create version without trailing punctuation for matching
+        normalized_line_no_punct = normalized_line.rstrip('.,:;!?')
 
         # Check for exact or substring match
         matched_italic = None
         for norm_italic, orig_italic in italicized_normalized.items():
-            # Exact match (after normalization)
-            if normalized_line == norm_italic:
+            # Normalize italic text similarly
+            norm_italic_no_punct = norm_italic.rstrip('.,:;!?')
+
+            # Exact match (after normalization, with or without trailing punctuation)
+            if normalized_line == norm_italic or normalized_line_no_punct == norm_italic_no_punct:
                 matched_italic = orig_italic
                 break
             # Substring match - line contains italic text or vice versa
-            elif (norm_italic in normalized_line and len(norm_italic) > 15) or \
-                 (normalized_line in norm_italic and len(normalized_line) > 15):
+            # Lower threshold for short headers (5-15 chars) to catch them
+            min_length = 5 if len(normalized_line) <= 15 else 15
+            if (norm_italic in normalized_line and len(norm_italic) >= min_length) or \
+               (normalized_line in norm_italic and len(normalized_line) >= min_length) or \
+               (norm_italic_no_punct in normalized_line_no_punct and len(norm_italic_no_punct) >= min_length) or \
+               (normalized_line_no_punct in norm_italic_no_punct and len(normalized_line_no_punct) >= min_length):
                 # Prefer longer match
                 if not matched_italic or len(norm_italic) > len(matched_italic):
                     matched_italic = orig_italic
 
         if matched_italic:
             # Formulaic validation: must be reasonable header characteristics
-            # 1. Length check (10-150 chars)
-            if not (10 <= len(stripped) <= 150):
+            # 1. Length check (5-150 chars) - lowered minimum to catch short headers like "The Judge"
+            if not (5 <= len(stripped) <= 150):
                 continue
 
             # 2. Not a sentence (doesn't end with period, comma, or have too many words)
@@ -181,14 +190,23 @@ def _format_italicized_headers(text: str, italicized_texts: List[str]) -> str:
             if (stripped.endswith(('.', ',', ';')) and word_count > 8) or word_count > 20:
                 continue
 
-            # 3. Must be followed by substantial content
+            # 3. Must be followed by substantial content (or be a very short header that's likely a title)
+            # Short headers (5-15 chars) are more likely to be valid even if followed by short text
+            is_short_header = 5 <= len(stripped) <= 15
             next_idx = _find_next_content_line(lines, i)
             if next_idx:
                 next_line = lines[next_idx].strip()
                 # Format if next line has substantial content and isn't another header
-                if len(next_line) > 15 and not next_line.startswith('#'):
+                # For short headers, be more lenient (next line can be shorter)
+                min_next_length = 10 if is_short_header else 15
+                if len(next_line) > min_next_length and not next_line.startswith('#'):
                     lines[i] = f"#### {stripped}"
                     formatted_count += 1
+            elif is_short_header:
+                # Very short headers that are likely titles can be formatted even without following content
+                # This handles cases where the next line might be another short header
+                lines[i] = f"#### {stripped}"
+                formatted_count += 1
 
     if formatted_count > 0:
         logger.info(f"Formatted {formatted_count} italicized lines as headers")
@@ -598,6 +616,53 @@ def add_markdown_headers(text: str, italicized_texts: Optional[List[str]] = None
                 lines[i] = f"## {stripped}"
                 continue
 
+        # First, check if line contains multiple potential headers merged together
+        # (e.g., "Circumstances of the Judgment: The Judge")
+        if ':' in stripped and len(stripped.split(':')) == 2:
+            parts = stripped.split(':', 1)
+            first_part = parts[0].strip() + ':'
+            second_part = parts[1].strip()
+            # Check if second part looks like a separate header (short, title case)
+            if second_part and 3 <= len(second_part) <= 20:
+                second_words = second_part.split()
+                if len(second_words) <= 4 and all(w[0].isupper() for w in second_words if w):
+                    # Check if first part also looks like a header
+                    first_words = first_part.rstrip(':').strip().split()
+                    lowercase_words = {'of', 'the', 'and', 'or', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'with', 'by'}
+                    significant_first = [w for w in first_words if w.lower() not in lowercase_words]
+                    if significant_first and all(w[0].isupper() for w in significant_first if w) and 2 <= len(first_words) <= 8:
+                        # Split into two separate headers
+                        lines[i] = f"#### {first_part}"
+                        # Insert the second header on the next line
+                        lines.insert(i + 1, f"#### {second_part}")
+                        continue
+
+        # Pattern-based detection for common header patterns that might not be detected as italicized
+        # Title-case phrases ending with colon (e.g., "Circumstances of the Judgment:")
+        # Pattern: Starts with capital, ends with colon, has reasonable length
+        if stripped.endswith(':') and len(stripped) >= 10 and len(stripped) <= 80:
+            words = stripped.rstrip(':').strip().split()
+            # Common lowercase words that are acceptable in title case
+            lowercase_words = {'of', 'the', 'and', 'or', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'with', 'by'}
+            # Check if it looks like a header (2-8 words)
+            if 2 <= len(words) <= 8:
+                # Check if first word and significant words are capitalized
+                # Allow lowercase words like "of", "the", etc.
+                significant_words = [w for w in words if w.lower() not in lowercase_words]
+                if significant_words and all(w[0].isupper() for w in significant_words if w):
+                    # Check if next line has content (it's a header)
+                    next_idx = _find_next_content_line(lines, i)
+                    if next_idx:
+                        next_line = lines[next_idx].strip()
+                        # Format if next line has substantial content (not just another short header)
+                        # If next line is a short header (like "The Judge"), format this one too
+                        # but keep them separate
+                        if (len(next_line) > 10 and not next_line.startswith('#')) or \
+                           (next_line.startswith('####') and 5 <= len(next_line.replace('####', '').strip()) <= 15):
+                            # Format this line, but don't merge with next
+                            lines[i] = f"#### {stripped.rstrip()}"
+                            continue
+
     # Step 4: Merge consecutive header lines (e.g., multi-line ARTICLE headers)
     lines = _merge_consecutive_headers(lines)
 
@@ -661,7 +726,27 @@ def add_markdown_headers(text: str, italicized_texts: Optional[List[str]] = None
         if stripped.startswith('####'):
             header_text = stripped[4:].strip()
 
-            # Pattern: Multiple title-case phrases merged
+            # Pattern 1: Title-case phrase ending with colon followed by short title-case phrase
+            # Example: "Circumstances of the Judgment: The Judge"
+            if ':' in header_text and len(header_text.split(':')) == 2:
+                parts = header_text.split(':', 1)
+                first_part = parts[0].strip() + ':'
+                second_part = parts[1].strip()
+                # Check if second part looks like a separate header (short, title case, 2-4 words)
+                if second_part and 3 <= len(second_part) <= 20:
+                    second_words = second_part.split()
+                    if 1 <= len(second_words) <= 4 and all(w[0].isupper() for w in second_words if w):
+                        # Check if first part also looks like a header (title case, reasonable length)
+                        first_words = first_part.rstrip(':').strip().split()
+                        lowercase_words = {'of', 'the', 'and', 'or', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'with', 'by'}
+                        significant_first = [w for w in first_words if w.lower() not in lowercase_words]
+                        if significant_first and all(w[0].isupper() for w in significant_first if w) and 2 <= len(first_words) <= 8:
+                            # Split into two separate headers
+                            result_lines.append(f"#### {first_part}")
+                            result_lines.append(f"#### {second_part}")
+                            continue
+
+            # Pattern 2: Multiple title-case phrases merged
             # Example: "Meaning Of This Article Importance Of This Article"
             if len(header_text.split()) > 10:
                 # Look for repeated patterns like "Of This Article", "Of The", etc.
