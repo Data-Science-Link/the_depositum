@@ -458,7 +458,7 @@ def _generate_table_of_contents(text: str) -> str:
     """Generate a table of contents from markdown headers.
 
     Extracts all headers (## and above) and creates a TOC with proper indentation.
-    Skips headers in the copyright/preface section.
+    Includes copyright/introduction and preface sections.
 
     Args:
         text: Markdown text with headers
@@ -468,19 +468,30 @@ def _generate_table_of_contents(text: str) -> str:
     """
     lines = text.split('\n')
     toc_items = []
-    in_preface = True  # Skip copyright/preface section
+
+    # Skip the TOC header itself and the original TOC comment block
+    skip_until_content = True
+    in_original_toc_comment = False
 
     for line in lines:
         stripped = line.strip()
 
-        # Stop skipping after we see the first PART or ARTICLE
-        if re.match(r'^#\s+PART\s+[IVX]+', stripped, re.IGNORECASE):
-            in_preface = False
+        # Skip until we're past the TOC section and original TOC comment
+        if skip_until_content:
+            if stripped == "## Table of Contents":
+                continue
+            if stripped.startswith("<!--"):
+                in_original_toc_comment = True
+                continue
+            if in_original_toc_comment:
+                if stripped.startswith("-->"):
+                    in_original_toc_comment = False
+                continue
+            # Start including headers once we're past the TOC sections
+            if stripped.startswith("##") and not in_original_toc_comment:
+                skip_until_content = False
 
-        if in_preface:
-            continue
-
-        # Extract headers
+        # Extract headers (now including all sections)
         header_match = re.match(r'^(#+)\s+(.+)$', stripped)
         if header_match:
             level = len(header_match.group(1))
@@ -502,48 +513,86 @@ def _generate_table_of_contents(text: str) -> str:
 
 
 def _format_copyright_section(text: str) -> str:
-    """Format the copyright notice and preface section as a blockquote.
+    """Format the copyright notice and introduction section with a header and regular text.
+
+    Finds the section from "The Catechism of the Council of Trent or (The Catechism for Parish Priests)"
+    to "The translation and preface by John A. McHugh, O.P. and Charles J. Callan, O.P. (circa 1923)"
+    and formats it with a header and regular text (removing blockquotes and header markers).
 
     Args:
         text: Text that may contain copyright notice
 
     Returns:
-        Text with copyright section formatted as blockquote
+        Text with copyright section formatted with header and regular text
     """
     lines = text.split('\n')
-    result_lines = []
-    in_copyright = False
     copyright_start = -1
-
-    # Find copyright section boundaries (first pass)
     copyright_end = -1
+
+    # Find the start: "The Catechism of the Council of Trent" or similar
     for i, line in enumerate(lines):
         stripped = line.strip()
-
-        # Detect start of copyright section
-        if not in_copyright and any(word in stripped.upper() for word in ['COPYRIGHT', 'CATHOLIC PRIMER', 'PUBLIC DOMAIN']):
-            in_copyright = True
+        # Look for the title line
+        if 'THE CATECHISM OF THE COUNCIL OF TRENT' in stripped.upper() or \
+           (stripped.upper().startswith('THE CATECHISM') and 'TRENT' in stripped.upper()):
             copyright_start = i
+            break
 
-        # Check if we've reached the main content (first ## header that's not a copyright artifact)
-        if copyright_end == -1 and stripped.startswith('##') and not stripped.startswith('####'):
-            # Check if it's actually a content header (not copyright)
-            if not any(word in stripped.upper() for word in ['ADOBE', 'ACROBAT', 'COPYRIGHT', 'CATHOLIC PRIMER']):
-                copyright_end = i
-                break  # Found end, can stop searching
+    # Find the end: "The translation and preface by John A. McHugh, O.P. and Charles J. Callan, O.P. (circa 1923)"
+    if copyright_start >= 0:
+        for i in range(copyright_start, len(lines)):
+            stripped = lines[i].strip()
+            # Look for the translation line
+            if 'JOHN A. MCHUGH' in stripped.upper() and 'CHARLES J. CALLAN' in stripped.upper() and \
+               ('CIRCA 1923' in stripped.upper() or '1923' in stripped):
+                copyright_end = i + 1  # Include this line
+                break
 
-    # Process all lines (second pass)
-    for i, line in enumerate(lines):
-        # Format copyright section as blockquote
-        if copyright_start >= 0 and copyright_end > copyright_start and copyright_start <= i < copyright_end:
-            if line.strip() and not line.strip().startswith('##'):
-                result_lines.append('> ' + line.strip())
-            else:
-                result_lines.append(line)
-        else:
-            result_lines.append(line)
+    # If we found both boundaries, format the section
+    if copyright_start >= 0 and copyright_end > copyright_start:
+        result_lines = []
 
-    return '\n'.join(result_lines)
+        # Add lines before copyright section
+        result_lines.extend(lines[:copyright_start])
+
+        # Add header
+        result_lines.append('## Copyright and Introduction to the Document')
+        result_lines.append('')
+
+        # Process copyright section lines: remove blockquotes, headers, and format as regular text
+        for i in range(copyright_start, copyright_end):
+            line = lines[i]
+            stripped = line.strip()
+
+            # Skip empty lines (we'll add them back if needed)
+            if not stripped:
+                result_lines.append('')
+                continue
+
+            # Remove blockquote markers
+            if stripped.startswith('>'):
+                stripped = stripped[1:].strip()
+
+            # Remove header markers (####)
+            if stripped.startswith('####'):
+                stripped = stripped[4:].strip()
+            elif stripped.startswith('###'):
+                stripped = stripped[3:].strip()
+            elif stripped.startswith('##'):
+                stripped = stripped[2:].strip()
+            elif stripped.startswith('#'):
+                stripped = stripped[1:].strip()
+
+            # Add the cleaned line
+            result_lines.append(stripped)
+
+        # Add lines after copyright section
+        result_lines.extend(lines[copyright_end:])
+
+        return '\n'.join(result_lines)
+
+    # If we couldn't find the section, return original text
+    return text
 
 
 def add_markdown_headers(text: str, italicized_texts: Optional[List[str]] = None) -> str:
