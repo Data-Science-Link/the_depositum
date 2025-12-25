@@ -11,6 +11,13 @@ This document provides a complete listing of all files in The Depositum reposito
 | `LICENSE` | MIT License |
 | `pyproject.toml` | Python project configuration, dependencies, and build system |
 | `.gitignore` | Git ignore rules for Python, data files, logs, and IDE files |
+| `uv.lock` | Lock file for uv package manager (generated, not typically version controlled) |
+
+## Scripts
+
+| File | Description |
+|------|-------------|
+| `scripts/security_check.sh` | Security scanning script for local development (Bandit + pip-audit) |
 
 ## Configuration & Development Files
 
@@ -62,6 +69,9 @@ This document provides a complete listing of all files in The Depositum reposito
 |------|-------------|
 | `data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py` | Extraction script that converts PDF files to Markdown with comprehensive header detection and italic formatting |
 | `data_engineering/data_sources/catholic_catechism_trent/README.md` | Extraction guide with PDF parsing details, header detection methods, and content preservation rules |
+| `data_engineering/data_sources/catholic_catechism_trent/EXTRACTION_ANALYSIS.md` | Analysis document tracking the iterative improvement process for header detection accuracy |
+| `data_engineering/data_sources/catholic_catechism_trent/cleaned_table_of_contents.csv` | Reference table of contents used for validating header hierarchy accuracy |
+| `data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf` | Source PDF file (not version controlled, must be downloaded separately) |
 
 #### Data Sources Overview
 | File | Description |
@@ -72,10 +82,8 @@ This document provides a complete listing of all files in The Depositum reposito
 
 | File | Description |
 |------|-------------|
-| `data_final/README.md` | Complete documentation of final output with historical context for all three sources, Deposit of Faith explanation, and Markdown format rationale |
-| `data_final/bible_douay_rheims/.gitkeep` | Placeholder to ensure directory is tracked in git |
+| `data_final/00_Project_Prompt_and_Sources.md` | Project constitution and source documentation defining the three pillars (Scripture, Tradition, Magisterium) and operational guidelines for AI tools |
 | `data_final/bible_commentary_haydock/.gitkeep` | Placeholder to ensure directory is tracked in git |
-| `data_final/catholic_catechism_trent/.gitkeep` | Placeholder to ensure directory is tracked in git |
 
 ## Generated Directories (Not Version Controlled)
 
@@ -87,11 +95,12 @@ These directories are created by the pipeline and contain generated files:
   - `catholic_catechism_trent/` - Intermediate catechism file
 
 - `data_final/` - Final output directories
-  - `bible_douay_rheims/` - 73 Markdown files (Genesis.md through Apocalypse.md)
+  - `bible_douay_rheims/` - 73 Markdown files (1_Genesis.md through 66_Revelation.md)
   - `bible_commentary_haydock/` - Commentary Markdown files
   - `catholic_catechism_trent/` - Catholic_Catechism_Trent_McHugh_Callan.md
+  - `00_Project_Prompt_and_Sources.md` - Project constitution and source documentation for AI tools
 
-- `logs/` - Execution logs (pipeline.log)
+- `data_engineering/logs/` - Execution logs (bible_extraction.log, catechism_extraction.log)
 
 - `.venv/` - Virtual environment (created by `uv venv`)
 
@@ -100,10 +109,12 @@ These directories are created by the pipeline and contain generated files:
 ### Source Files (Version Controlled)
 - **Python scripts**: 4 files (3 extraction scripts + 1 pipeline orchestrator)
 - **Configuration files**: 2 files (pipeline_config.yaml, pyproject.toml)
-- **Documentation files**: 10 files (9 README.md files + 1 FILES.md)
-- **Cursor rules**: 2 .mdc files
-- **GitHub workflows**: 1 workflow file
-- **Other**: LICENSE, .gitignore, CODEOWNERS
+- **Documentation files**: 12 files (9 README.md files + 1 FILES.md + 1 EXTRACTION_ANALYSIS.md + 1 00_Project_Prompt_and_Sources.md)
+- **Data files**: 1 CSV file (cleaned_table_of_contents.csv)
+- **Scripts**: 1 shell script (security_check.sh)
+- **Cursor rules**: 2 .mdc files (if .cursor/rules/ directory exists)
+- **GitHub workflows**: 1 workflow file (if .github/workflows/ directory exists)
+- **Other**: LICENSE, .gitignore
 
 ### Generated Files (Not Version Controlled)
 - **Bible output**: 73 Markdown files (after running pipeline)
@@ -113,7 +124,7 @@ These directories are created by the pipeline and contain generated files:
 ## File Naming Conventions
 
 - **Extraction scripts**: `extract_{source}.py`
-- **Bible files**: `{BookName}.md` (e.g., `Genesis.md`, `Apocalypse.md`)
+- **Bible files**: `{number}_{BookName}.md` (e.g., `1_Genesis.md`, `40_Matthew.md`, `66_Revelation.md`)
 - **Commentary files**: `{book_name}_commentary.md` (structure depends on EPUB)
 - **Catechism file**: `Catholic_Catechism_Trent_McHugh_Callan.md`
 - **Documentation**: `README.md` in each directory

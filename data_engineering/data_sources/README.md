@@ -118,6 +118,6 @@ Raw Sources → Extraction Scripts → Processed Data → Final Output
 ### Getting Help
 
 - Check individual README files for source-specific issues
-- Review logs in `logs/` directory
+- Review logs in `data_engineering/logs/` directory
 - See main [data_engineering README](../README.md) for technical details
 

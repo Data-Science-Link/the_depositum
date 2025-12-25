@@ -43,7 +43,7 @@ output:
 
   # File naming
   naming:
-    douay_rheims: "{book_name}.md"
+    douay_rheims: "{book_number}_{book_name}.md"  # Actual format: 1_Genesis.md, 66_Revelation.md
     haydock: "{book_name}_commentary.md"
     catechism: "Catholic_Catechism_Trent_McHugh_Callan.md"
 
