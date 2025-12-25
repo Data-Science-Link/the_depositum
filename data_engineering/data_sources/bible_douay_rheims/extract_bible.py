@@ -317,7 +317,7 @@ def fetch_chapter_verses(book_id: str, chapter_num: int, max_retries: int = MAX_
     return None
 
 
-def generate_markdown(book_name: str, book_id: str, canonical_position: Optional[int], chapters: List[Dict[str, Any]], output_folder: Path) -> bool:
+def generate_markdown(book_name: str, book_id: str, canonical_position: Optional[int], chapters: List[Dict[str, Any]], output_folder: Path, max_chapters: Optional[int] = None) -> bool:
     """Converts a book's data into Markdown by fetching verses for each chapter.
 
     Args:
@@ -326,6 +326,7 @@ def generate_markdown(book_name: str, book_id: str, canonical_position: Optional
         canonical_position: The canonical position in Catholic Bible (1-73), or None to auto-detect
         chapters: List of chapter dictionaries with chapter numbers
         output_folder: Directory to save the Markdown file
+        max_chapters: Maximum number of chapters to process (for testing), None for all chapters
 
     Returns:
         True if successful, False otherwise
@@ -341,6 +342,14 @@ def generate_markdown(book_name: str, book_id: str, canonical_position: Optional
             logger.warning(f"Could not determine canonical position for {book_name} ({book_id}), using fallback")
             canonical_position = 99  # Fallback for unknown books
 
+    # Determine testament (Old Testament: 1-46, New Testament: 47-73)
+    testament = "Old Testament" if canonical_position <= 46 else "New Testament"
+
+    # Limit chapters if max_chapters is specified
+    chapters_to_process = chapters[:max_chapters] if max_chapters else chapters
+    total_chapters_in_book = len(chapters)
+    chapters_processed = len(chapters_to_process)
+
     # Clean filename with zero-padded canonical position and Bible_Book_ prefix
     # Format: Bible_Book_01_Genesis.md, Bible_Book_02_Exodus.md, etc.
     safe_filename = "".join(c for c in book_name if c.isalnum() or c in (' ', '-', '_')).strip()
@@ -350,20 +359,43 @@ def generate_markdown(book_name: str, book_id: str, canonical_position: Optional
 
     try:
         with open(filepath, "w", encoding="utf-8") as f:
-            # Frontmatter
+            # Enhanced frontmatter following markdown best practices
             f.write(f"---\n")
             f.write(f"title: {book_name}\n")
-            f.write(f"tags: bible, douay-rheims\n")
+            f.write(f"canonical_position: {canonical_position}\n")
+            f.write(f"testament: {testament}\n")
+            f.write(f"book_id: {book_id}\n")
+            f.write(f"translation: Douay-Rheims 1899 American Edition\n")
+            f.write(f"total_chapters: {total_chapters_in_book}\n")
+            if max_chapters and chapters_processed < total_chapters_in_book:
+                f.write(f"chapters_included: {chapters_processed} (test mode, limited from {total_chapters_in_book})\n")
+            f.write(f"tags:\n")
+            f.write(f"  - bible\n")
+            f.write(f"  - douay-rheims\n")
+            f.write(f"  - {testament.lower().replace(' ', '-')}\n")
+            f.write(f"  - catholic-canon\n")
+            f.write(f"language: en\n")
+            f.write(f"format: markdown\n")
             f.write(f"---\n\n")
 
             # Book title
             f.write(f"# {book_name}\n\n")
 
+            # Table of Contents
+            f.write(f"## Table of Contents\n\n")
+            for chapter_info in chapters_to_process:
+                chapter_num = chapter_info.get('chapter')
+                if chapter_num is not None:
+                    # Standard markdown anchor format (lowercase, hyphens)
+                    chapter_anchor = f"chapter-{chapter_num}".lower()
+                    f.write(f"- [Chapter {chapter_num}](#{chapter_anchor})\n")
+            f.write(f"\n---\n\n")
+
             # Process each chapter with validation
-            total_chapters = len(chapters)
+            total_chapters = len(chapters_to_process)
             successful_chapters = 0
 
-            for chapter_info in chapters:
+            for chapter_info in chapters_to_process:
                 chapter_num = chapter_info.get('chapter')
                 if chapter_num is None:
                     continue
@@ -378,6 +410,7 @@ def generate_markdown(book_name: str, book_id: str, canonical_position: Optional
                     logger.error(f"❌ Cannot proceed without all chapters. Skipping this book.")
                     return False
 
+                # Use anchor-friendly heading for TOC links (standard markdown format)
                 f.write(f"## Chapter {chapter_num}\n\n")
 
                 # Write verses in continuous flow (no paragraph breaks)
@@ -408,25 +441,30 @@ def generate_markdown(book_name: str, book_id: str, canonical_position: Optional
                 logger.error(f"❌ Skipping this book.")
                 return False
 
-            logger.info(f"✅ Saved: {book_name} ({successful_chapters} chapters, all complete)")
+            if max_chapters and chapters_processed < total_chapters_in_book:
+                logger.info(f"✅ Saved: {book_name} ({successful_chapters}/{total_chapters_in_book} chapters, test mode limited to {max_chapters})")
+            else:
+                logger.info(f"✅ Saved: {book_name} ({successful_chapters} chapters, all complete)")
             return True
     except (IOError, OSError) as e:
         logger.error(f"Error writing {book_name}: {e}", exc_info=True)
         return False
 
 
-def main(test_mode: bool = False, test_limit: int = 5) -> int:
+def main(test_mode: bool = False, test_limit: int = 4, max_chapters: Optional[int] = 3) -> int:
     """Main extraction function.
 
     Args:
         test_mode: If True, only process the first N books (default: False)
-        test_limit: Number of books to process in test mode (default: 5)
+        test_limit: Number of books to process in test mode (default: 4)
+        max_chapters: Maximum number of chapters per book in test mode (default: 3, None for all chapters)
 
     Returns:
         Exit code: 0 for success, 1 for failure
     """
     if test_mode:
-        logger.info(f"🧪 TEST MODE: Processing only first {test_limit} books...")
+        chapters_info = f" (max {max_chapters} chapters per book)" if max_chapters else ""
+        logger.info(f"🧪 TEST MODE: Processing only first {test_limit} books{chapters_info}...")
     logger.info("Starting Douay-Rheims Bible extraction...")
 
     # Create output directory
@@ -509,13 +547,16 @@ def main(test_mode: bool = False, test_limit: int = 5) -> int:
         time.sleep(RATE_LIMIT_DELAY)
 
         # Generate markdown (this will fetch chapters individually)
+        # Limit chapters in test mode
+        chapters_to_use = chapters[:max_chapters] if (test_mode and max_chapters) else chapters
         try:
             if generate_markdown(
                 book_name=book_info['name'],
                 book_id=book_id,
                 canonical_position=canonical_position,
                 chapters=chapters,
-                output_folder=OUTPUT_DIR
+                output_folder=OUTPUT_DIR,
+                max_chapters=max_chapters if test_mode else None
             ):
                 success_count += 1
                 logger.info(f"  ✅ Successfully saved {canonical_name}")
@@ -575,9 +616,12 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description='Extract Douay-Rheims Bible to Markdown')
-    parser.add_argument('--test', action='store_true', help='Test mode: process only first 5 books')
-    parser.add_argument('--test-limit', type=int, default=5, help='Number of books to process in test mode (default: 5)')
+    parser.add_argument('--test', action='store_true', help='Test mode: process only first N books with limited chapters')
+    parser.add_argument('--test-limit', type=int, default=4, help='Number of books to process in test mode (default: 4)')
+    parser.add_argument('--max-chapters', type=int, default=3, help='Maximum number of chapters per book in test mode (default: 3, use 0 for all chapters)')
 
     args = parser.parse_args()
-    sys.exit(main(test_mode=args.test, test_limit=args.test_limit))
+    # Convert 0 to None (meaning no limit)
+    max_chapters = None if args.max_chapters == 0 else args.max_chapters
+    sys.exit(main(test_mode=args.test, test_limit=args.test_limit, max_chapters=max_chapters))
 
