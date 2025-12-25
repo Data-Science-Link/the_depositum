@@ -2,6 +2,7 @@
 title: Ruth
 canonical_position: 8
 testament: Old Testament
+section: Historical Introduction
 book_id: RUT
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 4
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

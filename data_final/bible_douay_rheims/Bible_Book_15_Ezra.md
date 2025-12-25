@@ -2,6 +2,7 @@
 title: Ezra
 canonical_position: 15
 testament: Old Testament
+section: Historical Introduction
 book_id: EZR
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 10
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

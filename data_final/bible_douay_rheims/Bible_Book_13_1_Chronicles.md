@@ -2,6 +2,7 @@
 title: 1 Chronicles
 canonical_position: 13
 testament: Old Testament
+section: Historical Introduction
 book_id: 1CH
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 29
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

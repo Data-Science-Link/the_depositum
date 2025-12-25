@@ -2,6 +2,7 @@
 title: 2 Kings
 canonical_position: 12
 testament: Old Testament
+section: Historical Introduction
 book_id: 2KI
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 25
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

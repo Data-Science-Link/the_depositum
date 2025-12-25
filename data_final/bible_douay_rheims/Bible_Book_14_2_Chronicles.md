@@ -2,6 +2,7 @@
 title: 2 Chronicles
 canonical_position: 14
 testament: Old Testament
+section: Historical Introduction
 book_id: 2CH
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 36
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

@@ -2,6 +2,7 @@
 title: 1 Kings
 canonical_position: 11
 testament: Old Testament
+section: Historical Introduction
 book_id: 1KI
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 22
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

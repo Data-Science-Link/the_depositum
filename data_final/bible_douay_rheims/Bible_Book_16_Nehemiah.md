@@ -2,6 +2,7 @@
 title: Nehemiah
 canonical_position: 16
 testament: Old Testament
+section: Historical Introduction
 book_id: NEH
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 13
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

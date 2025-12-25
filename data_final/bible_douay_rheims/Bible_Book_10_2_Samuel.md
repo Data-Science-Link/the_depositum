@@ -2,6 +2,7 @@
 title: 2 Samuel
 canonical_position: 10
 testament: Old Testament
+section: Historical Introduction
 book_id: 2SA
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 24
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

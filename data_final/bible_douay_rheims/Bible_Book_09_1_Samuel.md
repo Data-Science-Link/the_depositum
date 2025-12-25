@@ -2,6 +2,7 @@
 title: 1 Samuel
 canonical_position: 9
 testament: Old Testament
+section: Historical Introduction
 book_id: 1SA
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 31
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

@@ -2,6 +2,7 @@
 title: Judges
 canonical_position: 7
 testament: Old Testament
+section: Historical Introduction
 book_id: JDG
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 21
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - historical-introduction
   - catholic-canon
 language: en
 format: markdown

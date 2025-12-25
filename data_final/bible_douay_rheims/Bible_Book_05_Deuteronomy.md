@@ -2,6 +2,7 @@
 title: Deuteronomy
 canonical_position: 5
 testament: Old Testament
+section: The Pentateuch
 book_id: DEU
 translation: Douay-Rheims 1899 American Edition
 total_chapters: 34
@@ -9,6 +10,7 @@ tags:
   - bible
   - douay-rheims
   - old-testament
+  - the-pentateuch
   - catholic-canon
 language: en
 format: markdown
