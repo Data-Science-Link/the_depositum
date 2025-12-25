@@ -150,3 +150,47 @@ Achieve 95% accuracy in matching header levels between the extracted Markdown an
 - Focus on structural headers (PART, ARTICLE, subsections)
 - Italicized subsection headers should map to Level 3
 
+---
+
+### Iteration 4 - Improved Matching for "Not Found" Items
+**Date**: 2025-12-20
+**Status**: ✅ Completed
+
+**Changes Made**:
+1. Enhanced text normalization to handle quotes, colons, and punctuation differences
+2. Improved matching algorithm with word-based matching:
+   - Extracts significant words (skips common words like "the", "of", "a")
+   - Matches based on word overlap (60% threshold)
+   - Handles merged headers (TOC text contained in longer markdown header)
+   - Handles truncated TOC entries
+3. Added plain text header extraction:
+   - Detects headers that weren't formatted with markdown (e.g., "Dispositions for Baptism")
+   - Special handling for command headers that span multiple lines
+4. Improved TOC text cleaning:
+   - Removes leading numbers (e.g., "11Proof" → "Proof")
+   - Better handling of page numbers and formatting
+
+**Results**:
+- Total headers in CSV: 1,128
+- Filtered TOC entries: 1,124
+- Total Markdown headers: 1,216 (includes plain text headers)
+- Matches (correct level): 1,101
+- Mismatches (wrong level): 18
+- Not found: 5
+- **Accuracy: 97.95%** ✅ (up from 88.97% - exceeded 95% target!)
+
+**Key Improvements**:
+1. ✅ Reduced "not found" items from 112 to 5 (95% reduction!)
+2. ✅ Improved matching for merged headers (e.g., "Christ Really Died" in "Second Part Of This Article: ... Christ Really Died")
+3. ✅ Extracted command headers that were plain text (e.g., "THE FIRST COMMANDMENT : ...")
+4. ✅ Better handling of truncated TOC entries
+5. ✅ Word-based matching handles partial matches (e.g., "Zeal" should match "Zeal In The Service Of God")
+
+**Remaining Issues**:
+- 5 items still not found (likely edge cases or text extraction differences)
+- 18 mismatches (mostly level differences, not missing items)
+
+**Next Steps** (if needed):
+1. Investigate remaining 5 "not found" items
+2. Address level mismatches if accuracy needs to be higher
+

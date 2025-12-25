@@ -1,15 +1,15 @@
 # Header Comparison Analysis
-**Date**: 1766640693.4030044
-**Accuracy**: 88.97%
+**Date**: 1766642528.309745
+**Accuracy**: 97.69%
 **Target**: 95%
 
 ## Summary
 - Total TOC entries: 1128
 - Filtered TOC entries (excluding copyright/intro): 1124
-- Total Markdown headers: 1190
-- Matches (correct level): 1000
-- Mismatches (wrong level): 12
-- Not found: 112
+- Total Markdown headers: 1245
+- Matches (correct level): 1098
+- Mismatches (wrong level): 22
+- Not found: 4
 
 ## Level Mismatches
 | TOC Text | Expected Level | Actual Level | MD Text |
@@ -23,65 +23,27 @@
 | Faith | 2 | 3 | Faith |
 | First Part of this Article: '"Suffered Under Pontius Pilate, | 3 | 4 | Article: '"Suffered Under Pontius Pilate, was Crucified”, |
 | Importance Of Instruction On The Sacraments | 3 | 2 | THE SACRAMENTS Importance Of Instruction On The Sacraments |
-| Importance Of Instruction On The Commandments | 3 | 2 | THE DECALOGUE Importance Of Instruction On The Commandments |
+| The Minister of the Sacrament of Penance | 3 | 2 | THE SACRAMENT OF PENANCE |
+| earth: thou shalt not adore them nor serve them" | 3 | 2 | THE FIRST COMMANDMENT : "I am the lord thy god, who brought  |
+| THE SECOND COMMANDMENT : "Thou shalt not take the name of th | 2 | 3 | COMMANDMENT : "Thou shalt not take the name of the lord thy  |
+| THE FIFTH COMMANDMENT : "Thou shalt not kill" | 2 | 3 | COMMANDMENT : "Thou shalt not kill" |
+| THE SIXTH COMMANDMENT : "Thou shalt not commit adultery" | 2 | 3 | COMMANDMENT : "Thou shalt not commit adultery" |
+| THE SEVENTH COMMANDMENT : "Thou shalt not steal" | 2 | 3 | COMMANDMENT : "Thou shalt not steal" |
+| THE EIGHTH COMMANDMENT : "Thou shalt not bear false witness  | 2 | 3 | COMMANDMENT : "Thou shalt not bear false witness against thy |
 | False Testimony Out Of Court Is Forbidden | 3 | 2 | False Testimony Out Of Court Is Forbidden |
+| Negative Part | 3 | 1 | PART I : |
+| Positive Part | 3 | 1 | PART I : |
+| PART IV : THE LORD'S PRAYER | 1 | 2 | THE LORD'S PRAYER |
 | PRAYER | 2 | 3 | Prayer |
+| First Explanation | 3 | 2 | THE FIRST |
 
 ## Not Found in Markdown
 | Level | TOC Text |
 |-------|----------|
 | 2 | Zeal |
-| 1 | PART I : THE CREED |
 | 3 | EARTH" |
-| 3 | Christ Really Died |
-| 3 | DEAD" |
-| 3 | Of The: Resurrection |
-| 3 | FATHER ALMIGHTY" |
-| 3 | Reflections on the Ascension: |
-| 3 | Reasons Of The Ascension |
-| 3 | First Part of "Hell" |
-| 3 | Why He Descended into Hell |
-| 3 | To Liberate To Proclaim His Power |
-| 3 | Circumstances of the Judgment: |
-| 3 | Extent of this Power: |
-| 3 | All Sins That Precede Baptism |
-| 3 | Exhortation: |
-| 3 | This Remedy To Be Used |
-| 3 | The Fact of the Resurrection: |
-| 3 | Examples And Proofs Derived From Scripture |
-| 3 | Life |
-| 1 | 7PART II : THE SACRAMENTS |
-| 3 | Dispositions for Baptism |
-| 3 | Ceremonies of Baptism |
-| 3 | Their Importance |
-| 3 | Component Parts of Confirmation |
-| 3 | Constituent Parts of the Eucharist |
-| 3 | Recipient of the Eucharist |
-| 3 | Threefold Manner Of Communicating |
-| 3 | The Obligation of Communion |
-| 3 | How Often Must Communion Be Received? |
-| 3 | The Mass Is a True Sacrifice |
-| 3 | 11Proof From The Council Of Trent |
-| 3 | The Constituent Parts of Penance |
-| 3 | Their Existence |
-| 3 | The First Part of Penance |
-| 3 | Qualities of Sorrow for Sin |
-| 3 | It Should Be Supreme |
-| 3 | The Second Part of Penance |
-| 3 | The Minister of the Sacrament of Penance |
-| 3 | The Usual Minister |
-| 3 | The Third Part of Penance |
-| 3 | Duties of the Confessor as Regards Satisfaction |
-| 3 | Restitution Must Be Insisted On |
-| 3 | Requirements in Candidates for Orders |
-| 3 | Holiness, Knowledge, Prudence |
-| 3 | The Minor Orders |
-| 3 | The Major Orders |
-| 3 | Degrees of the Priesthood |
-| 3 | Qualifications for the Priesthood |
-| 3 | Holiness Of Life |
-
-*... and 62 more not found*
+| 3 | "Thou shalt not make to thyself a graven thing, nor the likeness of any thing th |
+| 3 | "Our Father who art in heaven" |
 
 ## Level Distribution
 ### TOC Levels

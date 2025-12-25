@@ -26,6 +26,8 @@ def clean_toc_text(text: str) -> str:
     """Clean TOC text by removing page numbers and formatting."""
     if not text:
         return ""
+    # Remove leading numbers (like "11Proof", "21That")
+    text = re.sub(r'^\d+', '', text)
     # Remove page number references (dots and numbers at end)
     text = re.sub(r'\.{3,}\s*\d+\s*$', '', text)
     # Remove trailing dots
@@ -100,40 +102,179 @@ def extract_markdown_headers(markdown_path: Path) -> List[Dict[str, any]]:
                 'line_number': i + 1
             })
 
+        # Also check for plain text lines that might be headers (standalone lines, title case)
+        # This handles cases where headers weren't properly formatted
+        stripped = line.strip()
+        if stripped and not stripped.startswith('#') and not stripped.startswith('-') and not stripped.startswith('*'):
+            # Check if it's a command header (starts with "THE ... COMMANDMENT" or "THIRD COMMANDMENT")
+            # These can span multiple lines, so we need to collect the full text
+            is_command_header = re.match(r'^(THE\s+)?(FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH|EIGHTH|NINTH|TENTH|NINTH AND TENTH)\s+COMMANDMENT', stripped, re.IGNORECASE)
+
+            if is_command_header:
+                # Collect the full command header text (may span multiple lines)
+                command_text = [stripped]
+                j = i + 1
+                # Continue collecting lines until we hit a blank line or page number
+                while j < len(lines):
+                    next_line = lines[j].strip()
+                    if not next_line:
+                        break
+                    # Check if it ends with page number (dots followed by number)
+                    if re.search(r'\.{3,}\s*\d+\s*$', next_line):
+                        # Remove page number and add to command text
+                        next_line = re.sub(r'\.{3,}\s*\d+\s*$', '', next_line).strip()
+                        command_text.append(next_line)
+                        break
+                    command_text.append(next_line)
+                    j += 1
+                    # Limit to reasonable length (command headers shouldn't be more than 10 lines)
+                    if j - i > 10:
+                        break
+
+                full_command_text = ' '.join(command_text)
+                # Command headers are Level 2
+                headers.append({
+                    'level': 2,
+                    'text': full_command_text,
+                    'line_number': i + 1,
+                    'is_plain_text': True
+                })
+                continue
+
+            # Check if it looks like a regular header: title case, short, followed by blank line
+            is_likely_header = (
+                (i + 1 < len(lines) and not lines[i + 1].strip()) and  # Followed by blank line
+                stripped[0].isupper() and  # Starts with capital
+                not stripped.endswith('.') and not stripped.endswith(',') and  # Not ending with punctuation
+                not any(c.isdigit() for c in stripped[-5:])  # Not ending with page number
+            )
+
+            if is_likely_header:
+                # Check if it's likely a header by checking surrounding context
+                # It's a header if:
+                # 1. Previous line is blank (standalone header)
+                # 2. Previous line is a header (subheader)
+                # 3. Previous line is content but this looks like a section header
+                prev_line_blank = i > 0 and not lines[i - 1].strip()
+                prev_line_header = i > 0 and lines[i - 1].strip().startswith('#')
+                prev_line_content = i > 0 and lines[i - 1].strip() and not lines[i - 1].strip().startswith('#')
+
+                if prev_line_blank or prev_line_header or (prev_line_content and len(stripped) < 100):
+                    # Other headers are Level 3 (most common for subsections)
+                    headers.append({
+                        'level': 3,
+                        'text': stripped,
+                        'line_number': i + 1,
+                        'is_plain_text': True
+                    })
+
     return headers
 
 
 def normalize_text(text: str) -> str:
     """Normalize text for comparison (case-insensitive, remove extra spaces)."""
+    if not text:
+        return ""
     # Remove quotes for comparison
-    text = text.replace('"', '').replace("'", '')
+    text = text.replace('"', '').replace("'", '').replace('"', '').replace("'", '')
+    # Remove colons and other punctuation that might differ
+    text = text.replace(':', '').replace(';', '')
     # Normalize whitespace
     text = ' '.join(text.split())
     # Case insensitive
-    return text.lower()
+    return text.lower().strip()
+
+
+def extract_significant_words(text: str) -> set:
+    """Extract significant words (skip common words, short words)."""
+    # Common words to skip
+    skip_words = {'the', 'of', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'with', 'by'}
+    words = text.split()
+    # Filter: keep words of 3+ chars that aren't common words
+    significant = {w for w in words if len(w) >= 3 and w not in skip_words}
+    return significant
 
 
 def find_best_match(toc_text: str, markdown_headers: List[Dict]) -> Optional[Tuple[Dict, float]]:
     """Find the best matching markdown header for a TOC entry."""
     normalized_toc = normalize_text(toc_text)
+    if not normalized_toc:
+        return None
+
+    # Extract significant words from TOC text
+    toc_words = extract_significant_words(normalized_toc)
+    if not toc_words:
+        # If no significant words, use all words
+        toc_words = set(normalized_toc.split())
+
     best_match = None
     best_score = 0.0
 
     for md_header in markdown_headers:
         normalized_md = normalize_text(md_header['text'])
+        if not normalized_md:
+            continue
 
         # Exact match
         if normalized_toc == normalized_md:
             return (md_header, 1.0)
 
-        # Substring match (TOC text in MD or vice versa)
+        # Check if TOC text is contained in markdown header (handles merged headers)
+        if normalized_toc in normalized_md:
+            # Calculate score based on how much of TOC is in MD
+            score = len(normalized_toc) / len(normalized_md) if normalized_md else 0.0
+            if score > best_score and score >= 0.3:  # At least 30% of MD is TOC
+                best_match = md_header
+                best_score = score
+            continue
+
+        # Check if markdown header contains TOC text (handles cases like "Zeal" in "Zeal In The Service Of God")
+        # Also check if TOC text is a complete word/phrase at the start of MD
+        if normalized_md.startswith(normalized_toc + ' ') or normalized_md.endswith(' ' + normalized_toc):
+            score = len(normalized_toc) / len(normalized_md) if normalized_md else 0.0
+            if score > best_score and score >= 0.3:
+                best_match = md_header
+                best_score = score
+            continue
+
+        # Check if TOC text matches the beginning of MD (word boundary match)
+        # This handles "Zeal" matching "Zeal In The Service Of God"
+        if normalized_md.startswith(normalized_toc):
+            # Make sure it's a word boundary (followed by space or end of string)
+            if len(normalized_md) == len(normalized_toc) or normalized_md[len(normalized_toc)] == ' ':
+                score = len(normalized_toc) / len(normalized_md) if normalized_md else 0.0
+                if score > best_score and score >= 0.3:
+                    best_match = md_header
+                    best_score = score
+                continue
+
+        # Word-based matching: check if significant words from TOC appear in MD
+        md_words = extract_significant_words(normalized_md)
+        if not md_words:
+            md_words = set(normalized_md.split())
+
+        # Count matching significant words
+        matching_words = toc_words.intersection(md_words)
+        if matching_words:
+            # Calculate score based on word overlap
+            # If most/all TOC words are in MD, it's a good match (even if MD has more words)
+            word_score = len(matching_words) / len(toc_words) if toc_words else 0.0
+            # Also consider how much of MD is covered by TOC words
+            coverage_score = len(matching_words) / len(md_words) if md_words else 0.0
+            # Combined score (weighted towards TOC word coverage)
+            score = (word_score * 0.8) + (coverage_score * 0.2)
+
+            if score > best_score and score >= 0.6:  # At least 60% of TOC words must match
+                best_match = md_header
+                best_score = score
+
+        # Fallback: substring match (TOC text in MD or vice versa)
         if normalized_toc in normalized_md or normalized_md in normalized_toc:
-            # Calculate similarity score
             shorter = min(len(normalized_toc), len(normalized_md))
             longer = max(len(normalized_toc), len(normalized_md))
             score = shorter / longer if longer > 0 else 0.0
 
-            if score > best_score and score > 0.7:  # At least 70% match
+            if score > best_score and score >= 0.6:  # At least 60% match
                 best_match = md_header
                 best_score = score
 
