@@ -66,24 +66,165 @@ INITIAL_RETRY_WAIT = 5  # seconds
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+# Canonical Catholic Bible order (73 books)
+# This defines the correct order and numbering for all books in the Catholic canon
+# Section labels from USCCB: https://bible.usccb.org/bible
+CATHOLIC_BIBLE_CANON = [
+    # Old Testament (1-46)
+    # The Pentateuch
+    {'id': 'GEN', 'name': 'Genesis', 'canonical_position': 1, 'section': 'The Pentateuch'},
+    {'id': 'EXO', 'name': 'Exodus', 'canonical_position': 2, 'section': 'The Pentateuch'},
+    {'id': 'LEV', 'name': 'Leviticus', 'canonical_position': 3, 'section': 'The Pentateuch'},
+    {'id': 'NUM', 'name': 'Numbers', 'canonical_position': 4, 'section': 'The Pentateuch'},
+    {'id': 'DEU', 'name': 'Deuteronomy', 'canonical_position': 5, 'section': 'The Pentateuch'},
+    # Historical Introduction
+    {'id': 'JOS', 'name': 'Joshua', 'canonical_position': 6, 'section': 'Historical Introduction'},
+    {'id': 'JDG', 'name': 'Judges', 'canonical_position': 7, 'section': 'Historical Introduction'},
+    {'id': 'RUT', 'name': 'Ruth', 'canonical_position': 8, 'section': 'Historical Introduction'},
+    {'id': '1SA', 'name': '1 Samuel', 'canonical_position': 9, 'section': 'Historical Introduction'},
+    {'id': '2SA', 'name': '2 Samuel', 'canonical_position': 10, 'section': 'Historical Introduction'},
+    {'id': '1KI', 'name': '1 Kings', 'canonical_position': 11, 'section': 'Historical Introduction'},
+    {'id': '2KI', 'name': '2 Kings', 'canonical_position': 12, 'section': 'Historical Introduction'},
+    {'id': '1CH', 'name': '1 Chronicles', 'canonical_position': 13, 'section': 'Historical Introduction'},
+    {'id': '2CH', 'name': '2 Chronicles', 'canonical_position': 14, 'section': 'Historical Introduction'},
+    {'id': 'EZR', 'name': 'Ezra', 'canonical_position': 15, 'section': 'Historical Introduction'},
+    {'id': 'NEH', 'name': 'Nehemiah', 'canonical_position': 16, 'section': 'Historical Introduction'},
+    # Biblical Novellas
+    {'id': 'TOB', 'name': 'Tobit', 'canonical_position': 17, 'section': 'Biblical Novellas'},  # Deuterocanonical
+    {'id': 'JDT', 'name': 'Judith', 'canonical_position': 18, 'section': 'Biblical Novellas'},  # Deuterocanonical
+    {'id': 'EST', 'name': 'Esther', 'canonical_position': 19, 'section': 'Biblical Novellas'},
+    {'id': '1MA', 'name': '1 Maccabees', 'canonical_position': 20, 'section': 'Biblical Novellas'},  # Deuterocanonical
+    {'id': '2MA', 'name': '2 Maccabees', 'canonical_position': 21, 'section': 'Biblical Novellas'},  # Deuterocanonical
+    # Wisdom Books
+    {'id': 'JOB', 'name': 'Job', 'canonical_position': 22, 'section': 'Wisdom Books'},
+    {'id': 'PSA', 'name': 'Psalms', 'canonical_position': 23, 'section': 'Wisdom Books'},
+    {'id': 'PRO', 'name': 'Proverbs', 'canonical_position': 24, 'section': 'Wisdom Books'},
+    {'id': 'ECC', 'name': 'Ecclesiastes', 'canonical_position': 25, 'section': 'Wisdom Books'},
+    {'id': 'SNG', 'name': 'Song of Solomon', 'canonical_position': 26, 'section': 'Wisdom Books'},
+    {'id': 'WIS', 'name': 'Wisdom', 'canonical_position': 27, 'section': 'Wisdom Books'},  # Deuterocanonical
+    {'id': 'SIR', 'name': 'Sirach', 'canonical_position': 28, 'section': 'Wisdom Books'},  # Deuterocanonical (Ecclesiasticus)
+    # Prophetic Books
+    {'id': 'ISA', 'name': 'Isaiah', 'canonical_position': 29, 'section': 'Prophetic Books'},
+    {'id': 'JER', 'name': 'Jeremiah', 'canonical_position': 30, 'section': 'Prophetic Books'},
+    {'id': 'LAM', 'name': 'Lamentations', 'canonical_position': 31, 'section': 'Prophetic Books'},
+    {'id': 'BAR', 'name': 'Baruch', 'canonical_position': 32, 'section': 'Prophetic Books'},  # Deuterocanonical
+    {'id': 'EZK', 'name': 'Ezekiel', 'canonical_position': 33, 'section': 'Prophetic Books'},
+    {'id': 'DAN', 'name': 'Daniel', 'canonical_position': 34, 'section': 'Prophetic Books'},
+    {'id': 'HOS', 'name': 'Hosea', 'canonical_position': 35, 'section': 'Prophetic Books'},
+    {'id': 'JOL', 'name': 'Joel', 'canonical_position': 36, 'section': 'Prophetic Books'},
+    {'id': 'AMO', 'name': 'Amos', 'canonical_position': 37, 'section': 'Prophetic Books'},
+    {'id': 'OBA', 'name': 'Obadiah', 'canonical_position': 38, 'section': 'Prophetic Books'},
+    {'id': 'JON', 'name': 'Jonah', 'canonical_position': 39, 'section': 'Prophetic Books'},
+    {'id': 'MIC', 'name': 'Micah', 'canonical_position': 40, 'section': 'Prophetic Books'},
+    {'id': 'NAM', 'name': 'Nahum', 'canonical_position': 41, 'section': 'Prophetic Books'},
+    {'id': 'HAB', 'name': 'Habakkuk', 'canonical_position': 42, 'section': 'Prophetic Books'},
+    {'id': 'ZEP', 'name': 'Zephaniah', 'canonical_position': 43, 'section': 'Prophetic Books'},
+    {'id': 'HAG', 'name': 'Haggai', 'canonical_position': 44, 'section': 'Prophetic Books'},
+    {'id': 'ZEC', 'name': 'Zechariah', 'canonical_position': 45, 'section': 'Prophetic Books'},
+    {'id': 'MAL', 'name': 'Malachi', 'canonical_position': 46, 'section': 'Prophetic Books'},
+    # New Testament (47-73)
+    # The Gospels
+    {'id': 'MAT', 'name': 'Matthew', 'canonical_position': 47, 'section': 'The Gospels'},
+    {'id': 'MRK', 'name': 'Mark', 'canonical_position': 48, 'section': 'The Gospels'},
+    {'id': 'LUK', 'name': 'Luke', 'canonical_position': 49, 'section': 'The Gospels'},
+    {'id': 'JHN', 'name': 'John', 'canonical_position': 50, 'section': 'The Gospels'},
+    {'id': 'ACT', 'name': 'Acts', 'canonical_position': 51, 'section': 'Acts of the Apostles'},
+    # New Testament Letters
+    {'id': 'ROM', 'name': 'Romans', 'canonical_position': 52, 'section': 'New Testament Letters'},
+    {'id': '1CO', 'name': '1 Corinthians', 'canonical_position': 53, 'section': 'New Testament Letters'},
+    {'id': '2CO', 'name': '2 Corinthians', 'canonical_position': 54, 'section': 'New Testament Letters'},
+    {'id': 'GAL', 'name': 'Galatians', 'canonical_position': 55, 'section': 'New Testament Letters'},
+    {'id': 'EPH', 'name': 'Ephesians', 'canonical_position': 56, 'section': 'New Testament Letters'},
+    {'id': 'PHP', 'name': 'Philippians', 'canonical_position': 57, 'section': 'New Testament Letters'},
+    {'id': 'COL', 'name': 'Colossians', 'canonical_position': 58, 'section': 'New Testament Letters'},
+    {'id': '1TH', 'name': '1 Thessalonians', 'canonical_position': 59, 'section': 'New Testament Letters'},
+    {'id': '2TH', 'name': '2 Thessalonians', 'canonical_position': 60, 'section': 'New Testament Letters'},
+    {'id': '1TI', 'name': '1 Timothy', 'canonical_position': 61, 'section': 'New Testament Letters'},
+    {'id': '2TI', 'name': '2 Timothy', 'canonical_position': 62, 'section': 'New Testament Letters'},
+    {'id': 'TIT', 'name': 'Titus', 'canonical_position': 63, 'section': 'New Testament Letters'},
+    {'id': 'PHM', 'name': 'Philemon', 'canonical_position': 64, 'section': 'New Testament Letters'},
+    {'id': 'HEB', 'name': 'Hebrews', 'canonical_position': 65, 'section': 'New Testament Letters'},
+    # Catholic Letters
+    {'id': 'JAS', 'name': 'James', 'canonical_position': 66, 'section': 'Catholic Letters'},
+    {'id': '1PE', 'name': '1 Peter', 'canonical_position': 67, 'section': 'Catholic Letters'},
+    {'id': '2PE', 'name': '2 Peter', 'canonical_position': 68, 'section': 'Catholic Letters'},
+    {'id': '1JN', 'name': '1 John', 'canonical_position': 69, 'section': 'Catholic Letters'},
+    {'id': '2JN', 'name': '2 John', 'canonical_position': 70, 'section': 'Catholic Letters'},
+    {'id': '3JN', 'name': '3 John', 'canonical_position': 71, 'section': 'Catholic Letters'},
+    {'id': 'JUD', 'name': 'Jude', 'canonical_position': 72, 'section': 'Catholic Letters'},
+    {'id': 'REV', 'name': 'Revelation', 'canonical_position': 73, 'section': 'Revelation'},
+]
+
 # Deuterocanonical books missing from bible-api.com
 # These are the 7 books that should be in the Catholic canon but are not returned by the API
+# Order matches USCCB canonical order: https://bible.usccb.org/bible
 DEUTEROCANONICAL_BOOKS = [
-    {'id': 'TOB', 'name': 'Tobit', 'position': 17},  # After Esther
-    {'id': 'JDT', 'name': 'Judith', 'position': 18},  # After Tobit
-    {'id': 'WIS', 'name': 'Wisdom', 'position': 23},  # After Song of Solomon
-    {'id': 'SIR', 'name': 'Sirach', 'position': 24},  # After Wisdom (also called Ecclesiasticus)
-    {'id': 'BAR', 'name': 'Baruch', 'position': 26},  # After Lamentations
-    {'id': '1MA', 'name': '1 Maccabees', 'position': 40},  # After Malachi
-    {'id': '2MA', 'name': '2 Maccabees', 'position': 41},  # After 1 Maccabees
+    {'id': 'TOB', 'name': 'Tobit', 'canonical_position': 17},  # Biblical Novellas
+    {'id': 'JDT', 'name': 'Judith', 'canonical_position': 18},  # Biblical Novellas
+    {'id': 'WIS', 'name': 'Wisdom', 'canonical_position': 27},  # Wisdom Books
+    {'id': 'SIR', 'name': 'Sirach', 'canonical_position': 28},  # Wisdom Books
+    {'id': 'BAR', 'name': 'Baruch', 'canonical_position': 32},  # Prophetic Books
+    {'id': '1MA', 'name': '1 Maccabees', 'canonical_position': 20},  # Biblical Novellas
+    {'id': '2MA', 'name': '2 Maccabees', 'canonical_position': 21},  # Biblical Novellas
 ]
+
+
+def get_canonical_info(book_id: str, book_name: str = None) -> Optional[Dict[str, Any]]:
+    """Get the canonical information for a book in the Catholic Bible.
+
+    Args:
+        book_id: The book identifier (e.g., 'GEN', 'EXO')
+        book_name: Optional book name for fallback matching
+
+    Returns:
+        Dictionary with 'canonical_position' and 'section', or None if not found
+    """
+    # First try to match by ID
+    for book in CATHOLIC_BIBLE_CANON:
+        if book['id'] == book_id:
+            return {
+                'canonical_position': book['canonical_position'],
+                'section': book.get('section', '')
+            }
+
+    # Fallback: try to match by name (case-insensitive, handle variations)
+    if book_name:
+        book_name_lower = book_name.lower().strip()
+        for book in CATHOLIC_BIBLE_CANON:
+            if book['name'].lower() == book_name_lower:
+                return {
+                    'canonical_position': book['canonical_position'],
+                    'section': book.get('section', '')
+                }
+            # Handle variations like "1 Samuel" vs "1 Samuel"
+            if book_name_lower.replace(' ', '') == book['name'].lower().replace(' ', ''):
+                return {
+                    'canonical_position': book['canonical_position'],
+                    'section': book.get('section', '')
+                }
+
+    return None
+
+
+def get_canonical_position(book_id: str, book_name: str = None) -> Optional[int]:
+    """Get the canonical position for a book in the Catholic Bible.
+
+    Args:
+        book_id: The book identifier (e.g., 'GEN', 'EXO')
+        book_name: Optional book name for fallback matching
+
+    Returns:
+        Canonical position (1-73), or None if not found
+    """
+    info = get_canonical_info(book_id, book_name)
+    return info['canonical_position'] if info else None
 
 
 def get_deuterocanonical_books() -> List[Dict[str, Any]]:
     """Returns the list of deuterocanonical books that should be included in the Catholic canon.
 
     Returns:
-        List of book dictionaries with 'id', 'name', and 'position' keys
+        List of book dictionaries with 'id', 'name', and 'canonical_position' keys
     """
     return DEUTEROCANONICAL_BOOKS.copy()
 
@@ -209,15 +350,16 @@ def fetch_chapter_verses(book_id: str, chapter_num: int, max_retries: int = MAX_
     return None
 
 
-def generate_markdown(book_name: str, book_id: str, book_number: int, chapters: List[Dict[str, Any]], output_folder: Path) -> bool:
+def generate_markdown(book_name: str, book_id: str, canonical_position: Optional[int], chapters: List[Dict[str, Any]], output_folder: Path, max_chapters: Optional[int] = None) -> bool:
     """Converts a book's data into Markdown by fetching verses for each chapter.
 
     Args:
         book_name: The name of the book (e.g., 'Genesis')
         book_id: The book identifier (e.g., 'GEN')
-        book_number: The sequential number of the book (1, 2, 3, etc.)
+        canonical_position: The canonical position in Catholic Bible (1-73), or None to auto-detect
         chapters: List of chapter dictionaries with chapter numbers
         output_folder: Directory to save the Markdown file
+        max_chapters: Maximum number of chapters to process (for testing), None for all chapters
 
     Returns:
         True if successful, False otherwise
@@ -226,28 +368,82 @@ def generate_markdown(book_name: str, book_id: str, book_number: int, chapters: 
         logger.warning(f"Invalid book data for {book_name}")
         return False
 
-    # Clean filename with book number prefix (e.g., "1_Genesis.md")
+    # Get canonical info if not provided
+    canonical_info = None
+    if canonical_position is None:
+        canonical_info = get_canonical_info(book_id, book_name)
+        if canonical_info:
+            canonical_position = canonical_info['canonical_position']
+        else:
+            logger.warning(f"Could not determine canonical position for {book_name} ({book_id}), using fallback")
+            canonical_position = 99  # Fallback for unknown books
+    else:
+        # Get section info even if position is provided
+        canonical_info = get_canonical_info(book_id, book_name)
+
+    # Get section label from canonical info
+    section = canonical_info.get('section', '') if canonical_info else ''
+
+    # Determine testament (Old Testament: 1-46, New Testament: 47-73)
+    testament = "Old Testament" if canonical_position <= 46 else "New Testament"
+
+    # Limit chapters if max_chapters is specified
+    chapters_to_process = chapters[:max_chapters] if max_chapters else chapters
+    total_chapters_in_book = len(chapters)
+    chapters_processed = len(chapters_to_process)
+
+    # Clean filename with zero-padded canonical position and Bible_Book_ prefix
+    # Format: Bible_Book_01_Genesis.md, Bible_Book_02_Exodus.md, etc.
     safe_filename = "".join(c for c in book_name if c.isalnum() or c in (' ', '-', '_')).strip()
     safe_filename = safe_filename.replace(' ', '_')
-    filename = f"{book_number}_{safe_filename}.md"
+    filename = f"Bible_Book_{canonical_position:02d}_{safe_filename}.md"
     filepath = output_folder / filename
 
     try:
         with open(filepath, "w", encoding="utf-8") as f:
-            # Frontmatter
+            # Enhanced frontmatter following markdown best practices
             f.write(f"---\n")
             f.write(f"title: {book_name}\n")
-            f.write(f"tags: bible, douay-rheims\n")
+            f.write(f"canonical_position: {canonical_position}\n")
+            f.write(f"testament: {testament}\n")
+            if section:
+                f.write(f"section: {section}\n")
+            f.write(f"book_id: {book_id}\n")
+            f.write(f"translation: Douay-Rheims 1899 American Edition\n")
+            f.write(f"total_chapters: {total_chapters_in_book}\n")
+            if max_chapters and chapters_processed < total_chapters_in_book:
+                f.write(f"chapters_included: {chapters_processed} (test mode, limited from {total_chapters_in_book})\n")
+            f.write(f"tags:\n")
+            f.write(f"  - bible\n")
+            f.write(f"  - douay-rheims\n")
+            f.write(f"  - {testament.lower().replace(' ', '-')}\n")
+            if section:
+                # Add section as a tag (lowercase, hyphenated)
+                section_tag = section.lower().replace(' ', '-')
+                f.write(f"  - {section_tag}\n")
+            f.write(f"  - catholic-canon\n")
+            f.write(f"language: en\n")
+            f.write(f"format: markdown\n")
             f.write(f"---\n\n")
 
             # Book title
             f.write(f"# {book_name}\n\n")
 
+            # Table of Contents
+            f.write(f"## Table of Contents\n\n")
+            for chapter_info in chapters_to_process:
+                chapter_num = chapter_info.get('chapter')
+                if chapter_num is not None:
+                    # Standard markdown anchor format (lowercase, hyphens)
+                    chapter_anchor = f"chapter-{chapter_num}".lower()
+                    f.write(f"- [Chapter {chapter_num}](#{chapter_anchor})\n")
+            f.write(f"\n---\n\n")
+
             # Process each chapter with validation
-            total_chapters = len(chapters)
+            total_chapters = len(chapters_to_process)
             successful_chapters = 0
 
-            for chapter_info in chapters:
+            for chapter_info in chapters_to_process:
                 chapter_num = chapter_info.get('chapter')
                 if chapter_num is None:
                     continue
@@ -259,9 +455,10 @@ def generate_markdown(book_name: str, book_id: str, book_number: int, chapters: 
 
                 if not verses:
                     logger.error(f"  ❌ FAILED to fetch {book_name} chapter {chapter_num} after all retries")
-                    logger.error(f"❌ CRITICAL: Cannot proceed without all chapters. Exiting.")
-                    sys.exit(1)
+                    logger.error(f"❌ Cannot proceed without all chapters. Skipping this book.")
+                    return False
 
+                # Use anchor-friendly heading for TOC links (standard markdown format)
                 f.write(f"## Chapter {chapter_num}\n\n")
 
                 # Write verses in continuous flow (no paragraph breaks)
@@ -270,10 +467,10 @@ def generate_markdown(book_name: str, book_id: str, book_number: int, chapters: 
                     text = verse.get('text', '').strip()
 
                     if not verse_num or not text:
-                        logger.error(f"❌ CRITICAL: Missing verse data in {book_name} chapter {chapter_num}")
+                        logger.error(f"❌ Missing verse data in {book_name} chapter {chapter_num}")
                         logger.error(f"   Verse data: {verse}")
-                        logger.error(f"❌ Cannot proceed without all verses. Exiting.")
-                        sys.exit(1)
+                        logger.error(f"❌ Cannot proceed without all verses. Skipping this book.")
+                        return False
 
                     # Format: **1** In the beginning...
                     f.write(f"**{verse_num}** {text}  \n")
@@ -286,25 +483,36 @@ def generate_markdown(book_name: str, book_id: str, book_number: int, chapters: 
                 # Rate limiting delay between chapters
                 time.sleep(RATE_LIMIT_DELAY)
 
-            # Validate that we got all chapters (should never reach here if we exit on failure)
+            # Validate that we got all chapters
             if successful_chapters < total_chapters:
                 logger.error(f"❌ INCOMPLETE: Only got {successful_chapters}/{total_chapters} chapters for {book_name}")
-                logger.error(f"❌ CRITICAL: Cannot proceed without all chapters. Exiting.")
-                sys.exit(1)
+                logger.error(f"❌ Skipping this book.")
+                return False
 
-            logger.info(f"✅ Saved: {book_name} ({successful_chapters} chapters, all complete)")
+            if max_chapters and chapters_processed < total_chapters_in_book:
+                logger.info(f"✅ Saved: {book_name} ({successful_chapters}/{total_chapters_in_book} chapters, test mode limited to {max_chapters})")
+            else:
+                logger.info(f"✅ Saved: {book_name} ({successful_chapters} chapters, all complete)")
             return True
     except (IOError, OSError) as e:
         logger.error(f"Error writing {book_name}: {e}", exc_info=True)
         return False
 
 
-def main() -> int:
+def main(test_mode: bool = False, test_limit: int = 4, max_chapters: Optional[int] = 3) -> int:
     """Main extraction function.
+
+    Args:
+        test_mode: If True, only process the first N books (default: False)
+        test_limit: Number of books to process in test mode (default: 4)
+        max_chapters: Maximum number of chapters per book in test mode (default: 3, None for all chapters)
 
     Returns:
         Exit code: 0 for success, 1 for failure
     """
+    if test_mode:
+        chapters_info = f" (max {max_chapters} chapters per book)" if max_chapters else ""
+        logger.info(f"🧪 TEST MODE: Processing only first {test_limit} books{chapters_info}...")
     logger.info("Starting Douay-Rheims Bible extraction...")
 
     # Create output directory
@@ -320,101 +528,102 @@ def main() -> int:
 
     logger.info(f"Found {len(books)} books from API")
 
-    # Step 1.5: Check for missing deuterocanonical books and try to fetch them
-    api_book_ids = {book.get('id') for book in books}
-    deuterocanonical_books = get_deuterocanonical_books()
-    missing_books = [book for book in deuterocanonical_books if book['id'] not in api_book_ids]
-    unavailable_books = []  # Books that are not available from the API
+    # Create a mapping of book IDs to book info from API
+    api_books_map = {book.get('id'): book for book in books if book.get('id')}
 
-    if missing_books:
-        logger.warning(f"⚠️  API is missing {len(missing_books)} deuterocanonical books: {', '.join(b['name'] for b in missing_books)}")
-        logger.info(f"Attempting to fetch missing books directly from API...")
+    # Step 2: Process books in canonical order (1-73)
+    # This ensures files are created in the correct Catholic Bible order
+    success_count = 0
+    skipped_books = []  # Books that couldn't be found or processed
+    failed_books = []  # Books that failed during processing
 
-        for missing_book in missing_books:
-            book_id = missing_book['id']
-            logger.info(f"  Trying to fetch {missing_book['name']} ({book_id})...")
+    # Determine how many books to process
+    canonical_books_to_process = CATHOLIC_BIBLE_CANON[:test_limit] if test_mode else CATHOLIC_BIBLE_CANON
 
-            # Try to fetch the book info directly
-            book_info = fetch_book_info(book_id)
-
-            if book_info:
-                logger.info(f"  ✅ Successfully found {missing_book['name']} in API (not in book list)")
-                # Add it to the books list with a placeholder entry
-                books.append({
-                    'id': book_id,
-                    'name': book_info['name'],
-                    'is_deuterocanonical': True,
-                    'position': missing_book['position']
-                })
-            else:
-                logger.warning(f"  ❌ {missing_book['name']} ({book_id}) is not available in the API")
-                logger.warning(f"     This book must be obtained from an alternative source")
-                unavailable_books.append(missing_book)
-
-            time.sleep(RATE_LIMIT_DELAY)
-
-    # Validate book count
-    total_books = len(books)
-    expected_books = 73
-
-    if total_books < expected_books:
-        logger.error(f"❌ CRITICAL: Only {total_books} books found, but Catholic Douay-Rheims should have {expected_books} books")
-        logger.error(f"   Missing {expected_books - total_books} books from the Catholic canon")
-        if unavailable_books:
-            logger.error(f"   The following deuterocanonical books are not available from the API:")
-            for book in unavailable_books:
-                logger.error(f"     - {book['name']} ({book['id']})")
-        logger.error(f"   These books are not available from bible-api.com and must be obtained from an alternative source")
-        logger.error(f"   See README.md for information on alternative sources")
-        logger.error(f"   Continuing with available books, but extraction is incomplete...")
-    elif total_books > expected_books:
-        logger.warning(f"⚠️  Found {total_books} books, expected {expected_books} for Catholic canon")
-    else:
-        logger.info(f"✅ Found all {expected_books} books for Catholic canon")
-
-    logger.info(f"Starting download of {total_books} books...")
+    logger.info(f"Processing {len(canonical_books_to_process)} books in canonical order...")
     logger.info(f"⚠️  Using {RATE_LIMIT_DELAY}s delay between requests to avoid rate limits")
     logger.info(f"📝 Logging to: {LOG_FILE}")
 
+    for idx, canonical_book in enumerate(canonical_books_to_process, start=1):
+        canonical_position = canonical_book['canonical_position']
+        book_id = canonical_book['id']
+        canonical_name = canonical_book['name']
 
-    # Step 2: Loop through each book and process
-    # Note: Script exits immediately if any book/chapter/verse fails
-    success_count = 0
-    for idx, book in enumerate(books, start=1):
-        book_id = book.get('id')
-        book_name_from_list = book.get('name')
+        logger.info(f"\n📖 Processing {canonical_name} ({book_id}) - Canonical position: {canonical_position:02d} - Book {idx}/{len(canonical_books_to_process)}...")
 
-        if not book_id:
-            logger.warning(f"Skipping book with no ID: {book_name_from_list}")
-            continue
+        # Check if book is available in API
+        api_book = api_books_map.get(book_id)
 
-        logger.info(f"\n📖 Processing {book_name_from_list} ({book_id}) - Book {idx}/{len(books)}...")
+        if not api_book:
+            # Try to fetch book info directly (might be available but not in list)
+            logger.info(f"  Book {book_id} not in API list, attempting direct fetch...")
+            book_info = fetch_book_info(book_id)
 
-        # Fetch book info (name and chapter list)
-        book_info = fetch_book_info(book_id)
+            if not book_info:
+                logger.warning(f"  ⚠️  Skipping {canonical_name} ({book_id}) - not available in API")
+                skipped_books.append({
+                    'name': canonical_name,
+                    'id': book_id,
+                    'position': canonical_position,
+                    'reason': 'Not available in API'
+                })
+                time.sleep(RATE_LIMIT_DELAY)  # Still wait to respect rate limits
+                continue
 
-        if not book_info:
-            logger.error(f"❌ Failed to fetch book info for {book_id} after all retries")
-            logger.error(f"❌ CRITICAL: Cannot proceed without book info. Exiting.")
-            sys.exit(1)
+            # Use the fetched info
+            api_book_name = book_info['name']
+            chapters = book_info['chapters']
+        else:
+            # Book is in API list, fetch full info
+            api_book_name = api_book.get('name', canonical_name)
+            book_info = fetch_book_info(book_id)
+
+            if not book_info:
+                logger.warning(f"  ⚠️  Skipping {canonical_name} ({book_id}) - failed to fetch book info")
+                skipped_books.append({
+                    'name': canonical_name,
+                    'id': book_id,
+                    'position': canonical_position,
+                    'reason': 'Failed to fetch book info'
+                })
+                time.sleep(RATE_LIMIT_DELAY)
+                continue
+
+            chapters = book_info['chapters']
 
         # Rate limiting delay after fetching book info
         time.sleep(RATE_LIMIT_DELAY)
 
         # Generate markdown (this will fetch chapters individually)
-        # Note: generate_markdown will exit if any chapter/verse fails
-        if generate_markdown(
-            book_name=book_info['name'],
-            book_id=book_id,
-            book_number=idx,
-            chapters=book_info['chapters'],
-            output_folder=OUTPUT_DIR
-        ):
-            success_count += 1
-        else:
-            # Should never reach here since we exit on failure, but keep for safety
-            logger.error(f"❌ Book {book_name_from_list} failed - missing chapters!")
-            sys.exit(1)
+        # Limit chapters in test mode
+        chapters_to_use = chapters[:max_chapters] if (test_mode and max_chapters) else chapters
+        try:
+            if generate_markdown(
+                book_name=book_info['name'],
+                book_id=book_id,
+                canonical_position=canonical_position,
+                chapters=chapters,
+                output_folder=OUTPUT_DIR,
+                max_chapters=max_chapters if test_mode else None
+            ):
+                success_count += 1
+                logger.info(f"  ✅ Successfully saved {canonical_name}")
+            else:
+                logger.warning(f"  ⚠️  Failed to generate markdown for {canonical_name}")
+                failed_books.append({
+                    'name': canonical_name,
+                    'id': book_id,
+                    'position': canonical_position,
+                    'reason': 'Failed to generate markdown'
+                })
+        except Exception as e:
+            logger.error(f"  ❌ Error processing {canonical_name}: {e}", exc_info=True)
+            failed_books.append({
+                'name': canonical_name,
+                'id': book_id,
+                'position': canonical_position,
+                'reason': f'Exception: {str(e)}'
+            })
 
         # Polite delay to respect API rate limits between books
         time.sleep(RATE_LIMIT_DELAY * 2)  # Longer delay between books
@@ -423,21 +632,44 @@ def main() -> int:
     logger.info(f"\n{'='*60}")
     logger.info(f"📊 EXTRACTION SUMMARY")
     logger.info(f"{'='*60}")
-    logger.info(f"✅ Successfully processed: {success_count}/{len(books)} books")
+    logger.info(f"✅ Successfully processed: {success_count}/{len(canonical_books_to_process)} books")
 
-    if total_books < expected_books:
-        logger.error(f"❌ INCOMPLETE: Only {total_books}/{expected_books} books extracted")
-        logger.error(f"   Missing {expected_books - total_books} deuterocanonical books from Catholic canon")
-        logger.error(f"   The bible-api.com service only provides 66 books (Protestant canon)")
-        logger.error(f"   To get the complete 73-book Catholic canon, you need to obtain the missing books from an alternative source")
-        logger.info(f"Files saved in '{OUTPUT_DIR}/'")
-        return 1
-    else:
-        logger.info(f"🎉 All {expected_books} books completed successfully!")
+    if skipped_books:
+        logger.warning(f"\n⚠️  SKIPPED BOOKS ({len(skipped_books)}):")
+        for book in skipped_books:
+            logger.warning(f"   - {book['name']} ({book['id']}) - Position {book['position']:02d} - {book['reason']}")
+
+    if failed_books:
+        logger.error(f"\n❌ FAILED BOOKS ({len(failed_books)}):")
+        for book in failed_books:
+            logger.error(f"   - {book['name']} ({book['id']}) - Position {book['position']:02d} - {book['reason']}")
+
+    total_expected = len(canonical_books_to_process)
+    if success_count == total_expected:
+        logger.info(f"\n🎉 All {total_expected} books completed successfully!")
         logger.info(f"Files saved in '{OUTPUT_DIR}/'")
         return 0
+    else:
+        missing_count = len(skipped_books) + len(failed_books)
+        logger.warning(f"\n⚠️  INCOMPLETE: {success_count}/{total_expected} books extracted successfully")
+        logger.warning(f"   {missing_count} books were skipped or failed")
+        if skipped_books:
+            logger.warning(f"   Missing books are not available from bible-api.com and must be obtained from an alternative source")
+            logger.warning(f"   See README.md for information on alternative sources")
+        logger.info(f"Files saved in '{OUTPUT_DIR}/'")
+        return 1 if missing_count > 0 else 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Extract Douay-Rheims Bible to Markdown')
+    parser.add_argument('--test', action='store_true', help='Test mode: process only first N books with limited chapters')
+    parser.add_argument('--test-limit', type=int, default=4, help='Number of books to process in test mode (default: 4)')
+    parser.add_argument('--max-chapters', type=int, default=3, help='Maximum number of chapters per book in test mode (default: 3, use 0 for all chapters)')
+
+    args = parser.parse_args()
+    # Convert 0 to None (meaning no limit)
+    max_chapters = None if args.max_chapters == 0 else args.max_chapters
+    sys.exit(main(test_mode=args.test, test_limit=args.test_limit, max_chapters=max_chapters))
 

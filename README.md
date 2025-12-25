@@ -129,7 +129,7 @@ This pipeline extracts and processes three foundational Catholic texts that toge
 ### Pillar A: Douay-Rheims Bible (1899 American Edition)
 - **Source**: bible-api.com (ebible.org data)
 - **Format**: API → JSON → Markdown
-- **Output**: 73 individual Markdown files (Genesis.md through Apocalypse.md)
+- **Output**: 73 individual Markdown files (1_Genesis.md through 66_Revelation.md)
 - **Script**: `data_engineering/data_sources/bible_douay_rheims/extract_bible.py`
 - **No prerequisites**: Downloads directly from API
 - **Historical Significance**: First officially authorized Catholic Bible in English, translated from the Latin Vulgate. The 1899 American Edition represents the Challoner revision, which became the standard English Catholic Bible for centuries.
@@ -220,10 +220,11 @@ the_depositum/
 - `.gitignore` - Git ignore rules
 
 ### Configuration & Rules
-- `.cursor/rules/error-handling.mdc` - Error handling standards (applies to all `*.py`)
-- `.cursor/rules/data-engineering.mdc` - Data engineering standards (applies to `data_engineering/**/*.py`)
-- `.github/CODEOWNERS` - Code review assignments
-- `.github/workflows/security-audit.yml` - Security scanning workflow
+- `.cursor/rules/error-handling.mdc` - Error handling standards (applies to all `*.py`) - if directory exists
+- `.cursor/rules/data-engineering.mdc` - Data engineering standards (applies to `data_engineering/**/*.py`) - if directory exists
+- `.github/CODEOWNERS` - Code review assignments - if directory exists
+- `.github/workflows/security-audit.yml` - Security scanning workflow - if directory exists
+- `scripts/security_check.sh` - Local security scanning script
 
 ### Data Engineering Files
 - `data_engineering/README.md` - Technical documentation
@@ -236,16 +237,19 @@ the_depositum/
 - `data_engineering/data_sources/bible_commentary_haydock/README.md` - Commentary extraction guide
 - `data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py` - Catechism extraction script
 - `data_engineering/data_sources/catholic_catechism_trent/README.md` - Catechism extraction guide
+- `data_engineering/data_sources/catholic_catechism_trent/EXTRACTION_ANALYSIS.md` - Analysis of header detection improvements
+- `data_engineering/data_sources/catholic_catechism_trent/cleaned_table_of_contents.csv` - Reference table of contents for validation
 
 ### Output Documentation
-- `data_final/README.md` - Final output documentation with historical context for all three sources
+- `data_final/00_Project_Prompt_and_Sources.md` - Project constitution and source documentation defining the three pillars and operational guidelines
 
 ### Generated Directories (not in version control)
 - `data_engineering/processed_data/` - Intermediate processed files
-- `data_final/bible_douay_rheims/` - Final Bible output (73 .md files)
+- `data_final/bible_douay_rheims/` - Final Bible output (73 .md files, numbered like `1_Genesis.md`, `66_Revelation.md`)
 - `data_final/bible_commentary_haydock/` - Final commentary output (.md files)
 - `data_final/catholic_catechism_trent/` - Final catechism output (.md file)
-- `logs/` - Execution logs
+- `data_final/00_Project_Prompt_and_Sources.md` - Project constitution and source documentation
+- `data_engineering/logs/` - Execution logs (bible_extraction.log, catechism_extraction.log)
 
 ## 🎓 Use Case: NotebookLM Integration
 

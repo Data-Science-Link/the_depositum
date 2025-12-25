@@ -178,7 +178,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 ### Expected Outputs
 
 **Douay-Rheims Bible**:
-- 73 files (Genesis.md through Apocalypse.md)
+- 73 files (1_Genesis.md through 66_Revelation.md)
 - Each file contains frontmatter, book title, chapters, and verses
 - Format: `**verse_number** verse_text`
 
@@ -322,7 +322,7 @@ When adding new extraction methods:
 ## 📞 Support
 
 For technical issues:
-- Check logs in `logs/` directory
+- Check logs in `data_engineering/logs/` directory
 - Review extraction method guides in project root
 - Open GitHub issue with specific error details
 
