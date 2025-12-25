@@ -54,7 +54,6 @@ ENV/
 *.epub
 *.rtf
 *.pdf
-*.csv
 *.tsv
 *.xlsx
 *.xls

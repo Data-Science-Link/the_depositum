@@ -179,13 +179,61 @@ def _find_next_content_line(lines: List[str], start_idx: int) -> Optional[int]:
     return None
 
 
+def _get_section_context(lines: List[str], current_idx: int) -> Tuple[str, int]:
+    """Determine the current section context by looking backwards for structural headers.
+
+    Returns: (context_type, header_level) where:
+    - context_type: 'intro', 'part', 'article', 'level2_section', or 'none'
+    - header_level: The level of the most recent structural header found
+    """
+    # Look backwards for the most recent structural header
+    for i in range(current_idx - 1, -1, -1):
+        line = lines[i].strip()
+        if not line:
+            continue
+
+        # Check if it's a formatted header
+        if line.startswith('#'):
+            header_level = len(line) - len(line.lstrip('#'))
+            header_text = line.lstrip('#').strip()
+
+            # Check for INTRODUCTORY (Level 1)
+            if re.match(r'^INTRODUCTORY', header_text, re.IGNORECASE):
+                return ('intro', header_level)
+            # Check for PART (Level 1)
+            if re.match(r'^PART\s+[IVX]+', header_text, re.IGNORECASE):
+                return ('part', header_level)
+            # Check for ARTICLE (Level 2)
+            if re.match(r'^ARTICLE\s+[IVX]+', header_text, re.IGNORECASE):
+                return ('article', header_level)
+            # Check for Level 2 sections like "THE SACRAMENTS", "THE SACRAMENT OF..."
+            if header_level == 2:
+                if re.match(r'^THE\s+SACRAMENT', header_text, re.IGNORECASE):
+                    return ('level2_section', header_level)
+        # Also check unformatted structural markers
+        elif re.match(r'^INTRODUCTORY', line, re.IGNORECASE):
+            return ('intro', 1)
+        elif re.match(r'^PART\s+[IVX]+', line, re.IGNORECASE):
+            return ('part', 1)
+        elif re.match(r'^ARTICLE\s+[IVX]+', line, re.IGNORECASE):
+            return ('article', 2)
+        elif re.match(r'^THE\s+SACRAMENT', line, re.IGNORECASE):
+            return ('level2_section', 2)
+
+    return ('none', 0)
+
+
 def _format_italicized_headers(text: str, italicized_texts: List[str]) -> str:
-    """Format italicized lines as #### headers using formulaic rules.
+    """Format italicized lines as headers using hierarchy-aware rules.
 
     Formulaic approach:
-    - Only format lines that are reasonable header length (10-150 chars)
+    - Determine header level based on section context:
+      - Under INTRODUCTORY or PART → `##` (Level 2)
+      - Under ARTICLE or Level 2 section → `###` (Level 3)
+      - Default/unknown → `####` (Level 4)
+    - Only format lines that are reasonable header length (5-150 chars)
     - Must be followed by substantial content
-    - Exclude lines that look like sentences (end with periods, have too many words)
+    - Exclude lines that look like sentences
     """
     if not italicized_texts:
         return text
@@ -199,69 +247,79 @@ def _format_italicized_headers(text: str, italicized_texts: List[str]) -> str:
             italicized_normalized[normalized] = it.strip()
 
     formatted_count = 0
+    level_counts = {'##': 0, '###': 0, '####': 0}
 
     for i, line in enumerate(lines):
         stripped = line.strip()
         if not stripped or stripped.startswith('#'):
             continue
 
-        # Normalize the line for comparison (remove trailing punctuation for better matching)
+        # Normalize the line for comparison
         normalized_line = ' '.join(stripped.split())
-        # Also create version without trailing punctuation for matching
         normalized_line_no_punct = normalized_line.rstrip('.,:;!?')
 
         # Check for exact or substring match
         matched_italic = None
         for norm_italic, orig_italic in italicized_normalized.items():
-            # Normalize italic text similarly
             norm_italic_no_punct = norm_italic.rstrip('.,:;!?')
 
-            # Exact match (after normalization, with or without trailing punctuation)
+            # Exact match
             if normalized_line == norm_italic or normalized_line_no_punct == norm_italic_no_punct:
                 matched_italic = orig_italic
                 break
-            # Substring match - line contains italic text or vice versa
-            # Lower threshold for short headers (5-15 chars) to catch them
+            # Substring match
             min_length = 5 if len(normalized_line) <= 15 else 15
             if (norm_italic in normalized_line and len(norm_italic) >= min_length) or \
                (normalized_line in norm_italic and len(normalized_line) >= min_length) or \
                (norm_italic_no_punct in normalized_line_no_punct and len(norm_italic_no_punct) >= min_length) or \
                (normalized_line_no_punct in norm_italic_no_punct and len(normalized_line_no_punct) >= min_length):
-                # Prefer longer match
                 if not matched_italic or len(norm_italic) > len(matched_italic):
                     matched_italic = orig_italic
 
         if matched_italic:
-            # Formulaic validation: must be reasonable header characteristics
-            # 1. Length check (5-150 chars) - lowered minimum to catch short headers like "The Judge"
+            # Validation: reasonable header characteristics
             if not (5 <= len(stripped) <= 150):
                 continue
 
-            # 2. Not a sentence (doesn't end with period, comma, or have too many words)
             word_count = len(stripped.split())
             if (stripped.endswith(('.', ',', ';')) and word_count > 8) or word_count > 20:
                 continue
 
-            # 3. Must be followed by substantial content (or be a very short header that's likely a title)
-            # Short headers (5-15 chars) are more likely to be valid even if followed by short text
+            # Determine header level based on context
+            context_type, parent_level = _get_section_context(lines, i)
+
+            # Hierarchy rules:
+            # - Under INTRODUCTORY or PART (Level 1) → Level 2
+            # - Under ARTICLE or Level 2 section (Level 2) → Level 3
+            # - Under Level 3 section → Level 4
+            # - Unknown → Level 4 (default)
+            if context_type in ('intro', 'part'):
+                header_level = '##'  # Level 2 (under Level 1)
+            elif context_type in ('article', 'level2_section'):
+                header_level = '###'  # Level 3 (under Level 2)
+            elif parent_level == 3:
+                header_level = '####'  # Level 4 (under Level 3)
+            else:
+                header_level = '####'  # Level 4 (default/deeper subsections)
+
+            # Check if followed by substantial content
             is_short_header = 5 <= len(stripped) <= 15
             next_idx = _find_next_content_line(lines, i)
             if next_idx:
                 next_line = lines[next_idx].strip()
-                # Format if next line has substantial content and isn't another header
-                # For short headers, be more lenient (next line can be shorter)
                 min_next_length = 10 if is_short_header else 15
                 if len(next_line) > min_next_length and not next_line.startswith('#'):
-                    lines[i] = f"#### {stripped}"
+                    lines[i] = f"{header_level} {stripped}"
                     formatted_count += 1
+                    level_counts[header_level] += 1
             elif is_short_header:
-                # Very short headers that are likely titles can be formatted even without following content
-                # This handles cases where the next line might be another short header
-                lines[i] = f"#### {stripped}"
+                lines[i] = f"{header_level} {stripped}"
                 formatted_count += 1
+                level_counts[header_level] += 1
 
     if formatted_count > 0:
-        logger.info(f"Formatted {formatted_count} italicized lines as headers")
+        logger.info(f"Formatted {formatted_count} italicized lines as headers: "
+                   f"{level_counts['##']} Level 2, {level_counts['###']} Level 3, {level_counts['####']} Level 4")
 
     return '\n'.join(lines)
 
@@ -709,11 +767,17 @@ def add_markdown_headers(text: str, italicized_texts: Optional[List[str]] = None
             lines[i] = re.sub(r'^(ARTICLE\s+[IVX]+.*)', r'## \1', stripped)
             continue
 
-        # Level 2: All-caps structural words (PREFACE, INTRODUCTORY, etc.)
+        # Level 1: INTRODUCTORY (should be Level 1, not Level 2)
+        if re.match(r'^INTRODUCTORY(?:\s|$)', stripped, re.IGNORECASE):
+            lines[i] = f"# {stripped}"
+            continue
+
+        # Level 2: All-caps structural words (PREFACE, etc.) - but not INTRODUCTORY (handled above)
         # Only if the entire line is all-caps (2+ chars) or starts with all-caps word
         if re.match(r'^[A-Z]{2,}(?:\s|$)', stripped):
             # Check if it's a known structural word or a short all-caps phrase
-            if len(stripped.split()) <= 5 and stripped.isupper():
+            # Skip INTRODUCTORY as it's already handled above
+            if stripped.upper() != 'INTRODUCTORY' and len(stripped.split()) <= 5 and stripped.isupper():
                 lines[i] = f"## {stripped}"
                 continue
 
