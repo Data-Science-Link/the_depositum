@@ -1,71 +1,31 @@
 # Header Comparison Analysis
 **Date**: 1766640693.4030044
-**Accuracy**: 51.78%
+**Accuracy**: 88.97%
 **Target**: 95%
 
 ## Summary
 - Total TOC entries: 1128
 - Filtered TOC entries (excluding copyright/intro): 1124
-- Total Markdown headers: 1155
-- Matches (correct level): 582
-- Mismatches (wrong level): 424
-- Not found: 118
+- Total Markdown headers: 1190
+- Matches (correct level): 1000
+- Mismatches (wrong level): 12
+- Not found: 112
 
 ## Level Mismatches
 | TOC Text | Expected Level | Actual Level | MD Text |
 |----------|---------------|--------------|----------|
+| Love Of God | 2 | 3 | Love Of God |
+| The Means Required for Religious Instruction | 2 | 3 | The Means Required for Religious Instruction |
+| Instruction Should Be Accommodated To The Capacity Of The He | 2 | 3 | Instruction Should Be Accommodated To The Capacity Of The He |
+| Study Of The Word Of God | 2 | 3 | Study Of The Word Of God |
+| Division of this Catechism | 2 | 3 | Division of this Catechism |
+| How This Work Is To Be Used | 2 | 3 | How This Work Is To Be Used |
 | Faith | 2 | 3 | Faith |
 | First Part of this Article: '"Suffered Under Pontius Pilate, | 3 | 4 | Article: '"Suffered Under Pontius Pilate, was Crucified”, |
-| The Just | 3 | 2 | The Just |
 | Importance Of Instruction On The Sacraments | 3 | 2 | THE SACRAMENTS Importance Of Instruction On The Sacraments |
-| The Word "Sacrament" | 3 | 2 | The Word "Sacrament" |
-| Definition of a Sacrament | 3 | 2 | Definition of a Sacrament |
-| "A Sacrament is a Sign" | 3 | 2 | "A Sacrament is a Sign" |
-| Proof From Reason | 3 | 2 | Proof From Reason |
-| Proof From Scripture | 3 | 2 | Proof From Scripture |
-| "Sign of a Sacred Thing" : Kind of Sign Meant Here | 3 | 2 | "Sign of a Sacred Thing" : Kind of Sign Meant Here |
-| Natural Signs | 3 | 2 | Natural Signs |
-| Signs Invented By Man, | 3 | 2 | Signs Invented By Man, |
-| Signs Instituted By God | 3 | 2 | Signs Instituted By God |
-| Kind of Sacred Thing Meant Here | 3 | 2 | Kind of Sacred Thing Meant Here |
-| Other Sacred Things Signified By The Sacraments | 3 | 2 | Other Sacred Things Signified By The Sacraments |
-| All The Sacraments Signify Something Present, Something Past | 3 | 2 | All The Sacraments Signify Something Present, Something Past |
-| A Sacrament Sometimes Signifies The Presence Of More Than On | 3 | 2 | A Sacrament Sometimes Signifies The Presence Of More Than On |
-| Why the Sacraments were Instituted | 3 | 2 | Why the Sacraments were Instituted |
-| Proof From Scripture | 3 | 2 | Proof From Scripture |
-| Proof From Scripture | 3 | 2 | Proof From Scripture |
-| Proof From Scripture | 3 | 2 | Proof From Scripture |
 | Importance Of Instruction On The Commandments | 3 | 2 | THE DECALOGUE Importance Of Instruction On The Commandments |
-| Motives for Observing the Commandments | 3 | 2 | Motives for Observing the Commandments |
-| God Is The Giver Of The Commandments | 3 | 2 | God Is The Giver Of The Commandments |
-| The Commandments Were Proclaimed With Great Solemnity | 3 | 2 | The Commandments Were Proclaimed With Great Solemnity |
-| The Observance Of The Commandments Is Not Difficult | 3 | 2 | The Observance Of The Commandments Is Not Difficult |
-| The Observance Of The Commandments Is Necessary | 3 | 2 | The Observance Of The Commandments Is Necessary |
-| The Observance Of The Commandments Is Attended By Many Bless | 3 | 2 | The Observance Of The Commandments Is Attended By Many Bless |
-| God's Goodness Invites Us To Keep His Commandments | 3 | 2 | God's Goodness Invites Us To Keep His Commandments |
-| The Promulgation of the Law | 3 | 2 | The Promulgation of the Law |
-| The People To Whom The Law Was Given | 3 | 2 | The People To Whom The Law Was Given |
-| Epitome Of Jewish History | 3 | 2 | Epitome Of Jewish History |
-| Lessons To Be Drawn From Jewish History | 3 | 2 | Lessons To Be Drawn From Jewish History |
-| The Time And Place In Which The Law Was Promulgated | 3 | 2 | The Time And Place In Which The Law Was Promulgated |
-| "Who Brought thee out of the Land of Egypt, out of the House | 3 | 2 | "Who Brought thee out of the Land of Egypt, out of the House |
-| "Thou shalt not have Strange Gods before Me" | 3 | 2 | "Thou shalt not have Strange Gods before Me" |
-| The Above Words Contain A Command And A Prohibition | 3 | 2 | The Above Words Contain A Command And A Prohibition |
-| What They Command | 3 | 2 | What They Command |
-| What They Forbid | 3 | 2 | What They Forbid |
-| Importance Of This Commandment | 3 | 2 | Importance Of This Commandment |
-| Sins Against This Commandment | 3 | 2 | Sins Against This Commandment |
-| Veneration And Invocation Of Angels And Saints Not Forbidden | 3 | 2 | Veneration And Invocation Of Angels And Saints Not Forbidden |
-| It Is Lawful To Honour And Invoke The Angels | 3 | 2 | It Is Lawful To Honour And Invoke The Angels |
-| It Is Lawful To Honour And Invoke The Saints | 3 | 2 | It Is Lawful To Honour And Invoke The Saints |
-| Objections Answered | 3 | 2 | Objections Answered |
-| The Honour And Invocation Of Saints Is Approved By Miracles | 3 | 2 | The Honour And Invocation Of Saints Is Approved By Miracles |
-| The Above Words Do Not Forbid All Images | 3 | 2 | The Above Words Do Not Forbid All Images |
-| They Forbid Idols And Representations Of The Deity | 3 | 2 | They Forbid Idols And Representations Of The Deity |
-| They Do Not Forbid Representations Of The Divine Persons And | 3 | 2 | They Do Not Forbid Representations Of The Divine Persons And |
-| They Do Not Forbid Images Of Christ And The Saints | 3 | 2 | They Do Not Forbid Images Of Christ And The Saints |
-
-*... and 374 more mismatches*
+| False Testimony Out Of Court Is Forbidden | 3 | 2 | False Testimony Out Of Court Is Forbidden |
+| PRAYER | 2 | 3 | Prayer |
 
 ## Not Found in Markdown
 | Level | TOC Text |
@@ -121,7 +81,7 @@
 | 3 | Qualifications for the Priesthood |
 | 3 | Holiness Of Life |
 
-*... and 68 more not found*
+*... and 62 more not found*
 
 ## Level Distribution
 ### TOC Levels

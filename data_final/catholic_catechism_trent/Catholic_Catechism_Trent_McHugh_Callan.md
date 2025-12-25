@@ -21,6 +21,8 @@ format: markdown
   - [Copyright and Introduction to the Document](#copyright-and-introduction-to-the-document)
   - [PREFACE ORIGIN OF THE ROMAN CATECHISM](#preface-origin-of-the-roman-catechism)
   - [AUTHORITY AND EXCELLENCE OF THE ROMAN CATECHISM](#authority-and-excellence-of-the-roman-catechism)
+  - [the Sacraments. In short, synods repeatedly prescribed that the clergy should make such frequent use of the](#the-sacraments-in-short-synods-repeatedly-prescribed-that-the-clergy-should-make-such-frequent-use-of-the)
+  - [prayer ever written.](#prayer-ever-written)
   - [JOHN A. MCHUGH, O. P.](#john-a-mchugh-o-p)
   - [CHARLES J. CALLAN, O. P. CATECHISM OF THE COUNCIL OF TRENT FOR PARISH PRIESTS](#charles-j-callan-o-p-catechism-of-the-council-of-trent-for-parish-priests)
 - [INTRODUCTORY](#introductory)
@@ -30,13 +32,13 @@ format: markdown
   - [The Ends of Religious Instruction](#the-ends-of-religious-instruction)
   - [Knowledge Of Christ](#knowledge-of-christ)
   - [Observance Of The Commandments](#observance-of-the-commandments)
-  - [Love Of God](#love-of-god)
-  - [The Means Required for Religious Instruction](#the-means-required-for-religious-instruction)
-  - [Instruction Should Be Accommodated To The Capacity Of The Hearer](#instruction-should-be-accommodated-to-the-capacity-of-the-hearer)
-  - [Study Of The Word Of God](#study-of-the-word-of-god)
-  - [Division of this Catechism](#division-of-this-catechism)
-  - [Prayer.](#prayer)
-  - [How This Work Is To Be Used](#how-this-work-is-to-be-used)
+    - [Love Of God](#love-of-god)
+    - [The Means Required for Religious Instruction](#the-means-required-for-religious-instruction)
+    - [Instruction Should Be Accommodated To The Capacity Of The Hearer](#instruction-should-be-accommodated-to-the-capacity-of-the-hearer)
+    - [Study Of The Word Of God](#study-of-the-word-of-god)
+    - [Division of this Catechism](#division-of-this-catechism)
+    - [Prayer.](#prayer)
+    - [How This Work Is To Be Used](#how-this-work-is-to-be-used)
 - [PART I :](#part-i)
   - [THE CREED Faith](#the-creed-faith)
   - [Necessity Of Faith](#necessity-of-faith)
@@ -257,25 +259,28 @@ format: markdown
     - [How to Arrive at the Enjoyment of this Happiness](#how-to-arrive-at-the-enjoyment-of-this-happiness)
 - [PART II :](#part-ii)
   - [THE SACRAMENTS Importance Of Instruction On The Sacraments](#the-sacraments-importance-of-instruction-on-the-sacraments)
-  - [The Word "Sacrament"](#the-word-sacrament)
-  - [Definition of a Sacrament](#definition-of-a-sacrament)
-  - ["A Sacrament is a Sign"](#a-sacrament-is-a-sign)
-  - [Proof From Reason](#proof-from-reason)
-  - [Proof From Scripture](#proof-from-scripture)
-  - ["Sign of a Sacred Thing" : Kind of Sign Meant Here](#sign-of-a-sacred-thing-kind-of-sign-meant-here)
-  - [Natural Signs](#natural-signs)
-  - [Signs Invented By Man,](#signs-invented-by-man)
-  - [Signs Instituted By God](#signs-instituted-by-god)
-  - [Kind of Sacred Thing Meant Here](#kind-of-sacred-thing-meant-here)
-  - [Other Sacred Things Signified By The Sacraments](#other-sacred-things-signified-by-the-sacraments)
-  - [All The Sacraments Signify Something Present, Something Past, Something Future:](#all-the-sacraments-signify-something-present-something-past-something-future)
-  - [A Sacrament Sometimes Signifies The Presence Of More Than One Thing](#a-sacrament-sometimes-signifies-the-presence-of-more-than-one-thing)
-  - [Why the Sacraments were Instituted](#why-the-sacraments-were-instituted)
+    - [The Word "Sacrament"](#the-word-sacrament)
+    - [Definition of a Sacrament](#definition-of-a-sacrament)
+    - ["A Sacrament is a Sign"](#a-sacrament-is-a-sign)
+    - [Proof From Reason](#proof-from-reason)
+    - [Proof From Scripture](#proof-from-scripture)
+    - ["Sign of a Sacred Thing" : Kind of Sign Meant Here](#sign-of-a-sacred-thing-kind-of-sign-meant-here)
+    - [Natural Signs](#natural-signs)
+    - [Signs Invented By Man,](#signs-invented-by-man)
+    - [Signs Instituted By God](#signs-instituted-by-god)
+    - [Kind of Sacred Thing Meant Here](#kind-of-sacred-thing-meant-here)
+    - [Other Sacred Things Signified By The Sacraments](#other-sacred-things-signified-by-the-sacraments)
+    - [All The Sacraments Signify Something Present, Something Past, Something Future:](#all-the-sacraments-signify-something-present-something-past-something-future)
+    - [A Sacrament Sometimes Signifies The Presence Of More Than One Thing](#a-sacrament-sometimes-signifies-the-presence-of-more-than-one-thing)
+    - [Why the Sacraments were Instituted](#why-the-sacraments-were-instituted)
+  - [The Sacraments have also great influence, not only in exciting and exercising our faith, but also in inflaming](#the-sacraments-have-also-great-influence-not-only-in-exciting-and-exercising-our-faith-but-also-in-inflaming)
     - [Constituent Parts of the Sacraments](#constituent-parts-of-the-sacraments)
     - [Ceremonies Used in the Administration of the Sacraments](#ceremonies-used-in-the-administration-of-the-sacraments)
     - [The Number Of The Sacraments](#the-number-of-the-sacraments)
+  - [The Sacraments of the Catholic Church are seven in number, as is proved from Scripture, from the tradition](#the-sacraments-of-the-catholic-church-are-seven-in-number-as-is-proved-from-scripture-from-the-tradition)
     - [Comparisons among the Sacraments](#comparisons-among-the-sacraments)
     - [The Author of the Sacraments](#the-author-of-the-sacraments)
+  - [the Sacraments are the wonderful instruments of justification, it is evident that one and the same God in Christ,](#the-sacraments-are-the-wonderful-instruments-of-justification-it-is-evident-that-one-and-the-same-god-in-christ)
     - [Sacraments.](#sacraments)
     - [The Ministers of the Sacraments](#the-ministers-of-the-sacraments)
     - [Unworthiness Of The Minister And Validity](#unworthiness-of-the-minister-and-validity)
@@ -288,6 +293,7 @@ format: markdown
     - [Importance Of Instruction On Baptism](#importance-of-instruction-on-baptism)
     - [imitation.](#imitation)
     - [Names of this Sacrament](#names-of-this-sacrament)
+  - [the Commandments. So much should be briefly explained concerning the name (of this Sacrament) .](#the-commandments-so-much-should-be-briefly-explained-concerning-the-name-of-this-sacrament)
     - [Definition Of Baptism](#definition-of-baptism)
     - [Constituent Elements Of Baptism](#constituent-elements-of-baptism)
     - [Matter of Baptism](#matter-of-baptism)
@@ -300,6 +306,7 @@ format: markdown
     - [Words Of The Form](#words-of-the-form)
     - [Holy Ghost.](#holy-ghost)
     - [Essential And Non-Essential Words Of The Form](#essential-and-non-essential-words-of-the-form)
+  - [the Sacrament impossible; while others on the contrary, are not so essential as to affect its validity.](#the-sacrament-impossible-while-others-on-the-contrary-are-not-so-essential-as-to-affect-its-validity)
     - [Baptism In The Name Of Christ](#baptism-in-the-name-of-christ)
     - [Administration of Baptism](#administration-of-baptism)
     - [Institution Of Baptism](#institution-of-baptism)
@@ -367,6 +374,7 @@ format: markdown
     - [The Profession Of Faith](#the-profession-of-faith)
     - [The Wish To Be Baptised](#the-wish-to-be-baptised)
     - [The Ceremonies That Follow Baptism: Chrism](#the-ceremonies-that-follow-baptism-chrism)
+  - [prayers then offered by the priest, as St. Ambrose observes, sufficiently explain.](#prayers-then-offered-by-the-priest-as-st-ambrose-observes-sufficiently-explain)
     - [The White Garment](#the-white-garment)
     - [The Lighted Candle](#the-lighted-candle)
     - [The Name Given In Baptism](#the-name-given-in-baptism)
@@ -381,7 +389,9 @@ format: markdown
     - [The Remote Matter Of Confirmation Is Chrism](#the-remote-matter-of-confirmation-is-chrism)
     - [The Appropriateness Of Chrism](#the-appropriateness-of-chrism)
     - [Chrism To Be Consecrated By The Bishop](#chrism-to-be-consecrated-by-the-bishop)
+  - [prayers; and this consecration can appertain to none save the Bishop, who has been appointed the ordinary](#prayers-and-this-consecration-can-appertain-to-none-save-the-bishop-who-has-been-appointed-the-ordinary)
     - [The Form Of Confirmation](#the-form-of-confirmation)
+  - [the Sacrament; the strength of mind and soul which is imparted by the sacred unction to the faithful unto](#the-sacrament-the-strength-of-mind-and-soul-which-is-imparted-by-the-sacred-unction-to-the-faithful-unto)
     - [Minister of Confirmation](#minister-of-confirmation)
     - [Confirmation.](#confirmation)
     - [Confirmation.](#confirmation)
@@ -455,12 +465,14 @@ format: markdown
     - [A Consequence Of Transubstantiation](#a-consequence-of-transubstantiation)
     - [The Mystery of the Accidents without a Subject](#the-mystery-of-the-accidents-without-a-subject)
     - [Proof From The Preceding Dogmas](#proof-from-the-preceding-dogmas)
+  - [the Sacrament, to the entire exclusion of the substance of the bread and wine, and since the accidents of bread](#the-sacrament-to-the-entire-exclusion-of-the-substance-of-the-bread-and-wine-and-since-the-accidents-of-bread)
     - [Proof From The Teaching Of The Church](#proof-from-the-teaching-of-the-church)
     - [Advantages Of This Mystery](#advantages-of-this-mystery)
     - [The Effects of the Eucharist](#the-effects-of-the-eucharist)
     - [The Eucharist Contains Christ And Is The Food Of The Soul](#the-eucharist-contains-christ-and-is-the-food-of-the-soul)
     - [The Eucharist Gives Grace](#the-eucharist-gives-grace)
     - [The Grace Of The Eucharist Sustains](#the-grace-of-the-eucharist-sustains)
+  - [the Sacraments, and the symbol of unity and brotherhood in the Church, outside which none can attain grace.](#the-sacraments-and-the-symbol-of-unity-and-brotherhood-in-the-church-outside-which-none-can-attain-grace)
     - [The Grace Of The Eucharist Invigorates And Delights](#the-grace-of-the-eucharist-invigorates-and-delights)
     - [The Eucharist Remits Venial Sins](#the-eucharist-remits-venial-sins)
     - [The Eucharist Strengthens Against Temptation](#the-eucharist-strengthens-against-temptation)
@@ -546,6 +558,7 @@ format: markdown
     - [Confession Should Be Prudent, Modest, Brief](#confession-should-be-prudent-modest-brief)
     - [Confession Should Be Made Privately And Often](#confession-should-be-made-privately-and-often)
     - [The Minister of the Sacrament of Penance The Usual Minister](#the-minister-of-the-sacrament-of-penance-the-usual-minister)
+  - [the Sacrament of Penance to receive the Holy Eucharist.](#the-sacrament-of-penance-to-receive-the-holy-eucharist)
     - [The Minister In Danger Of Death](#the-minister-in-danger-of-death)
     - [Qualifications Of The Minister](#qualifications-of-the-minister)
     - [The Confessor Must Observe The Seal Of Confession](#the-confessor-must-observe-the-seal-of-confession)
@@ -581,12 +594,14 @@ format: markdown
     - [Admonition](#admonition)
   - [THE SACRAMENT OF EXTREME UNCTION](#the-sacrament-of-extreme-unction)
     - [Importance Of Instruction On Extreme Unction](#importance-of-instruction-on-extreme-unction)
+  - [The Sacrament of Extreme Unction, because inseparably associated with recollection of the day of death,](#the-sacrament-of-extreme-unction-because-inseparably-associated-with-recollection-of-the-day-of-death)
     - [Names of this Sacrament](#names-of-this-sacrament)
     - [Extreme Unction Is a True Sacrament](#extreme-unction-is-a-true-sacrament)
     - [Extreme Unction Is But One Sacrament](#extreme-unction-is-but-one-sacrament)
     - [Essential Parts of Extreme Unction](#essential-parts-of-extreme-unction)
     - [The Matter Of Extreme Unction](#the-matter-of-extreme-unction)
     - [The Form Of Extreme Unction](#the-form-of-extreme-unction)
+  - [prayer. The Apostle does not say of what particular words that prayer is to consist; but this form has been](#prayer-the-apostle-does-not-say-of-what-particular-words-that-prayer-is-to-consist-but-this-form-has-been)
     - [The Ceremonies Of Extreme Unction](#the-ceremonies-of-extreme-unction)
     - [Institution of Extreme Unction](#institution-of-extreme-unction)
     - [The Subject of Extreme Unction](#the-subject-of-extreme-unction)
@@ -678,460 +693,480 @@ format: markdown
     - [The Use Of Marriage](#the-use-of-marriage)
 - [PART III :](#part-iii)
   - [THE DECALOGUE Importance Of Instruction On The Commandments](#the-decalogue-importance-of-instruction-on-the-commandments)
-  - [Motives for Observing the Commandments](#motives-for-observing-the-commandments)
-  - [God Is The Giver Of The Commandments](#god-is-the-giver-of-the-commandments)
-  - [The Commandments Were Proclaimed With Great Solemnity](#the-commandments-were-proclaimed-with-great-solemnity)
-  - [The Observance Of The Commandments Is Not Difficult](#the-observance-of-the-commandments-is-not-difficult)
-  - [The Observance Of The Commandments Is Necessary](#the-observance-of-the-commandments-is-necessary)
-  - [The Observance Of The Commandments Is Attended By Many Blessings](#the-observance-of-the-commandments-is-attended-by-many-blessings)
-  - [God's Goodness Invites Us To Keep His Commandments](#gods-goodness-invites-us-to-keep-his-commandments)
-  - [The Promulgation of the Law](#the-promulgation-of-the-law)
-  - [The People To Whom The Law Was Given](#the-people-to-whom-the-law-was-given)
-  - [Epitome Of Jewish History](#epitome-of-jewish-history)
-  - [Lessons To Be Drawn From Jewish History](#lessons-to-be-drawn-from-jewish-history)
-  - [The Time And Place In Which The Law Was Promulgated](#the-time-and-place-in-which-the-law-was-promulgated)
+    - [Motives for Observing the Commandments](#motives-for-observing-the-commandments)
+    - [God Is The Giver Of The Commandments](#god-is-the-giver-of-the-commandments)
+  - [the Commandments because they were delivered by Moses, but because they are implanted in the hearts of all,](#the-commandments-because-they-were-delivered-by-moses-but-because-they-are-implanted-in-the-hearts-of-all)
+  - [the Decalogue itself opens: I am the Lord thy God; and elsewhere (we read): If I am a master, where is my fear?](#the-decalogue-itself-opens-i-am-the-lord-thy-god-and-elsewhere-we-read-if-i-am-a-master-where-is-my-fear)
+    - [The Commandments Were Proclaimed With Great Solemnity](#the-commandments-were-proclaimed-with-great-solemnity)
+    - [The Observance Of The Commandments Is Not Difficult](#the-observance-of-the-commandments-is-not-difficult)
+    - [The Observance Of The Commandments Is Necessary](#the-observance-of-the-commandments-is-necessary)
+    - [The Observance Of The Commandments Is Attended By Many Blessings](#the-observance-of-the-commandments-is-attended-by-many-blessings)
+    - [God's Goodness Invites Us To Keep His Commandments](#gods-goodness-invites-us-to-keep-his-commandments)
+    - [The Promulgation of the Law](#the-promulgation-of-the-law)
+    - [The People To Whom The Law Was Given](#the-people-to-whom-the-law-was-given)
+    - [Epitome Of Jewish History](#epitome-of-jewish-history)
+    - [Lessons To Be Drawn From Jewish History](#lessons-to-be-drawn-from-jewish-history)
+    - [The Time And Place In Which The Law Was Promulgated](#the-time-and-place-in-which-the-law-was-promulgated)
   - [THE FIRST](#the-first)
-  - [of the house of bondage. Thou shalt not have strange gods before me. Thou shalt not make to thyself](#of-the-house-of-bondage-thou-shalt-not-have-strange-gods-before-me-thou-shalt-not-make-to-thyself)
-  - [those things that are in the waters under the earth. Thou shalt not adore them, nor serve them. I am](#those-things-that-are-in-the-waters-under-the-earth-thou-shalt-not-adore-them-nor-serve-them-i-am)
-  - [the lord thy god, mighty, jealous, visiting the iniquity of the fathers upon the children, to the third and](#the-lord-thy-god-mighty-jealous-visiting-the-iniquity-of-the-fathers-upon-the-children-to-the-third-and)
-  - [fourth generation of them that hate me, and showing mercy unto thousands of them that love me, and keep my commandments." "I am the Lord thy God"](#fourth-generation-of-them-that-hate-me-and-showing-mercy-unto-thousands-of-them-that-love-me-and-keep-my-commandments-i-am-the-lord-thy-god)
-  - ["Who Brought thee out of the Land of Egypt, out of the House of Bondage"](#who-brought-thee-out-of-the-land-of-egypt-out-of-the-house-of-bondage)
-  - ["Thou shalt not have Strange Gods before Me"](#thou-shalt-not-have-strange-gods-before-me)
-  - [The Above Words Contain A Command And A Prohibition](#the-above-words-contain-a-command-and-a-prohibition)
-  - [What They Command](#what-they-command)
-  - [What They Forbid](#what-they-forbid)
-  - [Importance Of This Commandment](#importance-of-this-commandment)
-  - [Sins Against This Commandment](#sins-against-this-commandment)
-  - [Veneration And Invocation Of Angels And Saints Not Forbidden By This Commandment](#veneration-and-invocation-of-angels-and-saints-not-forbidden-by-this-commandment)
-  - [It Is Lawful To Honour And Invoke The Angels](#it-is-lawful-to-honour-and-invoke-the-angels)
-  - [It Is Lawful To Honour And Invoke The Saints](#it-is-lawful-to-honour-and-invoke-the-saints)
-  - [Objections Answered](#objections-answered)
-  - [servant?](#servant)
-  - [The Honour And Invocation Of Saints Is Approved By Miracles](#the-honour-and-invocation-of-saints-is-approved-by-miracles)
-  - [The Above Words Do Not Forbid All Images](#the-above-words-do-not-forbid-all-images)
-  - [They Forbid Idols And Representations Of The Deity](#they-forbid-idols-and-representations-of-the-deity)
-  - [They Do Not Forbid Representations Of The Divine Persons And Angels](#they-do-not-forbid-representations-of-the-divine-persons-and-angels)
-  - [They Do Not Forbid Images Of Christ And The Saints](#they-do-not-forbid-images-of-christ-and-the-saints)
-  - [Usefulness Of Sacred Images](#usefulness-of-sacred-images)
-  - [me, and keep my commandments."](#me-and-keep-my-commandments)
-  - [How The Sanction Contained In The Above Words Should Be Proposed](#how-the-sanction-contained-in-the-above-words-should-be-proposed)
-  - [Mighty](#mighty)
-  - [Jealous](#jealous)
-  - [Zeal In The Service Of God](#zeal-in-the-service-of-god)
-  - ["Visiting The Iniquity," Etc.](#visiting-the-iniquity-etc)
-  - ["And Showing Mercy, Etc.](#and-showing-mercy-etc)
-  - ["Of Them That Hate Me"](#of-them-that-hate-me)
-  - [Of Them That Love Me](#of-them-that-love-me)
+    - [of the house of bondage. Thou shalt not have strange gods before me. Thou shalt not make to thyself](#of-the-house-of-bondage-thou-shalt-not-have-strange-gods-before-me-thou-shalt-not-make-to-thyself)
+    - [those things that are in the waters under the earth. Thou shalt not adore them, nor serve them. I am](#those-things-that-are-in-the-waters-under-the-earth-thou-shalt-not-adore-them-nor-serve-them-i-am)
+    - [the lord thy god, mighty, jealous, visiting the iniquity of the fathers upon the children, to the third and](#the-lord-thy-god-mighty-jealous-visiting-the-iniquity-of-the-fathers-upon-the-children-to-the-third-and)
+    - [fourth generation of them that hate me, and showing mercy unto thousands of them that love me, and keep my commandments." "I am the Lord thy God"](#fourth-generation-of-them-that-hate-me-and-showing-mercy-unto-thousands-of-them-that-love-me-and-keep-my-commandments-i-am-the-lord-thy-god)
+    - ["Who Brought thee out of the Land of Egypt, out of the House of Bondage"](#who-brought-thee-out-of-the-land-of-egypt-out-of-the-house-of-bondage)
+    - ["Thou shalt not have Strange Gods before Me"](#thou-shalt-not-have-strange-gods-before-me)
+    - [The Above Words Contain A Command And A Prohibition](#the-above-words-contain-a-command-and-a-prohibition)
+    - [What They Command](#what-they-command)
+    - [What They Forbid](#what-they-forbid)
+    - [Importance Of This Commandment](#importance-of-this-commandment)
+    - [Sins Against This Commandment](#sins-against-this-commandment)
+    - [Veneration And Invocation Of Angels And Saints Not Forbidden By This Commandment](#veneration-and-invocation-of-angels-and-saints-not-forbidden-by-this-commandment)
+    - [It Is Lawful To Honour And Invoke The Angels](#it-is-lawful-to-honour-and-invoke-the-angels)
+    - [It Is Lawful To Honour And Invoke The Saints](#it-is-lawful-to-honour-and-invoke-the-saints)
+    - [Objections Answered](#objections-answered)
+    - [servant?](#servant)
+    - [The Honour And Invocation Of Saints Is Approved By Miracles](#the-honour-and-invocation-of-saints-is-approved-by-miracles)
+    - [The Above Words Do Not Forbid All Images](#the-above-words-do-not-forbid-all-images)
+    - [They Forbid Idols And Representations Of The Deity](#they-forbid-idols-and-representations-of-the-deity)
+    - [They Do Not Forbid Representations Of The Divine Persons And Angels](#they-do-not-forbid-representations-of-the-divine-persons-and-angels)
+    - [They Do Not Forbid Images Of Christ And The Saints](#they-do-not-forbid-images-of-christ-and-the-saints)
+    - [Usefulness Of Sacred Images](#usefulness-of-sacred-images)
+    - [me, and keep my commandments."](#me-and-keep-my-commandments)
+    - [How The Sanction Contained In The Above Words Should Be Proposed](#how-the-sanction-contained-in-the-above-words-should-be-proposed)
+    - [Mighty](#mighty)
+    - [Jealous](#jealous)
+    - [Zeal In The Service Of God](#zeal-in-the-service-of-god)
+    - ["Visiting The Iniquity," Etc.](#visiting-the-iniquity-etc)
+    - ["And Showing Mercy, Etc.](#and-showing-mercy-etc)
+    - ["Of Them That Hate Me"](#of-them-that-hate-me)
+    - [Of Them That Love Me](#of-them-that-love-me)
   - [THE SECOND](#the-second)
-  - [Why This Commandment Is Distinct From The First](#why-this-commandment-is-distinct-from-the-first)
-  - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
-  - [Positive Part of this Commandment](#positive-part-of-this-commandment)
-  - [Various Ways Of Honouring God's Name](#various-ways-of-honouring-gods-name)
-  - [Public Profession Of Faith](#public-profession-of-faith)
-  - [Respect For The Word Of God](#respect-for-the-word-of-god)
-  - [Praise And Thanksgiving](#praise-and-thanksgiving)
-  - [Prayer](#prayer)
-  - [Oaths](#oaths)
-  - [Meaning Of An Oath](#meaning-of-an-oath)
-  - [Oaths Are Affirmatory And Promissory](#oaths-are-affirmatory-and-promissory)
-  - [Conditions Of A Lawful Oath](#conditions-of-a-lawful-oath)
-  - [First Condition: Truth](#first-condition-truth)
-  - [Second Condition: Judgment](#second-condition-judgment)
-  - [Third Condition: Justice](#third-condition-justice)
-  - [Lawfulness Of Oaths](#lawfulness-of-oaths)
-  - [An Objection Against Oaths](#an-objection-against-oaths)
-  - [Negative Part of this Commandment](#negative-part-of-this-commandment)
-  - [Various Ways In Which Cod's Name Is Dishonoured: False Oaths](#various-ways-in-which-cods-name-is-dishonoured-false-oaths)
-  - [Unjust Oaths](#unjust-oaths)
-  - [Rash Oaths](#rash-oaths)
-  - [Oaths By False Gods](#oaths-by-false-gods)
-  - [Irreverent Speech](#irreverent-speech)
-  - [Neglect Of Prayer](#neglect-of-prayer)
-  - [Blasphemy](#blasphemy)
-  - [Sanction of this Commandment](#sanction-of-this-commandment)
-  - [nor thy beast, nor the stranger that is within thy gates. For in six days the lord made heaven and](#nor-thy-beast-nor-the-stranger-that-is-within-thy-gates-for-in-six-days-the-lord-made-heaven-and)
-  - [earth, and the sea, and all things that are in them, and rested on the seventh day; wherefore the lord blessed the seventh day and sanctified it." Reasons For This Commandment](#earth-and-the-sea-and-all-things-that-are-in-them-and-rested-on-the-seventh-day-wherefore-the-lord-blessed-the-seventh-day-and-sanctified-it-reasons-for-this-commandment)
-  - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
-  - [How The Third Differs From The Other Commandments](#how-the-third-differs-from-the-other-commandments)
-  - [How The Third Is Like The Other Commandments](#how-the-third-is-like-the-other-commandments)
-  - [The Jewish Sabbath Changed To Sunday By The Apostles](#the-jewish-sabbath-changed-to-sunday-by-the-apostles)
-  - [Four Parts Of This Commandment](#four-parts-of-this-commandment)
-  - [First Part of this Commandment](#first-part-of-this-commandment)
-  - ["Remember"](#remember)
-  - [Sabbath](#sabbath)
-  - ["Keep Holy"](#keep-holy)
-  - [Second Part of this Commandment](#second-part-of-this-commandment)
-  - ["The Seventh Day Is The Sabbath Of The Lord Thy God"](#the-seventh-day-is-the-sabbath-of-the-lord-thy-god)
-  - [Other Festivals Observed By The Jews](#other-festivals-observed-by-the-jews)
-  - [The Sabbath, Why Changed To Sunday](#the-sabbath-why-changed-to-sunday)
-  - [Other Festivals Observed By The Church](#other-festivals-observed-by-the-church)
-  - ["Six Days Shalt Thou Labour And Do All Thy Work"](#six-days-shalt-thou-labour-and-do-all-thy-work)
-  - [Third Part of this Commandment](#third-part-of-this-commandment)
-  - [Works Forbidden](#works-forbidden)
-  - [Works Permitted](#works-permitted)
-  - [Why Animals Are Not To Be Employed On The Sabbath](#why-animals-are-not-to-be-employed-on-the-sabbath)
-  - [Works Commanded Or Recommended](#works-commanded-or-recommended)
-  - [Motives for the Observance of this Commandment](#motives-for-the-observance-of-this-commandment)
-  - [Reasonableness Of This Duty](#reasonableness-of-this-duty)
-  - [The Observance Of This Commandment Brings Many Blessings](#the-observance-of-this-commandment-brings-many-blessings)
-  - [Neglect Of This Commandment A Great Crime](#neglect-of-this-commandment-a-great-crime)
+    - [Why This Commandment Is Distinct From The First](#why-this-commandment-is-distinct-from-the-first)
+    - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
+    - [Positive Part of this Commandment](#positive-part-of-this-commandment)
+    - [Various Ways Of Honouring God's Name](#various-ways-of-honouring-gods-name)
+    - [Public Profession Of Faith](#public-profession-of-faith)
+    - [Respect For The Word Of God](#respect-for-the-word-of-god)
+    - [Praise And Thanksgiving](#praise-and-thanksgiving)
+    - [Prayer](#prayer)
+    - [Oaths](#oaths)
+    - [Meaning Of An Oath](#meaning-of-an-oath)
+    - [Oaths Are Affirmatory And Promissory](#oaths-are-affirmatory-and-promissory)
+    - [Conditions Of A Lawful Oath](#conditions-of-a-lawful-oath)
+    - [First Condition: Truth](#first-condition-truth)
+    - [Second Condition: Judgment](#second-condition-judgment)
+    - [Third Condition: Justice](#third-condition-justice)
+    - [Lawfulness Of Oaths](#lawfulness-of-oaths)
+    - [An Objection Against Oaths](#an-objection-against-oaths)
+    - [Negative Part of this Commandment](#negative-part-of-this-commandment)
+    - [Various Ways In Which Cod's Name Is Dishonoured: False Oaths](#various-ways-in-which-cods-name-is-dishonoured-false-oaths)
+    - [Unjust Oaths](#unjust-oaths)
+    - [Rash Oaths](#rash-oaths)
+    - [Oaths By False Gods](#oaths-by-false-gods)
+    - [Irreverent Speech](#irreverent-speech)
+    - [Neglect Of Prayer](#neglect-of-prayer)
+    - [Blasphemy](#blasphemy)
+    - [Sanction of this Commandment](#sanction-of-this-commandment)
+    - [nor thy beast, nor the stranger that is within thy gates. For in six days the lord made heaven and](#nor-thy-beast-nor-the-stranger-that-is-within-thy-gates-for-in-six-days-the-lord-made-heaven-and)
+    - [earth, and the sea, and all things that are in them, and rested on the seventh day; wherefore the lord blessed the seventh day and sanctified it." Reasons For This Commandment](#earth-and-the-sea-and-all-things-that-are-in-them-and-rested-on-the-seventh-day-wherefore-the-lord-blessed-the-seventh-day-and-sanctified-it-reasons-for-this-commandment)
+    - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
+    - [How The Third Differs From The Other Commandments](#how-the-third-differs-from-the-other-commandments)
+    - [How The Third Is Like The Other Commandments](#how-the-third-is-like-the-other-commandments)
+    - [The Jewish Sabbath Changed To Sunday By The Apostles](#the-jewish-sabbath-changed-to-sunday-by-the-apostles)
+    - [Four Parts Of This Commandment](#four-parts-of-this-commandment)
+    - [First Part of this Commandment](#first-part-of-this-commandment)
+    - ["Remember"](#remember)
+    - [Sabbath](#sabbath)
+    - ["Keep Holy"](#keep-holy)
+    - [Second Part of this Commandment](#second-part-of-this-commandment)
+    - ["The Seventh Day Is The Sabbath Of The Lord Thy God"](#the-seventh-day-is-the-sabbath-of-the-lord-thy-god)
+    - [Other Festivals Observed By The Jews](#other-festivals-observed-by-the-jews)
+    - [The Sabbath, Why Changed To Sunday](#the-sabbath-why-changed-to-sunday)
+    - [Other Festivals Observed By The Church](#other-festivals-observed-by-the-church)
+    - ["Six Days Shalt Thou Labour And Do All Thy Work"](#six-days-shalt-thou-labour-and-do-all-thy-work)
+    - [Third Part of this Commandment](#third-part-of-this-commandment)
+    - [Works Forbidden](#works-forbidden)
+    - [Works Permitted](#works-permitted)
+    - [Why Animals Are Not To Be Employed On The Sabbath](#why-animals-are-not-to-be-employed-on-the-sabbath)
+    - [Works Commanded Or Recommended](#works-commanded-or-recommended)
+    - [Motives for the Observance of this Commandment](#motives-for-the-observance-of-this-commandment)
+    - [Reasonableness Of This Duty](#reasonableness-of-this-duty)
+    - [The Observance Of This Commandment Brings Many Blessings](#the-observance-of-this-commandment-brings-many-blessings)
+    - [Neglect Of This Commandment A Great Crime](#neglect-of-this-commandment-a-great-crime)
   - [THE FOURTH](#the-fourth)
-  - [upon the land which the lord thy god will give thee."](#upon-the-land-which-the-lord-thy-god-will-give-thee)
-  - [Relative Importance Of The Preceding And The Following Commandments](#relative-importance-of-the-preceding-and-the-following-commandments)
-  - [Importance Of Instruction On The Fourth Commandment](#importance-of-instruction-on-the-fourth-commandment)
-  - [Commandments.](#commandments)
-  - [The Two Tables Of The Law](#the-two-tables-of-the-law)
-  - [Explanation of the Fourth Commandment: "Honour"](#explanation-of-the-fourth-commandment-honour)
-  - ["Thy Father"](#thy-father)
-  - [Why Parents Should Be Honoured](#why-parents-should-be-honoured)
-  - ["And Thy Mother"](#and-thy-mother)
-  - [Manner Of Honouring Parents](#manner-of-honouring-parents)
-  - [Manner Of Honouring Other Superiors](#manner-of-honouring-other-superiors)
-  - [The Honour Due To Bishops And Priests](#the-honour-due-to-bishops-and-priests)
-  - [The Honour Due To Civil Rulers](#the-honour-due-to-civil-rulers)
-  - ['That Thou Mayest be Long-lived," etc.](#that-thou-mayest-be-long-lived-etc)
-  - [Reward Promised For Observance Of This Commandment](#reward-promised-for-observance-of-this-commandment)
-  - [Why This Reward Is Not Always Conferred On Dutiful Children](#why-this-reward-is-not-always-conferred-on-dutiful-children)
-  - [Punishment For Violation Of This Commandment](#punishment-for-violation-of-this-commandment)
-  - [Duties of Parents Towards their Children](#duties-of-parents-towards-their-children)
-  - [Three Things To Be Avoided By Parents](#three-things-to-be-avoided-by-parents)
+    - [upon the land which the lord thy god will give thee."](#upon-the-land-which-the-lord-thy-god-will-give-thee)
+    - [Relative Importance Of The Preceding And The Following Commandments](#relative-importance-of-the-preceding-and-the-following-commandments)
+    - [Importance Of Instruction On The Fourth Commandment](#importance-of-instruction-on-the-fourth-commandment)
+    - [Commandments.](#commandments)
+    - [The Two Tables Of The Law](#the-two-tables-of-the-law)
+    - [Explanation of the Fourth Commandment: "Honour"](#explanation-of-the-fourth-commandment-honour)
+    - ["Thy Father"](#thy-father)
+  - [the Commandment, as we can easily gather from numerous passages of Scripture. Besides our natural fathers,](#the-commandment-as-we-can-easily-gather-from-numerous-passages-of-scripture-besides-our-natural-fathers)
+    - [Why Parents Should Be Honoured](#why-parents-should-be-honoured)
+    - ["And Thy Mother"](#and-thy-mother)
+    - [Manner Of Honouring Parents](#manner-of-honouring-parents)
+    - [Manner Of Honouring Other Superiors](#manner-of-honouring-other-superiors)
+    - [The Honour Due To Bishops And Priests](#the-honour-due-to-bishops-and-priests)
+    - [The Honour Due To Civil Rulers](#the-honour-due-to-civil-rulers)
+    - ['That Thou Mayest be Long-lived," etc.](#that-thou-mayest-be-long-lived-etc)
+    - [Reward Promised For Observance Of This Commandment](#reward-promised-for-observance-of-this-commandment)
+    - [Why This Reward Is Not Always Conferred On Dutiful Children](#why-this-reward-is-not-always-conferred-on-dutiful-children)
+    - [Punishment For Violation Of This Commandment](#punishment-for-violation-of-this-commandment)
+    - [Duties of Parents Towards their Children](#duties-of-parents-towards-their-children)
+    - [Three Things To Be Avoided By Parents](#three-things-to-be-avoided-by-parents)
   - [THE FIFTH](#the-fifth)
-  - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
-  - [Two Parts Of This Commandment](#two-parts-of-this-commandment)
-  - [The Prohibitory Part of this Commandment Exceptions: The Killing Of Animals](#the-prohibitory-part-of-this-commandment-exceptions-the-killing-of-animals)
-  - [Execution Of Criminals](#execution-of-criminals)
-  - [Killing In A Just War](#killing-in-a-just-war)
-  - [Killing By Accident](#killing-by-accident)
-  - [Killing In Self-Defence](#killing-in-self-defence)
-  - [Negative Part Of This Commandment Forbids Murder And Suicide](#negative-part-of-this-commandment-forbids-murder-and-suicide)
-  - [Sinful Anger Is Also Forbidden By The Fifth Commandment](#sinful-anger-is-also-forbidden-by-the-fifth-commandment)
-  - [Remedies Against The Violation Of This Commandment](#remedies-against-the-violation-of-this-commandment)
-  - [Positive Part of this commandment Love Of Neighbour Inculcated](#positive-part-of-this-commandment-love-of-neighbour-inculcated)
-  - [Charity To All Commanded](#charity-to-all-commanded)
-  - [Patience, Beneficence And Mildness Commanded](#patience-beneficence-and-mildness-commanded)
-  - [Forgiveness Of Injuries Commanded](#forgiveness-of-injuries-commanded)
-  - [How to Persuade Men to Forgive Injuries](#how-to-persuade-men-to-forgive-injuries)
-  - [All We Have To Endure Comes From God](#all-we-have-to-endure-comes-from-god)
-  - [Advantages Of Forgiveness](#advantages-of-forgiveness)
-  - [Disadvantages Of Revenge](#disadvantages-of-revenge)
-  - [Remedies Against Hatred](#remedies-against-hatred)
+    - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
+    - [Two Parts Of This Commandment](#two-parts-of-this-commandment)
+    - [The Prohibitory Part of this Commandment Exceptions: The Killing Of Animals](#the-prohibitory-part-of-this-commandment-exceptions-the-killing-of-animals)
+    - [Execution Of Criminals](#execution-of-criminals)
+    - [Killing In A Just War](#killing-in-a-just-war)
+    - [Killing By Accident](#killing-by-accident)
+    - [Killing In Self-Defence](#killing-in-self-defence)
+    - [Negative Part Of This Commandment Forbids Murder And Suicide](#negative-part-of-this-commandment-forbids-murder-and-suicide)
+    - [Sinful Anger Is Also Forbidden By The Fifth Commandment](#sinful-anger-is-also-forbidden-by-the-fifth-commandment)
+    - [Remedies Against The Violation Of This Commandment](#remedies-against-the-violation-of-this-commandment)
+    - [Positive Part of this commandment Love Of Neighbour Inculcated](#positive-part-of-this-commandment-love-of-neighbour-inculcated)
+    - [Charity To All Commanded](#charity-to-all-commanded)
+    - [Patience, Beneficence And Mildness Commanded](#patience-beneficence-and-mildness-commanded)
+    - [Forgiveness Of Injuries Commanded](#forgiveness-of-injuries-commanded)
+    - [How to Persuade Men to Forgive Injuries](#how-to-persuade-men-to-forgive-injuries)
+    - [All We Have To Endure Comes From God](#all-we-have-to-endure-comes-from-god)
+    - [Advantages Of Forgiveness](#advantages-of-forgiveness)
+    - [Disadvantages Of Revenge](#disadvantages-of-revenge)
+    - [Remedies Against Hatred](#remedies-against-hatred)
   - [THE SIXTH](#the-sixth)
-  - [The Position Of This Commandment In The Decalogue Is Most Suitable](#the-position-of-this-commandment-in-the-decalogue-is-most-suitable)
-  - [Importance Of Careful Instruction On This Commandment](#importance-of-careful-instruction-on-this-commandment)
-  - [Two Parts Of This Commandment](#two-parts-of-this-commandment)
-  - [What this Commandment Prohibits Adultery Forbidden](#what-this-commandment-prohibits-adultery-forbidden)
-  - [Other Sins Against Chastity Are Forbidden](#other-sins-against-chastity-are-forbidden)
-  - [Why Adultery Is Expressly Mentioned](#why-adultery-is-expressly-mentioned)
-  - [Purity Enjoined](#purity-enjoined)
-  - [Reflections which Help one to Practice Purity](#reflections-which-help-one-to-practice-purity)
-  - [Impurity Excludes From Heaven](#impurity-excludes-from-heaven)
-  - [Impurity Is A Filthy Sin](#impurity-is-a-filthy-sin)
-  - [Adultery Is A Grave Injustice](#adultery-is-a-grave-injustice)
-  - [Adultery Is Disgraceful](#adultery-is-disgraceful)
-  - [Impurity Severely Punished](#impurity-severely-punished)
-  - [Impurity Blinds The Mind And Hardens The Heart](#impurity-blinds-the-mind-and-hardens-the-heart)
-  - [Means of practicing purity Avoidance Of Idleness](#means-of-practicing-purity-avoidance-of-idleness)
-  - [Temperance](#temperance)
-  - [Custody Of The Eyes](#custody-of-the-eyes)
-  - [Avoidance Of Immodest Dress](#avoidance-of-immodest-dress)
-  - [Avoidance Of Impure Conversation, Reading, Pictures](#avoidance-of-impure-conversation-reading-pictures)
-  - [Frequentation Of The Sacraments](#frequentation-of-the-sacraments)
-  - [Mortification](#mortification)
+    - [The Position Of This Commandment In The Decalogue Is Most Suitable](#the-position-of-this-commandment-in-the-decalogue-is-most-suitable)
+    - [Importance Of Careful Instruction On This Commandment](#importance-of-careful-instruction-on-this-commandment)
+    - [Two Parts Of This Commandment](#two-parts-of-this-commandment)
+    - [What this Commandment Prohibits Adultery Forbidden](#what-this-commandment-prohibits-adultery-forbidden)
+    - [Other Sins Against Chastity Are Forbidden](#other-sins-against-chastity-are-forbidden)
+    - [Why Adultery Is Expressly Mentioned](#why-adultery-is-expressly-mentioned)
+    - [Purity Enjoined](#purity-enjoined)
+    - [Reflections which Help one to Practice Purity](#reflections-which-help-one-to-practice-purity)
+    - [Impurity Excludes From Heaven](#impurity-excludes-from-heaven)
+    - [Impurity Is A Filthy Sin](#impurity-is-a-filthy-sin)
+    - [Adultery Is A Grave Injustice](#adultery-is-a-grave-injustice)
+    - [Adultery Is Disgraceful](#adultery-is-disgraceful)
+    - [Impurity Severely Punished](#impurity-severely-punished)
+    - [Impurity Blinds The Mind And Hardens The Heart](#impurity-blinds-the-mind-and-hardens-the-heart)
+    - [Means of practicing purity Avoidance Of Idleness](#means-of-practicing-purity-avoidance-of-idleness)
+    - [Temperance](#temperance)
+    - [Custody Of The Eyes](#custody-of-the-eyes)
+    - [Avoidance Of Immodest Dress](#avoidance-of-immodest-dress)
+    - [Avoidance Of Impure Conversation, Reading, Pictures](#avoidance-of-impure-conversation-reading-pictures)
+    - [Frequentation Of The Sacraments](#frequentation-of-the-sacraments)
+    - [Mortification](#mortification)
   - [THE SEVENTH](#the-seventh)
-  - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
-  - [Commandment.](#commandment)
-  - [This Commandment A Proof Of The Love Of God Towards Us And A Claim On Our Gratitude](#this-commandment-a-proof-of-the-love-of-god-towards-us-and-a-claim-on-our-gratitude)
-  - [Two Parts Of This Commandment](#two-parts-of-this-commandment)
-  - [Negative Part of this Commandment Stealing Forbidden](#negative-part-of-this-commandment-stealing-forbidden)
-  - [Theft And Robbery Forbidden](#theft-and-robbery-forbidden)
-  - [Various Names Given To Stealing](#various-names-given-to-stealing)
-  - [Desire Of Stealing Forbidden](#desire-of-stealing-forbidden)
-  - [Gravity Of The Sin Of Stealing](#gravity-of-the-sin-of-stealing)
-  - [The Chief Kinds Of Stealing](#the-chief-kinds-of-stealing)
-  - [Various Forms Of Theft](#various-forms-of-theft)
-  - [Various Forms Of Robbery](#various-forms-of-robbery)
-  - [Positive Part of this Commandment Restitution Enjoined](#positive-part-of-this-commandment-restitution-enjoined)
-  - [Who Are Held To Restitution](#who-are-held-to-restitution)
-  - [Almsdeeds Enjoined](#almsdeeds-enjoined)
-  - [Inducements To Practice Almsgiving](#inducements-to-practice-almsgiving)
-  - [Ways Of Giving Alms](#ways-of-giving-alms)
-  - [Frugality Is Enjoined](#frugality-is-enjoined)
-  - [Sanction Of This Commandment The Punishment Of Its Violation](#sanction-of-this-commandment-the-punishment-of-its-violation)
-  - [The Reward Of Observing This Commandment](#the-reward-of-observing-this-commandment)
-  - [Excuses for Stealing Refuted](#excuses-for-stealing-refuted)
-  - [The Plea Of Rank And Position](#the-plea-of-rank-and-position)
-  - [The Plea Of Greater Ease And Elegance](#the-plea-of-greater-ease-and-elegance)
-  - [The Plea Of The Other's Wealth](#the-plea-of-the-others-wealth)
-  - [The Plea Of Force Of Habit](#the-plea-of-force-of-habit)
-  - [The Plea Of Favourable Opportunity](#the-plea-of-favourable-opportunity)
-  - [The Plea Of Revenge](#the-plea-of-revenge)
-  - [The Plea Of Financial Embarrassment](#the-plea-of-financial-embarrassment)
+    - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
+    - [Commandment.](#commandment)
+    - [This Commandment A Proof Of The Love Of God Towards Us And A Claim On Our Gratitude](#this-commandment-a-proof-of-the-love-of-god-towards-us-and-a-claim-on-our-gratitude)
+    - [Two Parts Of This Commandment](#two-parts-of-this-commandment)
+    - [Negative Part of this Commandment Stealing Forbidden](#negative-part-of-this-commandment-stealing-forbidden)
+    - [Theft And Robbery Forbidden](#theft-and-robbery-forbidden)
+    - [Various Names Given To Stealing](#various-names-given-to-stealing)
+    - [Desire Of Stealing Forbidden](#desire-of-stealing-forbidden)
+    - [Gravity Of The Sin Of Stealing](#gravity-of-the-sin-of-stealing)
+    - [The Chief Kinds Of Stealing](#the-chief-kinds-of-stealing)
+    - [Various Forms Of Theft](#various-forms-of-theft)
+    - [Various Forms Of Robbery](#various-forms-of-robbery)
+    - [Positive Part of this Commandment Restitution Enjoined](#positive-part-of-this-commandment-restitution-enjoined)
+    - [Who Are Held To Restitution](#who-are-held-to-restitution)
+    - [Almsdeeds Enjoined](#almsdeeds-enjoined)
+    - [Inducements To Practice Almsgiving](#inducements-to-practice-almsgiving)
+    - [Ways Of Giving Alms](#ways-of-giving-alms)
+    - [Frugality Is Enjoined](#frugality-is-enjoined)
+    - [Sanction Of This Commandment The Punishment Of Its Violation](#sanction-of-this-commandment-the-punishment-of-its-violation)
+    - [The Reward Of Observing This Commandment](#the-reward-of-observing-this-commandment)
+    - [Excuses for Stealing Refuted](#excuses-for-stealing-refuted)
+    - [The Plea Of Rank And Position](#the-plea-of-rank-and-position)
+    - [The Plea Of Greater Ease And Elegance](#the-plea-of-greater-ease-and-elegance)
+    - [The Plea Of The Other's Wealth](#the-plea-of-the-others-wealth)
+    - [The Plea Of Force Of Habit](#the-plea-of-force-of-habit)
+    - [The Plea Of Favourable Opportunity](#the-plea-of-favourable-opportunity)
+    - [The Plea Of Revenge](#the-plea-of-revenge)
+    - [The Plea Of Financial Embarrassment](#the-plea-of-financial-embarrassment)
   - [THE EIGHTH](#the-eighth)
-  - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
-  - [This Commandment Should Call Forth Our Gratitude](#this-commandment-should-call-forth-our-gratitude)
-  - [Two Parts Of This Commandment](#two-parts-of-this-commandment)
-  - [Negative Part Of This Commandment](#negative-part-of-this-commandment)
-  - ["Against Thy Neighbour"](#against-thy-neighbour)
-  - [False Testimony In Favour Of A Neighbour Is Also Forbidden](#false-testimony-in-favour-of-a-neighbour-is-also-forbidden)
-  - ["Thou Shalt Not Bear False Witness" All Falsehoods In Lawsuits Are Forbidden](#thou-shalt-not-bear-false-witness-all-falsehoods-in-lawsuits-are-forbidden)
+    - [Importance Of Instruction On This Commandment](#importance-of-instruction-on-this-commandment)
+    - [This Commandment Should Call Forth Our Gratitude](#this-commandment-should-call-forth-our-gratitude)
+    - [Two Parts Of This Commandment](#two-parts-of-this-commandment)
+    - [Negative Part Of This Commandment](#negative-part-of-this-commandment)
+    - ["Against Thy Neighbour"](#against-thy-neighbour)
+    - [False Testimony In Favour Of A Neighbour Is Also Forbidden](#false-testimony-in-favour-of-a-neighbour-is-also-forbidden)
+    - ["Thou Shalt Not Bear False Witness" All Falsehoods In Lawsuits Are Forbidden](#thou-shalt-not-bear-false-witness-all-falsehoods-in-lawsuits-are-forbidden)
   - [False Testimony Out Of Court Is Forbidden](#false-testimony-out-of-court-is-forbidden)
-  - [This Commandment Forbids Detraction](#this-commandment-forbids-detraction)
-  - [Various Kinds Of Detraction](#various-kinds-of-detraction)
-  - [This Commandment Forbids Flattery](#this-commandment-forbids-flattery)
-  - [This Commandment Forbids Lies Of All Kinds](#this-commandment-forbids-lies-of-all-kinds)
-  - [This Commandment Forbids Hypocrisy](#this-commandment-forbids-hypocrisy)
-  - [Commandment. Positive Part of this Commandment](#commandment-positive-part-of-this-commandment)
-  - [Judges Must Pass Sentence According To Law And Justice](#judges-must-pass-sentence-according-to-law-and-justice)
-  - [Witnesses Must Give Testimony Truthfully](#witnesses-must-give-testimony-truthfully)
-  - [Lawyers And Plaintiffs Must Be Guided By Love Of Justice](#lawyers-and-plaintiffs-must-be-guided-by-love-of-justice)
-  - [All Must Speak Truthfully And With Charity](#all-must-speak-truthfully-and-with-charity)
-  - [Inducements To Truthfulness](#inducements-to-truthfulness)
-  - [How To Avoid Lying](#how-to-avoid-lying)
-  - [Excuses for Lying Refuted The Plea Of Prudence](#excuses-for-lying-refuted-the-plea-of-prudence)
-  - [The Plea Of Revenge](#the-plea-of-revenge)
-  - [The Pleas Of Frailty, Habit, And Bad. Example](#the-pleas-of-frailty-habit-and-bad-example)
-  - [The Pleas Of Convenience, Amusement, And Advantage](#the-pleas-of-convenience-amusement-and-advantage)
+    - [This Commandment Forbids Detraction](#this-commandment-forbids-detraction)
+    - [Various Kinds Of Detraction](#various-kinds-of-detraction)
+    - [This Commandment Forbids Flattery](#this-commandment-forbids-flattery)
+    - [This Commandment Forbids Lies Of All Kinds](#this-commandment-forbids-lies-of-all-kinds)
+    - [This Commandment Forbids Hypocrisy](#this-commandment-forbids-hypocrisy)
+    - [Commandment. Positive Part of this Commandment](#commandment-positive-part-of-this-commandment)
+    - [Judges Must Pass Sentence According To Law And Justice](#judges-must-pass-sentence-according-to-law-and-justice)
+    - [Witnesses Must Give Testimony Truthfully](#witnesses-must-give-testimony-truthfully)
+    - [Lawyers And Plaintiffs Must Be Guided By Love Of Justice](#lawyers-and-plaintiffs-must-be-guided-by-love-of-justice)
+    - [All Must Speak Truthfully And With Charity](#all-must-speak-truthfully-and-with-charity)
+    - [Inducements To Truthfulness](#inducements-to-truthfulness)
+    - [How To Avoid Lying](#how-to-avoid-lying)
+    - [Excuses for Lying Refuted The Plea Of Prudence](#excuses-for-lying-refuted-the-plea-of-prudence)
+    - [The Plea Of Revenge](#the-plea-of-revenge)
+    - [The Pleas Of Frailty, Habit, And Bad. Example](#the-pleas-of-frailty-habit-and-bad-example)
+    - [The Pleas Of Convenience, Amusement, And Advantage](#the-pleas-of-convenience-amusement-and-advantage)
   - [THE NINTH AND TENTH](#the-ninth-and-tenth)
-  - [is his." Importance Of Instruction On These Two Commandments](#is-his-importance-of-instruction-on-these-two-commandments)
-  - [Why These Two Commandments Are Explained Here Together](#why-these-two-commandments-are-explained-here-together)
-  - [Necessity Of Promulgating These Two Commandments](#necessity-of-promulgating-these-two-commandments)
-  - [These Two Commandments Teach God's Love For Us And Our Need Of Him](#these-two-commandments-teach-gods-love-for-us-and-our-need-of-him)
-  - [Two Parts Of These Commandments](#two-parts-of-these-commandments)
-  - [Negative Part "Thou Shalt Not Covet"](#negative-part-thou-shalt-not-covet)
-  - [What Sort Of Concupiscence Is Not Forbidden](#what-sort-of-concupiscence-is-not-forbidden)
-  - [What Sort Of Concupiscence Is Here Prohibited](#what-sort-of-concupiscence-is-here-prohibited)
-  - [Two Kinds Of Sinful Concupiscence](#two-kinds-of-sinful-concupiscence)
-  - [The Various Objects We Are Forbidden To Covet](#the-various-objects-we-are-forbidden-to-covet)
-  - [Thy Neighbour’s House](#thy-neighbours-house)
-  - ["Nor His Ox, Nor His Ass'](#nor-his-ox-nor-his-ass)
-  - ["Nor His Servant](#nor-his-servant)
-  - ["Thy Neighbour's"](#thy-neighbours)
-  - [Goods For Sale Not Included Under This Prohibition](#goods-for-sale-not-included-under-this-prohibition)
-  - ["His Wife"](#his-wife)
-  - [Positive Part Detachment From Riches Enjoined](#positive-part-detachment-from-riches-enjoined)
-  - [The Desire Of Heavenly And Spiritual Things Enjoined](#the-desire-of-heavenly-and-spiritual-things-enjoined)
-  - [Thoughts which Help one to Keep these Commandments](#thoughts-which-help-one-to-keep-these-commandments)
-  - [Chief Ways in which These two Commandments are Violated](#chief-ways-in-which-these-two-commandments-are-violated)
+    - [is his." Importance Of Instruction On These Two Commandments](#is-his-importance-of-instruction-on-these-two-commandments)
+    - [Why These Two Commandments Are Explained Here Together](#why-these-two-commandments-are-explained-here-together)
+    - [Necessity Of Promulgating These Two Commandments](#necessity-of-promulgating-these-two-commandments)
+    - [These Two Commandments Teach God's Love For Us And Our Need Of Him](#these-two-commandments-teach-gods-love-for-us-and-our-need-of-him)
+    - [Two Parts Of These Commandments](#two-parts-of-these-commandments)
+    - [Negative Part "Thou Shalt Not Covet"](#negative-part-thou-shalt-not-covet)
+    - [What Sort Of Concupiscence Is Not Forbidden](#what-sort-of-concupiscence-is-not-forbidden)
+  - [prayer would be far less frequent in the Church of God. It also makes us esteem the gifts of God more highly;](#prayer-would-be-far-less-frequent-in-the-church-of-god-it-also-makes-us-esteem-the-gifts-of-god-more-highly)
+    - [What Sort Of Concupiscence Is Here Prohibited](#what-sort-of-concupiscence-is-here-prohibited)
+    - [Two Kinds Of Sinful Concupiscence](#two-kinds-of-sinful-concupiscence)
+    - [The Various Objects We Are Forbidden To Covet](#the-various-objects-we-are-forbidden-to-covet)
+    - [Thy Neighbour’s House](#thy-neighbours-house)
+    - ["Nor His Ox, Nor His Ass'](#nor-his-ox-nor-his-ass)
+    - ["Nor His Servant](#nor-his-servant)
+    - ["Thy Neighbour's"](#thy-neighbours)
+    - [Goods For Sale Not Included Under This Prohibition](#goods-for-sale-not-included-under-this-prohibition)
+    - ["His Wife"](#his-wife)
+  - [The Commandment which forbids us to covet the goods of our neighbour, is followed by another, which forbids](#the-commandment-which-forbids-us-to-covet-the-goods-of-our-neighbour-is-followed-by-another-which-forbids)
+    - [Positive Part Detachment From Riches Enjoined](#positive-part-detachment-from-riches-enjoined)
+    - [The Desire Of Heavenly And Spiritual Things Enjoined](#the-desire-of-heavenly-and-spiritual-things-enjoined)
+    - [Thoughts which Help one to Keep these Commandments](#thoughts-which-help-one-to-keep-these-commandments)
+    - [Chief Ways in which These two Commandments are Violated](#chief-ways-in-which-these-two-commandments-are-violated)
 - [PART IV :](#part-iv)
   - [THE LORD'S PRAYER](#the-lords-prayer)
-  - [PRAYER Importance Of Instruction On Prayer](#prayer-importance-of-instruction-on-prayer)
-  - [Necessity of Prayer](#necessity-of-prayer)
-  - [The Fruits of Prayer](#the-fruits-of-prayer)
-  - [Prayer Honours God](#prayer-honours-god)
-  - [Prayer Obtains What We Request](#prayer-obtains-what-we-request)
-  - [Proof](#proof)
-  - [Unwise And Indevout Prayers Unheard](#unwise-and-indevout-prayers-unheard)
-  - [To Devout Prayer And Dispositions God Grants More Than Is Asked](#to-devout-prayer-and-dispositions-god-grants-more-than-is-asked)
-  - [Prayer Exercises And Increases Faith](#prayer-exercises-and-increases-faith)
-  - [Prayer Strengthens Our Hope In God](#prayer-strengthens-our-hope-in-god)
-  - [Prayer Increases Charity](#prayer-increases-charity)
-  - [Prayer Disposes The Soul For Divine Blessings](#prayer-disposes-the-soul-for-divine-blessings)
-  - [Prayer Makes Us Realise Our Own Needfulness](#prayer-makes-us-realise-our-own-needfulness)
-  - [Prayer Is A Protection Against The Devil](#prayer-is-a-protection-against-the-devil)
-  - [Prayer Promotes A Virtuous Life](#prayer-promotes-a-virtuous-life)
-  - [Prayer Disarms The Divine Vengeance](#prayer-disarms-the-divine-vengeance)
-  - [The Parts Of Prayer](#the-parts-of-prayer)
-  - [The Two Chief Parts Of Prayer Petition And Thanksgiving](#the-two-chief-parts-of-prayer-petition-and-thanksgiving)
-  - [Degrees Of Petition And Thanksgiving](#degrees-of-petition-and-thanksgiving)
-  - [The Highest Degree Of Prayer: The Prayer Of The Just](#the-highest-degree-of-prayer-the-prayer-of-the-just)
-  - [The Second Degree Of Prayer: The Prayer Of Sinners](#the-second-degree-of-prayer-the-prayer-of-sinners)
-  - [The Third Degree Of Prayer: The Prayer Of Unbelievers](#the-third-degree-of-prayer-the-prayer-of-unbelievers)
-  - [The Lowest Degree Of Prayer: The Prayer Of The Impenitent](#the-lowest-degree-of-prayer-the-prayer-of-the-impenitent)
-  - [What We Should Pray For](#what-we-should-pray-for)
-  - [all things. Spiritual Goods](#all-things-spiritual-goods)
-  - [External Goods And Goods Of Body](#external-goods-and-goods-of-body)
-  - [Goods Of The Mind](#goods-of-the-mind)
-  - [For Whom We Ought to Pray](#for-whom-we-ought-to-pray)
-  - [The Prayer Of Petition Should Be Offered For All](#the-prayer-of-petition-should-be-offered-for-all)
-  - [Those For Whom We Should Especially Offer Our Petitions: Pastors](#those-for-whom-we-should-especially-offer-our-petitions-pastors)
-  - [Rulers Of Our Country](#rulers-of-our-country)
-  - [The Just](#the-just)
-  - [Enemies And Those Outside The Church](#enemies-and-those-outside-the-church)
-  - [The Dead](#the-dead)
-  - [Sinners](#sinners)
-  - [The Prayer Of Thanksgiving Should Be Offered For All](#the-prayer-of-thanksgiving-should-be-offered-for-all)
-  - [Our Thanksgiving Should Especially Be Offered: For The Saints](#our-thanksgiving-should-especially-be-offered-for-the-saints)
-  - [For The Blessed Virgin Mary](#for-the-blessed-virgin-mary)
-  - [To God](#to-god)
-  - [To The Saints](#to-the-saints)
-  - [God And The Saints Addressed Differently](#god-and-the-saints-addressed-differently)
-  - [Preparation for Prayer](#preparation-for-prayer)
-  - [Humility](#humility)
-  - [Sorrow For Sin](#sorrow-for-sin)
-  - [Freedom From Violence, Anger, Hatred And Inhumanity](#freedom-from-violence-anger-hatred-and-inhumanity)
-  - [Freedom From Pride And Contempt Of God's Word](#freedom-from-pride-and-contempt-of-gods-word)
-  - [Faith And Confidence](#faith-and-confidence)
-  - [Motives Of Confidence In Prayer](#motives-of-confidence-in-prayer)
-  - [Correspondence With God's Will](#correspondence-with-gods-will)
-  - [Fraternal Charity](#fraternal-charity)
-  - [How to Pray Well](#how-to-pray-well)
-  - [the Lord. We Must Pray In Spirit And In Truth](#the-lord-we-must-pray-in-spirit-and-in-truth)
-  - [Mental Prayer](#mental-prayer)
-  - [Vocal Prayer](#vocal-prayer)
-  - [Private And Public Prayer](#private-and-public-prayer)
-  - [Those Who Do Nor Pray In Spirit](#those-who-do-nor-pray-in-spirit)
-  - [Those Who Do Not Pray In Truth](#those-who-do-not-pray-in-truth)
-  - [We Must Pray With Perseverance](#we-must-pray-with-perseverance)
-  - [We Must Pray In The Name Of Jesus Christ](#we-must-pray-in-the-name-of-jesus-christ)
-  - [We Must Pray With Fervour, Uniting Petition To Thanksgiving](#we-must-pray-with-fervour-uniting-petition-to-thanksgiving)
-  - [Fasting And Almsdeeds Should Be Joined To Prayer](#fasting-and-almsdeeds-should-be-joined-to-prayer)
+  - [PRAYER](#prayer)
+    - [Importance Of Instruction On Prayer](#importance-of-instruction-on-prayer)
+    - [Necessity of Prayer](#necessity-of-prayer)
+    - [The Fruits of Prayer](#the-fruits-of-prayer)
+    - [Prayer Honours God](#prayer-honours-god)
+    - [Prayer Obtains What We Request](#prayer-obtains-what-we-request)
+    - [Proof](#proof)
+    - [Unwise And Indevout Prayers Unheard](#unwise-and-indevout-prayers-unheard)
+    - [To Devout Prayer And Dispositions God Grants More Than Is Asked](#to-devout-prayer-and-dispositions-god-grants-more-than-is-asked)
+    - [Prayer Exercises And Increases Faith](#prayer-exercises-and-increases-faith)
+    - [Prayer Strengthens Our Hope In God](#prayer-strengthens-our-hope-in-god)
+    - [Prayer Increases Charity](#prayer-increases-charity)
+    - [Prayer Disposes The Soul For Divine Blessings](#prayer-disposes-the-soul-for-divine-blessings)
+    - [Prayer Makes Us Realise Our Own Needfulness](#prayer-makes-us-realise-our-own-needfulness)
+    - [Prayer Is A Protection Against The Devil](#prayer-is-a-protection-against-the-devil)
+    - [Prayer Promotes A Virtuous Life](#prayer-promotes-a-virtuous-life)
+    - [Prayer Disarms The Divine Vengeance](#prayer-disarms-the-divine-vengeance)
+    - [The Parts Of Prayer](#the-parts-of-prayer)
+    - [The Two Chief Parts Of Prayer Petition And Thanksgiving](#the-two-chief-parts-of-prayer-petition-and-thanksgiving)
+    - [Degrees Of Petition And Thanksgiving](#degrees-of-petition-and-thanksgiving)
+    - [The Highest Degree Of Prayer: The Prayer Of The Just](#the-highest-degree-of-prayer-the-prayer-of-the-just)
+  - [prayer and virtue to another, until, at length, they reach that height of perfection, whence they can contemplate](#prayer-and-virtue-to-another-until-at-length-they-reach-that-height-of-perfection-whence-they-can-contemplate)
+    - [The Second Degree Of Prayer: The Prayer Of Sinners](#the-second-degree-of-prayer-the-prayer-of-sinners)
+    - [The Third Degree Of Prayer: The Prayer Of Unbelievers](#the-third-degree-of-prayer-the-prayer-of-unbelievers)
+    - [The Lowest Degree Of Prayer: The Prayer Of The Impenitent](#the-lowest-degree-of-prayer-the-prayer-of-the-impenitent)
+    - [What We Should Pray For](#what-we-should-pray-for)
+  - [prayer. Hence it will suffice here to remind the faithful in a general way that they ought to ask of God such](#prayer-hence-it-will-suffice-here-to-remind-the-faithful-in-a-general-way-that-they-ought-to-ask-of-god-such)
+    - [all things. Spiritual Goods](#all-things-spiritual-goods)
+    - [External Goods And Goods Of Body](#external-goods-and-goods-of-body)
+    - [Goods Of The Mind](#goods-of-the-mind)
+  - [prayers, is, as we have already observed, the glory of God, and, next to it, whatever can serve to unite us to that](#prayers-is-as-we-have-already-observed-the-glory-of-god-and-next-to-it-whatever-can-serve-to-unite-us-to-that)
+    - [For Whom We Ought to Pray](#for-whom-we-ought-to-pray)
+    - [The Prayer Of Petition Should Be Offered For All](#the-prayer-of-petition-should-be-offered-for-all)
+    - [Those For Whom We Should Especially Offer Our Petitions: Pastors](#those-for-whom-we-should-especially-offer-our-petitions-pastors)
+    - [Rulers Of Our Country](#rulers-of-our-country)
+    - [The Just](#the-just)
+    - [Enemies And Those Outside The Church](#enemies-and-those-outside-the-church)
+    - [The Dead](#the-dead)
+  - [Prayers for the dead, that they may be liberated from the fire of purgatory, are derived from Apostolic teaching.](#prayers-for-the-dead-that-they-may-be-liberated-from-the-fire-of-purgatory-are-derived-from-apostolic-teaching)
+    - [Sinners](#sinners)
+    - [The Prayer Of Thanksgiving Should Be Offered For All](#the-prayer-of-thanksgiving-should-be-offered-for-all)
+    - [Our Thanksgiving Should Especially Be Offered: For The Saints](#our-thanksgiving-should-especially-be-offered-for-the-saints)
+    - [For The Blessed Virgin Mary](#for-the-blessed-virgin-mary)
+    - [To God](#to-god)
+    - [To The Saints](#to-the-saints)
+    - [God And The Saints Addressed Differently](#god-and-the-saints-addressed-differently)
+    - [Preparation for Prayer](#preparation-for-prayer)
+    - [Humility](#humility)
+    - [Sorrow For Sin](#sorrow-for-sin)
+    - [Freedom From Violence, Anger, Hatred And Inhumanity](#freedom-from-violence-anger-hatred-and-inhumanity)
+  - [prayers, and we must, therefore, preserve our hands unstained by outrage and cruelty. Of such crimes the Lord](#prayers-and-we-must-therefore-preserve-our-hands-unstained-by-outrage-and-cruelty-of-such-crimes-the-lord)
+    - [Freedom From Pride And Contempt Of God's Word](#freedom-from-pride-and-contempt-of-gods-word)
+    - [Faith And Confidence](#faith-and-confidence)
+    - [Motives Of Confidence In Prayer](#motives-of-confidence-in-prayer)
+    - [Correspondence With God's Will](#correspondence-with-gods-will)
+    - [Fraternal Charity](#fraternal-charity)
+    - [How to Pray Well](#how-to-pray-well)
+    - [the Lord. We Must Pray In Spirit And In Truth](#the-lord-we-must-pray-in-spirit-and-in-truth)
+    - [Mental Prayer](#mental-prayer)
+    - [Vocal Prayer](#vocal-prayer)
+    - [Private And Public Prayer](#private-and-public-prayer)
+    - [Those Who Do Nor Pray In Spirit](#those-who-do-nor-pray-in-spirit)
+    - [Those Who Do Not Pray In Truth](#those-who-do-not-pray-in-truth)
+    - [We Must Pray With Perseverance](#we-must-pray-with-perseverance)
+    - [We Must Pray In The Name Of Jesus Christ](#we-must-pray-in-the-name-of-jesus-christ)
+    - [We Must Pray With Fervour, Uniting Petition To Thanksgiving](#we-must-pray-with-fervour-uniting-petition-to-thanksgiving)
+    - [Fasting And Almsdeeds Should Be Joined To Prayer](#fasting-and-almsdeeds-should-be-joined-to-prayer)
   - [OPENING WORDS OF THE LORD'S PRAYER](#opening-words-of-the-lords-prayer)
-  - [Importance Of Instruction On These Words](#importance-of-instruction-on-these-words)
-  - ["Father"](#father)
-  - [God Is Called Father Because He Created Us](#god-is-called-father-because-he-created-us)
-  - [God Is Called Father Because He Provides For Us](#god-is-called-father-because-he-provides-for-us)
-  - [God's Care For Us Is Seen In The Appointment Of Guardian Angels](#gods-care-for-us-is-seen-in-the-appointment-of-guardian-angels)
-  - [How We Are Helped By The Angels](#how-we-are-helped-by-the-angels)
-  - [God's Care For Us Seen In The Love He Has Ever Shown To Man](#gods-care-for-us-seen-in-the-love-he-has-ever-shown-to-man)
-  - [God Is Called Father Because He Has Granted Us Redemption](#god-is-called-father-because-he-has-granted-us-redemption)
-  - [Duties We Owe Our Heavenly Father](#duties-we-owe-our-heavenly-father)
-  - ["Our"](#our)
-  - [Dispositions That Should Accompany The Words, "Our Father": Fraternal Regard](#dispositions-that-should-accompany-the-words-our-father-fraternal-regard)
-  - [Filial Confidence And Piety](#filial-confidence-and-piety)
-  - ["Who art in Heaven" Meaning Of These Words](#who-art-in-heaven-meaning-of-these-words)
-  - [Lessons Taught By The Words, "Who Art In Heaven"](#lessons-taught-by-the-words-who-art-in-heaven)
-  - [THE FIRST PETITION OF THE LORD'S](#the-first-petition-of-the-lords)
-  - [Why This Petition Is Placed First](#why-this-petition-is-placed-first)
-  - [Object Of The First Three Petitions](#object-of-the-first-three-petitions)
-  - [Hallowed Be Thy Name](#hallowed-be-thy-name)
-  - [On Earth As It Is In Heaven"](#on-earth-as-it-is-in-heaven)
-  - [What Sanctification of God's Name we should Pray For That The Faithful May Glorify Him](#what-sanctification-of-gods-name-we-should-pray-for-that-the-faithful-may-glorify-him)
-  - [That Unbelievers May Be Converted](#that-unbelievers-may-be-converted)
-  - [That Sinners May Be Converted](#that-sinners-may-be-converted)
-  - [That God May Be Thanked For His Favours](#that-god-may-be-thanked-for-his-favours)
-  - [That The Church May Be Recognised By All](#that-the-church-may-be-recognised-by-all)
-  - [What Sanctification Of God's Name We Should Practice](#what-sanctification-of-gods-name-we-should-practice)
-  - [THE SECOND PETITION OF THE LORD'S](#the-second-petition-of-the-lords)
-  - [Importance Of Instruction On This Petition](#importance-of-instruction-on-this-petition)
-  - [Greatness Of This Petition](#greatness-of-this-petition)
-  - [Necessity Of Rightly Making This Petition](#necessity-of-rightly-making-this-petition)
-  - [Motives For Adopting The Necessary Means](#motives-for-adopting-the-necessary-means)
-  - ["Thy Kingdom"](#thy-kingdom)
-  - [The Kingdom Of Nature](#the-kingdom-of-nature)
-  - [The Kingdom Of Grace](#the-kingdom-of-grace)
-  - [The Kingdom Of Glory](#the-kingdom-of-glory)
-  - ["Come"](#come)
-  - [We Pray For The Propagation Of The Church](#we-pray-for-the-propagation-of-the-church)
-  - [For The Conversion Of Sinners](#for-the-conversion-of-sinners)
-  - [That Christ May Reign Over All](#that-christ-may-reign-over-all)
-  - [Dispositions That Should Accompany This Petition](#dispositions-that-should-accompany-this-petition)
-  - [We Should Prize God's Kingdom Above All Things](#we-should-prize-gods-kingdom-above-all-things)
-  - [We Must Realise That We Are Exiles](#we-must-realise-that-we-are-exiles)
-  - [We Must Labor To Obtain God's Kingdom](#we-must-labor-to-obtain-gods-kingdom)
-  - [Recapitulation](#recapitulation)
-  - [THE THIRD PETITION OF THE LORD'S](#the-third-petition-of-the-lords)
-  - [The Relation Of This Petition To The Previous One](#the-relation-of-this-petition-to-the-previous-one)
-  - [Necessity Of This Petition](#necessity-of-this-petition)
-  - [Man’s Proneness To Act Against God’s Will](#mans-proneness-to-act-against-gods-will)
-  - [Man’s Blindness Concerning God’s Will](#mans-blindness-concerning-gods-will)
-  - [Man’s Weakness In Fulfilling God’s Will](#mans-weakness-in-fulfilling-gods-will)
-  - [Remedy For These Evils](#remedy-for-these-evils)
-  - [Man's Passions Rebel Against God's Will](#mans-passions-rebel-against-gods-will)
-  - ["Thy Will"](#thy-will)
-  - ["Be Done"](#be-done)
-  - [We Ask That We May Fulfil What God Desires Of Us](#we-ask-that-we-may-fulfil-what-god-desires-of-us)
-  - [Petition.](#petition)
-  - [We Ask That We May Not Yield To Our Own Inordinate Desires](#we-ask-that-we-may-not-yield-to-our-own-inordinate-desires)
-  - [We Ask That Our Mistaken Requests Be Not Granted](#we-ask-that-our-mistaken-requests-be-not-granted)
-  - [We Ask That Even Our Good Requests Be Granted Only When They Are According To God’s Will](#we-ask-that-even-our-good-requests-be-granted-only-when-they-are-according-to-gods-will)
-  - [We Ask That God May Perfect In Us What His Grace Has Begun](#we-ask-that-god-may-perfect-in-us-what-his-grace-has-begun)
-  - [We Ask That All May Know God’s Will](#we-ask-that-all-may-know-gods-will)
-  - ["On Earth as it is in Heaven"](#on-earth-as-it-is-in-heaven)
-  - [This Petition Contains an Act of Thanksgiving](#this-petition-contains-an-act-of-thanksgiving)
-  - [The Dispositions that should Accompany this Petition A Sense Of Our Own Weakness Of Will](#the-dispositions-that-should-accompany-this-petition-a-sense-of-our-own-weakness-of-will)
-  - [Appreciation Of The Dignity Of Doing God's Will](#appreciation-of-the-dignity-of-doing-gods-will)
-  - [Resignation To God’s Will](#resignation-to-gods-will)
+    - [Importance Of Instruction On These Words](#importance-of-instruction-on-these-words)
+    - ["Father"](#father)
+    - [God Is Called Father Because He Created Us](#god-is-called-father-because-he-created-us)
+    - [God Is Called Father Because He Provides For Us](#god-is-called-father-because-he-provides-for-us)
+    - [God's Care For Us Is Seen In The Appointment Of Guardian Angels](#gods-care-for-us-is-seen-in-the-appointment-of-guardian-angels)
+    - [How We Are Helped By The Angels](#how-we-are-helped-by-the-angels)
+    - [God's Care For Us Seen In The Love He Has Ever Shown To Man](#gods-care-for-us-seen-in-the-love-he-has-ever-shown-to-man)
+    - [God Is Called Father Because He Has Granted Us Redemption](#god-is-called-father-because-he-has-granted-us-redemption)
+    - [Duties We Owe Our Heavenly Father](#duties-we-owe-our-heavenly-father)
+    - ["Our"](#our)
+    - [Dispositions That Should Accompany The Words, "Our Father": Fraternal Regard](#dispositions-that-should-accompany-the-words-our-father-fraternal-regard)
+    - [Filial Confidence And Piety](#filial-confidence-and-piety)
+    - ["Who art in Heaven" Meaning Of These Words](#who-art-in-heaven-meaning-of-these-words)
+    - [Lessons Taught By The Words, "Who Art In Heaven"](#lessons-taught-by-the-words-who-art-in-heaven)
+  - [THE FIRST PETITION OF THE LORD'S PRAYER : "Hallowed be thy name"](#the-first-petition-of-the-lords-prayer-hallowed-be-thy-name)
+    - [Why This Petition Is Placed First](#why-this-petition-is-placed-first)
+    - [Object Of The First Three Petitions](#object-of-the-first-three-petitions)
+    - [Hallowed Be Thy Name](#hallowed-be-thy-name)
+    - [On Earth As It Is In Heaven"](#on-earth-as-it-is-in-heaven)
+    - [What Sanctification of God's Name we should Pray For That The Faithful May Glorify Him](#what-sanctification-of-gods-name-we-should-pray-for-that-the-faithful-may-glorify-him)
+    - [That Unbelievers May Be Converted](#that-unbelievers-may-be-converted)
+    - [That Sinners May Be Converted](#that-sinners-may-be-converted)
+    - [That God May Be Thanked For His Favours](#that-god-may-be-thanked-for-his-favours)
+    - [That The Church May Be Recognised By All](#that-the-church-may-be-recognised-by-all)
+    - [What Sanctification Of God's Name We Should Practice](#what-sanctification-of-gods-name-we-should-practice)
+  - [THE SECOND PETITION OF THE LORD'S PRAYER : "Thy kingdom come"](#the-second-petition-of-the-lords-prayer-thy-kingdom-come)
+    - [Importance Of Instruction On This Petition](#importance-of-instruction-on-this-petition)
+    - [Greatness Of This Petition](#greatness-of-this-petition)
+    - [Necessity Of Rightly Making This Petition](#necessity-of-rightly-making-this-petition)
+  - [prayer the use of all those means by which that kingdom is sought and found.- The five foolish virgins uttered](#prayer-the-use-of-all-those-means-by-which-that-kingdom-is-sought-and-found-the-five-foolish-virgins-uttered)
+    - [Motives For Adopting The Necessary Means](#motives-for-adopting-the-necessary-means)
+    - ["Thy Kingdom"](#thy-kingdom)
+    - [The Kingdom Of Nature](#the-kingdom-of-nature)
+    - [The Kingdom Of Grace](#the-kingdom-of-grace)
+    - [The Kingdom Of Glory](#the-kingdom-of-glory)
+    - ["Come"](#come)
+    - [We Pray For The Propagation Of The Church](#we-pray-for-the-propagation-of-the-church)
+    - [For The Conversion Of Sinners](#for-the-conversion-of-sinners)
+    - [That Christ May Reign Over All](#that-christ-may-reign-over-all)
+    - [Dispositions That Should Accompany This Petition](#dispositions-that-should-accompany-this-petition)
+    - [We Should Prize God's Kingdom Above All Things](#we-should-prize-gods-kingdom-above-all-things)
+    - [We Must Realise That We Are Exiles](#we-must-realise-that-we-are-exiles)
+    - [We Must Labor To Obtain God's Kingdom](#we-must-labor-to-obtain-gods-kingdom)
+    - [Recapitulation](#recapitulation)
+  - [THE THIRD PETITION OF THE LORD'S PRAYER : "Thy will be done"](#the-third-petition-of-the-lords-prayer-thy-will-be-done)
+    - [The Relation Of This Petition To The Previous One](#the-relation-of-this-petition-to-the-previous-one)
+    - [Necessity Of This Petition](#necessity-of-this-petition)
+    - [Man’s Proneness To Act Against God’s Will](#mans-proneness-to-act-against-gods-will)
+    - [Man’s Blindness Concerning God’s Will](#mans-blindness-concerning-gods-will)
+    - [Man’s Weakness In Fulfilling God’s Will](#mans-weakness-in-fulfilling-gods-will)
+    - [Remedy For These Evils](#remedy-for-these-evils)
+    - [Man's Passions Rebel Against God's Will](#mans-passions-rebel-against-gods-will)
+    - ["Thy Will"](#thy-will)
+    - ["Be Done"](#be-done)
+    - [We Ask That We May Fulfil What God Desires Of Us](#we-ask-that-we-may-fulfil-what-god-desires-of-us)
+  - [prayer in various aspirations: O ! that my ways may be directed to keep thy justifications; Lead me into the path](#prayer-in-various-aspirations-o-that-my-ways-may-be-directed-to-keep-thy-justifications-lead-me-into-the-path)
+    - [Petition.](#petition)
+    - [We Ask That We May Not Yield To Our Own Inordinate Desires](#we-ask-that-we-may-not-yield-to-our-own-inordinate-desires)
+    - [We Ask That Our Mistaken Requests Be Not Granted](#we-ask-that-our-mistaken-requests-be-not-granted)
+    - [We Ask That Even Our Good Requests Be Granted Only When They Are According To God’s Will](#we-ask-that-even-our-good-requests-be-granted-only-when-they-are-according-to-gods-will)
+    - [We Ask That God May Perfect In Us What His Grace Has Begun](#we-ask-that-god-may-perfect-in-us-what-his-grace-has-begun)
+    - [We Ask That All May Know God’s Will](#we-ask-that-all-may-know-gods-will)
+    - ["On Earth as it is in Heaven"](#on-earth-as-it-is-in-heaven)
+    - [This Petition Contains an Act of Thanksgiving](#this-petition-contains-an-act-of-thanksgiving)
+    - [The Dispositions that should Accompany this Petition A Sense Of Our Own Weakness Of Will](#the-dispositions-that-should-accompany-this-petition-a-sense-of-our-own-weakness-of-will)
+    - [Appreciation Of The Dignity Of Doing God's Will](#appreciation-of-the-dignity-of-doing-gods-will)
+    - [Resignation To God’s Will](#resignation-to-gods-will)
   - [THE FOURTH PETITION OF THE LORD'S](#the-fourth-petition-of-the-lords)
-  - [The Relation Of The Following Petitions To Those That Preceded](#the-relation-of-the-following-petitions-to-those-that-preceded)
-  - [How To Pray For Temporal Blessings](#how-to-pray-for-temporal-blessings)
-  - [Means Of Ascertaining Purity Of Intention In Offering This Petition](#means-of-ascertaining-purity-of-intention-in-offering-this-petition)
-  - [Necessity of the Fourth Petition](#necessity-of-the-fourth-petition)
-  - [Man Needs Many Things For His Bodily Life](#man-needs-many-things-for-his-bodily-life)
-  - [To Supply His Bodily Wants Man Must Labor](#to-supply-his-bodily-wants-man-must-labor)
-  - [Without God’s Help Man’s Labor Is Vain](#without-gods-help-mans-labor-is-vain)
-  - [Inducements to Use this Petition](#inducements-to-use-this-petition)
-  - ["Bread"](#bread)
-  - [We Ask For Temporal Blessings](#we-ask-for-temporal-blessings)
-  - [It Is Lawful To Pray For Temporal Blessings](#it-is-lawful-to-pray-for-temporal-blessings)
-  - [The Wants, Not The Luxuries Of This Life Are Meant By The Word "Bread"](#the-wants-not-the-luxuries-of-this-life-are-meant-by-the-word-bread)
-  - ["Our"](#our)
-  - ["Daily"](#daily)
-  - ["Give"](#give)
-  - ["This Day"](#this-day)
-  - [Prayer.](#prayer)
-  - [The Spiritual Bread Asked for in this Petition](#the-spiritual-bread-asked-for-in-this-petition)
-  - [The Word Of God Is Our Spiritual Bread](#the-word-of-god-is-our-spiritual-bread)
-  - [Christ Is Our Spiritual Bread, Especially In The Holy Eucharist](#christ-is-our-spiritual-bread-especially-in-the-holy-eucharist)
-  - [Why The Holy Eucharist Is Called Our "Daily" Bread](#why-the-holy-eucharist-is-called-our-daily-bread)
-  - [Exhortations](#exhortations)
+  - [PRAYER : "Give us this day our daily bread"](#prayer-give-us-this-day-our-daily-bread)
+    - [The Relation Of The Following Petitions To Those That Preceded](#the-relation-of-the-following-petitions-to-those-that-preceded)
+    - [How To Pray For Temporal Blessings](#how-to-pray-for-temporal-blessings)
+    - [Means Of Ascertaining Purity Of Intention In Offering This Petition](#means-of-ascertaining-purity-of-intention-in-offering-this-petition)
+    - [Necessity of the Fourth Petition](#necessity-of-the-fourth-petition)
+    - [Man Needs Many Things For His Bodily Life](#man-needs-many-things-for-his-bodily-life)
+    - [To Supply His Bodily Wants Man Must Labor](#to-supply-his-bodily-wants-man-must-labor)
+    - [Without God’s Help Man’s Labor Is Vain](#without-gods-help-mans-labor-is-vain)
+    - [Inducements to Use this Petition](#inducements-to-use-this-petition)
+    - ["Bread"](#bread)
+    - [We Ask For Temporal Blessings](#we-ask-for-temporal-blessings)
+    - [It Is Lawful To Pray For Temporal Blessings](#it-is-lawful-to-pray-for-temporal-blessings)
+    - [The Wants, Not The Luxuries Of This Life Are Meant By The Word "Bread"](#the-wants-not-the-luxuries-of-this-life-are-meant-by-the-word-bread)
+    - ["Our"](#our)
+    - ["Daily"](#daily)
+    - ["Give"](#give)
+    - ["This Day"](#this-day)
+    - [Prayer.](#prayer)
+    - [The Spiritual Bread Asked for in this Petition](#the-spiritual-bread-asked-for-in-this-petition)
+    - [The Word Of God Is Our Spiritual Bread](#the-word-of-god-is-our-spiritual-bread)
+    - [Christ Is Our Spiritual Bread, Especially In The Holy Eucharist](#christ-is-our-spiritual-bread-especially-in-the-holy-eucharist)
+    - [Why The Holy Eucharist Is Called Our "Daily" Bread](#why-the-holy-eucharist-is-called-our-daily-bread)
+    - [Exhortations](#exhortations)
   - [THE FIFTH PETITION OF THE LORD'S](#the-fifth-petition-of-the-lords)
-  - [The Importance Of Explaining This Petition](#the-importance-of-explaining-this-petition)
-  - [Difference Between This And The Preceding Petitions](#difference-between-this-and-the-preceding-petitions)
-  - [Dispositions with which this petition should be Offered](#dispositions-with-which-this-petition-should-be-offered)
-  - [Acknowledgment Of Sin](#acknowledgment-of-sin)
-  - [Sorrow For Sin](#sorrow-for-sin)
-  - [Motives For Sorrow Over Sin: The Baseness Of Sin](#motives-for-sorrow-over-sin-the-baseness-of-sin)
-  - [The Consequences Of Sin](#the-consequences-of-sin)
-  - [Confidence In God's Mercy](#confidence-in-gods-mercy)
-  - ["Debts"](#debts)
-  - ["Our"](#our)
-  - ["Forgive Us"](#forgive-us)
-  - ["As we Forgive our Debtors"](#as-we-forgive-our-debtors)
-  - [Necessity Of Forgiveness](#necessity-of-forgiveness)
-  - [Reasons For Forgiveness](#reasons-for-forgiveness)
-  - [This Petition Should Not be Neglected](#this-petition-should-not-be-neglected)
-  - [Those Unable To Forget Injuries](#those-unable-to-forget-injuries)
-  - [Those Who Do Not Love Their Enemies](#those-who-do-not-love-their-enemies)
-  - [How to Make this Petition Fruitful Penitential Dispositions](#how-to-make-this-petition-fruitful-penitential-dispositions)
-  - [Avoidance Of Dangers Of Sin](#avoidance-of-dangers-of-sin)
-  - [Imitation Of Fervent Penitents](#imitation-of-fervent-penitents)
-  - [Frequent Use Of The Sacraments](#frequent-use-of-the-sacraments)
-  - [Almsdeeds](#almsdeeds)
-  - [The Spirit Of Forgiveness](#the-spirit-of-forgiveness)
-  - [THE SIXTH PETITION OF THE LORD'S](#the-sixth-petition-of-the-lords)
-  - [Importance Of Instruction On This Petition](#importance-of-instruction-on-this-petition)
-  - [Human Frailty](#human-frailty)
-  - [The Assaults Of The Flesh](#the-assaults-of-the-flesh)
-  - [The Temptations Of The Devil](#the-temptations-of-the-devil)
-  - [Audacity Of The Demons](#audacity-of-the-demons)
-  - [Number Of The Demons](#number-of-the-demons)
-  - [Malignity And Power Of The Demons](#malignity-and-power-of-the-demons)
-  - [Prayer Protects Man's Weakness Against The Enemies Of His Soul](#prayer-protects-mans-weakness-against-the-enemies-of-his-soul)
-  - ["Temptation"](#temptation)
-  - ["Lead us not into Temptation"](#lead-us-not-into-temptation)
-  - [Objects of the Sixth Petition What We Do Not Pray For](#objects-of-the-sixth-petition-what-we-do-not-pray-for)
-  - [this Petition.](#this-petition)
-  - [What We Pray For In This Petition](#what-we-pray-for-in-this-petition)
-  - [Dispositions which should Accompany this Petition](#dispositions-which-should-accompany-this-petition)
-  - [Distrust Of Self And Confidence In God](#distrust-of-self-and-confidence-in-god)
-  - [Remembrance Of The Victory Of Christ And His Saints](#remembrance-of-the-victory-of-christ-and-his-saints)
-  - [Watchfulness](#watchfulness)
-  - [The Author of victory over Temptation](#the-author-of-victory-over-temptation)
-  - [The Rewards of Victories over temptation](#the-rewards-of-victories-over-temptation)
-  - [THE SEVENTH PETITION OF THE LORD'S](#the-seventh-petition-of-the-lords)
-  - [The Importance Of Instruction On This Petition](#the-importance-of-instruction-on-this-petition)
-  - [Necessity Of This Petition](#necessity-of-this-petition)
-  - [How this Petition should be Made](#how-this-petition-should-be-made)
+  - [PRAYER : "And forgive us our debts, as we forgive our](#prayer-and-forgive-us-our-debts-as-we-forgive-our)
+    - [The Importance Of Explaining This Petition](#the-importance-of-explaining-this-petition)
+    - [Difference Between This And The Preceding Petitions](#difference-between-this-and-the-preceding-petitions)
+    - [Dispositions with which this petition should be Offered](#dispositions-with-which-this-petition-should-be-offered)
+    - [Acknowledgment Of Sin](#acknowledgment-of-sin)
+    - [Sorrow For Sin](#sorrow-for-sin)
+    - [Motives For Sorrow Over Sin: The Baseness Of Sin](#motives-for-sorrow-over-sin-the-baseness-of-sin)
+    - [The Consequences Of Sin](#the-consequences-of-sin)
+    - [Confidence In God's Mercy](#confidence-in-gods-mercy)
+    - ["Debts"](#debts)
+    - ["Our"](#our)
+    - ["Forgive Us"](#forgive-us)
+    - ["As we Forgive our Debtors"](#as-we-forgive-our-debtors)
+    - [Necessity Of Forgiveness](#necessity-of-forgiveness)
+    - [Reasons For Forgiveness](#reasons-for-forgiveness)
+    - [This Petition Should Not be Neglected](#this-petition-should-not-be-neglected)
+    - [Those Unable To Forget Injuries](#those-unable-to-forget-injuries)
+    - [Those Who Do Not Love Their Enemies](#those-who-do-not-love-their-enemies)
+    - [How to Make this Petition Fruitful Penitential Dispositions](#how-to-make-this-petition-fruitful-penitential-dispositions)
+    - [Avoidance Of Dangers Of Sin](#avoidance-of-dangers-of-sin)
+    - [Imitation Of Fervent Penitents](#imitation-of-fervent-penitents)
+    - [Frequent Use Of The Sacraments](#frequent-use-of-the-sacraments)
+    - [Almsdeeds](#almsdeeds)
+    - [The Spirit Of Forgiveness](#the-spirit-of-forgiveness)
+  - [THE SIXTH PETITION OF THE LORD'S PRAYER : "And lead us not into temptation."](#the-sixth-petition-of-the-lords-prayer-and-lead-us-not-into-temptation)
+    - [Importance Of Instruction On This Petition](#importance-of-instruction-on-this-petition)
+    - [Human Frailty](#human-frailty)
+    - [The Assaults Of The Flesh](#the-assaults-of-the-flesh)
+    - [The Temptations Of The Devil](#the-temptations-of-the-devil)
+    - [Audacity Of The Demons](#audacity-of-the-demons)
+    - [Number Of The Demons](#number-of-the-demons)
+    - [Malignity And Power Of The Demons](#malignity-and-power-of-the-demons)
+    - [Prayer Protects Man's Weakness Against The Enemies Of His Soul](#prayer-protects-mans-weakness-against-the-enemies-of-his-soul)
+    - ["Temptation"](#temptation)
+    - ["Lead us not into Temptation"](#lead-us-not-into-temptation)
+    - [Objects of the Sixth Petition What We Do Not Pray For](#objects-of-the-sixth-petition-what-we-do-not-pray-for)
+    - [this Petition.](#this-petition)
+    - [What We Pray For In This Petition](#what-we-pray-for-in-this-petition)
+    - [Dispositions which should Accompany this Petition](#dispositions-which-should-accompany-this-petition)
+    - [Distrust Of Self And Confidence In God](#distrust-of-self-and-confidence-in-god)
+    - [Remembrance Of The Victory Of Christ And His Saints](#remembrance-of-the-victory-of-christ-and-his-saints)
+    - [Watchfulness](#watchfulness)
+    - [The Author of victory over Temptation](#the-author-of-victory-over-temptation)
+    - [The Rewards of Victories over temptation](#the-rewards-of-victories-over-temptation)
+  - [THE SEVENTH PETITION OF THE LORD'S PRAYER : "But deliver us from evil"](#the-seventh-petition-of-the-lords-prayer-but-deliver-us-from-evil)
+    - [The Importance Of Instruction On This Petition](#the-importance-of-instruction-on-this-petition)
+    - [Necessity Of This Petition](#necessity-of-this-petition)
+    - [How this Petition should be Made](#how-this-petition-should-be-made)
   - [WE SHOULD SEEK FIRST THE GLORY OF GOD](#we-should-seek-first-the-glory-of-god)
-  - [Our Chief Hope Of Deliverance Should Be In God](#our-chief-hope-of-deliverance-should-be-in-god)
-  - [We Must Confidently Expect His Help](#we-must-confidently-expect-his-help)
-  - ["From Evil"](#from-evil)
-  - [What We Do Not Pray For](#what-we-do-not-pray-for)
-  - [What We Do Pray For](#what-we-do-pray-for)
-  - ["Deliver Us"](#deliver-us)
-  - [Deliverance From Satan Especially Asked For](#deliverance-from-satan-especially-asked-for)
-  - [Patience and Joy under Continued Affliction](#patience-and-joy-under-continued-affliction)
-  - [THE SEAL OF THE LORD'S PRAYER "Amen"](#the-seal-of-the-lords-prayer-amen)
-  - [Necessity Of Explaining The Conclusion Of The Lord's Prayer](#necessity-of-explaining-the-conclusion-of-the-lords-prayer)
-  - [fruits that Come at the Conclusion of Prayer Assurance That We Have Been Heard](#fruits-that-come-at-the-conclusion-of-prayer-assurance-that-we-have-been-heard)
-  - [Fervour And Illumination](#fervour-and-illumination)
-  - [Sweetness](#sweetness)
-  - [iniquity.](#iniquity)
-  - [Confidence And Gratitude](#confidence-and-gratitude)
-  - [Illustrations From The Psalms](#illustrations-from-the-psalms)
-  - [Meaning of the Word "Amen" First Explanation](#meaning-of-the-word-amen-first-explanation)
-  - [Other Explanations Of The Word "Amen"](#other-explanations-of-the-word-amen)
-  - [Advantages of Terminating our Prayer with this Word](#advantages-of-terminating-our-prayer-with-this-word)
+    - [Our Chief Hope Of Deliverance Should Be In God](#our-chief-hope-of-deliverance-should-be-in-god)
+  - [prayers of the infidel and those of the Christian.](#prayers-of-the-infidel-and-those-of-the-christian)
+    - [We Must Confidently Expect His Help](#we-must-confidently-expect-his-help)
+    - ["From Evil"](#from-evil)
+    - [What We Do Not Pray For](#what-we-do-not-pray-for)
+    - [What We Do Pray For](#what-we-do-pray-for)
+    - ["Deliver Us"](#deliver-us)
+    - [Deliverance From Satan Especially Asked For](#deliverance-from-satan-especially-asked-for)
+    - [Patience and Joy under Continued Affliction](#patience-and-joy-under-continued-affliction)
+  - [THE SEAL OF THE LORD'S PRAYER](#the-seal-of-the-lords-prayer)
+    - ["Amen"](#amen)
+    - [Necessity Of Explaining The Conclusion Of The Lord's Prayer](#necessity-of-explaining-the-conclusion-of-the-lords-prayer)
+  - [Prayer. As then we have already admonished the faithful with regard to the preparation to be made before this](#prayer-as-then-we-have-already-admonished-the-faithful-with-regard-to-the-preparation-to-be-made-before-this)
+    - [fruits that Come at the Conclusion of Prayer Assurance That We Have Been Heard](#fruits-that-come-at-the-conclusion-of-prayer-assurance-that-we-have-been-heard)
+    - [Fervour And Illumination](#fervour-and-illumination)
+  - [prayer) depart with a warmth proportioned to their faith and fervour; the heart is inflamed with zeal for the](#prayer-depart-with-a-warmth-proportioned-to-their-faith-and-fervour-the-heart-is-inflamed-with-zeal-for-the)
+    - [Sweetness](#sweetness)
+    - [iniquity.](#iniquity)
+    - [Confidence And Gratitude](#confidence-and-gratitude)
+    - [Illustrations From The Psalms](#illustrations-from-the-psalms)
+    - [Meaning of the Word "Amen" First Explanation](#meaning-of-the-word-amen-first-explanation)
+  - [prayers the server answers Amen, because in every other this word only expresses assent and desire. In the](#prayers-the-server-answers-amen-because-in-every-other-this-word-only-expresses-assent-and-desire-in-the)
+    - [Other Explanations Of The Word "Amen"](#other-explanations-of-the-word-amen)
+    - [Advantages of Terminating our Prayer with this Word](#advantages-of-terminating-our-prayer-with-this-word)
   - [THE END OF THE CATECHISM](#the-end-of-the-catechism)
 
 <!--
@@ -2449,7 +2484,9 @@ Preface to the Paris edition of 1893 mentions eighteen held before the year 1595
 convened at Milan St. Charles Borromeo ordered that the Catechism should be studied in seminaries, discussed 
 
 in the conferences of the clergy, and explained by pastors to their people on occasion of the administration of 
-the Sacraments. In short, synods repeatedly prescribed that the clergy should make such frequent use of the 
+
+## the Sacraments. In short, synods repeatedly prescribed that the clergy should make such frequent use of the
+
 Catechism as not only to be thoroughly familiar with its contents, but almost have it by heart. 
 In addition to Popes, and Councils, many Cardinals, Bishops and other ecclesiastics, distinguished for their 
 learning and sanctity, vied with one another in eulogizing the Catechism of Trent. Among other things they 
@@ -2503,7 +2540,9 @@ profoundest mysteries, it is full of thoughts and reflections the most fervent a
 Decalogue, which might well be called a treatise on ascetical theology, teaches us in words burning with zeal 
 both what we are to avoid and what we are to do to keep the Commandments of God. In the fourth, and last part 
 o this beautiful work we have what is doubtless the most sublime and heavenly exposition of the doctrine of 
-prayer ever written. 
+
+## prayer ever written.
+
 The Roman Catechism is, therefore, a handbook of dogmatic and moral theology, a confessor's guide, a book of 
 exposition for the preacher, and a choice directory of the spiritual life for pastor and flock alike. With a view, 
 consequently, to make it more readily available for these high purposes among English-speaking peoples this 
@@ -2620,7 +2659,7 @@ earnestness, justice, godliness, faith, charity, patience, mildness; for He gave
 redeem us from all iniquity, and might cleanse to himself a people acceptable, a pursuer of good works. These 
 things the Apostle commands pastors to speak and exhort. 
 
-## Love Of God
+### Love Of God
 
 But as our Lord and Saviour has not only declared, but has also proved by His own example, that the Law and 
 the Prophets depend on love, and as, according to the Apostle, charity is the end of the commandment, and the 
@@ -2635,12 +2674,12 @@ exercise of faith, of hope, or of some moral virtue, the love of our Lord should
 insisted upon as to show clearly that all the works of perfect Christian virtue can have no other origin, no other 
 end than divine love. 
 
-## The Means Required for Religious Instruction
+### The Means Required for Religious Instruction
 
 But as in imparting instruction of any sort the manner of communicating it is of highest importance, so in 
 conveying religious instruction to the people, the method should be deemed of the greatest moment. 
 
-## Instruction Should Be Accommodated To The Capacity Of The Hearer
+### Instruction Should Be Accommodated To The Capacity Of The Hearer
 
 Age, capacity, manners and condition must be borne in mind, so that he who instructs may become all things to 
 all men, in order that he may be able to gain all to Christ, prove himself a dutiful minister and steward, and, like 
@@ -2665,7 +2704,7 @@ there whom the love of Christ does not constrain to become little in the midst o
 fostering her children, so anxiously to wish for the salvation of his neighbours as to be ready, as the Apostle 
 says of himself, to give them not only the gospel of God, but even his own life. 
 
-## Study Of The Word Of God
+### Study Of The Word Of God
 
 Now all the doctrines in which the faithful are to be instructed are contained in the Word of God, which is found 
 in Scripture and tradition. To the study of these, therefore, the pastor should devote his days and his nights, 
@@ -2674,14 +2713,14 @@ addressed to themselves: Attend to reading, to exhortation, and to doctrine, for
 profitable to teach, to reprove, to correct, to instruct injustice, that the man of God may be perfect, furnished to 
 every good work. 
 
-## Division of this Catechism
+### Division of this Catechism
 
 The truths revealed by Almighty God are so many and so various that it is no easy task to acquire a knowledge 
 of them, or, having done so, to remember them so well as to be able to explain them with ease and readiness 
 when occasion requires. Hence our predecessors in the faith have very wisely reduced all the doctrines of 
 salvation to these four heads: The Apostles' Creed, the Sacraments, the Ten Commandments, and the Lord's 
 
-## Prayer.
+### Prayer.
 
 The part on the Creed contains all that is to be held according to Christian faith, whether it regard the 
 knowledge of God, the creation and government of the world, or the redemption of man, the rewards of the 
@@ -2692,7 +2731,7 @@ to the law, whose end is charity. Finally, the Lord's Prayer contains whatever c
 desires, or hopes, or prayers. The exposition, therefore, of these four parts, which are, as it were, the general 
 heads of Sacred Scripture, includes almost everything that a Christian should learn. 
 
-## How This Work Is To Be Used
+### How This Work Is To Be Used
 
 We therefore deem it proper to inform pastors that, whenever they have occasion, in the ordinary discharge of 
 their duty, to expound any passage of the Gospel or any other part of Holy Scripture. they will find its subject-
@@ -5583,7 +5622,7 @@ frequent instruction (on the Sacraments) the faithful will be enabled to approac
 effect these inestimable and most holy institutions; and the priests will not depart from the rule laid down in the 
 divine prohibition: Give not that which is holy to dogs: neither cast ye your pearls before swine. 
 
-## The Word "Sacrament"
+### The Word "Sacrament"
 
 Since, then, we are about to treat of the Sacraments in general, it is proper to begin in the first place by 
 explaining the force and meaning of the word Sacrament, and showing its various significations, in order the 
@@ -5613,7 +5652,7 @@ So much will suffice in explanation of the word sacrament. What we have said app
 Sacraments of the Old Law; but since they have been superseded by the Gospel Law and grace, it is not 
 necessary that pastors give instruction concerning them. 
 
-## Definition of a Sacrament
+### Definition of a Sacrament
 
 Besides the meaning of the word, which has hitherto engaged our attention, the nature and efficacy of the thing 
 which the word signifies must be diligently considered, and the faithful must be taught what constitutes a 
@@ -5624,7 +5663,7 @@ Augustine and adopted by all scholastic writers. A Sacrament, he says, is a sign
 been expressed in other words of the same import: A Sacrament is a visible sign of an invisible grace, instituted 
 for our justification. 
 
-## "A Sacrament is a Sign"
+### "A Sacrament is a Sign"
 
 The more fully to develop this definition, the pastor should ex plain it in all its parts. He should first observe 
 that sensible objects are of two sorts: some have been invented precisely to serve as signs; others have been 
@@ -5637,7 +5676,7 @@ it presents to the senses, is a medium through which we arrive at the knowledge 
 footstep, for instance, which we see traced on the ground, we instantly infer that some one whose trace appears 
 has passed. 
 
-## Proof From Reason
+### Proof From Reason
 
 A Sacrament, therefore, is clearly to be numbered among those things which have been instituted as signs. It 
 makes known to us by a certain appearance and resemblance that which God, by His invisible power, 
@@ -5647,7 +5686,7 @@ Holy Ghost all stain and defilement of sin is inwardly washed away, and that the
 with the admirable gift of heavenly justification; while, at the same time, the bodily washing, as we shall 
 hereafter explain in its proper place, accomplishes in the soul that which it signifies. 
 
-## Proof From Scripture
+### Proof From Scripture
 
 That a Sacrament is to be numbered among signs is dearly inferred also from Scripture. Speaking of 
 circumcision, a Sacrament of the Old Law which was given to Abraham, the father of all believers," the Apostle 
@@ -5659,13 +5698,13 @@ Nor is it unimportant that the faithful should know that the Sacraments are sign
 more readily to believe that what the Sacraments signify, contain and effect is holy and august; and recognising 
 their sanctity they will be more disposed to venerate and adore the beneficence of God displayed towards us. 
 
-## "Sign of a Sacred Thing" : Kind of Sign Meant Here
+### "Sign of a Sacred Thing" : Kind of Sign Meant Here
 
 We now come to explain the words, sacred thing, which constitute the second part of the definition. To render 
 this explanation satisfactory we must enter somewhat more minutely into the accurate and acute remarks of St. 
 Augustine on the variety of signs. 
 
-## Natural Signs
+### Natural Signs
 
 Some signs are called natural. These, besides making themselves known to us, also convey a knowledge of 
 something else, an effect, as we have already said, common to all signs. Smoke, for instance, is a natural sign 
@@ -5673,7 +5712,7 @@ from which we immediately infer the existence of fire. It is called a natural si
 existence of fire, not by arbitrary institution, but from experience. If we see smoke, we are at once convinced of 
 the presence of fire, even though it is hidden. 
 
-## Signs Invented By Man,
+### Signs Invented By Man,
 
 Other signs are not natural, but conventional, and are invented by men to enable them to converse one with 
 another, to convey their thoughts to others, and in turn to learn the opinions and receive the advice of other men. 
@@ -5684,7 +5723,7 @@ is equally obvious that the sound of the trumpet, of the lute and of the lyre,-i
 sources of pleasure, but frequently signs of ideas -- is addressed to the ear. Through the latter sense especially 
 are also conveyed words, which are the best medium of communicating our inmost thoughts. 
 
-## Signs Instituted By God
+### Signs Instituted By God
 
 Besides the signs instituted by the will and agreement of men, of which we have been speaking so far, there are 
 certain other signs appointed by God. These latter, as all admit, are not all of the same kind. Some were 
@@ -5695,7 +5734,7 @@ Among these are manifestly to be numbered the Sacraments of the New Law. They ar
 man but by God, which we firmly believe have in themselves the power of producing the sacred effects of 
 which they are the signs. 
 
-## Kind of Sacred Thing Meant Here
+### Kind of Sacred Thing Meant Here
 
 We have seen that there are many kinds of signs. The sacred thing referred to is also of more than one kind. As 
 regards the definition already given of a Sacrament, theologians prove that by the words sacred thing is to be 
@@ -5710,12 +5749,12 @@ proved by the example of all the Sacraments, if we apply to the others what has 
 namely, that the solemn ablution of the body not only signifies, but has power to effect a sacred thing which is 
 wrought interiorly by the operation of the Holy Ghost. 
 
-## Other Sacred Things Signified By The Sacraments
+### Other Sacred Things Signified By The Sacraments
 
 Now it is especially appropriate that these mystical signs, instituted by God, should signify by the appointment 
 of the Lord not only one thing, but several things at once. 
 
-## All The Sacraments Signify Something Present, Something Past, Something Future:
+### All The Sacraments Signify Something Present, Something Past, Something Future:
 
 This applies to all the Sacraments; for all of them declare not only our sanctity and justification, but also two 
 other things most intimately connected with sanctification, namely, the Passion of Christ our Redeemer, which 
@@ -5734,7 +5773,7 @@ duties of true piety with ease and cheerfulness. Finally, when he adds: If we ha
 likeness of his death, we shall be also in the likeness of his resurrection, he teaches that Baptism clearly 
 foreshadows eternal life also, which we are to reach through its efficacy. 
 
-## A Sacrament Sometimes Signifies The Presence Of More Than One Thing
+### A Sacrament Sometimes Signifies The Presence Of More Than One Thing
 
 Besides the different significations already mentioned, a Sacrament also not infrequently indicates and marks 
 the presence of more than one thing. This we readily perceive when we reflect that the Holy Eucharist at once 
@@ -5744,7 +5783,7 @@ What has been said, therefore, cannot fail to supply the pastor with arguments t
 God is displayed, how many hidden miracles are contained in the Sacraments of the New Law; that thus all may 
 understand that they are to be venerated and received with utmost devotion.' 
 
-## Why the Sacraments were Instituted
+### Why the Sacraments were Instituted
 
 Of all the means employed to teach the proper use of the Sacraments, there is none more effectual than a careful 
 exposition of the reasons of their institution. Many such reasons are commonly assigned. 
@@ -5784,7 +5823,9 @@ Another very just cause for the institution of the Sacraments may be shown from 
 the heart we believe unto justice; but with the mouth confession is made unto salvation. By approaching them 
 we make a public profession of our faith in the sight of men. Thus, when we approach Baptism, we openly 
 profess our belief that, by virtue of its salutary waters in which we are washed, the soul is spiritually cleansed. 
-The Sacraments have also great influence, not only in exciting and exercising our faith, but also in inflaming 
+
+## The Sacraments have also great influence, not only in exciting and exercising our faith, but also in inflaming
+
 that charity with which we should love one another, when we recollect that, by partaking of these mysteries in 
 common, we are knit together in the closest bonds and are made members of one body. 
 A final consideration, which is of greatest importance for the life of a Christian, is that the Sacraments repress 
@@ -5844,7 +5885,9 @@ We now come to explain the number of the Sacraments. A knowledge of this point i
 faithful; for the greater the number of aids to salvation and the life of bliss which they understand to have been 
 provided by God, the more ardent will be the piety with which they will direct all the powers of their souls to 
 praise and proclaim His singular goodness towards us. 
-The Sacraments of the Catholic Church are seven in number, as is proved from Scripture, from the tradition 
+
+## The Sacraments of the Catholic Church are seven in number, as is proved from Scripture, from the tradition
+
 handed down to us from the Fathers, and from the authority of Councils. Why they are neither more nor less in 
 number may be shown, at least 
 with some probability, from the analogy that exists between the natural and the spiritual life. In order to exist, to 
@@ -5887,7 +5930,9 @@ It now remains to inquire from whom we have received these sacred and divine mys
 excellent in itself, undoubtedly receives an increased value from the dignity and excellence of him by whom it 
 is bestowed. 
 The present question, however, is not hard to answer. For since human justification comes from God, and since 
-the Sacraments are the wonderful instruments of justification, it is evident that one and the same God in Christ, 
+
+## the Sacraments are the wonderful instruments of justification, it is evident that one and the same God in Christ,
+
 must be acknowledged to be the author of justification and of the Sacraments. 
 Furthermore, the Sacraments contain a power and efficacy which reach the inmost soul; and as God alone has 
 power to enter into the hearts and minds of men, He alone, through Christ, is manifestly the author of the 
@@ -6082,7 +6127,8 @@ planting, and the cross of Christ, the reasons for all which appellations may be
 Romans. 
 St. Denis calls it the beginning of the most holy Commandments, for this obvious reason, that Baptism is, as it 
 were, the gate through which we enter into the fellowship of the Christian life, and begin thenceforward to obey 
-the Commandments. So much should be briefly explained concerning the name (of this Sacrament) . 
+
+## the Commandments. So much should be briefly explained concerning the name (of this Sacrament) .
 
 ### Definition Of Baptism
 
@@ -6201,7 +6247,9 @@ Persons, but to the Divine Essence, virtue and power, which are one and the same
 
 It is, however, to be observed that of the words contained in this form, which we have shown to be the complete 
 and perfect one, some are absolutely necessary, so that the omission of them renders the valid administration of 
-the Sacrament impossible; while others on the contrary, are not so essential as to affect its validity. 
+
+## the Sacrament impossible; while others on the contrary, are not so essential as to affect its validity.
+
 Of the latter kind is the word ego (I), the force of which is included in the word baptizo (I baptise). Nay more, 
 the Greek Church, adopting a different manner of expressing the form, and being of opinion that it is 
 unnecessary to make mention of the minister, omits the pronoun altogether. The form universally used in the 
@@ -6921,7 +6969,8 @@ voluntary, that by a willing obedience to His commands they may obtain eternal s
 After the person has been baptised, the priest anoints the crown of his head with chrism, thus giving him to 
 understand, that from that day he is united as a member to Christ, His Head, and ingrafted on His body; and that 
 he is, therefore, called a Christian from Christ, as Christ is so called from chrism. What the chrism signifies, the 
-prayers then offered by the priest, as St. Ambrose observes, sufficiently explain. 
+
+## prayers then offered by the priest, as St. Ambrose observes, sufficiently explain.
 
 ### The White Garment
 
@@ -7095,7 +7144,9 @@ kingdom of God; but He also, at His own Baptism, imparted to it the power of san
 these words of St. Chrysostom: The water of Baptism, had it not been sanctified by contact with the body of our 
 Lord, could not purge away the sins of believers. As, then, our Lord did not consecrate this matter of 
 Confirmation by actually using and handling it, it is necessary that it be consecrated by holy and religious 
-prayers; and this consecration can appertain to none save the Bishop, who has been appointed the ordinary 
+
+## prayers; and this consecration can appertain to none save the Bishop, who has been appointed the ordinary
+
 minister of this Sacrament. 
 
 ### The Form Of Confirmation
@@ -7109,7 +7160,9 @@ confirm thee with the chrism of salvation, in the name of the Father, and of the
 we call upon reason regarding this truth, we may also easily prove the same thing; for the form of a Sacrament 
 should comprise all those things that explain the nature and substance of the Sacrament itself. But in 
 Confirmation these three things are chiefly to be noted: the divine power which, as a principal cause, operates in 
-the Sacrament; the strength of mind and soul which is imparted by the sacred unction to the faithful unto 
+
+## the Sacrament; the strength of mind and soul which is imparted by the sacred unction to the faithful unto
+
 salvation; and finally, the sign impressed on him who is to enter upon the warfare of Christ. Now of these the 
 first is sufficiently declared by the concluding words of the form: In the name of the Father, and of the Son, and 
 of the Holy Ghost; the second, by the words immediately preceding them: I confirm thee with the chrism of 
@@ -7963,7 +8016,9 @@ bread and wine without a subject.
 
 What has been said in explanation of the two preceding points must facilitate for pastors the exposition of this 
 truth. For, since we have already proved that the body and blood of our Lord are really and truly contained in 
-the Sacrament, to the entire exclusion of the substance of the bread and wine, and since the accidents of bread 
+
+## the Sacrament, to the entire exclusion of the substance of the bread and wine, and since the accidents of bread
+
 and wine cannot inhere in the body and blood of Christ, it remains that, contrary to physical laws, they must 
 subsist of themselves, inhering in no subject. 
 
@@ -8033,7 +8088,8 @@ The reason, then, for saying that this Sacrament imparts grace, is that even the
 be clothed before they presume to approach the Holy Eucharist, lest they eat and drink judgment to themselves,' 
 
 is given to none unless they receive in wish and desire this very Sacrament. For the Eucharist is the end of all 
-the Sacraments, and the symbol of unity and brotherhood in the Church, outside which none can attain grace. 
+
+## the Sacraments, and the symbol of unity and brotherhood in the Church, outside which none can attain grace.
 
 ### The Grace Of The Eucharist Invigorates And Delights
 
@@ -9150,7 +9206,9 @@ addressed not to all, but to the Apostles only, to whom, in this function of the
 This is also most fitting, for as all the grace imparted by this Sacrament is communicated from Christ the Head 
 to His members, they who alone have power to consecrate His true body should alone have power to administer 
 this Sacrament to His mystical body, the faithful, particularly as these are qualified and disposed by means of 
-the Sacrament of Penance to receive the Holy Eucharist. 
+
+## the Sacrament of Penance to receive the Holy Eucharist.
+
 The scrupulous care which in the primitive ages of the Church guarded the right of the ordinary priest is easily 
 seen from the ancient decrees of the Fathers, which provided that no Bishop or priest, except in case of great 
 necessity, presume to exercise any function in the parish of another without the authority of him who governed 
@@ -9537,7 +9595,9 @@ practice piously and religiously.
 
 In all thy works, the Scriptures teach, remember thy last end, and thou shalt never sin, words which convey to 
 the pastor a silent admonition to omit no opportunity of exhorting the faithful to constant meditation on death. 
-The Sacrament of Extreme Unction, because inseparably associated with recollection of the day of death, 
+
+## The Sacrament of Extreme Unction, because inseparably associated with recollection of the day of death,
+
 should, it is obvious, form a subject of frequent instruction, not only because it is right to explain the mysteries 
 of salvation, but also because death, the inevitable doom of all men, when recalled to the minds of the faithful, 
 represses depraved passion. Thus shall they be less disturbed by the approach of death, and will pour forth their 
@@ -9601,7 +9661,9 @@ The form of the Sacrament is the word and solemn prayer which the priest uses at
 Unction may God pardon thee whatever sins thou hast committed by the evil use of sight, smell or touch. 
 That this is the true form of this Sacrament we learn from these words of St. James: Let them pray over him . . . 
 and the prayer of faith shall save the sick man. Hence we can see that the form is to be applied by way of 
-prayer. The Apostle does not say of what particular words that prayer is to consist; but this form has been 
+
+## prayer. The Apostle does not say of what particular words that prayer is to consist; but this form has been
+
 handed down to us by the faithful tradition of the Fathers, so that all the Churches retain the form observed by 
 the Church of Rome, the mother and mistress of all Churches. Some, it is true, alter a few words, as when for 
 
@@ -10725,11 +10787,11 @@ acquaintance with the interpretation of the law, in order to be able to pronounc
 on every act and omission; and, as the Apostle says, to teach sound doctrine, free from error, and heal the 
 diseases of the soul, which are sins, in order that the people may be acceptable to God, pursuers of good works. 
 
-## Motives for Observing the Commandments
+### Motives for Observing the Commandments
 
 In these instructions the pastor should propose to himself and to others motives for keeping the Commandments 
 
-## God Is The Giver Of The Commandments
+### God Is The Giver Of The Commandments
 
 Now among all the motives which induce men to obey this law the strongest is that God is its author. True, it is 
 said to have been delivered by angels, but no one can doubt that its author is God. This is most clear not only 
@@ -10743,13 +10805,17 @@ But, lest the people, aware of the abrogation of the Mosaic Law, may imagine tha
 Decalogue are no longer obligatory, it should be taught that when God gave the Law to Moses, He did not so 
 much establish a new code, as render more luminous that divine light b which the depraved morals and long-
 continued perversity of man had at that time almost obscured. It is most certain that we are not bound to obey 
-the Commandments because they were delivered by Moses, but because they are implanted in the hearts of all, 
+
+## the Commandments because they were delivered by Moses, but because they are implanted in the hearts of all,
+
 and have been explained and confirmed by Christ our Lord. 
 The reflection that God is the author of the law is highly useful, and exercises great influence in persuading (to 
 its observance); for we cannot doubt His wisdom and justice, nor can we escape His infinite power and might. 
 
 Hence, when by His Prophets He commands the law to be observed, He proclaims that He is the Lord God; and 
-the Decalogue itself opens: I am the Lord thy God; and elsewhere (we read): If I am a master, where is my fear? 
+
+## the Decalogue itself opens: I am the Lord thy God; and elsewhere (we read): If I am a master, where is my fear?
+
 That God has deigned to make clear to us His holy will on which depends our eternal salvation (is a 
 consideration) which, besides animating the faithful to the observance of His Commandments, must call forth 
 their gratitude Hence Scripture, in more passages than one, recalling this great blessing, admonishes the people 
@@ -10758,7 +10824,7 @@ and understanding in the sight of nations, that hearing all these precepts they 
 understanding people, a great nation; again, in the Psalm (we read): He hath not done in like manner to every 
 nation, and his judgments he hath not made manifest to them. 
 
-## The Commandments Were Proclaimed With Great Solemnity
+### The Commandments Were Proclaimed With Great Solemnity
 
 If the pastor explain the circumstances which accompanied the promulgation of the Law, as recorded in 
 Scripture, the faithful will easily understand with what piety and humility they should receive and reverence the 
@@ -10773,7 +10839,7 @@ In this the divine wisdom had solely for object to admonish us that the law of t
 pure and humble minds, and that over the neglect of His commands impend the heaviest chastisements of the 
 divine justice. 
 
-## The Observance Of The Commandments Is Not Difficult
+### The Observance Of The Commandments Is Not Difficult
 
 The pastor should also teach that the Commandments of God are not difficult, as these words of St Augustine 
 are alone sufficient to show: How, I ask, is it said to be impossible for man to love -- to love, I say, a beneficent 
@@ -10790,7 +10856,7 @@ commandest and command what thou pleasest. As, then, God is ever ready to help u
 of Christ the Lord, by which the prince of this world was cast out, there is no reason why anyone should be 
 disheartened by the difficulty of the undertaking. To him who loves, nothing is difficult. 
 
-## The Observance Of The Commandments Is Necessary
+### The Observance Of The Commandments Is Necessary
 
 Furthermore, it will contribute much to persuade (obedience to the law) if it is explained that such obedience is 
 necessary, especially since in these our days there are not wanting those who, to their own serious injury, have 
@@ -10806,7 +10872,7 @@ A man, it is true, may be justified, and from wicked may become righteous, befor
 acts, each of the Commandments; but no one who has arrived at the use of reason can be justified, unless he is 
 resolved to keep all of God's Commandments. 
 
-## The Observance Of The Commandments Is Attended By Many Blessings
+### The Observance Of The Commandments Is Attended By Many Blessings
 
 Finally, to leave nothing unsaid that may be calculated to induce the faithful to an observance of the law, the 
 pastor should point out how abundant and sweet are its fruits. This he will easily accomplish by referring to the 
@@ -10823,7 +10889,7 @@ In our observance of the law, however, we should not act so much for our own adv
 who, by means of the law, has revealed His will to man. If other creatures are obedient to God's will, how much 
 more reasonable that man should follow it? 
 
-## God's Goodness Invites Us To Keep His Commandments
+### God's Goodness Invites Us To Keep His Commandments
 
 Nor should it be omitted that God has preeminently displayed His clemency and the riches of His goodness in 
 this, that while He might have forced us to serve His glory without a reward, He has, notwithstanding, deigned 
@@ -10835,19 +10901,19 @@ have reference to earthly happiness, such, for example, as to be blessed in the 
 we are also promised a great reward in heaven, good measure, pressed down, shaken together and running over, 
 which, aided by the divine mercy, we merit by our holy and pious actions. 
 
-## The Promulgation of the Law
+### The Promulgation of the Law
 
 I am the Lord thy God who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not 
 have strange gods before me. Thou shalt not make to thyself a graven thing. The Law, although delivered to the 
 Jews by the Lord from the mountain, was long before written and impressed by nature on the heart of man, and 
 was therefore rendered obligatory by God for all men and all times. 
 
-## The People To Whom The Law Was Given
+### The People To Whom The Law Was Given
 
 It will be very useful, however, to explain carefully the words in which it was proclaimed to the Hebrews by 
 Moses, its minister and interpreter, and also the history of the Israelites, which is so full of mysteries. 
 
-## Epitome Of Jewish History
+### Epitome Of Jewish History
 
 (The pastor) should first tell that from among the nations of the earth God chose one which descended from 
 Abraham; that it was the divine will that Abraham should be a stranger in the land of Canaan, the possession of 
@@ -10862,7 +10928,7 @@ harassed and cruelly treated as slaves, God raised up Moses as a leader to lead 
 especially this deliverance that the Lord refers to in the opening words of the Law: I am the Lord thy God who 
 brought thee out of the land of Egypt, out of the house of bondage. 
 
-## Lessons To Be Drawn From Jewish History
+### Lessons To Be Drawn From Jewish History
 
 From all this the pastor should especially note that out of all the nations God chose only one whom He called 
 His people, and by whom He willed to be known and worshipped; not that they were superior to other nations in 
@@ -10887,7 +10953,7 @@ than four hundred years, in order that His people might be sustained by faith an
 when we come to explain the first Commandment, God wishes His children to depend on Him at all times and 
 to repose all their confidence in His goodness. 
 
-## The Time And Place In Which The Law Was Promulgated
+### The Time And Place In Which The Law Was Promulgated
 
 Finally, the time and place, in which the people of Israel received this Law from God should be noted. They 
 received it after they had been delivered from Egypt and had come into the wilderness; in order that, impressed 
@@ -10900,21 +10966,21 @@ pleasures of sense, the more disposed they are to accept heavenly doctrines. As 
 shall he teach knowledge, and whom shall he make to understand the hearing? Them that are weaned from the 
 milk, that are drawn away from the breasts. 
 
-##
+###
 
 ## THE FIRST
 
 COMMANDMENT : "I am the lord thy god, who brought thee out of the land of Egypt, out
 
-## of the house of bondage. Thou shalt not have strange gods before me. Thou shalt not make to thyself
+### of the house of bondage. Thou shalt not have strange gods before me. Thou shalt not make to thyself
 
 a graven thing, nor the likeness of any thing that is in heaven above, or in the earth beneath, nor of 
 
-## those things that are in the waters under the earth. Thou shalt not adore them, nor serve them. I am
+### those things that are in the waters under the earth. Thou shalt not adore them, nor serve them. I am
 
-## the lord thy god, mighty, jealous, visiting the iniquity of the fathers upon the children, to the third and
+### the lord thy god, mighty, jealous, visiting the iniquity of the fathers upon the children, to the third and
 
-## fourth generation of them that hate me, and showing mercy unto thousands of them that love me, and keep my commandments." "I am the Lord thy God"
+### fourth generation of them that hate me, and showing mercy unto thousands of them that love me, and keep my commandments." "I am the Lord thy God"
 
 The pastor should use his best endeavours to induce the faithful to keep continually in view these words: I am 
 the Lord thy God. From them they will learn that their Lawgiver is none other than their Creator, by whom they 
@@ -10922,7 +10988,7 @@ were made and are preserved, and that they may truly repeat: He is the Lord our 
 his pasture and the sheep of his hand. The frequent and earnest inculcation of these words will also serve to 
 induce the faithful more readily to observe the Law and avoid sin. 
 
-## "Who Brought thee out of the Land of Egypt, out of the House of Bondage"
+### "Who Brought thee out of the Land of Egypt, out of the House of Bondage"
 
 The next words, who brought thee out of the land of Egypt, out of the house of bondage, seem to relate solely to 
 the Jews liberated from the bondage of Egypt. But if we consider the meaning of the salvation of the entire 
@@ -10943,20 +11009,20 @@ we then be any longer capable of sinning against the Lord our God, and crucifyin
 truly free, and with that liberty wherewith Christ has made us free, let us, as we heretofore yielded our members 
 to serve injustice, henceforward yield them to serve justice to sanctification. 
 
-## "Thou shalt not have Strange Gods before Me"
+### "Thou shalt not have Strange Gods before Me"
 
 The pastor should teach that the first part of the Decalogue contains our duties towards God; the second part, 
 our duties towards our neighbour. The reason (for this order) is that the services we render our neighbour are 
 rendered for the sake of God; for then only do we love our neighbour as God commands when we love him for 
 God's sake. The Commandments which regard God are those which were inscribed on the first table of the Law. 
 
-## The Above Words Contain A Command And A Prohibition
+### The Above Words Contain A Command And A Prohibition
 
 (The pastor) should next show that the words just quoted contain a twofold precept, the one mandatory, the 
 other prohibitory. When it is said: Thou shalt not have strange gods before me, it is equivalent to saying: Thou 
 shalt worship me the true God; thou shalt not worship strange gods. 
 
-## What They Command
+### What They Command
 
 The (mandatory part) contains a precept of faith, hope and charity. For, acknowledging God to be immovable, 
 immutable, always the same, we rightly confess that He is faithful and entirely just. Hence in assenting to His 
@@ -10965,7 +11031,7 @@ His clemency, His willing beneficence, and not repose in Him all his hopes? Fina
 of His goodness and love, which He lavishes on us, and not love Him? Hence the exordium and the conclusion 
 used by God in Scripture when giving His commands: I, the Lord. 
 
-## What They Forbid
+### What They Forbid
 
 The (negative) part of this Commandment is comprised in these words: Thou shalt not have strange gods before 
 me. This the Lawgiver subjoins, not because it is not sufficiently expressed in the affirmative part of the 
@@ -10975,14 +11041,14 @@ account of the blindness of many who of old professed to worship the true God an
 gods. Of these there were many even among the Hebrews, whom Elias reproached with having halted between 
 two sides, and also among the Samaritans, who worshipped the God of Israel and the gods of the nations. 
 
-## Importance Of This Commandment
+### Importance Of This Commandment
 
 After this it should be added that this is the first and principal Commandment, not only in order, but also in its 
 nature, dignity and excellence. God is entitled to infinitely greater love and obedience from us than any lord or 
 king. He created us, He governs us, He nurtured us even in the womb, brought us into the world, and still 
 supplies us with all the necessaries of life and maintenance. 
 
-## Sins Against This Commandment
+### Sins Against This Commandment
 
 Against this Commandment all those sin who have not faith. hope and charity. such sinners are very numerous, 
 for they include all who fall into heresy, who reject what holy mother the Church proposes for our belief, who 
@@ -10990,7 +11056,7 @@ give credit to dreams. fortune-telling, and such illusions; those who, despairin
 goodness of God; and those who rely solely on wealth, or health and strength of body. But these matters are 
 developed more at length in treatises on sins and vices. 
 
-## Veneration And Invocation Of Angels And Saints Not Forbidden By This Commandment
+### Veneration And Invocation Of Angels And Saints Not Forbidden By This Commandment
 
 In explanation of this Commandment it should be accurately taught that the veneration and invocation of holy 
 Angels and of the blessed who now enjoy the glory of heaven, and likewise the honour which the Catholic 
@@ -11002,7 +11068,7 @@ to adore the Angels, yet they do not give to Angels that honour which is due to 
 And if we sometimes read that Angels refused to be worshipped by men, we are to know that they did so 
 because the worship which they refused to accept was the honour due to God alone. 
 
-## It Is Lawful To Honour And Invoke The Angels
+### It Is Lawful To Honour And Invoke The Angels
 
 The Holy Spirit who says: Honour and glory to God alone, commands us also to honour our parents and elders; 
 and the holy men who adored one God only are also said in Scripture to have adored, that is, supplicated and 
@@ -11022,7 +11088,7 @@ the Angel with whom he wrestled to bless him; nay, he even compelled him, declar
 go until he had blessed him. And not only did he invoke the blessing of the Angel whom he saw, but also of him 
 whom he saw not. The angel, said he, who delivers me from all evils, bless these boys. 
 
-## It Is Lawful To Honour And Invoke The Saints
+### It Is Lawful To Honour And Invoke The Saints
 
 From all this we may conclude that to honour the Saints who nave slept in the Lord, to invoke them, and to 
 venerate their sacred relics and ashes, far from diminishing, tends considerably to increase the glory of God, in 
@@ -11041,7 +11107,7 @@ salvation and obtain for us by their merits and influence many blessings from Go
 the conversion of one sinner, will not the citizens of heaven assist those who repent? When they are invoked, 
 will they not obtain for us the pardon of sins, and the grace of God ? 
 
-## Objections Answered
+### Objections Answered
 
 Should it be said, as some say, that the patronage of the Saints is unnecessary, because God hears our prayers 
 without the intervention of a mediator, this impious assertion is easily met by the observation of St. Augustine: 
@@ -11052,7 +11118,7 @@ Should it be alleged that to recur to the patronage and intercession of the Sain
 faith, what will (the objectors) answer regarding the centurion whose faith was highly eulogised by the Lord 
 God Himself, despite the fact that he had sent to the Redeemer the ancients of the Jews, to intercede for his sick 
 
-## servant?
+### servant?
 
 True, there is but one Mediator, Christ the Lord, who alone has reconciled us to the heavenly Father through His 
 blood, and who, having obtained eternal redemption, and having entered once into the holies, ceases not to 
@@ -11062,7 +11128,7 @@ the Apostle would never have recommended himself with so much earnestness to the
 earth. For the prayers of the living would lessen the glory and dignity of Christ's Mediatorship not less than the 
 intercession of the Saints in heaven. 
 
-## The Honour And Invocation Of Saints Is Approved By Miracles
+### The Honour And Invocation Of Saints Is Approved By Miracles
 
 But who would not be convinced of the honour due the Saints and of the help they give us by the wonders 
 wrought at their tombs? Diseased eyes, hands, and other members are restored to health; the dead are raised to 
@@ -11084,14 +11150,14 @@ in the Church, and hence we willingly adopt it. Furthermore, a very good reason 
 suggests itself. It was fitting that to the first Commandment should be added the rewards or punishments 
 entailed by each one of the Commandments. 
 
-## The Above Words Do Not Forbid All Images
+### The Above Words Do Not Forbid All Images
 
 Let no one think that this Commandment entirely forbids the arts of painting, engraving or sculpture. The 
 Scriptures inform us that God Himself commanded to be made images of Cherubim, and also the brazen 
 serpent. The interpretation, therefore, at which we must arrive, is that images are prohibited only inasmuch as 
 they are used as deities to receive adoration, and so to injure the true worship of God. 
 
-## They Forbid Idols And Representations Of The Deity
+### They Forbid Idols And Representations Of The Deity
 
 As far as this Commandment is concerned, it is clear that there are two chief ways in which God's majesty can 
 be seriously outraged. The first way is by worshipping idols and images as God, or believing that they possess 
@@ -11117,7 +11183,7 @@ idols: You saw not, he says, any similitude in the day that the Lord spoke to yo
 fire. These words this wisest of legislators spoke, lest through error of any sort, they should make an image of 
 the Deity, and transfer to any thing created, the honour due to God. 
 
-## They Do Not Forbid Representations Of The Divine Persons And Angels
+### They Do Not Forbid Representations Of The Divine Persons And Angels
 
 To represent the Persons of the Holy Trinity by certain forms under which they appeared in the Old and New 
 Testaments no one should deem contrary to religion or the law of God. For who can be so ignorant as to believe 
@@ -11131,7 +11197,7 @@ all ministering spirits, sent to minister for them who shall receive the inherit
 What attributes of the Holy Ghost are represented under the forms of a dove, and of tongues of fire, in the 
 Gospel and in the Acts of the Apostles, is a matter too well known to require lengthy explanation. 
 
-## They Do Not Forbid Images Of Christ And The Saints
+### They Do Not Forbid Images Of Christ And The Saints
 
 But to make and honour the images of Christ our Lord, of His holy and virginal Mother, and of the Saints, all of 
 whom were clothed with human nature and appeared in human form, is not only not forbidden by this 
@@ -11140,7 +11206,7 @@ position is confirmed by the monuments of the Apostolic age, the General Council
 writings of so many among the Fathers, eminent alike for sanctity and learning, all of whom are of one accord 
 upon the subject. 
 
-## Usefulness Of Sacred Images
+### Usefulness Of Sacred Images
 
 But the pastor should not content himself with showing that it is lawful to have images in churches, and to pay 
 them honour and respect, since this respect is referred to their prototypes. He should also show that the 
@@ -11160,7 +11226,7 @@ honoured, but also that they may admonish us by their examples to imitate their 
 "I am the Lord thy God, mighty, jealous, visiting the iniquity of the fathers upon the children, to the 
 third and fourth generation of them that hate me, and showing mercy unto thousands of them that love 
 
-## me, and keep my commandments."
+### me, and keep my commandments."
 
 In this concluding clause of this Commandment two things occur which demand careful exposition. The first is, 
 that while, on account of the enormous guilt incurred by the violation of the first Commandment, and the 
@@ -11173,7 +11239,7 @@ who is in heaven, he shall enter into the kingdom of heaven; and also: Every tre
 shall be cut down and cast into the fire; Whosoever is angry with his brother shall be guilty of the judgment; If 
 you will not forgive men, neither will your Father forgive you your offences. 
 
-## How The Sanction Contained In The Above Words Should Be Proposed
+### How The Sanction Contained In The Above Words Should Be Proposed
 
 The other observation is that this concluding part (of the Commandment) is to be proposed in a very different 
 manner to the spiritual and to the carnal Christian. To the spiritual who is animated by the Spirit of God, and 
@@ -11190,7 +11256,7 @@ burdensome and severe. Wherefore they should be encouraged by pious exhortation,
 were, in the way of the law. The pastor, therefore, as often as he has occasion to explain any of the 
 Commandments should keep this in view. 
 
-## Mighty
+### Mighty
 
 But both the carnal and the spiritual should be spurred on, especially by two considerations which are contained 
 in this concluding clause, and are highly calculated to enforce obedience to the divine law. 
@@ -11205,7 +11271,7 @@ as to believe itself unable to withstand his assaults; while, on the contrary, a
 wavers not, but relies confidently on the strength and power of God, animates and confirms man. For it says: 
 The Lord is my light and my salvation; whom shall I fear? 
 
-## Jealous
+### Jealous
 
 The second spur is the jealousy of God. Man is sometimes tempted to think that God takes no interest in human 
 affairs, and does not even care whether we observe or neglect His law. This error is the source of the great 
@@ -11220,14 +11286,14 @@ sweet and pleasant. Among men there is no love more ardent, no greater or more i
 who are united by marriage. Hence when God frequently compares Himself to a spouse or husband and calls 
 Himself a jealous God, He shows the excess of His love towards us. 
 
-## Zeal In The Service Of God
+### Zeal In The Service Of God
 
 The pastor, therefore, should here teach that men should be so warmly interested in promoting the worship and 
 honour of God as to be said rather to be jealous of Him than to love Him, in imitation of Him who says of 
 Himself: With zeal have I been zealous for the Lord God of hosts, or rather of Christ Himself, who says: The 
 zeal of thy house hath eaten me up. 
 
-## "Visiting The Iniquity," Etc.
+### "Visiting The Iniquity," Etc.
 
 #### Concerning the threat contained in this Commandment it should be explained that God will not suffer sinners to
 
@@ -11254,31 +11320,31 @@ have been excited, pays the penalty not only of his own sins, but also of those 
 dreads not to walk in the footsteps of a wicked father, in presence of a rigorous judge, should be compelled in 
 the present life to expiate the crimes of his wicked parent. 
 
-## "And Showing Mercy, Etc.
+### "And Showing Mercy, Etc.
 
 The pastor should next observe that the goodness and mercy of God far exceed His justice. He is angry to the 
 third and fourth generation; but He bestows His mercy on thousands. 
 
-## "Of Them That Hate Me"
+### "Of Them That Hate Me"
 
 The words of them that hate me display the grievousness of sin. What more wicked, what more detestable than 
 to hate God, the supreme goodness and sovereign truth? This, however, is the crime of all sinners; for as he that 
 hath God's commandments and keepeth them, loveth God, so he who despises His law and violates His 
 Commandments, is justly said to hate God. 
 
-## Of Them That Love Me
+### Of Them That Love Me
 
 The concluding words: And to them that love me, point out the manner and motive of observing the law. Those 
 who obey the law of God must needs be influenced in its observance by the same love and charity which they 
 bear to God, a principle which should be brought to mind in the instructions on all the other Commandments. 
 
-##
+###
 
 ## THE SECOND
 
 COMMANDMENT : "Thou shalt not take the name of the lord thy god in vain"
 
-## Why This Commandment Is Distinct From The First
+### Why This Commandment Is Distinct From The First
 
 The second Commandment of the divine law is necessarily comprised in the first, which commands us to 
 worship God in piety and holiness For he who requires that honour be paid him, also requires that he be spoken 
@@ -11288,7 +11354,7 @@ However, on account of the importance of the obligation, God wished to make the 
 own divine and most holy name to be honoured, a distinct Commandment, expressed in the clearest and 
 simplest terms. 
 
-## Importance Of Instruction On This Commandment
+### Importance Of Instruction On This Commandment
 
 The above observation should strongly convince the pastor that on this point it is not enough to speak in general 
 terms; that the importance of the subject is such as to require it to be dwelt upon at considerable length, and to 
@@ -11303,7 +11369,7 @@ the most unimportant and trivial, does not profane the most holy name of God tho
 It therefore becomes more imperative on the pastor not to neglect, carefully and frequently, to admonish the 
 faithful how grievous and detestable is this crime. 
 
-## Positive Part of this Commandment
+### Positive Part of this Commandment
 
 But in the exposition of this Commandment it should first be shown that besides a negative, it also contains a 
 positive precept, commanding the performance of a duty To each of these a separate explanation should be 
@@ -11321,24 +11387,24 @@ understood to refer to any one name, but to every name by which God is generally
 by many names, such as the Lord, the Almighty, the Lord of hosts, the King of kings, the Strong, and by others 
 of similar nature, which we meet in Scripture and which are all entitled to the same and equal veneration 
 
-## Various Ways Of Honouring God's Name
+### Various Ways Of Honouring God's Name
 
 It should next be taught how due honour is to be given to the name of God Christians, whose tongues should 
 constantly celebrate the divine praises, are not to be ignorant of a matter so important, indeed, most necessary to 
 salvation The name of God may be honoured in a variety of ways; but all may be reduced to those that follow. 
 
-## Public Profession Of Faith
+### Public Profession Of Faith
 
 In the first place, God's name is honoured when we publicly and confidently confess Him to be our Lord and 
 our God; and when we acknowledge and also proclaim Christ to be the author of our salvation. 
 
-## Respect For The Word Of God
+### Respect For The Word Of God
 
 (It is also honoured) when we pay a religious attention to the word of God, which announces to us His will; 
 make it the subject of our constant meditation; and strive by reading or hearing it, according to our respective 
 capacities and conditions of life, to become acquainted with it. 
 
-## Praise And Thanksgiving
+### Praise And Thanksgiving
 
 Again, we honour and venerate the name of God, when, from a sense of religious duty, we celebrate His praises, 
 and under all circumstances, whether prosperous or adverse, return Him unbounded thanks Thus spoke the 
@@ -11350,7 +11416,7 @@ labour under affliction of mind or body, when oppressed by misery and misfortune
 thoughts, and all the powers of our souls, to the praises of God, saying with Job Blessed be the name of the 
 Lord. 
 
-## Prayer
+### Prayer
 
 The name of God is not less honoured when we confidently invoke His assistance, either to relieve us from our 
 afflictions, or to give us constancy and strength to endure them with fortitude This is in accordance with the 
@@ -11358,7 +11424,7 @@ Lord's own wishes Call upon me, He says, in the day of trouble: I will deliver t
 We have illustrious examples of such supplications in many passages of Scripture, and especially in the 
 sixteenth, forty-third, and one hundred and eighteenth Psalms. 
 
-## Oaths
+### Oaths
 
 Finally, we honour the name of God when we solemnly call upon Him to witness the truth of what we assert 
 This mode of honouring God's name differs much from those already- enumerated Those means are in their 
@@ -11378,7 +11444,7 @@ at length it was that the custom of oaths was introduced. For the perfidy and wi
 that it was with difficulty that anyone could be induced to credit the assertion of another, and they began to call 
 on God as a witness. 
 
-## Meaning Of An Oath
+### Meaning Of An Oath
 
 Since in explaining this part of the Commandment the chief object is to teach the faithful how to render an oath 
 reverential and holy, it is first to be observed, that to swear, whatever the form of words may be, is nothing else 
@@ -11395,7 +11461,7 @@ however, deny that some of these forms may be used without constituting an oath;
 be found useful to observe what has been said with regard to an oath, and to conform exactly to the same rule 
 and standard. 
 
-## Oaths Are Affirmatory And Promissory
+### Oaths Are Affirmatory And Promissory
 
 Oaths are of two kinds The first is an affirmatory oath, and is taken when we religiously affirm anything, past or 
 present. Such was the affirmation of the Apostle in his Epistle to the Galatians: Behold, before God, I lie not. 
@@ -11404,7 +11470,7 @@ taken when we promise and affirm for certain that such or such a thing will be d
 David, who, swearing by the Lord his God, promised to Bethsabee his wife that her son Solomon should be heir 
 to his kingdom and successor to his throne. 
 
-## Conditions Of A Lawful Oath
+### Conditions Of A Lawful Oath
 
 Although to constitute an oath it is sufficient to call God to witness, yet to constitute a holy and just oath many 
 other conditions are required, which should be carefully explained These, as St Jerome observes, are briefly 
@@ -11412,7 +11478,7 @@ enumerated in the words of Jeremias Thou shalt swear: as the Lord liveth, in tru
 justice, words which briefly sum up all the conditions that constitute the perfection of an oath, namely, truth, 
 judgment, justice. 
 
-## First Condition: Truth
+### First Condition: Truth
 
 Truth, then, holds the first place in an oath What is asserted must be true and he who swears must believe what 
 he swears to be true, being influenced not by rash judgment or mere conjecture, but by solid reasons. 
@@ -11425,7 +11491,7 @@ it should happen that, if he wished to keep faith and observe his promises, he m
 enmity of God That truth is necessary to an oath David also declares in these words: He that sweareth to his 
 neighbour, and deceiveth not. 
 
-## Second Condition: Judgment
+### Second Condition: Judgment
 
 The second condition of an oath is judgment. An oath is not to be taken rashly and inconsiderately, but after 
 deliberation and reflection. When about to take an oath, therefore, one should first consider whether he is 
@@ -11441,7 +11507,7 @@ Since, therefore, judgment and prudence are necessary, and since children are no
 tender years, to understand and judge accurately, Pope St. Cornelius decreed that an oath should not be 
 administered to children before puberty, that is, before their fourteenth year. 
 
-## Third Condition: Justice
+### Third Condition: Justice
 
 The last condition (of an oath) is justice, which is especially requisite in promissory oaths. Hence, if a person 
 swear to do what is unjust or unlawful, he sins by taking the oath, and adds sin to sin by executing his promise. 
@@ -11449,7 +11515,7 @@ Of this the Gospel supplies an example. King Herod, bound by a rash oath, gave t
 John the Baptist as a reward for her dancing. Such was also the oath taken by the Jews, who, as we read in the 
 Acts of the Apostles, bound themselves by oath not to eat, until they had killed Paul. 
 
-## Lawfulness Of Oaths
+### Lawfulness Of Oaths
 
 These explanations having been given, there can be no doubt that they who observe the above conditions and 
 who guard their oaths with these qualities as with bulwarks, may swear with a safe conscience. 
@@ -11474,7 +11540,7 @@ truth, as a witness whom it would be wicked and impious to distrust.
 With regard to the end of an oath, its scope and intent is to establish the justice and innocence of man, and to 
 terminate disputes and contests. This is the doctrine of the Apostle in his Epistle to the Hebrews. 
 
-## An Objection Against Oaths
+### An Objection Against Oaths
 
 Nor does this doctrine at all clash with these words of the Redeemer, recorded in St. Matthew: You have heard 
 that it was said to them of old: "Thou shalt not foreswear thyself, but thou shalt perform thy oaths to the Lord"; 
@@ -11500,7 +11566,7 @@ swearing, for in it there are many falls; and again: A man that sweareth much sh
 scourge shall not depart from his house. In the works of St. Basil and St. Augustine against lying, much more 
 can be found on this subject. 
 
-## Negative Part of this Commandment
+### Negative Part of this Commandment
 
 So far we have considered what this Commandment requires. It now remains to speak of what it prohibits; 
 namely, to take the name of God in vain. It is clear that he who swears rashly and without deliberation commits 
@@ -11512,7 +11578,7 @@ falsehood, offers a grievous Injury to God, charging Him either with ignorance, 
 matter could be unknown to Him, or with malice and dishonesty, as though God could bear testimony to 
 falsehood. 
 
-## Various Ways In Which Cod's Name Is Dishonoured: False Oaths
+### Various Ways In Which Cod's Name Is Dishonoured: False Oaths
 
 Among false swearers are to be numbered not only those who affirm as true what they know to be false, but also 
 those who swear to what is really true, believing it to be false. For since the essence of a lie consists in speaking 
@@ -11524,7 +11590,7 @@ Again, he who binds himself by oath to the performance of anything, not intendin
 having had the intention, neglect its performance, guilty of the same sin. This equally applies to those who, 
 having bound themselves to God by vow, neglect its fulfilment. 
 
-## Unjust Oaths
+### Unjust Oaths
 
 This Commandment is also violated, if justice, which is one of the three conditions of an oath, be wanting. 
 Hence he who swears to commit a mortal sin, for example, to perpetrate murder, violates this Commandment, 
@@ -11534,19 +11600,19 @@ To these are to be added oaths sworn through a sort of contempt, such as an oath
 counsels, such as celibacy and poverty. None, it is true, are obliged to embrace these divine counsels, but by 
 swearing not to observe them, one contemns and despises them. 
 
-## Rash Oaths
+### Rash Oaths
 
 This Commandment is also sinned against, and judgment is violated when one swears to what is true and what 
 he believes to be true if his motives are light conjectures and far-fetched reasons. For, notwithstanding its truth, 
 such an oath is not unmixed with a sort of falsehood, seeing that he who swears with such indifference exposes 
 himself to extreme danger of perjury. 
 
-## Oaths By False Gods
+### Oaths By False Gods
 
 To swear by false gods is likewise to swear falsely. What more opposed to truth than to appeal to lying and false 
 deities as to the true God? 
 
-## Irreverent Speech
+### Irreverent Speech
 
 Scripture when it prohibits perjury, says: Thou shalt not profane the name of thy God, thereby forbidding all 
 irreverence towards all other things to which, in accordance with this Commandment, reverence is due. Of this 
@@ -11561,20 +11627,20 @@ which it contains, and which should be honoured with all reverence, turning them
 scurrility, fable, vanity, flattery, detraction, divination, satire and the like -- crimes which the Council of Trent 
 commands to be severely punished. 
 
-## Neglect Of Prayer
+### Neglect Of Prayer
 
 In the next place, as they honour God who, in their affliction implore His help, so they, who do not invoke His 
 aid, deny Him due honour; and these David rebukes when he says: They have not called upon the Lord, they 
 trembled for fear where there was no fear. 
 
-## Blasphemy
+### Blasphemy
 
 Still more enormous is the guilt of those who, with impure and defiled lips, dare to curse or blaspheme the holy 
 name of God-that name which is to be blessed and praised above measure by all creatures, or even the names of 
 the Saints who reign with Him in glory.' So atrocious and horrible is this crime that the Sacred Scriptures, 
 sometimes when speaking of blasphemy use the word blessing. 
 
-## Sanction of this Commandment
+### Sanction of this Commandment
 
 As, however, the dread of punishment has often a powerful effect in checking the tendency to sin, the pastor, in 
 order the more effectively to move the minds of men and the more easily to induce to an observance of this 
@@ -11601,15 +11667,15 @@ Deterred, therefore, by a holy dread, the faithful should use every exertion to 
 word that men shall speak, they shall render an account on the day of judgment, what shall we say of those 
 heinous crimes which involve great contempt of the divine name? 
 
-##
+###
 
 THIRD COMMANDMENT : "Remember that thou keep holy the sabbath day. Six days shalt thou
 labour, and do all thy works; but on the seventh day is the sabbath of the lord thy god; thou shalt do 
 no work on it, neither thou nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, 
 
-## nor thy beast, nor the stranger that is within thy gates. For in six days the lord made heaven and
+### nor thy beast, nor the stranger that is within thy gates. For in six days the lord made heaven and
 
-## earth, and the sea, and all things that are in them, and rested on the seventh day; wherefore the lord blessed the seventh day and sanctified it." Reasons For This Commandment
+### earth, and the sea, and all things that are in them, and rested on the seventh day; wherefore the lord blessed the seventh day and sanctified it." Reasons For This Commandment
 
 This Commandment of the Law rightly and in due order prescribes the external worship which we owe to God; 
 for it is, as it were, a consequence of the preceding Commandment. For if we sincerely and devoutly worship 
@@ -11617,7 +11683,7 @@ God, guided by the faith and hope we have in Him, we cannot but honour Him with 
 thanksgiving. Now since we cannot easily discharge these duties while occupied in worldly affairs, a certain 
 fixed time has been set aside so that it may be conveniently performed. 
 
-## Importance Of Instruction On This Commandment
+### Importance Of Instruction On This Commandment
 
 The observance of this Commandment is attended with wondrous fruit and advantage. Hence it is of the highest 
 importance for the pastor to use the utmost diligence in its exposition. The word Remembers with which the 
@@ -11636,7 +11702,7 @@ Rulers and magistrates should be admonished and exhorted to lend the sanction an
 the pastors of the Church, particularly in upholding and extending the worship of God, and in commanding 
 obedience to the injunctions of the priests. 
 
-## How The Third Differs From The Other Commandments
+### How The Third Differs From The Other Commandments
 
 With regard to the exposition of this Commandment, the faithful are carefully to be taught how it agrees with, 
 and how it differs from the others, in order that they may understand why we observe and keep holy not 
@@ -11658,7 +11724,7 @@ afraid of you lest perhaps I have laboured in vain amongst you. And he writes to
 Colossians. 
 So much regarding the difference (between this and the other Commandments) . 
 
-## How The Third Is Like The Other Commandments
+### How The Third Is Like The Other Commandments
 
 This Commandment is like the others, not in so far as it is a precept of the ceremonial law, but only as it is a 
 natural and moral precept. The worship of God and the practice of religion, which it comprises, have the natural 
@@ -11669,25 +11735,25 @@ also requires that some time be devoted to the mind, to refresh itself by the co
 some time should be devoted to the worship of the Deity and to the practice of religion, this (Commandment) 
 doubtless forms part of the moral law. 
 
-## The Jewish Sabbath Changed To Sunday By The Apostles
+### The Jewish Sabbath Changed To Sunday By The Apostles
 
 The Apostles therefore resolved to consecrate the first day of the week to the divine worship, and called it the 
 Lord's day. St. John in the Apocalypse makes mention of the Lord's day; and the Apostle commands collections 
 to be made on the first day of the week, that is, according to the interpretation of St. Chrysostom, on the Lord's 
 day. From all this we learn that even then the Lord's day was kept holy in the Church. 
 
-## Four Parts Of This Commandment
+### Four Parts Of This Commandment
 
 In order that the faithful may know what they are to do and what to avoid on the Lord's day, it will not be 
 foreign to his purpose, if the pastor, dividing the Commandment into its four natural parts, explain each word of 
 it carefully. 
 
-## First Part of this Commandment
+### First Part of this Commandment
 
 In the first place, then, he should explain generally the meaning of these words: Remember that thou keep holy 
 the sabbath day. 
 
-## "Remember"
+### "Remember"
 
 The word remember is appropriately made use of at the beginning of the Commandment to signify that the 
 sanctification of that particular day belonged to the ceremonial law. Of this it would seem to have been 
@@ -11702,7 +11768,7 @@ occasions which may lead to a forgetfulness of this Commandment, such as the evi
 neglect its observance, and an inordinate love of amusements and sports, which frequently withdraw from the 
 holy and religious observance of the Lord's day. 
 
-## Sabbath
+### Sabbath
 
 We now come to the meaning of the word sabbath. Sabbath is a Hebrew word which signifies cessation. To 
 keep the Sabbath, therefore, means to cease from labor and to rest. In this sense the seventh day was called the 
@@ -11712,7 +11778,7 @@ Later on, not only the seventh day, but, in honour of that day, the entire week 
 in this meaning of the word, the Pharisee says in St. Luke: I fast twice in a sabbath. So much will suffice with 
 regard to the signification of the word sabbath. 
 
-## "Keep Holy"
+### "Keep Holy"
 
 In the Scriptures keeping holy the Sabbath means a cessation from bodily labor and from business, as is clear 
 from the following words of the Commandment: Thou shalt do no work on it. But this is not all that it means; 
@@ -11727,14 +11793,14 @@ The true and proper meaning, therefore, of this Commandment tends to this, that 
 apart some fixed time, when, disengaged from bodily labor and worldly affairs, we may devote our whole 
 being, soul and body, to the religious veneration of God. 
 
-## Second Part of this Commandment
+### Second Part of this Commandment
 
 The second part of the precept declares that the seventh day was consecrated by God to His worship; for it is 
 written: Six days shalt thou labour, and do all thy works; but on the seventh day is the sabbath of the Lord thy 
 God. From these words we learn that the Sabbath is consecrated to the Lord, that we are required on that day to 
 render Him the duties of religion, and to know that the seventh day is a sign of the Lord's rest. 
 
-## "The Seventh Day Is The Sabbath Of The Lord Thy God"
+### "The Seventh Day Is The Sabbath Of The Lord Thy God"
 
 This particular day was fixed for the worship of God, because it would not have been well to leave to a rude 
 people the choice of a time of worship, lest, perhaps, they might have imitated the festivals of the Egyptians. 
@@ -11762,12 +11828,12 @@ found there; but a path shall be there, and it shall be called the holy way; for
 the Saints obtain every good. The pastor therefore should exhort and animate the faithful in the words: Let us 
 hasten therefore to enter into that rest. 
 
-## Other Festivals Observed By The Jews
+### Other Festivals Observed By The Jews
 
 Besides the seventh day, the Jews observed other festivals and holydays, instituted by the divine law to awaken 
 the recollection of the principal favours (conferred on them by the Almighty). 
 
-## The Sabbath, Why Changed To Sunday
+### The Sabbath, Why Changed To Sunday
 
 But the Church of God has thought it well to transfer the celebration and observance of the Sabbath to Sunday. 
 For, as on that day light first shone on the world, so by the Resurrection of our Redeemer on the same day, by 
@@ -11776,7 +11842,7 @@ Apostles would have it called the Lord's day.
 We also learn from the Sacred Scriptures that the first day of the week was held sacred because on that day the 
 work of creation commenced, and on that day the Holy Ghost was given to the Apostles. 
 
-## Other Festivals Observed By The Church
+### Other Festivals Observed By The Church
 
 From the very infancy of the Church and in the following centuries other days were also appointed by the 
 Apostles and the holy Fathers, in order to commemorate the benefits bestowed by God. Among these days to be 
@@ -11785,7 +11851,7 @@ next place are the days which are dedicated to the most Blessed Virgin Mother, t
 other Saints who reign with Christ. In the celebration of their victories the divine power and goodness are 
 praised, due honour is paid to their memories, and the faithful are encouraged to imitate them. 
 
-## "Six Days Shalt Thou Labour And Do All Thy Work"
+### "Six Days Shalt Thou Labour And Do All Thy Work"
 
 And as the observance of the precept is very strongly assisted by these words: Six days shalt thou labour, but on 
 the seventh day is the sabbath of God, the pastor should therefore carefully explain them to the people. For from 
@@ -11797,12 +11863,12 @@ These words also enjoin as a duty commanded by God that in six days we do all ou
 festival what should have been done during the other days of the week, thereby distracting the attention from 
 the things of God. 
 
-## Third Part of this Commandment
+### Third Part of this Commandment
 
 The third part of the Commandment comes next to be explained. It points out, to a certain extent, the manner in 
 which we are to keep holy the Sabbath day, and explains particularly what we are forbidden to do on that day. 
 
-## Works Forbidden
+### Works Forbidden
 
 Thou shalt do no work on it, says the Lord, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy 
 maid-servant, nor thy beast, nor the stranger that is within thy gates. 
@@ -11812,7 +11878,7 @@ but because they withdraw the attention from the worship of God, which is the gr
 The faithful should be still more careful to avoid sin, which not only withdraws the mind from the 
 contemplation of divine things, but entirely alienates us from the love of God. 
 
-## Works Permitted
+### Works Permitted
 
 But whatever regards the celebration of divine worship, such as the decoration of the altar or church on 
 occasion of some festival, and the like, although servile works, are not prohibited; and hence our Lord says: The 
@@ -11822,7 +11888,7 @@ neglected, will be lost; for this is expressly permitted by the sacred canons.
 There are many other things which our Lord in the Gospel declares lawful on festivals and which may be seen 
 by the pastor in St. Matthew and St. John. 
 
-## Why Animals Are Not To Be Employed On The Sabbath
+### Why Animals Are Not To Be Employed On The Sabbath
 
 To omit nothing that may interfere with the sanctification of the Sabbath, the Commandment mentions beasts of 
 burden, because their use will prevent its due observance. If beasts be employed on the Sabbath, human labor 
@@ -11832,7 +11898,7 @@ But the Commandment has also another purpose. For. if God commands the exemption
 the Sabbath, still more imperative is the obligation to avoid all acts of inhumanity towards servants, or others 
 whose labor and industry we employ. 
 
-## Works Commanded Or Recommended
+### Works Commanded Or Recommended
 
 The pastor should also not omit carefully to teach what works and actions Christians should perform on festival 
 days. These are: to go to church, and there, with heartfelt piety and devotion, to assist at the celebration of the 
@@ -11852,12 +11918,12 @@ sorrowful and afflicted. Religion clean and undefiled before God and the Father 
 the fatherless and widows in their tribulation. 
 From what has been said it is easy to perceive how this Commandment may be violated. 
 
-## Motives for the Observance of this Commandment
+### Motives for the Observance of this Commandment
 
 It is also a duty of the pastor to have ready at hand certain main arguments by which he may especially persuade 
 the people to observe this Commandment with all zeal and the greatest exactitude. 
 
-## Reasonableness Of This Duty
+### Reasonableness Of This Duty
 
 To the attainment of this end it will materially conduce, if the people understand and clearly see how just and 
 reasonable it is to devote certain days exclusively to the worship of God in order to acknowledge, adore, and 
@@ -11867,7 +11933,7 @@ return for His inestimable and infinite benefits towards us, to endeavour to obe
 and alacrity? But now that the days consecrated to His worship are but few, there is no excuse for neglecting or 
 reluctantly performing this duty, which moreover obliges under grave sin. 
 
-## The Observance Of This Commandment Brings Many Blessings
+### The Observance Of This Commandment Brings Many Blessings
 
 The pastor should next point out the excellence of this precept. Those who are faithful in its observance are 
 admitted, as it were, into the divine presence to speak freely with God; for in prayer we contemplate the divine 
@@ -11876,7 +11942,7 @@ through the agency of those who devoutly preach on divine things; and at the Hol
 adore Christ the Lord, present on our altars. Such are the blessings which they preeminently enjoy who 
 faithfully observe this Commandment. 
 
-## Neglect Of This Commandment A Great Crime
+### Neglect Of This Commandment A Great Crime
 
 But those who altogether neglect its fulfilment resist God and His Church; they heed not God's command, and 
 are enemies of Him and His holy laws, of which the easiness of the command is itself a proof. We should, it is 
@@ -11892,15 +11958,15 @@ should place before our minds the important advantages and blessings which, as w
 from the religious observance of holydays, and also numerous other considerations of the same tendency, which 
 the good and zealous pastor should develop at considerable length to his people as circumstances may require. 
 
-##
+###
 
 ## THE FOURTH
 
 COMMANDMENT : "Honour thy father and thy mother, that thou mayest be long lived
 
-## upon the land which the lord thy god will give thee."
+### upon the land which the lord thy god will give thee."
 
-## Relative Importance Of The Preceding And The Following Commandments
+### Relative Importance Of The Preceding And The Following Commandments
 
 The preceding Commandments are supreme both in dignity and in importance; but those which follow rank next 
 in order because of their necessity. For the first three tend directly to God; while the object of the others is the 
@@ -11908,7 +11974,7 @@ charity we owe to our neighbour, although even these are ultimately referred to 
 neighbour on account of God, our last end. Hence Christ our Lord has declared that the two Commandments 
 which inculcate the love of God and of our neighbour are like unto each other. 
 
-## Importance Of Instruction On The Fourth Commandment
+### Importance Of Instruction On The Fourth Commandment
 
 The advantages arising from the present subject can scarcely be expressed in words; for not only does it bring 
 with it its own fruit, and that in the richest abundance and of superior excellence, but it also affords a test of our 
@@ -11917,7 +11983,7 @@ John, how can he love God whom he seeth not? In like manner, if we do not honour
 whom we ought to love next to God and whom we continually see, how can we honour or reverence God, the 
 supreme and best of parents, whom we see not? Hence we can easily perceive the similarity between these two 
 
-## Commandments.
+### Commandments.
 
 The application of this Commandment is of very great extent. Besides our natural parents, there are many others 
 whose power, rank, usefulness, exalted functions or office, entitle them to parental honour. 
@@ -11927,7 +11993,7 @@ under them should live according to virtue and the divine Law. Now the performan
 considerably facilitated, if it be known by all that highest honour to parents is an obligation, sanctioned and 
 commanded by God. 
 
-## The Two Tables Of The Law
+### The Two Tables Of The Law
 
 To impress the mind with this truth it will be found useful to distinguish the Commandments of the first, from 
 those of the second table. This distinction, therefore, the pastor should first explain. 
@@ -11967,7 +12033,7 @@ referred to our eternal Father who is in heaven. Should, however, the injunction
 opposed to the Commandments of God, children are, o{ course, to prefer the will of God to the desires of their 
 parents, always keeping in view the divine maxim: We ought to obey God rather than men. 
 
-## Explanation of the Fourth Commandment: "Honour"
+### Explanation of the Fourth Commandment: "Honour"
 
 After these preliminaries the pastor should explain the words of the Commandment, beginning with honour. To 
 honour is to think respectfully of anyone, and to hold in the highest esteem all that relates to him. It includes 
@@ -11977,11 +12043,13 @@ also to be much loved and feared. Respect and reverence are not always the accom
 love the inseparable companion of fear; but honour, when proceeding from the heart, combines both fear and 
 love. 
 
-## "Thy Father"
+### "Thy Father"
 
 The pastor should next explain who they are, whom the Commandment designates as fathers; for although the 
 law refers primarily to our natural fathers, yet the name belongs to others also, and these seem to be indicated in 
-the Commandment, as we can easily gather from numerous passages of Scripture. Besides our natural fathers, 
+
+## the Commandment, as we can easily gather from numerous passages of Scripture. Besides our natural fathers,
+
 then, there are others who in Scripture are called fathers, as was said above, and to each of these proper honour 
 is due. 
 In the first place, the prelates of the Church, her pastors and priests are called fathers, as is evident from the 
@@ -11995,7 +12063,7 @@ The name father is also applied to those to whose care, fidelity, probity and wi
 as teachers, instructors masters and guardians; and hence the sons of the Prophets called Elias and Eliseus their 
 father. Finally, aged men, advanced in years, we also call fathers. 
 
-## Why Parents Should Be Honoured
+### Why Parents Should Be Honoured
 
 In his instructions the pastor should chiefly emphasise the obligation of honouring all who are entitled to be 
 called fathers, especially our natural fathers, of whom the divine Commandment particularly speaks. They are, 
@@ -12004,13 +12072,13 @@ received existence, them God made use of to infuse into us a soul and reason, by
 Sacraments, instructed in our religion, schooled in right conduct and holiness, and trained in civil and human 
 knowledge. 
 
-## "And Thy Mother"
+### "And Thy Mother"
 
 The pastor should teach that the name mother is mentioned in this Commandment, in order to remind us of her 
 benefits and claims in our regard, of the care and solicitude with which she bore us, and of the pain and labor 
 with which she gave us birth and brought us up. 
 
-## Manner Of Honouring Parents
+### Manner Of Honouring Parents
 
 The honour which children are commanded to pay to their parents should be the spontaneous offering of sincere 
 and dutiful love. This is nothing more than their due, since for love of us, they shrink from no labor, no 
@@ -12048,13 +12116,13 @@ Finally, we honour our parents, even after their death, by attending their funer
 obsequies and burial, having due suffrages and anniversary Masses offered for them, and faithfully executing 
 their last wills. 
 
-## Manner Of Honouring Other Superiors
+### Manner Of Honouring Other Superiors
 
 We are bound to honour not only our natural parents, but also others who are called fathers, such as Bishops and 
 priests, kings, princes and magistrates, tutors, guardians and masters, teachers, aged persons and the like, all of 
 whom are entitled, some in a greater, some in a less degree, to share our love, our obedience, and our assistance. 
 
-## The Honour Due To Bishops And Priests
+### The Honour Due To Bishops And Priests
 
 Of Bishops and other pastors it is written: Let the priests that rule well be esteemed worthy of double honour 
 especially they who labour in the word and doctrine. 
@@ -12070,7 +12138,7 @@ to wicked pastors: Upon the chair of Moses have sitten the scribes and Pharisees
 whatsoever they shall say to you, observe and do; but according to their works do ye not, for they say and do 
 not. 
 
-## The Honour Due To Civil Rulers
+### The Honour Due To Civil Rulers
 
 The same is to be said of civil rulers, governors, magistrates and others to whose authority we are subject. The 
 Apostle in his Epistle to the Romans, explains at length the honour, respect and obedience that should be shown 
@@ -12087,7 +12155,7 @@ peaceable.
 However, should their commands be wicked or unjust, they should not be obeyed, since in such a case they rule 
 not according to their rightful authority, but according to injustice and perversity. 
 
-## 'That Thou Mayest be Long-lived," etc.
+### 'That Thou Mayest be Long-lived," etc.
 
 Having explained the above matters, the pastor should next consider the reward promised to the observance of 
 this Commandment and its appropriateness. That reward is great, indeed, for it consists principally in length of 
@@ -12096,7 +12164,7 @@ days. They who always preserve the grateful remembrance of a benefit deserve to 
 enjoyment. Children, therefore, who honour their parents, and gratefully acknowledge the blessing of life 
 received from them are deservedly rewarded with the protracted enjoyment of that life to an advanced age. 
 
-## Reward Promised For Observance Of This Commandment
+### Reward Promised For Observance Of This Commandment
 
 The (nature of the) divine promise also demands distinct explanation. It includes not only the eternal life of the 
 blessed, but also the life which we lead on earth, according to the interpretation of St. Paul: Piety is profitable to 
@@ -12108,7 +12176,7 @@ The additional words, which the Lord thy God will give thee, promise not only le
 tranquillity, and security to live well; for in Deuteronomy it is not only said, that thou mayest live a long time, 
 but it is also added, and that it may be well with thee, words afterwards quoted by the Apostle. 
 
-## Why This Reward Is Not Always Conferred On Dutiful Children
+### Why This Reward Is Not Always Conferred On Dutiful Children
 
 These blessings, we say, are conferred on those whose piety God rewards; otherwise the divine promises would 
 not be fulfilled, since the more dutiful child is sometimes the more short lived. 
@@ -12120,7 +12188,7 @@ lest his virtue and salvation be endangered when God avenges the crimes of men. 
 anguish of witnessing the calamities of his friends and relations in such evil days. The premature death of the 
 good, therefore, gives special reason for fear. 
 
-## Punishment For Violation Of This Commandment
+### Punishment For Violation Of This Commandment
 
 But if God promises rewards and blessings to grateful children, He also reserves the heaviest chastisements to 
 punish those who are wanting in filial piety; for it is written: He that curseth his father or mother shall die the 
@@ -12133,7 +12201,7 @@ sin he perished miserably, transfixed by three lances.
 Of those who resist the priest it is written: He that will be proud, and refuse to obey the commandment of the 
 priest, who ministereth at that time to the Lord thy God, by the decree of the judge, that man shall die. 
 
-## Duties of Parents Towards their Children
+### Duties of Parents Towards their Children
 
 As the law of God commands children to honour, obey, and respect their parents so are there reciprocal duties 
 which parents owe to their children. Parents are obliged to bring up their children in the knowledge and practice 
@@ -12142,7 +12210,7 @@ religion, they may serve God holily and constantly. It was thus, as we read, tha
 The priest, therefore, should admonish parents to be to their children guides in the virtues of justice, chastity, 
 modesty and holiness. 
 
-## Three Things To Be Avoided By Parents
+### Three Things To Be Avoided By Parents
 
 He should also admonish them to guard particularly against three things, in which they but too often transgress. 
 In the first place, they are not by words or actions to exercise too much harshness towards their children. This is 
@@ -12172,7 +12240,7 @@ obedience.
 
 COMMANDMENT : "Thou shalt not kill" 
 
-## Importance Of Instruction On This Commandment
+### Importance Of Instruction On This Commandment
 
 The great happiness proposed to the peacemakers, of being called the children of God, should prove a powerful 
 incentive to the pastor to explain to the faithful with care and accuracy the obligations imposed by this 
@@ -12192,21 +12260,21 @@ injury to be offered him under a threat of the divine anger and the heaviest cha
 announcement of this Commandment must be heard with pleasure, so also should the avoidance of the sin 
 which it forbids give pleasure. 
 
-## Two Parts Of This Commandment
+### Two Parts Of This Commandment
 
 In the explanation of this Commandment the Lord points out its twofold obligation. The one is prohibitory and 
 forbids us to kill; the other is mandatory and commands us to cherish sentiments of charity, concord and 
 friendship towards our enemies, to have peace with all men, and finally, to endure with patience every 
 inconvenience. 
 
-## The Prohibitory Part of this Commandment Exceptions: The Killing Of Animals
+### The Prohibitory Part of this Commandment Exceptions: The Killing Of Animals
 
 With regard to the prohibitory part, it should first be taught what kinds of killing are not forbidden by this 
 Commandment. It is not prohibited to kill animals; for if God permits man to eat them, it is also lawful to kill 
 them. When, says St. Augustine, we hear the words, "Thou shalt not kill," we do not understand this of the fruits 
 of the earth, which are insensible, nor of irrational animals, which form no part of human society. 
 
-## Execution Of Criminals
+### Execution Of Criminals
 
 Another kind of lawful slaying belongs to the civil authorities, to whom is entrusted power of life and death, by 
 the legal and judicious exercise of which they punish the guilty and protect the innocent. The just use of this 
@@ -12216,7 +12284,7 @@ punishments inflicted by the civil authority, which is the legitimate avenger of
 since they give security to life by repressing outrage and violence. Hence these words of David: In the morning 
 I put to death all the wicked of the land, that I might cut off all the workers of iniquity from the city of the Lord. 
 
-## Killing In A Just War
+### Killing In A Just War
 
 In like manner, the soldier is guiltless who, actuated not by motives of ambition or cruelty, but by a pure desire 
 of serving the interests of his country, takes away the life of an enemy in a just war. 
@@ -12224,7 +12292,7 @@ Furthermore, there are on record instances of carnage executed by the special co
 Levi, who put to death so many thousands in one day, were guilty of no sin; when the slaughter had ceased, they 
 were addressed by Moses in these words: You have consecrated your hands this day to the Lord. 
 
-## Killing By Accident
+### Killing By Accident
 
 Again, death caused, not by intent or design, but by accident, is not murder. He that killeth his neighbour 
 ignorantly, says the book of Deuteronomy, and who is proved to have had no hatred against him yesterday and 
@@ -12239,12 +12307,12 @@ abortion follows. The consequence, it is true, may not have been intended, but t
 offender, because the act of striking a pregnant woman is in itself unlawful. The other case is when death is 
 caused by negligence, carelessness or want of due precaution. 
 
-## Killing In Self-Defence
+### Killing In Self-Defence
 
 If a man kill another in self-defence, having used every means consistent with his own safety to avoid the 
 infliction of death, he evidently does not violate this Commandment. 
 
-## Negative Part Of This Commandment Forbids Murder And Suicide
+### Negative Part Of This Commandment Forbids Murder And Suicide
 
 The above are the cases in which life may be taken without violating this Commandment; and with these 
 exceptions all other killing is forbidden, whether we consider the person who kills, the person killed, or the 
@@ -12260,7 +12328,7 @@ exception. Not only does it forbid to take away the life of another by laying vi
 sword, a stone, a stick, a halter, or by administering poison; but also strictly prohibits the accomplishment of the 
 death of another by counsel, assistance, help or any other means whatever. 
 
-## Sinful Anger Is Also Forbidden By The Fifth Commandment
+### Sinful Anger Is Also Forbidden By The Fifth Commandment
 
 The Jews, with singular dullness of apprehension, thought that to abstain from taking life with their own hands 
 was enough to satisfy the obligation imposed by this Commandment. But the Christian, instructed in the 
@@ -12282,7 +12350,7 @@ Not to resist evil; but if one strike thee on thy right cheek, turn to him also 
 with thee in judgment, and take away thy coat, let go thy cloak also unto him; and whosoever will force thee 
 one mile, go with him two. 
 
-## Remedies Against The Violation Of This Commandment
+### Remedies Against The Violation Of This Commandment
 
 From what has been said, it is easy to see how inclined man is to those sins which are prohibited by this 
 Commandment, and how many are guilty of murder, if not in fact, at least in desire. As, then, the Sacred 
@@ -12305,14 +12373,14 @@ mark the enormity of that execrable crime and to denote the barbarous cruelty of
 to describe in particular how the murderer is precipitated by the impulse of the devil into the commission of 
 such a crime, he says: Their feet are swift. 
 
-## Positive Part of this commandment Love Of Neighbour Inculcated
+### Positive Part of this commandment Love Of Neighbour Inculcated
 
 The mandatory part of this Commandment, as Christ our Lord enjoins, requires that we have peace with all 
 men. Interpreting the Commandment He says: If therefore thou offer thy gift at the altar, and there thou 
 remember that thy brother hath anything against thee; leave there thy offering before the altar, and go first to be 
 reconciled to thy brother, and then coming thou shalt offer thy gift, etc. 
 
-## Charity To All Commanded
+### Charity To All Commanded
 
 In explaining this admonition, the pastor should show that it inculcates the duty of charity towards all without 
 exception. In his instruction on the precept he should exhort the faithful as much as possible to the practice of 
@@ -12320,7 +12388,7 @@ this virtue, since it is especially included in this precept. For since hatred i
 Commandment, as whosoever hateth his brother is a murderer, it follows, as an evident consequence, that the 
 Commandment also inculcates charity and love. 
 
-## Patience, Beneficence And Mildness Commanded
+### Patience, Beneficence And Mildness Commanded
 
 And since the Commandment inculcates charity and love, it must also enjoin all those duties and good offices 
 which follow in their train. Charity is patient, says St. Paul. We are therefore commanded patience, in which, as 
@@ -12335,7 +12403,7 @@ doing this, thou shalt heap coals of fire on his head. Be not overcome by evil, 
 Finally, if we consider the law of charity, which is kind, we shall be convinced that to practice the good offices 
 of mildness, clemency, and other kindred virtues, is a duty prescribed by that law. 
 
-## Forgiveness Of Injuries Commanded
+### Forgiveness Of Injuries Commanded
 
 But the most important duty of all, and that which is the fullest expression of charity, and to the practice of 
 which we should most habituate ourselves, is to pardon and forgive from the heart the injuries which we may 
@@ -12344,7 +12412,7 @@ us to a full compliance with this duty. Not only do they pronounce blessed those
 declare that God grants pardon to those who really fulfil this duty, while He refuses pardon to those who neglect 
 it, or refuse to obey it. 
 
-## How to Persuade Men to Forgive Injuries
+### How to Persuade Men to Forgive Injuries
 
 As the desire of revenge is almost natural to man, it becomes necessary for the pastor to exert his utmost 
 diligence not only to instruct, but also earnestly to persuade the faithful, that a Christian should forgive and 
@@ -12353,7 +12421,7 @@ subject, in order to be able to subdue the pertinacity of those whose minds are 
 he should have ready the forcible and appropriate arguments which those Fathers piously employed. The three 
 following considerations, however, demand particular exposition. 
 
-## All We Have To Endure Comes From God
+### All We Have To Endure Comes From God
 
 First, he who thinks himself injured ought above all to be persuaded that the man on whom he desires to be 
 revenged was not the principal cause of the loss or injury. Thus that admirable man, Job, when violently injured 
@@ -12372,7 +12440,7 @@ he will certainly find that he has received no injury or loss from others. For a
 injury from external causes, he is himself his greatest enemy by wickedly staining his soul with hatred, 
 malevolence and envy. 
 
-## Advantages Of Forgiveness
+### Advantages Of Forgiveness
 
 The second consideration is that there are two advantages, which are the special rewards of those, who, 
 influenced by a holy desire to please God, freely forgive injuries. In the first place, God has promised that he 
@@ -12381,7 +12449,7 @@ this duty of piety. In the next place, the forgiveness of injuries ennobles and 
 in some degree made like to God, Who maketh his sun to shine on the good and the bad, and raineth upon the 
 just and the unjust. 
 
-## Disadvantages Of Revenge
+### Disadvantages Of Revenge
 
 Finally, the disadvantages which arise from the refusal to pardon others are to be explained. The pastor, 
 therefore, should place before the eyes of the unforgiving man that hatred is not only a grievous sin, but also 
@@ -12403,7 +12471,7 @@ Not without good reason is hatred called the sin of the devil. The devil was a m
 hence our Lord Jesus Christ, the Son of God, when the Pharisees sought His life, said that they were begotten of 
 their father the devil. 
 
-## Remedies Against Hatred
+### Remedies Against Hatred
 
 Besides the reasons already adduced, which afford good grounds for detesting this sin, other and most suitable 
 remedies are prescribed in the pages of Holy Writ. 
@@ -12418,13 +12486,13 @@ keep that mercy always before your mind. Thus the cruel desire for revenge will 
 discover no means better adapted, none more efficacious to obtain the mercy of God than the forgiveness of 
 injuries and love towards those who in word or deed may have injured you or yours. 
 
-##
+###
 
 ## THE SIXTH
 
 COMMANDMENT : "Thou shalt not commit adultery"
 
-## The Position Of This Commandment In The Decalogue Is Most Suitable
+### The Position Of This Commandment In The Decalogue Is Most Suitable
 
 The bond between man and wife is one of the closest, and nothing can be more gratifying to both than to know 
 that they are objects of mutual and special affection. On the other hand, nothing inflicts deeper anguish than to 
@@ -12433,7 +12501,7 @@ natural order, is the Commandment which protects human life against the hand of 
 that which forbids adultery and which aims to prevent anyone from injuring or destroying by such a crime the 
 holy and honourable union of marriage -- a union which is generally the source of ardent affection and love. 
 
-## Importance Of Careful Instruction On This Commandment
+### Importance Of Careful Instruction On This Commandment
 
 In the explanation of this Commandment, however, the pastor has need of great caution and prudence, and 
 should treat with great delicacy a subject which requires brevity rather than copiousness of exposition. For it is 
@@ -12443,19 +12511,19 @@ corrupt passion.
 As, however, the precept contains many things which cannot be passed over in silence, the pastor should 
 explain them in their proper order and place. 
 
-## Two Parts Of This Commandment
+### Two Parts Of This Commandment
 
 This Commandment, then, resolves itself into two heads; the one expressed, which prohibits adultery; the other 
 implied, which inculcates purity of mind and body. 
 
-## What this Commandment Prohibits Adultery Forbidden
+### What this Commandment Prohibits Adultery Forbidden
 
 To begin with the prohibitory part (of the Commandment), adultery is the defilement of the marriage bed, 
 whether it be one's own or another's. If a married man have intercourse with an unmarried woman, he violates 
 the integrity of his marriage bed; and if an unmarried man have intercourse with a married woman, he defiles 
 the sanctity of the marriage bed of another. 
 
-## Other Sins Against Chastity Are Forbidden
+### Other Sins Against Chastity Are Forbidden
 
 But that every species of immodesty and impurity are included in this prohibition of adultery, is proved by the 
 testimonies of St. Augustine and St. Ambrose; and that such is the meaning of the Commandment is borne out 
@@ -12470,7 +12538,7 @@ will of God, your sanctification, that you should abstain from fornication; Fly 
 with fornicators; Fornication, and an uncleanness and covetousness, let it not so much as be named among you; 
 " Neither fornicators nor adulterers, nor the effeminate nor sodomites shall possess the kingdom of God. 
 
-## Why Adultery Is Expressly Mentioned
+### Why Adultery Is Expressly Mentioned
 
 But the reason why adultery is expressly forbidden is- because in addition to the turpitude which it shares with 
 other kinds of incontinence, it adds the sin of injustice, not only against our neighbour, but also against civil 
@@ -12488,7 +12556,7 @@ concubines, omitting many other species of immodesty and lust, of which each ind
 privately, as circumstances of time and person may require. 
 What this Commandment Prescribes 
 
-## Purity Enjoined
+### Purity Enjoined
 
 We now come to explain the positive part of the precept. The faithful are to be taught and earnestly exhorted to 
 cultivate continence and chastity with all care, to cleanse themselves from all defilement of the flesh and of the 
@@ -12497,19 +12565,19 @@ First of all they should be taught that although the virtue of chastity shines w
 make the holy and religious vow of virginity, nevertheless it is a virtue which belongs also to those who lead a 
 life of celibacy; or who, in the married state, preserve themselves pure and undefiled from unlawful desire. 
 
-## Reflections which Help one to Practice Purity
+### Reflections which Help one to Practice Purity
 
 The holy Fathers have taught us many means whereby to subdue the passions and to restrain sinful pleasure. 
 The pastor, therefore, should make it his study to explain these accurately to the faithful, and should use the 
 utmost diligence in their exposition. Of these means some are reflections, others are active measures. 
 
-## Impurity Excludes From Heaven
+### Impurity Excludes From Heaven
 
 The first kind consists chiefly in our forming a just conception of the filthiness and evil of this sin; for such 
 knowledge will lead one more easily to detest it. Now the evil of this crime we may learn from the fact that, on 
 account of it, man is banished and excluded from the kingdom of God, which is the greatest of all evils. 
 
-## Impurity Is A Filthy Sin
+### Impurity Is A Filthy Sin
 
 The above-mentioned calamity is indeed common to every mortal sin. But what is peculiar to this sin is that 
 fornicators are said to sin against their own bodies, according to the words of the Apostle: Fly fornication. 
@@ -12524,7 +12592,7 @@ members of Christ? Shall I then take the members of Christ and make them the mem
 forbid. Or know you not, that he who is joined to a harlot is made one body? Moreover, a Christian, as St. Paul 
 testifies is the temple of the Holy Ghost ; and to violate this temple is nothing else than to expel the Holy Ghost. 
 
-## Adultery Is A Grave Injustice
+### Adultery Is A Grave Injustice
 
 But the crime of adultery involves that of grievous injustice. If, as the Apostle says, they who are joined in 
 wedlock are so subject to each other that neither has power or right over his or her body, but both are bound, as 
@@ -12532,14 +12600,14 @@ it were, by a mutual bond of subjection, the husband to accommodate himself to t
 the will of the husband; most certainly if either dissociate his or her person, which is the right of the other, from 
 him or her to whom it is bound, the offender is guilty of an act of great injustice and wickedness. 
 
-## Adultery Is Disgraceful
+### Adultery Is Disgraceful
 
 As dread of disgrace strongly stimulates to the performance of duty and deters from the commission of crime, 
 the pastor should also teach that adultery brands its guilty perpetrators with an unusual stigma. He that is an 
 adulterer, says Scripture, for the folly of his heart shall destroy his own soul: he gathereth to himself shame and 
 dishonour, and his reproach shall not be blotted out. 
 
-## Impurity Severely Punished
+### Impurity Severely Punished
 
 The grievousness of the sin of adultery may be easily inferred from the severity of its punishment. According to 
 the law promulgated by God in the Old Testament, the adulterer was stoned to death. Nay more, because of the 
@@ -12549,7 +12617,7 @@ destruction of Sodom and of the neighbouring cities,' the punishment of the Isra
 fornication in the wilderness with the daughters of Moab, and the slaughter of the Benjamites. These examples 
 the pastor can easily make use of to deter men from shameful lust. 
 
-## Impurity Blinds The Mind And Hardens The Heart
+### Impurity Blinds The Mind And Hardens The Heart
 
 But even though the adulterer may escape the punishment of death, he does not escape the great pains and 
 torments that often overtake such sins as his. He becomes afflicted with blindness of mind a most severe 
@@ -12563,20 +12631,20 @@ men he became so cruel as to consign to death Urias, one of his most deserving s
 abandoned himself to the lust of women, gave up the true religion to follow strange gods. This sin, therefore, as 
 Osee observes, takes away man's heart and often blinds his understanding. 
 
-## Means of practicing purity Avoidance Of Idleness
+### Means of practicing purity Avoidance Of Idleness
 
 We now come to the remedies which consist in action. The first is studiously to avoid idleness; for, according to 
 Ezechiel, it was by yielding to the enervating influence of idleness that the Sodomites plunged into the most 
 shameful crime of criminal lust. 
 
-## Temperance
+### Temperance
 
 In the next place, intemperance is carefully to be avoided. I fed them to the full, says the Prophet, and they 
 committed adultery. An overloaded stomach begets impurity. This our Lord intimates in these words: Take heed 
 to yourselves, lest perhaps your hearts be overcharged with surfeiting and drunkenness. Be not drunk with wine, 
 says the Apostle, wherein is luxury. 
 
-## Custody Of The Eyes
+### Custody Of The Eyes
 
 But the eyes, in particular, are the inlets to criminal passion, and to this refer these words of our Lord: If thine 
 eye scandalise thee, pluck it out, and cast it from thee. The Prophets, also, frequently speak to the same effect. I 
@@ -12584,7 +12652,7 @@ made a covenant with mine eyes, says Job, that I would not so much as think upon
 record innumerable examples of the evils which have their origin in the indulgence of the eyes. It was thus that 
 David sinned, thus that the king of Sichem fell, and thus also that the elders sinned who calumniated Susanna. 
 
-## Avoidance Of Immodest Dress
+### Avoidance Of Immodest Dress
 
 Too much display in dress, which especially attracts the eye, is but too frequently an occasion of sin. Hence the 
 admonition of Ecclesiasticus: Turn away thy face from a woman dressed up. As women are given to excessive 
@@ -12594,7 +12662,7 @@ outward plaiting of the hair, or the wearing of gold, or the putting on of appar
 plaited hair, or gold, or pearls, or costly attire. Many women adorned with gold and precious stones, have lost 
 the only true ornament of their soul and body. 
 
-## Avoidance Of Impure Conversation, Reading, Pictures
+### Avoidance Of Impure Conversation, Reading, Pictures
 
 Next to the sexual excitement, usually provoked by too studied an elegance of dress, follows another, which is 
 indecent and obscene conversation. Obscene language is a torch which lights up the worst passions of the young 
@@ -12605,7 +12673,7 @@ pictures. All such things possess a fatal influence in exciting to unlawful attr
 of youth. In these matters the pastor should take special pains to see that the faithful most carefully observe the 
 pious and prudent regulations of the Council of Trent. 
 
-## Frequentation Of The Sacraments
+### Frequentation Of The Sacraments
 
 If the occasions of sin which we have just enumerated be carefully avoided, almost every excitement to lust will 
 be removed. But the most efficacious means for subduing its violence are frequent use of confession and 
@@ -12613,7 +12681,7 @@ Communion, as also unceasing and devout prayer to God, accompanied by fasting an
 gift of God. To those who ask it aright He does not deny it; nor does He suffer us to be tempted beyond our 
 strength. 
 
-## Mortification
+### Mortification
 
 But the body is to be mortified and the sensual appetites to be repressed not only by fasting, and particularly, by 
 the fasts instituted by the Church, but also by watching, pious pilgrimages, and other works of austerity. By 
@@ -12627,7 +12695,7 @@ become a castaway. And in another place he says: Make not provision for the fles
 
 COMMANDMENT : "Thou shalt not steal" 
 
-## Importance Of Instruction On This Commandment
+### Importance Of Instruction On This Commandment
 
 In the early ages of the Church, it was customary to impress on the minds of hearers the nature and force of this 
 Commandment. This we learn from the reproof uttered by the Apostle against some who were most earnest in 
@@ -12638,9 +12706,9 @@ other evils which generally grow out of theft. Since in these our days men are u
 vices, with their consequent misfortunes and evils, the pastor, following the example of the holy Fathers and 
 Doctors, should strongly insist on this point and explain with diligent care the force and meaning of this 
 
-## Commandment.
+### Commandment.
 
-## This Commandment A Proof Of The Love Of God Towards Us And A Claim On Our Gratitude
+### This Commandment A Proof Of The Love Of God Towards Us And A Claim On Our Gratitude
 
 In the first place the pastor should exercise care and industry in declaring the infinite love of God for man. Not 
 satisfied with having fenced round, so to say, our lives, our persons and our reputation, by means of the two 
@@ -12653,13 +12721,13 @@ confers upon us. Now since the truest test of gratitude and the best means of re
 in lending a willing ear to His precepts, but also in obeying them, the faithful are to be animated and encouraged 
 to an observance of this Commandment. 
 
-## Two Parts Of This Commandment
+### Two Parts Of This Commandment
 
 Like the preceding Commandments, this one also is divided into two parts. The first, which prohibits theft, is 
 mentioned expressly; while the spirit and force of the second, which en- forces kindliness and liberality towards 
 our neighbour, are implied in the first part. 
 
-## Negative Part of this Commandment Stealing Forbidden
+### Negative Part of this Commandment Stealing Forbidden
 
 We shall begin with the prohibitory part of the Commandment, Thou shalt not steal. It is to be observed, that by 
 the word steal is understood not only the taking away of anything from its rightful owner, privately and without 
@@ -12668,7 +12736,7 @@ the knowledge, of the true owner; else we are prepared to say that He who prohib
 robbery, which is accomplished by violence and injustice, whereas, according to St. Paul, extortioners shall not 
 possess the kingdom of God, and their very company and ways should be shunned, as the same Apostle writes. 
 
-## Theft And Robbery Forbidden
+### Theft And Robbery Forbidden
 
 But though robbery is a greater sin than theft, inasmuch as it not only deprives another of his property, but also 
 offers violence and insult to him; yet it cannot be a matter of surprise that the divine prohibition is expressed 
@@ -12677,7 +12745,7 @@ wider extent than robbery, a crime which only they can commit who are superior t
 force and power. Furthermore, it is obvious that when lesser crimes are forbidden, greater enormities of the 
 same sort are also prohibited. 
 
-## Various Names Given To Stealing
+### Various Names Given To Stealing
 
 The unjust possession and use of what belongs to another are expressed by different names, according to the 
 diversity of the objects taken without the consent and knowledge of the owners To take any private property 
@@ -12687,13 +12755,13 @@ and sinful, yet so common in our days that what piety and wisdom had set aside f
 divine worship, for the support of the ministers of religion, and the use of the poor is employed in satisfying 
 individual avarice and the worst passions. 
 
-## Desire Of Stealing Forbidden
+### Desire Of Stealing Forbidden
 
 But, besides actual theft, that is, the outward commission, the will and desire are also forbidden by the law of 
 God. The law is spiritual and concerns the soul, the source of our thoughts and designs. From the heart, says our 
 Lord in St. Matthew, come forth evil thoughts, murders, adulteries, fornications, thefts, false testimonies. 
 
-## Gravity Of The Sin Of Stealing
+### Gravity Of The Sin Of Stealing
 
 The grievousness of the sin of theft is sufficiently seen by the light of natural reason alone, for it is a violation 
 of justice which gives to every man his own. The distribution and allotment of property, fixed from the 
@@ -12712,14 +12780,14 @@ heapeth together what is not his own. How long also doth he load himself with th
 other men's property he calls thick clay, because it is difficult to emerge and extricate one's self from (ill-gotten 
 goods). 
 
-## The Chief Kinds Of Stealing
+### The Chief Kinds Of Stealing
 
 There are so many kinds of stealing that it is most difficult to enumerate them all; but since the others can be 
 reduced to theft and robbery, it will be sufficient to speak of these two. To inspire the faithful with a detestation 
 of such grievous crimes and to deter them from their commission, the pastor should use all care and diligence. 
 Now let us consider these two kinds of stealing. 
 
-## Various Forms Of Theft
+### Various Forms Of Theft
 
 They are guilty of theft who buy stolen goods, or retain the property of others, whether found, seized, or 
 pilfered. If you have found, and not restored, says St. Augustine, you have stolen. If the true owner cannot, 
@@ -12745,7 +12813,7 @@ thieves.
 To enumerate the various other modes of theft, invented by the ingenuity of avarice, which is versed in all the 
 arts of making money, would be a tedious and, as already said, a most difficult task. 
 
-## Various Forms Of Robbery
+### Various Forms Of Robbery
 
 The pastor, therefore, should next come to treat of robbery, which is the second general division of these crimes. 
 First, he should admonish the Christian people to bear in mind the teaching of the Apostle: They that will 
@@ -12789,12 +12857,12 @@ shall be cursed among the people. Such persons the pastor should warn of their g
 more than ordinary freedom; he should explain to them at length the punishments which await such sins. 
 So much for what the seventh Commandment forbids. 
 
-## Positive Part of this Commandment Restitution Enjoined
+### Positive Part of this Commandment Restitution Enjoined
 
 We now come to the positive part of this Commandment, in which the first thing to be considered is satisfaction 
 or restitution; for without restitution the sin is not forgiven. 
 
-## Who Are Held To Restitution
+### Who Are Held To Restitution
 
 But as the law of making restitution to the injured party is binding not only on the person who commits theft, 
 but also on all who cooperate in the sin, it is necessary to explain who are indispensably bound to this 
@@ -12819,14 +12887,14 @@ exhorted to the discharge of so necessary a duty.
 Neither are those who approve and commend thefts entirely innocent of this crime. Children also who steal 
 from their parents, and wives who steal from their husbands are not guiltless of theft. 
 
-## Almsdeeds Enjoined
+### Almsdeeds Enjoined
 
 This Commandment also implies an obligation to sympathise with the poor and needy, and to relieve their 
 difficulties and distresses by our means and good offices. Concerning this subject, which cannot be insisted on 
 too often or too strongly, the pastor will find abundant matter to enrich his discourses in the works of St. 
 Cyprian, St. John Chrysostom, St. Gregory Nazianzen, and other eminent writers on almsdeeds. 
 
-## Inducements To Practice Almsgiving
+### Inducements To Practice Almsgiving
 
 The pastor, therefore, should encourage the faithful to be willing and anxious to assist those who have to depend 
 on charity, and should make them realise the great necessity of giving alms and of being really and practically 
@@ -12842,7 +12910,7 @@ as much now in this time and in the world to come life everlasting; and he shoul
 Make unto yourselves friends of the mammon of iniquity, that when you shall fail, they may receive you into 
 everlasting dwellings. 
 
-## Ways Of Giving Alms
+### Ways Of Giving Alms
 
 They should also explain the parts of this necessary duty, so that whoever is unable to give may at least lend to 
 the poor what they need to sustain life, according to the command of Christ our Lord: Lend, hoping for nothing 
@@ -12856,7 +12924,7 @@ endeavour to be quiet, and that you do your own business, and work with your own
 you; and to the Ephesians: He that stole, let him steal no more; but rather let him labour working with his hands 
 the thing which is good, that he may have something to give to him that suffereth need.' 
 
-## Frugality Is Enjoined
+### Frugality Is Enjoined
 
 We should also practice frugality and draw sparingly on the kindness of others, that we may not be burden or a 
 trouble to them. The exercise of considerateness is conspicuous in all the Apostles, but preeminently so in St. 
@@ -12865,7 +12933,7 @@ lest we should be chargeable to any of you, we preached amongst you the gospel o
 the same Apostle says: In labour and in toil, we worked night and day, lest we should be burdensome to any of 
 you. 
 
-## Sanction Of This Commandment The Punishment Of Its Violation
+### Sanction Of This Commandment The Punishment Of Its Violation
 
 To inspire the faithful with an abhorrence of all infamous sins against this Commandment, the pastor should 
 have recourse to the Prophets and the other inspired writers, to show the detestation in which God holds the 
@@ -12876,18 +12944,18 @@ the measure, and increase the sickle, and may convey in deceitful balances? Many
 may be found in Jeremias, Proverbs,' and Ecclesiasticus. Indeed it cannot be doubted that such crimes are the 
 seeds from which have sprung in great part the evils which in our times oppress society. 
 
-## The Reward Of Observing This Commandment
+### The Reward Of Observing This Commandment
 
 That Christians may accustom themselves to those acts of generosity and kindness towards the poor and the 
 needy which are inculcated by the second part of this Commandment, the pastor should place before them those 
 ample rewards which God promises in this life and in the next to the beneficent and the bountiful. 
 
-## Excuses for Stealing Refuted
+### Excuses for Stealing Refuted
 
 As there are not wanting those who would even excuse their thefts, these are to be admonished that God will 
 accept no excuse for sin; and that their excuses, far from extenuating, serve only greatly to aggravate their guilt. 
 
-## The Plea Of Rank And Position
+### The Plea Of Rank And Position
 
 How insufferable the vanity of those men of exalted rank who excuse themselves by alleging that they act not 
 from cupidity or avarice, but stoop to take what belongs to others only from a desire to maintain the grandeur of 
@@ -12904,7 +12972,7 @@ love bribes, they run after rewards. Therefore, saith the Lord, the God of Hosts
 will comfort myself over my adversaries; and I will be revenged of my enemies; and I will turn my hand to thee, 
 and I will clean purge away thy dross. 
 
-## The Plea Of Greater Ease And Elegance
+### The Plea Of Greater Ease And Elegance
 
 Some there are, who plead in justification of such conduct, not the ambition of maintaining splendour and glory, 
 but a desire of acquiring the means of living in greater ease and elegance. These are to be refuted, and should be 
@@ -12915,20 +12983,20 @@ upon a thief. But even though no disadvantage overtake the thief, he offers an i
 the most holy will of God, and contemns His salutary precepts. From hence result all error, all dishonesty, all 
 impiety. 
 
-## The Plea Of The Other's Wealth
+### The Plea Of The Other's Wealth
 
 But do we not sometimes hear the thief contend that he is not guilty of sin, because he steals from the rich and 
 the wealthy, who, in his mind, not only suffer no injury, but do not even feel the loss? Such an excuse is as 
 wretched as it is baneful. 
 
-## The Plea Of Force Of Habit
+### The Plea Of Force Of Habit
 
 Others imagine that they should be excused, because they have contracted such a habit of stealing as not to be 
 able easily to refrain from such desires and practices. If such persons listen not to the admonition of the Apostle: 
 He that stole, let him now steal no more, let them recollect that one day, whether they like it or not, they will 
 become accustomed to an eternity of torments. 
 
-## The Plea Of Favourable Opportunity
+### The Plea Of Favourable Opportunity
 
 Some excuse themselves by saying that the opportunity presented itself. The proverb is well known: Those who 
 are not thieves are made so by opportunity. Such persons are to be disabused of their wicked idea by reminding 
@@ -12938,14 +13006,14 @@ character, or rather is an avowal of a complete want of restraint and justice. T
 because you have no opportunity of sinning, is almost to acknowledge that you are always prepared to sin when 
 opportunity offers. 
 
-## The Plea Of Revenge
+### The Plea Of Revenge
 
 There are some who say that they steal in order to gratify revenge, having themselves suffered the same injury 
 from others. To such offenders it should be answered first of all that no one is allowed to return injury for 
 injury; next that no person can be a judge in his own cause; and finally that still less can it be lawful to punish 
 one man for the wrong done you by another. 
 
-## The Plea Of Financial Embarrassment
+### The Plea Of Financial Embarrassment
 
 Finally, some find a sufficient justification of theft in their own embarrassments, alleging that they are 
 overwhelmed with debt, which they cannot pay off otherwise than by theft. Such persons should be given to 
@@ -12958,13 +13026,13 @@ can obtain whatever we need.
 There are also other excuses, which, however, the judicious and zealous pastor will not find it difficult to meet, 
 so that thus he may one day be blessed with a people who are followers of good works. 
 
-##
+###
 
 ## THE EIGHTH
 
 COMMANDMENT : "Thou shalt not bear false witness against thy neighbour"
 
-## Importance Of Instruction On This Commandment
+### Importance Of Instruction On This Commandment
 
 The great utility, nay the necessity, of carefully explaining this Commandment, and of emphasising its 
 obligation, we learn from these words of St. James: If any man offend not in word, the same is a perfect man; 
@@ -12979,20 +13047,20 @@ person, or of him who inflicts the injury. The injured person, unable to bear pa
 without restraint. The offender, on the other hand, deterred by a perverse shame and a false idea of what is 
 called honour, cannot be induced to make reparation to him whom he has offended. 
 
-## This Commandment Should Call Forth Our Gratitude
+### This Commandment Should Call Forth Our Gratitude
 
 Hence the faithful are to be exhorted to thank God as much as they can for having given this salutary 
 Commandment, not to bear false witness, which not only forbids us to injure others, but which also, if duly 
 observed, prevents others from injuring us. 
 
-## Two Parts Of This Commandment
+### Two Parts Of This Commandment
 
 In its explanation we shall proceed as we have done with regard to the others, pointing out that in it are 
 contained two laws. The first forbids us to bear false witness. The other commands us to lay aside all 
 dissimulation and deceit, and to measure our words and actions by the standard of truth, a duty of which the 
 Apostle admonishes the Ephesians in these words: Doing the truth in charity, let us grow up in all things in him. 
 
-## Negative Part Of This Commandment
+### Negative Part Of This Commandment
 
 #### With regard to the prohibitory part of this Commandment, although by false testimony is understood whatever
 
@@ -13005,7 +13073,7 @@ unless they be excluded by exceptions made in the law, or unless their dishonest
 is especially true since it is commanded by divine authority that in the mouth of two or three every word shall 
 stand. 
 
-## "Against Thy Neighbour"
+### "Against Thy Neighbour"
 
 In order that the faithful may have a clear comprehension of this Commandment it should be explained who is 
 our neighbour, against whom it is unlawful to bear false witness. According to the interpretation of Christ the 
@@ -13022,7 +13090,7 @@ neighbour" are subjoined in the Commandment. But let no one who bears false test
 that he has not violated this Commandment, for the standard of loving our neighbour is the love which we 
 cherish towards ourselves. 
 
-## False Testimony In Favour Of A Neighbour Is Also Forbidden
+### False Testimony In Favour Of A Neighbour Is Also Forbidden
 
 But if we are forbidden to injure our neighbour by false testimony, let it not be inferred that the contrary is 
 lawful, and that we may help by perjury those who are bound to us by ties of kinship or religion. It is never 
@@ -13042,7 +13110,7 @@ To the witness himself it must be most grievous that his falsehood and perjury a
 aided and abetted by his perjury; whilst encouraged by the success that follows his crime, he becomes every day 
 more accustomed to wickedness and audacity. 
 
-## "Thou Shalt Not Bear False Witness" All Falsehoods In Lawsuits Are Forbidden
+### "Thou Shalt Not Bear False Witness" All Falsehoods In Lawsuits Are Forbidden
 
 This precept then prohibits deceit, lying and perjury on the part of witnesses. The same prohibition extends also 
 to plaintiffs, defendants, promoters, representatives, procurators and advocates; in a word, to all who take any 
@@ -13056,7 +13124,7 @@ steal; thou shalt not lie; neither shall any man deceive his neighbour.' To none
 doubt, that this Commandment condemns lies of every sort, as these words of David explicitly declare: Thou 
 wilt destroy all that speak a lie. 
 
-## This Commandment Forbids Detraction
+### This Commandment Forbids Detraction
 
 This Commandment forbids not only false testimony, but also the detestable vice and practice of detraction, -- a 
 pestilence, which is the source of innumerable and calamitous evils. This vicious habit of secretly reviling and 
@@ -13067,7 +13135,7 @@ the crime. Aman, by a crime of his own invention, had so incensed Assuerus again
 the destruction of the entire race. Sacred history contains many other examples of the same kind, which priests 
 should recall in order to deter the people from such iniquity. 
 
-## Various Kinds Of Detraction
+### Various Kinds Of Detraction
 
 But, to understand well the nature of this sin of detraction, we must know that reputation is injured not only by 
 calumniating the character, but also by exaggerating the faults of others. He who gives publicity to the secret sin 
@@ -13086,7 +13154,7 @@ expresses His detestation in these words: Thou shalt not be a detractor nor a wh
 this description were many of the advisers of Saul, who strove to alienate the king's affection from David and to 
 arouse his enmity against him. 
 
-## This Commandment Forbids Flattery
+### This Commandment Forbids Flattery
 
 Among the transgressors of this Commandment are to be numbered those fawners and sycophants who, by 
 flattery and insincere praise, gain the hearing and good will of those whose favour, money, and honours they 
@@ -13106,7 +13174,7 @@ be of good spirits, dissuading him from confession, as though the very thought s
 and finally withdrawing his attention from all care and thought of the dangers which beset him in the last 
 perilous hour. 
 
-## This Commandment Forbids Lies Of All Kinds
+### This Commandment Forbids Lies Of All Kinds
 
 In a word, lies of every sort are prohibited, especially those that cause grave injury to anyone, while most 
 impious of all is a lie uttered against or regarding religion. 
@@ -13118,15 +13186,15 @@ strong tendency to frequent and serious lying, and from jocose lying men contrac
 reputation for truth, and ultimately find it necessary, in order to gain belief, to have recourse to continual 
 swearing. 
 
-## This Commandment Forbids Hypocrisy
+### This Commandment Forbids Hypocrisy
 
 Finally, the first part of this Commandment prohibits dissimulation. It is sinful not only to speak, but to act 
 deceitfully. Actions, as well as words, are signs of what is in our mind; and hence our Lord, rebuking the 
 Pharisees, frequently calls them hypocrites. So, far with regard to the negative, which is the first part of this 
 
-## Commandment. Positive Part of this Commandment
+### Commandment. Positive Part of this Commandment
 
-## Judges Must Pass Sentence According To Law And Justice
+### Judges Must Pass Sentence According To Law And Justice
 
 We now come to explain what the Lord commands in the second part. Its nature and purpose require that trials 
 be conducted on principles of strict justice and according to law. It requires that no one usurp judicial powers or 
@@ -13141,7 +13209,7 @@ had constituted judges of the people: Judge that which is just, whether he be on
 There shall be no difference of persons, you shall hear the little as well as the great; neither shall you respect 
 any man's person, because it is the judgment of God. 
 
-## Witnesses Must Give Testimony Truthfully
+### Witnesses Must Give Testimony Truthfully
 
 With regard to an accused person who is conscious of his own guilt, God commands him to confess the truth, if 
 he is interrogated judicially. By that confession he, in some sort, bears witness to, and proclaims the praise and 
@@ -13159,7 +13227,7 @@ legally interrogated by the judge, he is emphatically bound to tell the whole tr
 should be most circumspect, lest, trusting too much to memory, they affirm for certain what they have not fully 
 ascertained. 
 
-## Lawyers And Plaintiffs Must Be Guided By Love Of Justice
+### Lawyers And Plaintiffs Must Be Guided By Love Of Justice
 
 Attorneys and counsel, plaintiffs and prosecutors, remain still to be treated of. The two former should not refuse 
 to contribute their services and legal assistance, when the necessities of others call for their aid. They should 
@@ -13169,7 +13237,7 @@ the principles of justice and of equity.
 Plaintiffs and prosecutors, on their side, are to be warned not to be led by the influence of love, or hatred, or any 
 other undue motive into exposing anyone to danger through unjust charges: 
 
-## All Must Speak Truthfully And With Charity
+### All Must Speak Truthfully And With Charity
 
 To all conscientious persons is addressed the divine command that in all their intercourse with society, in every 
 conversation, they should speak the truth at all times from the sincerity of their hearts; that they should utter 
@@ -13177,7 +13245,7 @@ nothing injurious to the reputation of another, not even of those by whom they k
 persecuted. For they should always remember that between them and others there exists such a close social 
 bond that they are all members of the same body. 
 
-## Inducements To Truthfulness
+### Inducements To Truthfulness
 
 In order that the faithful may be more disposed to avoid the vice of lying, the pastor should place before them 
 the extreme lowness and disgrace of this sin. In the Sacred Scriptures the devil is called the father of lies; for as, 
@@ -13207,12 +13275,12 @@ But the evil consequences of lying are widespread and extend to society at large
 faith and truth, which form the closest links of human society, are dissolved, confusion ensues, and men seem to 
 differ in nothing from demons. 
 
-## How To Avoid Lying
+### How To Avoid Lying
 
 The pastor should also teach that loquacity is to be avoided. By avoiding loquacity other evils will be obviated, 
 and a great preventive opposed to lying, from which loquacious persons can scarcely abstain. 
 
-## Excuses for Lying Refuted The Plea Of Prudence
+### Excuses for Lying Refuted The Plea Of Prudence
 
 There are those who seek to justify their duplicity either by the unimportance of what they say, or by the 
 example of the worldly wise who, they claim, lie at the proper time. The pastor should correct such erroneous 
@@ -13220,7 +13288,7 @@ ideas by answering what is most true, namely, that the wisdom of the flesh is de
 listeners in all their difficulties and dangers to trust in God, not in the artifice of lying; for those who have 
 recourse to subterfuge, plainly show that they trust more to their own prudence than to the providence of God. 
 
-## The Plea Of Revenge
+### The Plea Of Revenge
 
 Those who lay the blame of their own falsehood on others, who first deceived them by lies, are to be taught the 
 unlawfulness of avenging their own wrongs, and that evil is not to be rendered for evil, but rather that evil is to 
@@ -13228,7 +13296,7 @@ be overcome by good. Even if it were lawful to return evil for evil, it would no
 ourselves in order to get revenge. The man who seeks revenge by uttering falsehood inflicts very serious injury 
 on himself. 
 
-## The Pleas Of Frailty, Habit, And Bad. Example
+### The Pleas Of Frailty, Habit, And Bad. Example
 
 Those who plead human frailty are to be taught that it is a duty of religion to implore the divine assistance, and 
 not to yield to human infirmity. 
@@ -13239,7 +13307,7 @@ indulge in falsehood and perjury. Such persons should be undeceived by reminding
 to be imitated, but reproved and corrected; and that, when we ourselves are addicted to the same vice, our 
 admonitions have less influence in reprehending and correcting it in others. 
 
-## The Pleas Of Convenience, Amusement, And Advantage
+### The Pleas Of Convenience, Amusement, And Advantage
 
 With regard to those who defend their conduct by saying that to speak the truth is often attended with 
 inconvenience, priests should answer that (such an excuse) is an accusation, not a defence, since it is the duty of 
@@ -13253,14 +13321,14 @@ upbraid them with greater severity, because their very excuse is a most serious 
 since they show thereby that they yield no faith or confidence to these words of God: Seek first the kingdom of 
 God and his justice, and all these things shall be added unto you. 
 
-##
+###
 
 ## THE NINTH AND TENTH
 
 COMMANDMENTS : "Thou shalt not covet thy neighbour's house: neither
 shalt thou desire his wife, nor his servant, nor his hand-maid, nor his ox, nor his ass, nor anything that 
 
-## is his." Importance Of Instruction On These Two Commandments
+### is his." Importance Of Instruction On These Two Commandments
 
 It is to be observed, in the first place, that these two precepts, which were delivered last in order, furnish a 
 general principle for the observance of all the rest. What is commanded in these two amounts to this, that if we 
@@ -13273,7 +13341,7 @@ word or deed or otherwise; for the root of all evil is concupiscence, which hurr
 species of crime and wickedness. Keeping these considerations in mind, the pastor should be more diligent in 
 explaining this Commandment, and the faithful more ready to hear (his instruction). 
 
-## Why These Two Commandments Are Explained Here Together
+### Why These Two Commandments Are Explained Here Together
 
 We have united these two Commandments because, since their subject-matter is similar, they may be treated 
 together. However, the pastor may explain them either together or separately, according as he may deem it more 
@@ -13284,7 +13352,7 @@ looks only to utility and interest, the other to unlawful desire and criminal pl
 a field or house, pursues profit rather than pleasure, while he who covets another man's wife yields to a desire of 
 pleasure, not of profit. 
 
-## Necessity Of Promulgating These Two Commandments
+### Necessity Of Promulgating These Two Commandments
 
 The promulgation of these two Commandments was necessary for two reasons. The first is to explain the sixth 
 and seventh Commandments. Reason alone shows that to prohibit adultery is also to prohibit the desire of 
@@ -13299,7 +13367,7 @@ prohibition. The seventh Commandment, for instance, forbids an unjust desire or 
 belongs to another; but this Commandment further prohibits even to covet it in any way, even though it could be 
 acquired justly and lawfully, if we foresee that by such acquisition our neighbour would suffer some loss. 
 
-## These Two Commandments Teach God's Love For Us And Our Need Of Him
+### These Two Commandments Teach God's Love For Us And Our Need Of Him
 
 But before we come to the exposition of the Commandments, the faithful are first to be informed that by this 
 law we are taught not only to restrain our inordinate desires, but also to know the boundless love of God 
@@ -13324,16 +13392,16 @@ Concupiscence, which is the fuel of sin, and which originated in sin, is always 
 from it we know that we are born in sin, and, therefore, do we humbly fly for assistance to Him, who alone can 
 efface the stains of sin. 
 
-## Two Parts Of These Commandments
+### Two Parts Of These Commandments
 
 In common with the other Commandments, however, these two are partly mandatory, partly prohibitory. 
 
-## Negative Part "Thou Shalt Not Covet"
+### Negative Part "Thou Shalt Not Covet"
 
 With regard to the prohibitory part, the pastor should explain what sort of concupiscence is prohibited by this 
 law, lest some may think that which is not sinful to be sinful. 
 
-## What Sort Of Concupiscence Is Not Forbidden
+### What Sort Of Concupiscence Is Not Forbidden
 
 Such is the concupiscence of the spirit against the flesh; Or that which David so earnestly desired, namely, to 
 long after the justifications of God at all times. 
@@ -13347,7 +13415,9 @@ spirit and reason.
 However, if well regulated, and kept within proper bounds, it is often still the source of no slight advantage. In 
 the first place, it leads us to supplicate God continually, and humbly to beg of Him those things which we most 
 earnestly desire. Prayer is the interpreter of our wishes; and if this lawful concupiscence did not exist within us, 
-prayer would be far less frequent in the Church of God. It also makes us esteem the gifts of God more highly; 
+
+## prayer would be far less frequent in the Church of God. It also makes us esteem the gifts of God more highly;
+
 for the more eagerly we desire anything, the dearer and more pleasing will be its possession to us. Finally, the 
 gratification which we receive from the acquisition of the desired object increases the devotion of our gratitude 
 to God. 
@@ -13361,7 +13431,7 @@ still less do these Commandments forbid that spiritual desire of the virtuous mi
 those things that war against the flesh, for the Sacred Scriptures themselves exhort us to such a desire: Covet ye 
 my words, Come over to me all ye that desire me. 
 
-## What Sort Of Concupiscence Is Here Prohibited
+### What Sort Of Concupiscence Is Here Prohibited
 
 It is not, then, the mere power of desire, which can move either to a good or a bad object that is prohibited by 
 these Commandments; it is the indulgence of evil desire, which is called the concupiscence of the flesh, and the 
@@ -13369,7 +13439,7 @@ fuel of sin, and which when accompanied by the consent of the will, is always si
 covetousness is forbidden which the Apostle calls the concupiscence of the flesh, that is to say, those motions of 
 desire which are contrary to the dictates of reason and outstep the limits prescribed by God. 
 
-## Two Kinds Of Sinful Concupiscence
+### Two Kinds Of Sinful Concupiscence
 
 This kind of covetousness is condemned, either because it desires what is evil, such as adultery, drunkenness, 
 murder, and such heinous crimes, of which the Apostle says: Let us not covet evil things, as they also coveted; 
@@ -13390,12 +13460,12 @@ belong to others. A thirst for what belongs to others is intense and insatiable;
 shall not be satisfied with money; and of such a one Isaias says: Woe to you that join house to house, and lay 
 field to field. 
 
-## The Various Objects We Are Forbidden To Covet
+### The Various Objects We Are Forbidden To Covet
 
 But a distinct explanation of each of the words (in which this Commandment is expressed) will make it easier to 
 understand the deformity and grievousness of this sin. 
 
-## Thy Neighbour’s House
+### Thy Neighbour’s House
 
 The pastor, therefore, should teach that by the word house is to be understood not only the habitation in which 
 we dwell, but all our property, as we know from the usage and custom of the sacred writers. Thus when it is 
@@ -13406,13 +13476,13 @@ envy others their wealth, or power, or rank; but, on the contrary, we are direct
 condition, whether it be high or low. Furthermore, it is forbidden to desire the glory of others since glory also is 
 comprised under the word house. 
 
-## "Nor His Ox, Nor His Ass'
+### "Nor His Ox, Nor His Ass'
 
 The words that follow, nor his ox, nor his ass, teach us that not only is it unlawful to desire things of greater 
 value, such as a house, rank, glory, because they belong to others; but also things of little value, whatever they 
 may be, animate or inanimate. 
 
-## "Nor His Servant
+### "Nor His Servant
 
 The words, nor his servant, come next, and include captives as well as other slaves whom it is no more lawful to 
 covet than the other property of our neighbour. With regard to the free who serve voluntarily either for wages, 
@@ -13421,22 +13491,23 @@ under any pretext whatever, to leave those to whose service they have freely eng
 before the period of their contract has expired, they leave their employers, they are to be admonished, on the 
 authority of this Commandment, to return to them by all means. 
 
-## "Thy Neighbour's"
+### "Thy Neighbour's"
 
 The word neighbour is mentioned in this Commandment to mark the wickedness of those who habitually covet 
 the lands, houses and the like, which lie in their immediate vicinity; for neighbourhood, which should make for 
 friendship, is transformed by covetousness from a source of love into a cause of hatred. 
 
-## Goods For Sale Not Included Under This Prohibition
+### Goods For Sale Not Included Under This Prohibition
 
 But this Commandment is by no means transgressed by those who desire to purchase or have actually 
 purchased, at a fair price, from a neighbour, the goods which he has for sale. Instead of doing him an injury, 
 they, on the contrary, very much assist their neighbour, because to him the money will be much more 
 convenient and useful than the goods he sells. 
 
-## "His Wife"
+### "His Wife"
 
-The Commandment which forbids us to covet the goods of our neighbour, is followed by another, which forbids 
+## The Commandment which forbids us to covet the goods of our neighbour, is followed by another, which forbids
+
 us to covet our neighbour’s wife -- a law that prohibits not only the adulterer's criminal desire of his neighbour’s 
 wife, but even the wish to marry her. For of old when a bill of divorce was permitted, it might easily happen, 
 that she who was put away by one husband might be married to another. But the Lord forbade the desire of 
@@ -13454,7 +13525,7 @@ husband living, certainly he does not violate this Commandment. Pharaoh and Abim
 informs us, were betrayed into this error; they wished to marry Sarah, supposing her to be unmarried, and to be 
 the sister, not the wife of Abraham. 
 
-## Positive Part Detachment From Riches Enjoined
+### Positive Part Detachment From Riches Enjoined
 
 In order to make known the remedies calculated to overcome the vice of covetousness, the pastor should explain 
 the positive part of the Commandment, which consists in this, that if riches abound, we set not our hearts upon 
@@ -13465,7 +13536,7 @@ belongs to another.
 Concerning the praises of poverty and the contempt of riches, the pastor will find little difficulty in collecting 
 abundant matter for the instruction of the faithful from the Sacred Scriptures and the works of the Fathers. 
 
-## The Desire Of Heavenly And Spiritual Things Enjoined
+### The Desire Of Heavenly And Spiritual Things Enjoined
 
 Likewise this Commandment requires us to desire, with all the ardour and all the earnestness of our souls, the 
 consummation, not of our own wishes, but of the holy will of God, as it is expressed in the Lord's Prayer. Now 
@@ -13474,7 +13545,7 @@ practice those duties of mind and spirit which are opposed to sensuality; that w
 and enter, under the guidance of reason and of the spirit, upon a virtuous course of life; and finally that we hold 
 under restraint those senses in particular which supply matter to the passions. 
 
-## Thoughts which Help one to Keep these Commandments
+### Thoughts which Help one to Keep these Commandments
 
 In order to extinguish the fire of passion, it will be found most efficacious to place before our eyes the evil 
 consequences of its indulgence. 
@@ -13491,7 +13562,7 @@ Some, it is written in St. Mark, are sown among thorns; these are they who hear 
 world, and the deceitfulness of riches, and the lust after other things, entering in, choke the word, and it is made 
 fruitless. 
 
-## Chief Ways in which These two Commandments are Violated
+### Chief Ways in which These two Commandments are Violated
 
 They who, more than others, are the slaves of concupiscence, the pastor should exhort with greater earnestness 
 to observe this Commandment. Such are the following: those who are addicted to improper amusements, or who 
@@ -13511,7 +13582,9 @@ characters; for fame and glory are the reward of virtue and industry, not of ind
 
 ##
 
-## PRAYER Importance Of Instruction On Prayer
+## PRAYER
+
+### Importance Of Instruction On Prayer
 
 One of the duties of the pastoral office, which is of the highest importance to the spiritual interests of the 
 faithful, is to instruct them on Christian prayer; the nature and efficacy of which must remain unknown to many, 
@@ -13525,7 +13598,7 @@ pastors, however, in teaching the faithful concerning this prayer, we have set d
 conspicuous for learning and fullness in this matter, whatever appeared to us most suitable, leaving it to pastors 
 to draw upon the same sources for further information, should they deem it necessary. 
 
-## Necessity of Prayer
+### Necessity of Prayer
 
 In the first place the necessity of prayer should be insisted upon. Prayer is a duty not only recommended by way 
 of counsel, but also commanded by obligatory precept. Christ the Lord declared this when He said: We should 
@@ -13552,14 +13625,14 @@ that which is good; your entreaties must also be assiduous. Every one that asket
 it is written. If, therefore, it is not given you, this is because you do not ask. Ask, therefore, and you shall 
 receive. 
 
-## The Fruits of Prayer
+### The Fruits of Prayer
 
 Moreover, this necessity of prayer is also productive of the greatest delight and usefulness, since it bears most 
 abundant fruits. When it is necessary to instruct the faithful concerning these fruits, pastors will find ample 
 matter in sacred writers. We have made from these sources a selection which appeared to us to suit the present 
 purpose. 
 
-## Prayer Honours God
+### Prayer Honours God
 
 The first fruit which we receive is that by praying we honour God, since prayer is a certain act of religion, 
 which is compared in Scripture to a sweet perfume. Let my prayer, says the Prophet, be directed as incense in 
@@ -13568,7 +13641,7 @@ all good, in whom alone we center all our hopes, who alone is our refuge, in all
 salvation. Of this fruit we are admonished also in these words: Call upon me in the day of trouble; I -will deliver 
 thee, and thou shalt glorify me. 
 
-## Prayer Obtains What We Request
+### Prayer Obtains What We Request
 
 Another most pleasing and invaluable fruit of prayer is that it is heard by God. Prayer is the key of heaven, says 
 St. Augustine; prayer ascends, and the mercy of God descends. High as are the heavens, and low as is the earth, 
@@ -13578,7 +13651,7 @@ preservation of the faith, deliverance from punishment, divine protection under 
 devil. In a word, there is in prayer an accumulation of spiritual joy; and hence our Lord said: Ask, and you shall 
 receive, that your joy may be full. 
 
-## Proof
+### Proof
 
 Nor can we, for a moment, doubt that God in His goodness awaits and is at all times ready to hear our petitions 
 -- a truth to which the Sacred Scriptures bear ample testimony. Since, however, the texts are easy of access, we 
@@ -13587,7 +13660,7 @@ hear: thou shalt cry, and he will say, "Here I am"; and again, It shall come to 
 hear: as they are yet speaking, I will hear. With regard to instances of persons, who have obtained from God the 
 objects of their prayers, they are almost innumerable, and too well known to require special mention. 
 
-## Unwise And Indevout Prayers Unheard
+### Unwise And Indevout Prayers Unheard
 
 Sometimes, indeed, it happens that what we ask of God we do not obtain. But it is then especially that God 
 looks to our welfare, either because He bestows on us other gifts of higher value and in greater abundance, or 
@@ -13601,7 +13674,7 @@ We should not, therefore, be at all surprised, if God does not comply with our r
 negligence and indifference we almost show that we do not really desire what we ask, or because we ask those 
 things, which, if granted, would be prejudicial to our interests. 
 
-## To Devout Prayer And Dispositions God Grants More Than Is Asked
+### To Devout Prayer And Dispositions God Grants More Than Is Asked
 
 On the other hand, to those who pray with devout attention, God grants more than they ask. This the Apostle 
 declares in his Epistle to the Ephesians, and the same truth is unfolded ill the parable of the prodigal son, who 
@@ -13611,14 +13684,14 @@ this, not only with abundance, but also with readiness. This is shown by the wor
 heard the desire of the poor. For God hastens to grant the inner and hidden desires of the needy without 
 awaiting their utterance. 
 
-## Prayer Exercises And Increases Faith
+### Prayer Exercises And Increases Faith
 
 Another fruit of prayer is, that it exercises and augments the virtues of the soul, particularly the virtue of faith. 
 As they who have not faith in God, cannot pray as they ought, for how can they call on him, whom they have 
 not believed ? so the faithful, in proportion to the fervour of their prayers, possess a stronger and a more assured 
 faith in the protecting providence of God, which requires principally that in all needs we have recourse to Him. 
 
-## Prayer Strengthens Our Hope In God
+### Prayer Strengthens Our Hope In God
 
 God, it is true, might bestow on us all things abundantly, although we did not ask them or even think of them, 
 just as He bestows on the irrational creation all things necessary for the support of life. But our most bountiful 
@@ -13626,7 +13699,7 @@ Father wishes to be invoked by His children; He wishes that, praying as we ought
 pray with increased confidence. He wishes that in obtaining our requests we may more and more bear witness to 
 and declare His goodness towards us. 
 
-## Prayer Increases Charity
+### Prayer Increases Charity
 
 Our charity is also augmented. In recognising God as the author of every blessing and of every good, we are led 
 to cling to Him with the most devoted love. And as those who cherish a mutual affection become more ardently 
@@ -13634,38 +13707,38 @@ attached by frequent interviews and conversations, so the oftener the soul prays
 divine mercy, thus holding converse with God, the more exquisite is the sense of delight which she experiences 
 in each prayer, and the more ardently is she inflamed to love and adore Him. 
 
-## Prayer Disposes The Soul For Divine Blessings
+### Prayer Disposes The Soul For Divine Blessings
 
 Furthermore, God wishes us to make use of prayer, in order that burning with the desire of asking what we are 
 anxious to obtain, we may thus by our perseverance and zeal make such advances in spiritual life, as to be 
 worthy to obtain those blessings which the soul could not obtain before because of its dryness and lack of 
 devotion. 
 
-## Prayer Makes Us Realise Our Own Needfulness
+### Prayer Makes Us Realise Our Own Needfulness
 
 Moreover, God wishes us to realise, and always keep in mind, that, unassisted by His heavenly grace, we can of 
 ourselves do nothing, and should therefore apply ourselves to prayer with all the powers of our souls. 
 
-## Prayer Is A Protection Against The Devil
+### Prayer Is A Protection Against The Devil
 
 The weapons which prayer supplies are most powerful against our bitterest foes. With the cries of our prayers, 
 says St. Hilary, we must fight against the devil and his armed hosts. 
 
-## Prayer Promotes A Virtuous Life
+### Prayer Promotes A Virtuous Life
 
 From prayer we also derive this important advantage that though we are inclined to evil and to the indulgence of 
 various passions, as a consequence of our natural frailty, God permits us to raise our hearts to Him, in order that 
 while we address Him in prayer, and endeavour to deserve His gifts, we may be inspired with a love of 
 innocence, and, by effacing our sins, be purified from every stain of guilt. 
 
-## Prayer Disarms The Divine Vengeance
+### Prayer Disarms The Divine Vengeance
 
 Finally, as St. Jerome observes, prayer disarms the anger of God. Hence, these words of God addressed to 
 Moses: Let me alone, when Moses sought by his prayer to stay the punishments God was about to inflict on His 
 people. Nothing is so efficacious in appeasing God, when His wrath is kindled; nothing so effectually delays or 
 averts the punishments prepared for the wicked as the prayers of men. 
 
-## The Parts Of Prayer
+### The Parts Of Prayer
 
 The necessity and advantages of Christian prayer being explained, the faithful should also know how many, and 
 what are the parts of which it is composed; for that this pertains to the perfect discharge of this duty, we learn 
@@ -13675,7 +13748,7 @@ thanksgivings be made for all men. Although the shades of distinction between th
 are delicate, yet the pastor, should he deem the explanation useful to his people, should consult, among others, 
 St. Hilary and St. Augustine. 
 
-## The Two Chief Parts Of Prayer Petition And Thanksgiving
+### The Two Chief Parts Of Prayer Petition And Thanksgiving
 
 There are two principal parts of prayer, petition and thanksgiving, and since these are the sources, as it were, 
 from which all the others spring, they appear to us to be of too much importance to be omitted. For we approach 
@@ -13692,17 +13765,19 @@ light of the divine goodness and beneficence beams upon us. What have we that is
 then, all things are the gifts and favours bestowed on us by His goodness, why should not everyone, as much as 
 possible, celebrate the praises of God, and thank Him for His boundless beneficence. 
 
-## Degrees Of Petition And Thanksgiving
+### Degrees Of Petition And Thanksgiving
 
 Of these duties of petition and thanksgiving each contains many subordinate degrees. In order, therefore, that 
 the faithful may not only pray, but also pray in the best manner, the pastor should propose to them the most 
 perfect mode of praying, and should exhort them to use it to the best of their ability. 
 
-## The Highest Degree Of Prayer: The Prayer Of The Just
+### The Highest Degree Of Prayer: The Prayer Of The Just
 
 What, then, is the best manner and the most exalted degree of prayer? It is that which is made use of by the 
 pious and the just. Resting on the solid foundation of the true faith, they rise successively from one degree of 
-prayer and virtue to another, until, at length, they reach that height of perfection, whence they can contemplate 
+
+## prayer and virtue to another, until, at length, they reach that height of perfection, whence they can contemplate
+
 the infinite power, goodness, and wisdom of God; where, too, they are animated with the assured hope of 
 obtaining not only those blessings which they desire in this life, but also those unutterable rewards which God 
 has pledged Himself to grant to him who piously and religiously implores His assistance. 
@@ -13717,7 +13792,7 @@ Sacred Scriptures exhort us in these words: Pour out thy heart before him, cast 
 that degree of prayer to which St. Augustine alludes when he says in that book entitled Enchiridion: What faith 
 believes, that hope and charity implore. 
 
-## The Second Degree Of Prayer: The Prayer Of Sinners
+### The Second Degree Of Prayer: The Prayer Of Sinners
 
 Another degree of prayer is that of those who are weighed down by the guilt of mortal sin, but who strive, with 
 what is called dead faith, to raise themselves from their condition and to ascend to God. But, in consequence of 
@@ -13731,7 +13806,7 @@ invites such as these to have recourse to Him, saying: Come to me, all you that 
 and I will refresh you, of this class was the publican, who, though he did not dare to raise his eyes towards 
 heaven, left the Temple, as (our Lord) declares, more justified than the Pharisee. 
 
-## The Third Degree Of Prayer: The Prayer Of Unbelievers
+### The Third Degree Of Prayer: The Prayer Of Unbelievers
 
 A third degree of prayer is that which is offered by those who have not as yet been illumined with the light of 
 faith; but who, when the divine goodness illumines in their souls the feeble natural light, are strongly moved to 
@@ -13740,7 +13815,7 @@ If they persevere in such dispositions, God, in His mercy, will not neglect thei
 verified by the example of Cornelius the centurion. The doors of the divine mercy are closed against none who 
 sincerely ask for mercy. 
 
-## The Lowest Degree Of Prayer: The Prayer Of The Impenitent
+### The Lowest Degree Of Prayer: The Prayer Of The Impenitent
 
 The last degree is that of those who not only do not repent of their sins and enormities, but, adding crime to 
 crime, dare frequently to ask pardon of God for those sins, in which they are resolved to continue. With such 
@@ -13749,22 +13824,24 @@ The prayer of such sinners is not heard by God. It is recorded of Antiochus: The
 Lord, of whom he was not to obtain mercy. Whoever lives in this deplorable condition should be vehemently 
 exhorted to wean himself from all affection to sin, and to return to God in good earnest and from the heart. 
 
-## What We Should Pray For
+### What We Should Pray For
 
 Under the head of each Petition we shall point out in its proper place, what is, and what is not a proper object of 
-prayer. Hence it will suffice here to remind the faithful in a general way that they ought to ask of God such 
+
+## prayer. Hence it will suffice here to remind the faithful in a general way that they ought to ask of God such
+
 things as are just and good, lest, praying for what is not suitable, they may be repelled in these words: You 
 know not what you ask. Whatever it is lawful to desire, it is lawful to pray for, as is proved by the Lord's ample 
 promise: You shall ask whatever you will, and it shall be done unto you, words in which He promises to grant 
 
-## all things. Spiritual Goods
+### all things. Spiritual Goods
 
 In the first place, then, the standard which should regulate all our wishes is that we desire above all else God, 
 the supreme Good. After God we should most desire those things which unite us most closely to Him; while 
 those which would separate us from Him, or occasion that separation, should have no share whatever in our 
 affections. 
 
-## External Goods And Goods Of Body
+### External Goods And Goods Of Body
 
 Taking, then, as our standard the supreme and perfect Good, we can easily infer how we are to desire and ask 
 from God our Father those other things which are called goods. Goods which are called bodily, such as health, 
@@ -13781,22 +13858,24 @@ share them with others. If we are blessed with health, if we abound in other ext
 should recollect that they are given to us in order to enable us to serve God with greater fidelity, and as the 
 means of lending assistance to others. 
 
-## Goods Of The Mind
+### Goods Of The Mind
 
 It is also lawful to pray for the goods and adornments of the mind, such as a knowledge of the arts and sciences, 
 provided our prayers are accompanied with this condition, that they serve to promote the glory of God and our 
 own salvation. 
 The only thing which can be absolutely and unconditionally the object of our wishes, our desires and our 
-prayers, is, as we have already observed, the glory of God, and, next to it, whatever can serve to unite us to that 
+
+## prayers, is, as we have already observed, the glory of God, and, next to it, whatever can serve to unite us to that
+
 supreme Good, such as faith and the fear and love of God, of which we shall treat at length when we come to 
 explain the Petitions. 
 
-## For Whom We Ought to Pray
+### For Whom We Ought to Pray
 
 The objects of prayer being known, the faithful are next to be taught for whom they are to pray. Prayer 
 comprehends petition and thanksgiving. We shall first treat of petition. 
 
-## The Prayer Of Petition Should Be Offered For All
+### The Prayer Of Petition Should Be Offered For All
 
 We are to pray for all mankind, without exception of enemies, nation or religion; for every man, be he enemy, 
 stranger or infidel, is our neighbour, whom God commands us to love, and for whom, therefore, we should 
@@ -13804,7 +13883,7 @@ discharge a duty of love, which is prayer. To the discharge of this duty the Apo
 desire that prayer be made for all men. In such prayers we should first ask for those things that concern spiritual 
 interests, and next for what pertains to temporal welfare. 
 
-## Those For Whom We Should Especially Offer Our Petitions: Pastors
+### Those For Whom We Should Especially Offer Our Petitions: Pastors
 
 Before all others the pastors of our souls have a right to our prayers, as we learn from the example of the 
 Apostle in his Epistle to the Colossians, in which he asks them to pray for him, that God may open unto him a 
@@ -13814,20 +13893,20 @@ we also read that prayers were offered in the Church without intermission for Pe
 Morals, urges to a faithful compliance with this obligation. We must, he says, pray for those who are charged 
 with preaching the word of truth. 
 
-## Rulers Of Our Country
+### Rulers Of Our Country
 
 In the next place, as the same Apostle teaches, we should pray for our rulers. 
 Who does not know what a singular blessing a people enjoy in public officials who are just and upright? We 
 should, therefore, beseech God to make them such as they ought to be, fit persons to govern others. 
 
-## The Just
+### The Just
 
 To offer up our prayers also for the good and pious is a practice taught by the example of holy men. Even the 
 good and the pious need the prayers of others. Providence has wisely ordained it so, in order that the just, 
 realising the necessity they are under of being aided by the prayers of those who are inferior to them, may not 
 be inflated with pride. 
 
-## Enemies And Those Outside The Church
+### Enemies And Those Outside The Church
 
 The Lord has also commanded us, to pray for those that persecute and calumniate us. The practice of praying 
 for those who are not within the pale of the Church, is, as we know on the authority of St. Augustine, of 
@@ -13841,12 +13920,13 @@ occur every day in which God rescues individuals of every condition of life from
 transfers them into the kingdom of His Beloved Son, from vessels of wrath making them vessels of mercy. That 
 the prayers of the pious have very great influence in bringing about this result no one can reasonably doubt. 
 
-## The Dead
+### The Dead
 
-Prayers for the dead, that they may be liberated from the fire of purgatory, are derived from Apostolic teaching. 
+## Prayers for the dead, that they may be liberated from the fire of purgatory, are derived from Apostolic teaching.
+
 But on this subject we have said enough when explaining the Holy Sacrifice of the Mass. 
 
-## Sinners
+### Sinners
 
 Those who are said to sin unto death derive little advantage from prayers and supplications. It is, however, the 
 part of Christian charity to offer up our prayers and tears for them, in order, if possible, to obtain their 
@@ -13855,17 +13935,17 @@ With regard to the execrations uttered by holy men against the wicked, it is cer
 Fathers, that they are either prophecies of the evils which are to befall sinners or denunciations of the crimes of 
 which they are guilty, that the sinner may be saved, but sin destroyed. 
 
-## The Prayer Of Thanksgiving Should Be Offered For All
+### The Prayer Of Thanksgiving Should Be Offered For All
 
 In the second part of prayer we render most grateful thanks to God for the divine and immortal blessings which 
 He has always bestowed, and still continues to bestow every day on the human race. 
 
-## Our Thanksgiving Should Especially Be Offered: For The Saints
+### Our Thanksgiving Should Especially Be Offered: For The Saints
 
 This duty we discharge especially when we give singular praises to God for the victory and triumph which all 
 the Saints, aided by His goodness, have achieved over their domestic and external enemies. 
 
-## For The Blessed Virgin Mary
+### For The Blessed Virgin Mary
 
 To this sort of prayer belongs the first part of the Angelic Salutation, when used by us as a prayer: Hail Mary, 
 full of grace, the Lord is with thee, blessed art thou among women. For in these words we render to God the 
@@ -13880,20 +13960,20 @@ we should earnestly implore her help and assistance; for that she possesses exal
 she is most desirous to assist us by her prayers, no one can doubt without impiety and wickedness. 
 To Whom We Should Pray 
 
-## To God
+### To God
 
 That God is to be prayed to and His name invoked is the language of the law of nature, inscribed upon the 
 human heart. It is also the doctrine of Holy Scripture, in which we hear God commanding: Call upon me in the 
 day of trouble. By the word God, we mean the three Persons (of the adorable Trinity). 
 
-## To The Saints
+### To The Saints
 
 We must also have recourse to the intercession of the Saints who are in glory. That the Saints are to be prayed 
 to is a truth so firmly established in the Church of God, that no pious person can experience a shadow of doubt 
 on the subject. But as this point was explained in its proper place, under a separate head, we refer the pastor and 
 others to that place. 
 
-## God And The Saints Addressed Differently
+### God And The Saints Addressed Differently
 
 To remove, however, the possibility of error on the part of the unlearned it will be found useful to explain to the 
 faithful the difference between these two kinds of invocation. 
@@ -13910,14 +13990,14 @@ bear in mind that we beg of the Saint to pray with us and to obtain for us those
 the Petitions of the Lord's Prayer, -- in a word, that he become our interpreter and intercessor with God. That 
 this is an office which the Saints discharge, St. John the Apostle teaches in the Apocalypse. 
 
-## Preparation for Prayer
+### Preparation for Prayer
 
 In Scripture we read: Before prayer, prepare thy soul, and be not as a man that tempteth God. He tempts God 
 who prays well but acts badly, and while he converses with God allows his mind to wander. 
 Since, then, the dispositions with which we pray are of such vital importance, the pastor should teach his pious 
 hearers how to pray. 
 
-## Humility
+### Humility
 
 The first preparation, then, for prayer is an unfeigned humility of soul, an acknowledgment of our sinfulness, 
 and a conviction that, when we approach God in prayer, our sins render us undeserving, not only of receiving a 
@@ -13931,16 +14011,18 @@ purpose, we shall not pass over in silence. The publican, who, standing afar off
 eyes toward heaven, and the woman, a sinner, who, moved with sorrow, washed the feet of Christ the Lord, 
 with her tears, illustrate the great efficacy which Christian humility imparts to prayer. 
 
-## Sorrow For Sin
+### Sorrow For Sin
 
 The next (preparation) is a feeling of sorrow, arising from the recollection of our past sins, or, at least, some 
 sense of regret, that we do not experience that sorrow. If the sinner bring not with him to prayer both, or, at least 
 one of these dispositions, he cannot hope to obtain pardon. 
 
-## Freedom From Violence, Anger, Hatred And Inhumanity
+### Freedom From Violence, Anger, Hatred And Inhumanity
 
 There are some crimes, such as violence and murder, which are in a special way obstacles to the efficacy of our 
-prayers, and we must, therefore, preserve our hands unstained by outrage and cruelty. Of such crimes the Lord 
+
+## prayers, and we must, therefore, preserve our hands unstained by outrage and cruelty. Of such crimes the Lord
+
 says by the mouth of Isaias: When you stretch forth your hands, I will turn away my eyes from you; and when 
 you multiply prayer, I will not hear, for your hands are full of blood 
 Anger and strife we should also avoid, for they have great influence in preventing our prayers from being heard. 
@@ -13953,7 +14035,7 @@ neither will your heavenly Father forgive you your offences.
 Hardness and inhumanity to the poor we should also avoid. For concerning men of this kind it was said He that 
 stoppeth his ear against the cry of the poor, shall also cry himself, and shall not be heard. 
 
-## Freedom From Pride And Contempt Of God's Word
+### Freedom From Pride And Contempt Of God's Word
 
 What shall we say of pride? How much it offends God, we learn from these words: God resisteth the proud, and 
 giveth grace to the humble. What of the contempt of the divine oracles? He that turneth away his ears, says 
@@ -13962,7 +14044,7 @@ Here, however, we are not to understand that we are forbidden to pray for the fo
 have done, of murder, anger, insensibility to the wants of the poor, of pride, contempt of God's word, in fine, of 
 any other sin. 
 
-## Faith And Confidence
+### Faith And Confidence
 
 Faith is another necessary quality for this preparation of soul. Without faith, we can have no knowledge of the 
 omnipotence or mercy of the supreme Father, which are the sources of our confidence in prayer, as Christ the 
@@ -13978,7 +14060,7 @@ in prayer; blessed is he who hath not doubted. Wherefore, to obtain from God wha
 confidence, are of first importance, according to the admonition of St. James: Let him ask in faith, nothing 
 wavering. 
 
-## Motives Of Confidence In Prayer
+### Motives Of Confidence In Prayer
 
 There is much to inspire us with confidence in prayer. Among these are to be numbered the beneficence and 
 bounty of God, displayed towards us, when He commands us to call Him Father, thus giving us to understand 
@@ -13999,30 +14081,30 @@ He asketh for us with unspeakable groanings.
 Should we, then, at any time waver, not being sufficiently strong in faith, let us say with the Apostles: Lord, 
 increase our faith; and, with the father (of the demoniac): Help my unbelief. 
 
-## Correspondence With God's Will
+### Correspondence With God's Will
 
 But what most ensures the accomplishment of our desires is the union of faith and hope with that conformity of 
 all our thoughts, actions, and prayers to God's law and pleasure. If, He says, you abide in me, and my words 
 abide in you, you shall ask whatever you will, and it shall be done unto you. 
 
-## Fraternal Charity
+### Fraternal Charity
 
 In order, however, that our prayers may have this power of obtaining all things from God, we must, as was 
 previously served, forget injuries, cherish sentiments of good will, and practice kindness towards our neighbour. 
 
-## How to Pray Well
+### How to Pray Well
 
 The manner of praying is also a matter of the highest moment. Though prayer in itself is good and salutary, yet 
 if not performed in a proper manner it is unavailing. Often we do not obtain what we ask, because, in the words 
 of St. James, we ask amiss. Pastors, therefore, should instruct the faithful in the best manner of asking well and 
 of making private and public prayer. The rules of Christian prayer have been formed on the teaching of Christ 
 
-## the Lord. We Must Pray In Spirit And In Truth
+### the Lord. We Must Pray In Spirit And In Truth
 
 We must, then pray in spirit and in truth; for the heavenly Father seeks those who adore Him in spirit and in 
 truth. He prays in this manner whose prayer proceeds from an interior and intense ardour of soul. 
 
-## Mental Prayer
+### Mental Prayer
 
 This spiritual manner of praying does not exclude the use of vocal prayer. Nevertheless, that prayer which is the 
 vehement outpouring of the soul, deservedly holds the first place; and although not uttered with the lips, it is 
@@ -14031,7 +14113,7 @@ of whom we read, that she prayed, shedding many tears and only moving her lips. 
 David, for he says: My heart hath said to thee, my f ace hath sought thee. In reading the Bible one will meet 
 many similar examples. 
 
-## Vocal Prayer
+### Vocal Prayer
 
 But vocal prayer has also its advantages and necessity. It quickens the attention of the mind, and kindles the 
 fervour of him who prays. We sometimes, says St. Augustine, in his letter to Proba, animate ourselves to 
@@ -14041,13 +14123,13 @@ should also give utterance to that exultation. And surely it becomes us to make 
 soul and body, a kind of prayer which the Apostles were accustomed to use, as we learn from many passages of 
 the Acts and of the Apostle. 
 
-## Private And Public Prayer
+### Private And Public Prayer
 
 There are two sorts of prayer, private and public. Private prayer is employed in order to assist interior attention 
 and devotion; whereas in public prayer, which has been instituted to excite the piety of the faithful, and has 
 been prescribed for certain fixed times, the use of words is indispensably required. 
 
-## Those Who Do Nor Pray In Spirit
+### Those Who Do Nor Pray In Spirit
 
 This practice of praying in spirit is peculiar to Christians, and is not at all used by infidels. Of these Christ the 
 Lord has said: When you pray, speak not much, as the heathens; for they think that in their much speaking they 
@@ -14060,7 +14142,7 @@ only did He spend whole nights in prayer, but also prayed the third time, saying
 inference, therefore, to be drawn from the prohibition is that prayers consisting of mere empty sounds are not to 
 be addressed to God. 
 
-## Those Who Do Not Pray In Truth
+### Those Who Do Not Pray In Truth
 
 Neither do the prayers of the hypocrite proceed from the heart; and against the imitation of their example, Christ 
 the Lord warns us in these words: When ye pray, ye shall not be as the hypocrites that love to stand and pray in 
@@ -14071,7 +14153,7 @@ to mean the human heart, which we should not only enter, but should also close a
 without that could deprive our prayer of its perfection. For then will our heavenly Father, who sees perfectly our 
 hearts and secret thoughts, grant our petitions. 
 
-## We Must Pray With Perseverance
+### We Must Pray With Perseverance
 
 Another necessary condition of prayer is constancy. The great efficacy of perseverance, the Son of God 
 exemplifies by the conduct of the judge, who, while he feared not God, nor regarded man, yet, overcome by the 
@@ -14082,7 +14164,7 @@ they succeed not in obtaining the object of their prayers. We should never be we
 are taught by the authority of Christ the Lord and of the Apostle. And should the will at any time fail us, we 
 should beg of God by prayer the strength to persevere. 
 
-## We Must Pray In The Name Of Jesus Christ
+### We Must Pray In The Name Of Jesus Christ
 
 The Son of God would also have us present our prayers to the Father in His name; for, by His merits and the 
 influence of His mediation, our prayers acquire such weight that they are heard by our heavenly Father. For He 
@@ -14090,12 +14172,12 @@ Himself says in St. John: Amen, Amen, I say unto you, if you ask the Father any 
 it you. Hitherto you have not asked any thing in my name: ask and you shall receive, that your joy may be full; 
 and again: Whatsoever you shall ask the Father in my name, that will I do. 
 
-## We Must Pray With Fervour, Uniting Petition To Thanksgiving
+### We Must Pray With Fervour, Uniting Petition To Thanksgiving
 
 Let us imitate the fervour of the Saints in prayer; and to petition let us unite thanksgiving, imitating the example 
 of the Apostles, who, as may be seen in the Epistles of St. Paul, always observed this salutary practice. 
 
-## Fasting And Almsdeeds Should Be Joined To Prayer
+### Fasting And Almsdeeds Should Be Joined To Prayer
 
 To prayer let us unite fasting and almsdeeds. Fasting is most intimately connected with prayer. For the mind of 
 one who is filled with food and drink is so borne down as not to be able to raise itself to the contemplation of 
@@ -14115,7 +14197,7 @@ which we have specially mentioned.
 
 "Our Father who art in heaven" 
 
-## Importance Of Instruction On These Words
+### Importance Of Instruction On These Words
 
 The form of Christian prayer given us by Jesus Christ is so composed and arranged that before coming to 
 requests and petitions certain words must be used as a sort of preface calculated to increase our confidence in 
@@ -14125,7 +14207,7 @@ readily because of the knowledge that they are going to commune and converse wit
 Father. Regarding this preface, if we merely consider the number of words of which it is composed, it is brief 
 indeed; but if we regard the ideas, it is of the greatest importance and replete with mysteries. 
 
-## "Father"
+### "Father"
 
 The first word, which, by the order and institution of God we employ in this prayer, is Father. Our Saviour 
 could, indeed, have commenced this divine prayer with some other word, conveying more the idea of majesty, 
@@ -14135,18 +14217,18 @@ anything of God; for what is sweeter than the name Father, conveying, as it does
 tenderness ? The reasons why this name Father is applicable to God, can be easily explained to the faithful by 
 speaking to them on the subjects of creation, providence, and redemption. 
 
-## God Is Called Father Because He Created Us
+### God Is Called Father Because He Created Us
 
 Thus having created man to His own image -- a favour He accorded to no other living creature -- it is with good 
 reason that, in view of this unique privilege with which He has honoured man, Sacred Scripture calls God the 
 Father of all men; not only of the faithful, but also of the unbelieving. 
 
-## God Is Called Father Because He Provides For Us
+### God Is Called Father Because He Provides For Us
 
 From His providence also may be drawn an argument. By a special superintending care and providence over our 
 interests God displays a paternal love for us. 
 
-## God's Care For Us Is Seen In The Appointment Of Guardian Angels
+### God's Care For Us Is Seen In The Appointment Of Guardian Angels
 
 But in order to comprehend more clearly the fatherly care of God for men, it will be well in the explanation of 
 this particular point to say something regarding the guardian Angels under whose protection men are placed. 
@@ -14159,7 +14241,7 @@ repel the dreadful attacks he makes on us, and under his guiding hand keep the r
 against all false steps which the wiles of the evil one might cause us to make in order to draw us aside from the 
 path that leads to heaven. 
 
-## How We Are Helped By The Angels
+### How We Are Helped By The Angels
 
 And the immense advantage springing from the special care and providence of God with regard to men, the 
 execution of which is entrusted to Angels, who by nature hold an intermediate place between God and man, will 
@@ -14187,7 +14269,7 @@ births. He furthermore appoints them to watch over the salvation of each one of 
 This teaching, if carefully explained, will have the effect of interesting and compelling the minds of the faithful 
 to acknowledge and venerate more and more the paternal care and providence of God towards them. 
 
-## God's Care For Us Seen In The Love He Has Ever Shown To Man
+### God's Care For Us Seen In The Love He Has Ever Shown To Man
 
 And here the pastor should especially praise and proclaim the treasures of God's goodness towards the human 
 race. Though from the time of our first parents and from the moment of our first sin down to this very day we 
@@ -14227,7 +14309,7 @@ altogether bereft of His protection, then it is that God in His infinite goodnes
 takes care of us. Even in His anger He stays the sword of His justice, and ceases not to pour out the 
 inexhaustible treasures of His mercy. 
 
-## God Is Called Father Because He Has Granted Us Redemption
+### God Is Called Father Because He Has Granted Us Redemption
 
 The creation of the world and God's providence are, then, of great weight in bringing into relief the singular 
 love of God for the human race and the special care He takes of man. But far above these two shines the work 
@@ -14248,7 +14330,7 @@ sons, whereby we cry: "Abba, Father." The force and efficacy of this adoption ar
 Behold what manner of charity the Father hath bestowed upon us, that we should be called, and should be the 
 sons of God. 
 
-## Duties We Owe Our Heavenly Father
+### Duties We Owe Our Heavenly Father
 
 These points having been explained, the faithful should be reminded of all they owe in return to God, their most 
 loving Father, so that they may be aware of the extent of the love, piety, obedience and respect they are bound 
@@ -14280,7 +14362,7 @@ him: for whom the Lord loveth he chastiseth, and he scourgeth every son whom he 
 without chastisement, ... then are you bastards and not sons.... Moreover if we have had the fathers of our flesh 
 for instructors, and we reverenced them, shall we not much more obey the Father of spirits and live? 
 
-## "Our"
+### "Our"
 
 When we invoke the Father and when each one of us calls Him our Father, we are to understand thereby that 
 from the privilege and gift of divine adoption it necessarily follows that all the faithful are brethren and should 
@@ -14307,7 +14389,7 @@ we shall at the close of our earthly career be rewarded by our heavenly Father w
 crown promised and held out to all those who run the same course. God, says the Apostle, is not unjust that He 
 should forget your work and love. 
 
-## Dispositions That Should Accompany The Words, "Our Father": Fraternal Regard
+### Dispositions That Should Accompany The Words, "Our Father": Fraternal Regard
 
 How sincere should be the manner in which we ought to utter the word our, we learn from St. Chrysostom. God, 
 he says, listens willingly to the Christian who prays not only for himself but for others; because to pray for 
@@ -14339,7 +14421,7 @@ purposely dwell at considerable length; for it is a subject that is calculated b
 poor and lowly, and to restrain and repress the arrogance of the rich and powerful. Indeed it was to remedy this 
 latter evil that the Apostle insisted on brotherly charity and so often impressed it on the ears of his hearers. 
 
-## Filial Confidence And Piety
+### Filial Confidence And Piety
 
 Do not, then, forget, oh Christian, that when about to address this prayer to God, you ought to approach Him as 
 a son to his Father; and hence in beginning your prayers and in pronouncing the words Our Father you should 
@@ -14352,7 +14434,7 @@ that the Apostle exhorts us when he says: Be ye therefore imitators of God as mo
 the Apostle wrote to the Thessalonians may be truly said of us: You are all the children of light, and the children 
 of the day. 
 
-## "Who art in Heaven" Meaning Of These Words
+### "Who art in Heaven" Meaning Of These Words
 
 All who have a correct idea of God will grant that He is where and in all places. This is not to be taken in the 
 sense that He is distributed into parts and that He occupies and governs one place with one part and another 
@@ -14373,7 +14455,7 @@ preeminently visible in the work of the heavens, declares in Sacred Scripture th
 Yet at the same time He often affirms, what indeed is most true, that there is no part of the universe to which He 
 is not present intimately by His nature and His power. 
 
-## Lessons Taught By The Words, "Who Art In Heaven"
+### Lessons Taught By The Words, "Who Art In Heaven"
 
 In connection with this consideration, however, let the faithful keep before their minds not only the image of the 
 common Father of all, but also of a God reigning in heaven; and hence when about to pray, let them remember 
@@ -14387,11 +14469,9 @@ Let the pastor, therefore, instruct his pious hearers regarding this particular 
 own words by the authority of the Apostle: If you be risen with Christ, seek the things that are above, where 
 Christ is sitting at the right hand of God. Mind the things that are above, not the things that are upon the earth.
 
-## THE FIRST PETITION OF THE LORD'S
+## THE FIRST PETITION OF THE LORD'S PRAYER : "Hallowed be thy name"
 
-PRAYER : "Hallowed be thy name" 
-
-## Why This Petition Is Placed First
+### Why This Petition Is Placed First
 
 What we are to ask of God and in what order, the Master and Lord of all has Himself taught and commanded. 
 For prayer is the ambassador and interpreter of our thoughts and desires; and consequently we pray well and 
@@ -14408,7 +14488,7 @@ manifest and make known to Him the affections and desires of our hearts in this 
 faithful to the claims and rules of charity, which teaches us to love God more than ourselves and to ask, in the 
 first place, those things we desire on His account, and next, those things we desire on our own. 
 
-## Object Of The First Three Petitions
+### Object Of The First Three Petitions
 
 But as our desires and petitions concern such things only as are needed, and as nothing can be added to God; 
 that is to say. to the Divine Nature, nor can His Divine Substance, which is ineffably rich in all perfection, be in 
@@ -14423,12 +14503,12 @@ take care to point out to them that the words, On earth as it is in heaven, may 
 three Petitions, as follows: Hallowed be thy name on earth as it is in heaven; Thy kingdom come on earth as it is 
 in heaven; and, Thy will be done on earth as it is in heaven. 
 
-## Hallowed Be Thy Name
+### Hallowed Be Thy Name
 
 In praying that the name of God may be hallowed, our meaning is that the sanctity and glory of the divine name 
 may be increased. 
 
-## On Earth As It Is In Heaven"
+### On Earth As It Is In Heaven"
 
 But in this connection the pastor should observe and should point out to his pious hearers that our Saviour does 
 not in this expression say that the name of God is to be sanctified on earth in the same manner as it is in heaven; 
@@ -14441,13 +14521,13 @@ sometimes even He is dishonoured by cursing and blasphemy, we therefore desire a
 be exalted here on earth with praise, honour, and glory, after the example of that praise, honour and glory which 
 are given Him in heaven. 
 
-## What Sanctification of God's Name we should Pray For That The Faithful May Glorify Him
+### What Sanctification of God's Name we should Pray For That The Faithful May Glorify Him
 
 In other words we pray that our minds, our souls and our lips may be so devoted to the honour and worship of 
 God as to glorify Him. with all veneration both interior and exterior, and, after the model of the heavenly 
 citizens, to celebrate with all our might the greatness, the glory and the holiness of the name of God. 
 
-## That Unbelievers May Be Converted
+### That Unbelievers May Be Converted
 
 Thus, then, as the heavenly spirits with perfect unanimity exalt and glorify God, so do we pray that the same be 
 done over all the earth; that all nations may come to know, worship, and reverence God; that all without a single 
@@ -14462,7 +14542,7 @@ enlightened by the rays of divine light, may come to recognise the power of this
 true sanctity, and that thus receiving the Sacrament of Baptism in the name of the holy and undivided Trinity, 
 they may receive the plenitude of sanctity from the right hand of God Himself. 
 
-## That Sinners May Be Converted
+### That Sinners May Be Converted
 
 Moreover, our desires and our supplications extend equally to those, who, stained with sin and wickedness, 
 have lost the purity of their Baptism and their robe of innocence, thus permitting the unclean spirit to take up his 
@@ -14471,7 +14551,7 @@ sanctified; that they may reenter into themselves and, returning to a right fram
 former holiness through the Sacrament of Penance, and become once more the pure and holy temple and 
 dwelling-place of God. 
 
-## That God May Be Thanked For His Favours
+### That God May Be Thanked For His Favours
 
 Finally, we pray that God may make His light to shine on the minds of all, so as to enable them to see that every 
 best gift and e very perfect gift coming from the Father of lights, is conferred on us by Him, and consequently 
@@ -14485,7 +14565,7 @@ nay, those very causes which philosophers call secondary, we should regard as so
 wonderfully fashioned and fitted for our use, by means of which He distributes His blessings and diffuses them 
 everywhere in profusion. 
 
-## That The Church May Be Recognised By All
+### That The Church May Be Recognised By All
 
 But what we most particularly ask in this Petition is that all may acknowledge and revere the spouse of Jesus 
 Christ, our most holy mother the Church, in which alone is to be found the copious and inexhaustible fountain 
@@ -14496,7 +14576,7 @@ God the dew, of sanctity. To that Church alone and to those whom she embraces in
 arms, appertains the invocation of that divine name, outside of which there is no other name under heaven given 
 to men whereby we must be saved. 
 
-## What Sanctification Of God's Name We Should Practice
+### What Sanctification Of God's Name We Should Practice
 
 The pastor should be careful to insist particularly on the fact that it is the duty of a good son not only to pray to 
 God his Father in words, but also to endeavour by his conduct and actions to promote the sanctification of the 
@@ -14515,11 +14595,9 @@ addresses us in the Gospel: Let your light so shine before men, that they may se
 your Father who is in heaven; and the Prince of the Apostles says: Having your conversation good among the 
 Gentiles, that they may, by the good works which they shall behold in you, glorify God.
 
-## THE SECOND PETITION OF THE LORD'S
+## THE SECOND PETITION OF THE LORD'S PRAYER : "Thy kingdom come"
 
-PRAYER : "Thy kingdom come" 
-
-## Importance Of Instruction On This Petition
+### Importance Of Instruction On This Petition
 
 The kingdom of heaven which we pray for in this second Petition is the great end to which is referred, and in 
 which terminates all the preaching of the Gospel; for from it St. John the Baptist commenced his exhortation to 
@@ -14535,7 +14613,7 @@ Apostles, He spoke of the kingdom of God.
 This second Petition, therefore, the pastor should treat with the greatest attention, in order to impress on the 
 minds of his faithful hearers its great importance and necessity. 
 
-## Greatness Of This Petition
+### Greatness Of This Petition
 
 In the first place pastors will be greatly assisted towards an accurate and careful explanation of this Petition by 
 the thought that (the Redeemer Himself) commanded this Petition, although united to the others, to be also 
@@ -14552,15 +14630,17 @@ immediately subjoins: All these things shall be added unto you. Thus does he dec
 with bountiful hand bestows upon man an abundance of all things, whose infinite goodness enraptured David 
 when he sang: The Lord ruleth me, and I shall want nothing. 
 
-## Necessity Of Rightly Making This Petition
+### Necessity Of Rightly Making This Petition
 
 It is not enough, however, that we utter an earnest petition for the kingdom of God; we must also add to our 
-prayer the use of all those means by which that kingdom is sought and found.- The five foolish virgins uttered 
+
+## prayer the use of all those means by which that kingdom is sought and found.- The five foolish virgins uttered
+
 earnestly the same petition in these words: Lord, Lord, open to us; but they used not the means necessary to 
 secure its attainment, and were therefore rightly excluded. For God Himself has said: Not every one that saith to 
 me, Lord, Lord, shall enter into the kingdom of heaven. 
 
-## Motives For Adopting The Necessary Means
+### Motives For Adopting The Necessary Means
 
 The priest, therefore, who is charged with the care of souls, should draw from the exhaustless fountain of the 
 divine Scriptures those powerful motives which are calculated to move the faithful to the desire and pursuit of 
@@ -14596,14 +14676,14 @@ the Creed. For with a knowledge of these truths, who will be so obstinate in sin
 help of God's preventing grace, to rise, like the prodigal son spoken of in the Gospel, to stand erect, and hasten 
 into the presence of his heavenly Father and king ? 
 
-## "Thy Kingdom"
+### "Thy Kingdom"
 
 Having pointed out the advantages to be derived by the faithful from this Petition, the pastor should next 
 explain the favours which it seeks. This becomes the more necessary as the words, kingdom of God, have a 
 variety of significations, the exposition of each of which will not be found without its advantages in elucidating 
 other passages of Scripture, and is necessary to a knowledge of the present subject. 
 
-## The Kingdom Of Nature
+### The Kingdom Of Nature
 
 In their ordinary sense, which is frequently employed by Scripture, the words, kingdom of God, signify not only 
 that power which God possesses over all men and over the entire universe, but, also, His providence which rules 
@@ -14612,7 +14692,7 @@ things also which lie buried in the depths of the earth, and are concealed in th
 In this sense Mardochaeus exclaims: O Lord, Lord, almighty king, for all things are in thy power, and there is 
 none that can resist thy will: thou art God of all, and there is none that can resist thy majesty. 
 
-## The Kingdom Of Grace
+### The Kingdom Of Grace
 
 By the kingdom of God is also understood that special and singular providence by which God protects and 
 watches over pious and holy men. It is of this peculiar and admirable care that David speaks when he says: The 
@@ -14636,7 +14716,7 @@ bosom of our holy mother, the Church; yet in a special manner He reigns over tho
 superior faith, hope and charity, and have yielded themselves pure and living members to God. It is in these that 
 the kingdom of God's grace is said to consist. 
 
-## The Kingdom Of Glory
+### The Kingdom Of Glory
 
 By the words kingdom of God is also meant that kingdom of His glory, of which Christ our Lord says in St. 
 Matthew: Come ye blessed of my Father, possess the kingdom which was prepared for you from the beginning 
@@ -14657,12 +14737,12 @@ every infirmity be strengthened and invigorated; in a word, God Himself will the
 But on this subject we have dealt already at greater length in the exposition of the Creed, when speaking of the 
 resurrection of the flesh. 
 
-## "Come"
+### "Come"
 
 Having thus explained the ordinary acceptation of the words, kingdom of God, we now come to point out the 
 particular objects contemplated by this Petition. 
 
-## We Pray For The Propagation Of The Church
+### We Pray For The Propagation Of The Church
 
 In this Petition we ask God that the kingdom of Christ, that is, His Church, may be enlarged; that Jews and 
 infidels may embrace the faith of Christ and the knowledge of the true God; that schismatics and heretics may 
@@ -14675,7 +14755,7 @@ walk in thy light, and kings in the brightness of thy rising; lift up thy eyes r
 gathered together, they are come to thee; thy sons shall come from afar, and thy daughters shall rise up at thy 
 side. 
 
-## For The Conversion Of Sinners
+### For The Conversion Of Sinners
 
 But in the Church there are to be found those who profess they know God, but in their works deny Him; whose 
 conduct shows that they have only a deformed faith; who, by sinning, become the dwelling-place of the devil, 
@@ -14686,18 +14766,18 @@ being removed, and all offences and causes of sins being eradicated from His kin
 may cleanse the floor of His Church; and that, worshipping God in piety and holiness, she may enjoy 
 undisturbed peace and tranquillity. 
 
-## That Christ May Reign Over All
+### That Christ May Reign Over All
 
 Finally, we pray that God alone may live, alone may reign within us; that death may no longer exist, but may be 
 absorbed in the victory achieved by Christ our Lord, who, having broken and scattered the power of all His 
 enemies, may, in His might, subject all things to His dominion. 
 
-## Dispositions That Should Accompany This Petition
+### Dispositions That Should Accompany This Petition
 
 The pastor should also be mindful to teach the faithful, as the nature of this Petition demands, the thoughts and 
 reflections with which their minds should be impressed in order to offer this prayer devoutly to God. 
 
-## We Should Prize God's Kingdom Above All Things
+### We Should Prize God's Kingdom Above All Things
 
 He should exhort them, in the first place, to consider the force and import of that similitude of the Redeemer: 
 The kingdom of heaven is like a treasure hidden in a field: which when a man hath found he hideth, and for joy 
@@ -14715,7 +14795,7 @@ But would we know the incomparable excellence of the kingdom of God's glory, let
 teaching of the Apostle: Eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what 
 things God hath prepared for them that love him. 
 
-## We Must Realise That We Are Exiles
+### We Must Realise That We Are Exiles
 
 To obtain the object of our prayers it will be found most helpful to reflect within ourselves who we are, -- 
 namely, children of Adam, exiled from Paradise by a just sentence of banishment, and deserving, by our 
@@ -14726,7 +14806,7 @@ humility; and wholly distrusting ourselves, like the publican, we will fly to th
 His bounty we will render immortal thanks to Him who has imparted to us that Holy Spirit, relying on whom 
 we are emboldened to say: Abba (Father). 
 
-## We Must Labor To Obtain God's Kingdom
+### We Must Labor To Obtain God's Kingdom
 
 We should also be careful to consider what is to be done, what avoided, in order to arrive at the kingdom of 
 heaven. For we are not called by God to lead lives of ease and indolence. On the contrary, He declares that the 
@@ -14742,7 +14822,7 @@ visible, such as the Sacraments, those unfailing sources of heavenly grace. Defe
 not only may we securely defy the assaults of our most determined enemies, but may even lay prostrate, and 
 trample under foot, the tyrant himself with all his nefarious legions. 
 
-## Recapitulation
+### Recapitulation
 
 To conclude, let us then earnestly implore the Spirit of God that He may command us to do all things in 
 accordance with His holy will; that He may so overthrow the empire of Satan that it shall have no power over us 
@@ -14752,24 +14832,22 @@ deserter; and that all may so conduct themselves, as to come with joy into the p
 may reach the possession of the celestial kingdom, prepared for them from all eternity, in the fruition of endless 
 bliss with Christ Jesus.
 
-## THE THIRD PETITION OF THE LORD'S
+## THE THIRD PETITION OF THE LORD'S PRAYER : "Thy will be done"
 
-PRAYER : "Thy will be done" 
-
-## The Relation Of This Petition To The Previous One
+### The Relation Of This Petition To The Previous One
 
 Whoever desires to enter into the kingdom of heaven should ask of God that His will may be done. For Christ 
 the Lord has said: Not every one that says to me, Lord, Lord, shall enter into the kingdom of heaven; but he that 
 doth the will of my Father who is in heaven, he shall enter into the kingdom of heaven. Consequently this 
 Petition follows immediately after the one which prays for the kingdom of heaven. 
 
-## Necessity Of This Petition
+### Necessity Of This Petition
 
 In order that the faithful may know the necessity of this Petition and the numerous and salutary gifts which we 
 obtain through it, the pastor should direct their attention to the misery and wretchedness in which the sin of 
 Adam has involved mankind. 
 
-## Man’s Proneness To Act Against God’s Will
+### Man’s Proneness To Act Against God’s Will
 
 From the beginning God implanted in all creatures an inborn desire of pursuing their own happiness that, by a 
 sort of natural impulse, they may seek and desire their own end, from which they never deviate, unless impeded 
@@ -14784,7 +14862,7 @@ evil from his youth. Hence it is not difficult to perceive that of himself no ma
 are prone to evil; and that man has innumerable corrupt propensities, since he tends downwards and is carried 
 with ardent precipitancy to anger, hatred, pride. ambition, and to almost every species of evil. 
 
-## Man’s Blindness Concerning God’s Will
+### Man’s Blindness Concerning God’s Will
 
 Although man is continually beset by these evils, yet his greatest misery is that many of these appear to him not 
 to be evils at all. It is a proof of the most calamitous condition of man, that he is so blinded by passion and 
@@ -14797,7 +14875,7 @@ In order, therefore, to delineate in vivid coloring the misery of our condition,
 to those who have lost their sense of taste and who, in consequence, loathe wholesome food, and prefer that 
 which is unwholesome. 
 
-## Man’s Weakness In Fulfilling God’s Will
+### Man’s Weakness In Fulfilling God’s Will
 
 It also compares us to sick persons who, as long as their malady lasts, are incapable of fulfilling the duties and 
 offices proper to persons of sound and vigorous health. In the same way neither can we, without the assistance 
@@ -14818,7 +14896,7 @@ and grace, we can never aspire to that divine prudence which is so necessary to 
 assistance should fail us, we at once cast aside those things that are truly good and rush headlong to voluntary 
 ruin. 
 
-## Remedy For These Evils
+### Remedy For These Evils
 
 But should this darkness of spirit be removed with God's help; should we but perceive these our miseries; and, 
 shaking off our insensibility, should we take account of the presence of the law of the members and recognise 
@@ -14832,7 +14910,7 @@ such great evils, a conformity to His will, which by sinning we despised; He com
 thoughts and actions by this standard. Now it is precisely His help to accomplish this that we ask when we 
 suppliantly address to God the prayer, Thy will be done. 
 
-## Man's Passions Rebel Against God's Will
+### Man's Passions Rebel Against God's Will
 
 The same should also be the fervent prayer of those in whose souls God-already reigns; who have been already 
 illumined with the divine light, which enables them to obey the will of God. Although thus prepared, they have 
@@ -14857,7 +14935,7 @@ Continually beset as we are by our domestic and interior enemies, it is easy for
 
 #### His will may be done in us.
 
-## "Thy Will"
+### "Thy Will"
 
 Though the faithful are not to be left in ignorance of the import of this Petition, yet in this connection many 
 questions concerning the will of God may be passed over which are discussed at great length and with much 
@@ -14869,9 +14947,9 @@ the happiness of heaven, whether they regard faith or whether they regard morals
 Lord has commanded or forbidden either directly or through His Church. It is of this will that the Apostle thus 
 writes: Become not unwise, but understand what is the will of God. 
 
-## "Be Done"
+### "Be Done"
 
-## We Ask That We May Fulfil What God Desires Of Us
+### We Ask That We May Fulfil What God Desires Of Us
 
 When, therefore, we pray, Thy will be done, we first of all ask our heavenly Father to give us the strength to 
 obey His Commandments, and to serve Him in holiness and justice all our days; to do all things according to 
@@ -14887,16 +14965,18 @@ that is to say, to him am I attached by the closest bonds of good will and love.
 The Saints, with scarcely a single exception, failed not to make the principal gift contemplated by this Petition 
 the object of their fervent prayers to God. All, indeed, have in substance made use of this admirable prayer, but 
 not unfrequently in different words. David, whose strains breathe such wondrous sweetness, pours out the same 
-prayer in various aspirations: O ! that my ways may be directed to keep thy justifications; Lead me into the path 
+
+## prayer in various aspirations: O ! that my ways may be directed to keep thy justifications; Lead me into the path
+
 of thy commandments; Direct my steps according to thy word, and let no iniquity have dominion over me. In 
 the same spirit he says: Give me understanding, and I will learn thy commandments; Teach me thy judgments; 
 Give me understanding that I may know thy testimonies. He often expresses and repeats the same sentiment in 
 other words. These passages should be carefully noticed and explained to the faithful, that all may know and 
 comprehend the greatness and profusion of salutary gifts which are comprehended in the first part of this 
 
-## Petition.
+### Petition.
 
-## We Ask That We May Not Yield To Our Own Inordinate Desires
+### We Ask That We May Not Yield To Our Own Inordinate Desires
 
 In the second place, when we say, Thy will be done, we express our detestation of the works of the flesh, of 
 which the Apostle writes: The works of the flesh are manifest, which are fornication, uncleanness immodesty, 
@@ -14915,7 +14995,7 @@ that it is much better to desire what is right and just, than to obtain what is 
 the laws of God. Unquestionably the condition of the man who attains the gratification of his rash and 
 inordinate desires is less enviable than that of him who does not obtain the object of his pious prayers. 
 
-## We Ask That Our Mistaken Requests Be Not Granted
+### We Ask That Our Mistaken Requests Be Not Granted
 
 Our prayers, however, have not solely for object that God should deny us what accords with our desires, when it 
 is clear that they are depraved; but also that He would not grant us those things for which, under the persuasion 
@@ -14930,7 +15010,7 @@ fire to descend from heaven and consume those hard-hearted and inhuman men? Yet 
 Christ the Lord in these words: You know not of what spirit you are; the son of man came not to destroy souls 
 but to save them. 
 
-## We Ask That Even Our Good Requests Be Granted Only When They Are According To God’s Will
+### We Ask That Even Our Good Requests Be Granted Only When They Are According To God’s Will
 
 We should beseech God that His will be done, not only when our desires are wrong, or have the appearance of 
 wrong. We should ask this even when the object of our desire is not really evil, as when the will, obeying its 
@@ -14940,7 +15020,7 @@ example of Him from whom we receive salvation and the science of salvation, who,
 dread of torments and of a cruel death, bowed in that horror of supreme sorrow with meek submission to the 
 will of His heavenly Father: Not my will but thine be done. 
 
-## We Ask That God May Perfect In Us What His Grace Has Begun
+### We Ask That God May Perfect In Us What His Grace Has Begun
 
 But, such is the degeneracy of our nature that, even when we have done violence to our passions and subjected 
 them to the will of God, we cannot avoid sin without His assistance, by which we are protected from evil and 
@@ -14948,12 +15028,12 @@ directed in the pursuit of good. To this Petition, therefore, we must have recou
 us those things which He has begun; to repress the turbulent emotions of passion; to subject our sensual 
 appetites to reason; in a word, to render us entirely conformable to His holy will. 
 
-## We Ask That All May Know God’s Will
+### We Ask That All May Know God’s Will
 
 We pray that the whole world may receive the knowledge of God's will, that the mystery of God, hidden from 
 all ages and generations, may be made known to all. 
 
-## "On Earth as it is in Heaven"
+### "On Earth as it is in Heaven"
 
 We also pray for the standard and model of this obedience, that our conformity to the will of God be regulated 
 according to the rule observed in heaven by the blessed Angels and choirs of heavenly spirits, that, as they 
@@ -14976,7 +15056,7 @@ and the pious, and the words on earth, in the wicked and the impious, we do not 
 by the word heaven understanding the spirit, and by the word earth, the flesh, that every person and every 
 creature may in all things obey the will of God. 
 
-## This Petition Contains an Act of Thanksgiving
+### This Petition Contains an Act of Thanksgiving
 
 This Petition also includes thanksgiving. We revere the most holy will of God, and in transports of joy celebrate 
 all His works with the highest praise and acknowledgment, being assured that He has done all things well. It is 
@@ -14990,7 +15070,7 @@ But the most powerful incentive to revere the will of God is that He has deigned
 light; for, He hath delivered us from the power of darkness, and hath translated us into the kingdom of the Son 
 of his love. 
 
-## The Dispositions that should Accompany this Petition A Sense Of Our Own Weakness Of Will
+### The Dispositions that should Accompany this Petition A Sense Of Our Own Weakness Of Will
 
 To close our exposition of this Petition we must revert to a subject at which we glanced in the beginning. It is 
 that the faithful in uttering this Petition should be humble and lowly in spirit: keeping in view the violence of 
@@ -14998,7 +15078,7 @@ their inborn passions which revolt against the will of God; recollecting that in
 excelled by all other creatures, of whom it is written: All things serve thee; and reflecting, that he who is unable 
 without divine help to undertake, not to say, perform, anything acceptable to God, must be very weak indeed. 
 
-## Appreciation Of The Dignity Of Doing God's Will
+### Appreciation Of The Dignity Of Doing God's Will
 
 But as there is nothing greater, nothing more exalted, as we have already said, than to serve God and live in 
 obedience to His law and Commandments, what more desirable to a Christian than to walk in the ways of the 
@@ -15006,7 +15086,7 @@ Lord, to think nothing, to undertake nothing, at variance with His will? In orde
 rule of life, and adhere to it with greater fidelity, (the pastor) should borrow from Scripture examples of 
 individuals, who, by not referring their views to the will of God, have failed in all their undertakings. 
 
-## Resignation To God’s Will
+### Resignation To God’s Will
 
 Finally, the faithful are to be admonished to acquiesce in the simple and absolute will of God. Let him, who 
 thinks that he occupies a place in society inferior to his deserts, bear his lot with patient resignation; let him not 
@@ -15020,9 +15100,9 @@ hath pleased the Lord, so it is done: blessed be the name of the Lord.
 
 ## THE FOURTH PETITION OF THE LORD'S
 
-PRAYER : "Give us this day our daily bread" 
+## PRAYER : "Give us this day our daily bread"
 
-## The Relation Of The Following Petitions To Those That Preceded
+### The Relation Of The Following Petitions To Those That Preceded
 
 The fourth and following Petitions, in which we particularly and expressly pray for the needs of soul and body, 
 are subordinate to those which preceded. According to the order of the Lord's Prayer we ask for what regards 
@@ -15033,7 +15113,7 @@ divine blessings, that being assisted by these (temporal things) we may reach ou
 glory of our heavenly Father, and the reverential observance of those commands which we know to emanate 
 from His holy will. In this Petition, therefore, we should refer all to God and His glory. 
 
-## How To Pray For Temporal Blessings
+### How To Pray For Temporal Blessings
 
 In the discharge of his duty towards the faithful the pastor, therefore, should endeavour to make them 
 understand that, in praying for the use and enjoyment of temporal blessings, our minds and our desires are to be 
@@ -15042,7 +15122,7 @@ transient things of this world, we especially transgress; for, as the Apostle sa
 pray for as we ought. These things, therefore, we should pray for as we ought, lest, praying for anything as we 
 ought not, we receive from God for answer, You know not what you ask. 
 
-## Means Of Ascertaining Purity Of Intention In Offering This Petition
+### Means Of Ascertaining Purity Of Intention In Offering This Petition
 
 A sure standard for judging what petition is good, and what bad, is the purpose and intention of the petitioner. 
 Thus if a person prays for temporal blessings under the impression that they constitute the sovereign good, and 
@@ -15051,13 +15131,13 @@ ought. As St. Augustine observes, we ask not these temporal things as our goods,
 Apostle also in his Epistle to the Corinthians teaches that whatever regards the necessary purposes of life is to 
 be referred to the glory of God: Whether you eat or drink, or whatever else you do, do all to the glory of God. 
 
-## Necessity of the Fourth Petition
+### Necessity of the Fourth Petition
 
 In order that the faithful may see the importance of this Petition, the pastor should remind them how much we 
 stand in need of external things, in order to support and maintain life; and this they will the more easily 
 understand, if he compares the wants of our first parent with those of his posterity. 
 
-## Man Needs Many Things For His Bodily Life
+### Man Needs Many Things For His Bodily Life
 
 It is true that in that exalted state of innocence, from which he himself, and, through his transgression, all his 
 posterity fell, he had need of food to recruit his strength; yet there is a great difference between his wants and 
@@ -15071,7 +15151,7 @@ of these delights, to lead a life of indolence. But to him no employment would h
 unpleasant. From the cultivation of those beautiful gardens he would always have derived fruits the most 
 delicious, and his labours and hopes would never have been frustrated. 
 
-## To Supply His Bodily Wants Man Must Labor
+### To Supply His Bodily Wants Man Must Labor
 
 His posterity, on the contrary, are not only deprived of the fruit of the tree of life, but also condemned to this 
 dreadful sentence: Cursed is the earth in thy work; with labour and toil shalt thou eat thereof all the days of thy 
@@ -15079,7 +15159,7 @@ life; thorns and thistles shall it bring forth to thee, and thou shalt eat the h
 face shalt thou eat bread, till thou return to the earth, out of which thou wast taken; for dust thou art, and into 
 dust thou shalt return. 
 
-## Without God’s Help Man’s Labor Is Vain
+### Without God’s Help Man’s Labor Is Vain
 
 Our condition, therefore, is entirely different from what his and that of his posterity would have been, had 
 Adam listened to the voice of God. All things have been thrown into disorder, and have changed sadly for the 
@@ -15095,7 +15175,7 @@ that while they must sweat and toil to procure the necessaries of life, unless G
 must prove fallacious, and all their exertions unavailing. For neither he that planteth is anything, nor he that 
 watereth but God who giveth the increase; unless the Lord build the house, they labour in vain that build it. 
 
-## Inducements to Use this Petition
+### Inducements to Use this Petition
 
 Parish priests, therefore, should point out that the things necessary to human existence, or, at least, to its 
 comfort, are almost innumerable; for by this knowledge of our wants and weaknesses, Christians will be 
@@ -15110,7 +15190,7 @@ bread, He promises to bestow it on us abundantly, if we ask it as we ought; for,
 exhorts; by exhorting, He urges; by urging, He promises; by promising, He puts us in hope of most certainly 
 obtaining our request. 
 
-## "Bread"
+### "Bread"
 
 When, therefore, the faithful are thus animated and encouraged, (the pastor) should next proceed to declare the 
 objects of this Petition; and first, what that bread is which we ask. 
@@ -15118,12 +15198,12 @@ It should then be known that, in the Sacred Scriptures, by the word bread, are s
 especially two: first, whatever we use for food and for other corporal wants; secondly, whatever the divine 
 bounty has bestowed on us for the life and salvation of the soul. 
 
-## We Ask For Temporal Blessings
+### We Ask For Temporal Blessings
 
 In this Petition, then, according to the interpretation and authority of the holy Fathers, we ask those helps of 
 which we stand in need in this life on earth. 
 
-## It Is Lawful To Pray For Temporal Blessings
+### It Is Lawful To Pray For Temporal Blessings
 
 Those, therefore, who say that it is unlawful for Christians to ask from God the earthly goods of this life, are by 
 no means to be listened to; for not only the unanimous teaching of the Fathers, but also very many examples, 
@@ -15143,7 +15223,7 @@ unbelievers that are in Judea. As, then, the faithful are divinely permitted to 
 this perfect form of prayer was given us by Christ the Lord, there remains no doubt that such a request 
 constitutes one of the seven Petitions. 
 
-## The Wants, Not The Luxuries Of This Life Are Meant By The Word "Bread"
+### The Wants, Not The Luxuries Of This Life Are Meant By The Word "Bread"
 
 We also ask our daily bread; that is, the things necessary for sustenance, understanding by the word bread, what 
 is sufficient for raiment and for food, whether that food be bread,- or flesh, or fish, or anything else. In this 
@@ -15157,7 +15237,7 @@ ought not to be understood an abundant and exquisite profusion of food and cloth
 simple, as the Apostle has written: Having food and wherewith to he covered, with these we are content; and 
 Solomon, as said above: Give me only the necessaries of life. 
 
-## "Our"
+### "Our"
 
 Of this frugality and moderation we are admonished in the next word; for when we say our, we ask for bread 
 sufficient to satisfy our necessities, not to gratify luxury. 
@@ -15177,7 +15257,7 @@ Not only do we beg of God to grant us to use, with the aid of His goodness, the 
 that is truly called ours -- but we also pray for a good mind, that we may be able well and prudently to use what 
 we have honestly acquired. 
 
-## "Daily"
+### "Daily"
 
 By the word (daily) also is suggested the idea of frugality and moderation, to which we referred a short time 
 ago; for we pray not for variety or delicacy of food, but for that which may satisfy the wants of nature. This 
@@ -15194,7 +15274,7 @@ Finally, another reason for the use of the word daily is the necessity of contin
 we may be kept in the practice of loving and serving Him, and that we may be thoroughly convinced of the fact 
 that on Him depend our life and salvation. 
 
-## "Give"
+### "Give"
 
 With regard to the two words give us, what ample matter they supply for exhorting the faithful piously and 
 holily to worship and revere the infinite power of God, in whose hands are all things, and to detest that 
@@ -15218,7 +15298,7 @@ that he should live luxuriously in their enjoyment, but that he should impart hi
 St. Basil and St. Ambrose say, It is the bread of the hungry that you withhold; it is the clothes of the naked that 
 you lock up; that money you bury under ground is the redemption, the freedom of the wretched. 
 
-## "This Day"
+### "This Day"
 
 The words this day remind us of our common infirmity. For who is there that, although he does not expect to be 
 able by his own individual exertions to provide for his maintenance during a considerable time does not feel 
@@ -15226,13 +15306,13 @@ confident of having it in his power to procure necessary food for the day? Yet e
 permit us to entertain, but has commanded us to ask Him for the food even of each successive day; and the 
 necessary reason is, that as we all stand in need of daily bread, each should also make daily use of the Lord's 
 
-## Prayer.
+### Prayer.
 
 So far we have spoken of the bread which we eat and which nourishes and supports the body; which is common 
 to believers and unbelievers, to pious and impious, and is bestowed on all by the admirable bounty of God, Who 
 maketh his sun to rise on the good and the bad, and raineth upon the just and the unjust. 
 
-## The Spiritual Bread Asked for in this Petition
+### The Spiritual Bread Asked for in this Petition
 
 It remains to speak of the spiritual bread which we also ask in this Petition, by which are meant all things 
 whatever that are required in this life for the health and safety of the spirit and soul. For as the food by which 
@@ -15240,7 +15320,7 @@ whatever that are required in this life for the health and safety of the spirit 
 the body is nourished and supported is of various sorts, so is the food which preserves the life of the spirit and 
 soul not of one kind. 
 
-## The Word Of God Is Our Spiritual Bread
+### The Word Of God Is Our Spiritual Bread
 
 The Word of God is the food of the soul, as Wisdom says: Come, eat my bread, and drink the wine which I have 
 mingled for you. And when God deprives men of the means of hearing His Word, which He is wont to do when 
@@ -15254,7 +15334,7 @@ This is the spiritual folly and mental blindness of those who, disregarding thei
 Bishops and priests, and, abandoning the Holy Roman Church, have transferred themselves to the direction of 
 heretics that corrupt the Word of God. 
 
-## Christ Is Our Spiritual Bread, Especially In The Holy Eucharist
+### Christ Is Our Spiritual Bread, Especially In The Holy Eucharist
 
 Now Christ the Lord is that bread which is the food of the soul. I am, He says of Himself, the living bread 
 which came down from heaven. It is incredible with what pleasure and delight this bread fills devout souls, even 
@@ -15271,7 +15351,7 @@ The Eucharist is called our bread, because it is the food of the faithful only, 
 charity to faith, wash away the defilement of their sins in the Sacrament of Penance, and mindful that they are 
 the children of God, receive and adore this divine Sacrament with all possible holiness and veneration. 
 
-## Why The Holy Eucharist Is Called Our "Daily" Bread
+### Why The Holy Eucharist Is Called Our "Daily" Bread
 
 The Eucharist is called daily (bread) for two reasons. The first is that it is daily offered to God in the sacred 
 mysteries of the Christian Church and is given to those who seek it piously and holily. The second is that it 
@@ -15279,7 +15359,7 @@ should be received daily, or, at least, that we should so live as to be worthy, 
 daily. Let those who hold the contrary, and who say that we should not partake of this salutary banquet of the 
 soul but at distant intervals, hear what St. Ambrose says: If it is daily bread, why do you receive it yearly? 
 
-## Exhortations
+### Exhortations
 
 In the explanation of this Petition the faithful are emphatically to be exhorted that when they have honestly used 
 their best judgment and industry to procure the necessary means of subsistence, they leave the issue to God and 
@@ -15296,10 +15376,11 @@ subject in a useful and profitable manner.
 
 ## THE FIFTH PETITION OF THE LORD'S
 
-PRAYER : "And forgive us our debts, as we forgive our 
+## PRAYER : "And forgive us our debts, as we forgive our
+
 debtors" 
 
-## The Importance Of Explaining This Petition
+### The Importance Of Explaining This Petition
 
 So many are the things which display at once God's infinite power and His equally infinite wisdom and 
 goodness, that wheresoever we turn our eyes or direct our thoughts, we meet with the most certain signs of 
@@ -15314,18 +15395,18 @@ partake of that salutary fruit: Blessed are they whose iniquities are forgiven.
 The pastor, therefore, should study and explain accurately and diligently the meaning of this Petition, which, we 
 perceive, is so important to the attainment of salvation. 
 
-## Difference Between This And The Preceding Petitions
+### Difference Between This And The Preceding Petitions
 
 In this Petition we enter on a new manner of praying. For hitherto we asked of God not only eternal and 
 spiritual goods, but also transient and temporal advantages; whereas, we now ask to be freed from the evils of 
 the soul and of the body, of this life and of the life to come. 
 
-## Dispositions with which this petition should be Offered
+### Dispositions with which this petition should be Offered
 
 Since, however, to obtain what we ask we must pray in a becoming manner, it appears expedient to explain the 
 disposition with which this prayer should be offered to God. 
 
-## Acknowledgment Of Sin
+### Acknowledgment Of Sin
 
 The pastor, then, should admonish the faithful, that he who comes to offer this Petition must first acknowledge, 
 and next feel sorrow and compunction for his sins. He must also be firmly convinced that to sinners, thus 
@@ -15351,7 +15432,7 @@ holy men in humility, not in truth, let him be anathema. For who can endure a pe
 men, but to the Lord Himself, saying with the lips that he desires to be forgiven, but with the heart, that he has 
 no debts to be forgiven ? 
 
-## Sorrow For Sin
+### Sorrow For Sin
 
 In making this necessary acknowledgment of our sins, it is Dot enough to call them to mind lightly; for it is 
 necessary that the recollection of them be bitter, that it touch the heart, pierce the soul, and imprint sorrow. 
@@ -15359,14 +15440,14 @@ Wherefore, the pastor should treat this point diligently, that his pious hearers
 and iniquities, but recollect them with pain and sorrow; so that with true interior contrition they may betake 
 themselves to God their Father, humbly imploring Him to pluck from the soul the piercing stings of sin. 
 
-## Motives For Sorrow Over Sin: The Baseness Of Sin
+### Motives For Sorrow Over Sin: The Baseness Of Sin
 
 The pastor, however, should not be content with placing before the eyes of the faithful the turpitude of sin. He 
 should also depict the unworthiness and baseness of men, who, though nothing but rottenness and corruption, 
 dare to outrage in a manner beyond all belief the incomprehensible majesty and ineffable excellence of God, 
 particularly after having been created, redeemed and enriched by Him with countless and invaluable benefits. 
 
-## The Consequences Of Sin
+### The Consequences Of Sin
 
 And for what? Only for this, that separating ourselves from God our Father, who is the supreme Good, and 
 lured by the most base rewards of sin, we may devote ourselves to the devil, to become his most wretched 
@@ -15403,7 +15484,7 @@ sense of acknowledgment and grief, are said by the Prophets Isaias, Ezechiel and
 stony heart, a heart of adamant, for, like stone, they are softened by no sorrow, having no sense of life, that is, 
 of the salutary recognition (of their sinfulness). 
 
-## Confidence In God's Mercy
+### Confidence In God's Mercy
 
 But lest the faithful, terrified by the grievousness of their sins, despair of being able to obtain pardon, the pastor 
 ought to encourage them to hope by the following considerations. 
@@ -15426,7 +15507,7 @@ and in that portion of the Creed which teaches the forgiveness of sins, we were 
 circumstances allowed, the pastor will borrow from those places whatever may seem pertinent for instruction on 
 this point, for the rest drawing on the fountains of the Sacred Scriptures. 
 
-## "Debts"
+### "Debts"
 
 The pastor should also follow the same plan which we thought should be used in the other Petitions. Let him 
 explain, then, what the word debts here signifies, lest perhaps the faithful, deceived by its ambiguity, pray for 
@@ -15456,7 +15537,7 @@ Here we ask pardon not only for our venial offences, for which pardon may most e
 derive that efficacy from the Sacrament of Penance, received, as we have already said, either actually or at least 
 in desire.' 
 
-## "Our"
+### "Our"
 
 The words our debts are used here in a sense entirely different from that in which we said our bread. That bread 
 is ours, because it is given us by the munificence of God; whereas sins are ours, because with us rests their guilt. 
@@ -15466,7 +15547,7 @@ for their expiation. In this we make use of no palliation whatever, nor do we tr
 our first parents Adam and Eve. We judge ourselves, employing, if we are wise, the prayer of the Prophet: 
 Incline not my heart to evil words, to make excuses in sins. 
 
-## "Forgive Us"
+### "Forgive Us"
 
 Nor do we say, forgive me, but forgive us; because the fraternal relationship and charity which subsist between 
 all men, demand of each of us that, being solicitous for the salvation of all our neighbours, we pray also for 
@@ -15478,7 +15559,7 @@ of Moses in the Old, and of St. Paul in the New Testament. The former besought G
 this trespass; or, if thou dost not, strike me out of the book that thou hast written; ' while the latter prayed after 
 this manner: I wished myself to be anathema from Christ for my brethren. 
 
-## "As we Forgive our Debtors"
+### "As we Forgive our Debtors"
 
 The word as may be understood in two senses. It may be taken as having the force of a comparison, meaning 
 that we beg of God to pardon us our sins, just as we pardon the wrongs and contumelies which we receive from 
@@ -15490,7 +15571,7 @@ God should grant us the pardon of our offences, we ourselves must pardon those f
 injury; for so rigorously does God exact from us forgetfulness of injuries and mutual affection and love, that He 
 rejects and despises the gifts and sacrifices of those who are not reconciled to one another. 
 
-## Necessity Of Forgiveness
+### Necessity Of Forgiveness
 
 Even the law of nature requires that we conduct ourselves towards others as we would have them conduct 
 themselves towards us; hence he would be most impudent who would ask of God the pardon of his own 
@@ -15504,7 +15585,7 @@ Apostle, and before him Solomon wrote: If thy enemy be hungry, give him to eat; 
 and finally we read in the Gospel of St. Mark: When you shall stand to pray, forgive if you have anything 
 against any man; that your Father also who is in heaven may forgive you your sins. 
 
-## Reasons For Forgiveness
+### Reasons For Forgiveness
 
 But since, on account of the corruption of nature, there is nothing to which man brings himself more reluctantly 
 than to the pardon of injuries, let pastors exert all the powers and resources of their minds to change and bend 
@@ -15518,12 +15599,12 @@ Let the close of this exhortation and injunction be the command of Christ the Lo
 disgrace and ruin, we cannot refuse to obey: Pray for them that persecute and calumniate you; that you may be 
 the children of your Father who is in heaven. 
 
-## This Petition Should Not be Neglected
+### This Petition Should Not be Neglected
 
 But in this matter no ordinary prudence is required on the part of the pastor, lest, knowing the difficulty and 
 necessity of this precept, anyone despair of salvation. 
 
-## Those Unable To Forget Injuries
+### Those Unable To Forget Injuries
 
 There are those who, aware that they ought to bury injuries in voluntary oblivion and ought to love those that 
 injure them, desire to do so, and do so as far as they are able, but feel that they cannot efface from their mind all 
@@ -15536,7 +15617,7 @@ Wherefore he should point out that although the appetites of corrupt nature are 
 against reason, we are not on this account to be uneasy regarding salvation, provided the spirit persevere in the 
 duty and disposition of forgiving injuries and of loving our neighbour. 
 
-## Those Who Do Not Love Their Enemies
+### Those Who Do Not Love Their Enemies
 
 There may be some who, because they have not yet been able to bring themselves to forget injuries and to love 
 their enemies, are consequently deterred by the condition contained in this Petition from making use of the 
@@ -15557,21 +15638,21 @@ more the wrath of God, should be undeceived and should be exhorted to make frequ
 they beseech God our Father to grant them the disposition to forgive those who have injured them and to love 
 their enemies. 
 
-## How to Make this Petition Fruitful Penitential Dispositions
+### How to Make this Petition Fruitful Penitential Dispositions
 
 But that this Petition may be really fruitful we should first seriously reflect that we are suppliants before God, 
 soliciting from Him pardon, which is not granted but to the penitent; and that we should, therefore, be animated 
 by that charity and piety which are fitting in penitents, whom it eminently becomes to keep before their eyes, as 
 it were, their own crimes and enormities and to expiate them with tears. 
 
-## Avoidance Of Dangers Of Sin
+### Avoidance Of Dangers Of Sin
 
 To this thought should be joined caution in guarding for the future against every occasion of sin, and against 
 whatever I nay expose us to the danger of offending God our Father. With this solicitude the mind of David was 
 occupied when he said: My sin is always before me; and: Every night I will wash my bed; I will water my 
 couch with my tears. 
 
-## Imitation Of Fervent Penitents
+### Imitation Of Fervent Penitents
 
 Let each one also call to mind the ardent love of prayer of those who obtained from God through their entreaties 
 the pardon of their sins. Such was the publican, who, standing afar off through shame and grief, and with eyes 
@@ -15579,13 +15660,13 @@ fixed on the ground, only smote his breast, crying: O God, be merciful to me, a 
 woman, a sinner, who, standing behind Christ the Lord, washed His feet, wiped them with her hair, and kissed 
 them. Lastly, there is the example of Peter, the Prince of the Apostles, who going forth wept bitterly. 
 
-## Frequent Use Of The Sacraments
+### Frequent Use Of The Sacraments
 
 They should next consider that the weaker men are, and the more liable to diseases of the soul, which are sins, 
 the more numerous and frequent are the remedies they need. Now the remedies of a sick soul are Penance and 
 the Eucharist; these, therefore, the faithful should frequently make use of. 
 
-## Almsdeeds
+### Almsdeeds
 
 Next almsdeeds, as the Sacred Scriptures declare, are a medicine suited to heal the wounds of the soul. 
 Wherefore, let those who desire to make pious use of this prayer act kindly to the poor according to their means. 
@@ -15594,7 +15675,7 @@ witness, who says: Alms deliver from death, and the same is that which purgeth a
 mercy and life everlasting. Daniel is another witness, who thus admonished King Nabuchodonosor: Redeem 
 thou thy sins with alms, and thy iniquities with works of mercy to the poor. 
 
-## The Spirit Of Forgiveness
+### The Spirit Of Forgiveness
 
 The best alms and the most excellent act of mercy is forgetfulness of injuries, and good will towards those who 
 have injured us or ours, in person, in property, or in character. Whoever, therefore, desires to experience in a 
@@ -15605,11 +15686,9 @@ The pastor ought to conclude his explanation of this Petition with this final re
 conceived, more unjust than that he who is so rigorous towards men as to extend indulgence to no one, should 
 himself demand that God be mild and kind towards him.
 
-## THE SIXTH PETITION OF THE LORD'S
+## THE SIXTH PETITION OF THE LORD'S PRAYER : "And lead us not into temptation."
 
-PRAYER : "And lead us not into temptation." 
-
-## Importance Of Instruction On This Petition
+### Importance Of Instruction On This Petition
 
 When the children of God, having obtained the pardon of their sins, are inflamed with the desire of giving to 
 God worship and veneration; when they long for the kingdom of heaven; when they engage in the performance 
@@ -15632,7 +15711,7 @@ prepares, they may ever ad dress to God, who alone can repel those dangers, the 
 temptation.' 
 Necessity of the Sixth Petition 
 
-## Human Frailty
+### Human Frailty
 
 The faithful will understand how very much they stand in need of this divine assistance, if they remember their 
 own weakness and ignorance, if they recollect this saying of Christ the Lord: The spirit indeed is willing, but 
@@ -15647,7 +15726,7 @@ that he declared at once with an oath that he knew not the Lord. Doubtless his c
 good-will. But if, by the frailty of human nature in which they confided, even the Saints have sinned grievously, 
 what have not others to fear, who are so far below them in holiness? 
 
-## The Assaults Of The Flesh
+### The Assaults Of The Flesh
 
 Wherefore, let the pastor remind the faithful of the conflicts and dangers in which we are continually engaged, 
 as long as the soul is in this mortal body, assailed as we are on all sides by the world, the flesh and the devil. 
@@ -15656,7 +15735,7 @@ do in us? Who is not annoyed by these stings? who does not feel these goads? who
 smouldering fires? And, indeed, so various are these assaults, so diversified these attacks, that it is extremely 
 difficult not to receive some grievous wound. 
 
-## The Temptations Of The Devil
+### The Temptations Of The Devil
 
 And besides these enemies that dwell and live with us, there are, moreover, those most bitter foes, of whom it is 
 written: Our wrestling is not against, flesh and blood; but against principalities and powers, against the rulers of 
@@ -15677,7 +15756,7 @@ flesh as mind itself and reason are higher and more excellent (than the senses).
 Apostle spoke of as in the high places, because the chief aim of the evil one is to deprive us of our heavenly 
 inheritance. 
 
-## Audacity Of The Demons
+### Audacity Of The Demons
 
 From all this we may understand that the power of these enemies is great, their courage undaunted, their hatred 
 of us enormous and unmeasured; that they also wage against us a perpetual war, so that with them there can be 
@@ -15688,14 +15767,14 @@ Lord says in the Gospel, that he might sift them as wheat.' Nor was he abashed e
 the Lord Himself. His insatiable desire and unwearied diligence St. Peter therefore expressed when he said: 
 Your adversary, the devil, as a roaring lion goeth about, seeking whom he may devour. 
 
-## Number Of The Demons
+### Number Of The Demons
 
 But it is not Satan alone that tempts men, for sometimes a host of demons combine to attack an individual. This 
 that evil spirit confessed, who, having been asked his name by Christ the Lord, replied, My name is legion; that 
 is to say, a multitude of demons, tormented their unhappy victim. And of another demon it is written: He taketh 
 with him seven other spirits more wicked than himself, and they enter in and dwell there. 
 
-## Malignity And Power Of The Demons
+### Malignity And Power Of The Demons
 
 There are many who, because they do not feel the assaults of demons against them, imagine that the whole 
 matter is fictitious; nor is it surprising that such persons are not attacked by demons, to whom they have 
@@ -15708,7 +15787,7 @@ Scripture is full of examples of holy men who, in spite of their firmness and re
 violence or fraud. Adam, David, Solomon and others, whom it would be tedious to enumerate, experienced the 
 violent and crafty cunning of demons, which neither human prudence nor human strength can overcome. 
 
-## Prayer Protects Man's Weakness Against The Enemies Of His Soul
+### Prayer Protects Man's Weakness Against The Enemies Of His Soul
 
 Who, then, can deem himself sufficiently secure in his own resources? Hence the necessity of offering to God 
 pure and pious prayer, that He suffer us not to be tempted above our strength, but make issue with temptation, 
@@ -15723,7 +15802,7 @@ forth thy hand upon his person, Job with his children and possessions, would hav
 devil. So restricted is the power of demons, that without the permission of God, they could not even enter into 
 the swine mentioned by the Evangelists. 
 
-## "Temptation"
+### "Temptation"
 
 To understand the meaning of this Petition, it is necessary to say what temptation signifies here, and also what it 
 is to be led into temptation. 
@@ -15749,7 +15828,7 @@ assistants abandoned men, particularly heretics, who, sitting in the chair of pe
 of bad doctrines, thus unsettling and precipitating headlong those persons who draw no line of distinction 
 between vice and virtue and are of themselves prone to evil. 
 
-## "Lead us not into Temptation"
+### "Lead us not into Temptation"
 
 We are said to be led into temptation when we yield to temptations. Now this happens in two ways. First, we are 
 led into temptation when, yielding to suggestion, we rush into that evil to which some one tempts us. No one is 
@@ -15782,11 +15861,11 @@ read: I will harden the heart of Pharoah; and in Isaias: Blind the heart of this
 Romans writes: God delivered them up to shameful affections, and to a reprobate sense. In these and other 
 similar passages we are to understand, not at all any positive act on the part of God, but His permission only. 
 
-## Objects of the Sixth Petition What We Do Not Pray For
+### Objects of the Sixth Petition What We Do Not Pray For
 
 These observations having been premised, it will not be difficult to understand the object for which we pray in 
 
-## this Petition.
+### this Petition.
 
 We do not ask to be totally exempt from temptation, for human life is one continued temptation. This, however, 
 is useful and advantageous to man. Temptation teaches us to know ourselves, that is, our own weakness, and to 
@@ -15797,7 +15876,7 @@ life, which God hath promised to them that love him. If we are sometimes hard pr
 enemy, it will also cheer us to reflect, that we have a high priest to help us, who can have compassion on our 
 infirmities, having been tempted himself in all things. 
 
-## What We Pray For In This Petition
+### What We Pray For In This Petition
 
 What, then, do we pray for in this Petition ? We pray that the divine assistance may not forsake us, lest having 
 been deceived, or worsted, we should yield to temptation; and that the grace of God may be at hand to succour 
@@ -15812,12 +15891,12 @@ We pray, therefore, that we yield not to evil desires, and be not wearied in end
 not from the way of the Lord; that in adversity, as in prosperity, we preserve equanimity and fortitude; and that 
 God may never deprive us of His protection. Finally, we pray that God may crush Satan beneath our feet. 
 
-## Dispositions which should Accompany this Petition
+### Dispositions which should Accompany this Petition
 
 The pastor ought next to admonish the faithful concerning the chief thoughts and reflections that should 
 accompany this prayer 
 
-## Distrust Of Self And Confidence In God
+### Distrust Of Self And Confidence In God
 
 It will, then, be found most efficacious, when offering this Petition that, remembering our weakness, we distrust 
 our own strength; and that, placing all our hopes of safety in the divine goodness and relying on the divine 
@@ -15830,7 +15909,7 @@ for her heart, says the Scripture, trusted in the Lord. How exalted the praise, 
 triumphed over the world, the flesh and the devil ! There are on record many similar examples to which the 
 pastor should refer, in order to exhort with earnestness his pious hearers to this hope and confidence. 
 
-## Remembrance Of The Victory Of Christ And His Saints
+### Remembrance Of The Victory Of Christ And His Saints
 
 The faithful should also reflect who is their leader against the temptations of the enemy; namely, Christ the 
 Lord, who was victorious in the same combat. He overcame the devil; He is that stronger man who, coming 
@@ -15847,14 +15926,14 @@ should deem no event of more frequent occurrence, none of more glorious issue. I
 defeats of the enemies that St. John wrote: I write unto you, young men, because you are strong, and the word 
 of God abideth in you, and you have overcome the wicked one.' 
 
-## Watchfulness
+### Watchfulness
 
 Satan, however, is overcome not by indolence, sleep, wine, revelling, or lust; but by prayer, labor, watching, 
 fasting, continence and chastity. Watch ye and pray, that ye enter not into temptation, as we have already said, 
 is the admonition of our Lord. They who make use of these weapons in the conflict put the enemy to flight; for 
 the devil flees from those who resist him. 
 
-## The Author of victory over Temptation
+### The Author of victory over Temptation
 
 But from the consideration of these victories achieved by holy men which we have mentioned, let no one 
 indulge feelings of self-complacency, nor flatter himself that, by his own single unassisted exertions, he is able 
@@ -15872,7 +15951,7 @@ same book declares that the victory obtained over the world and the flesh belong
 says: They shall fight with the Lamb, and the Lamb shall overcome them. But enough has now been said on the 
 cause and the manner of conquering (temptation). 
 
-## The Rewards of Victories over temptation
+### The Rewards of Victories over temptation
 
 When these things have been explained, the pastor should instruct the faithful concerning the crowns prepared 
 by God, and the eternal and superabundant rewards reserved for those who conquer. He should quote from the 
@@ -15885,11 +15964,9 @@ throne; as I also have overcome, and am set down with my Father in his throne. F
 glory of the Saints, and the never ending bliss which they shall enjoy in heaven, He adds, He that shall 
 overcome shall possess these things.
 
-## THE SEVENTH PETITION OF THE LORD'S
+## THE SEVENTH PETITION OF THE LORD'S PRAYER : "But deliver us from evil"
 
-PRAYER : "But deliver us from evil" 
-
-## The Importance Of Instruction On This Petition
+### The Importance Of Instruction On This Petition
 
 This Petition with which the Son of God concludes this divine prayer embodies the substance of all the other 
 Petitions. To show its force and importance our Lord made use of this Petition when, on the eve of His Passion, 
@@ -15904,7 +15981,7 @@ Such, then, being the importance of this Petition, the diligence of the pastor i
 The difference between this and the preceding Petition consists in this, that in the one we beg to avoid sin, in the 
 other, to escape punishment. 
 
-## Necessity Of This Petition
+### Necessity Of This Petition
 
 It cannot be necessary to remind the faithful of the numerous evils and calamities to which we are exposed, and 
 how much we stand in need of the divine assistance. The many and serious miseries of human life have been 
@@ -15922,7 +15999,7 @@ exercises a more powerful influence over men than a desire and hope of deliveran
 oppress or threaten them. There is in the heart of everyone a natural inclination to have instant recourse to God 
 in the face of danger, as it is written: Fill their faces with shame, and they shall seek thy name, Lord. 
 
-## How this Petition should be Made
+### How this Petition should be Made
 
 If, then, in calamities and dangers the unbidden impulse of nature prompts men to call on God, it surely 
 becomes the duty of those to whose fidelity and prudence their salvation is entrusted to instruct them carefully 
@@ -15947,11 +16024,13 @@ there is no one in death that is mindful of thee, and who shall confess to thee 
 implored God to have mercy on him, he added: I will teach the unjust thy ways; and the wicked shall be 
 converted to thee. 
 
-## Our Chief Hope Of Deliverance Should Be In God
+### Our Chief Hope Of Deliverance Should Be In God
 
 The faithful should be encouraged to use this salutary manner of praying and to imitate the example of the 
 Prophet. And at the same time their attention should be called to the marked difference that exists between the 
-prayers of the infidel and those of the Christian. 
+
+## prayers of the infidel and those of the Christian.
+
 The infidel, too, begs of God to cure his diseases and to heal his wounds, to deliver him from approaching or 
 impending evils; but he places his principal hope of deliverance in the remedies provided by nature, or prepared 
 by man. He makes no scruple of using medicine no matter by whom prepared, no matter if accompanied by 
@@ -15968,7 +16047,7 @@ assistance from God. Nay more, those who regulate their lives by the laws of God
 medicines which are not evidently intended by God to be medicinal; and, were there even a certain hope of 
 recovery by using any other, they abstain from them as so many charms and diabolical artifices. 
 
-## We Must Confidently Expect His Help
+### We Must Confidently Expect His Help
 
 The faithful, then, are to be exhorted to place their confidence in God. Our most bountiful Father has 
 
@@ -15983,12 +16062,12 @@ devout prayer, are so numerous as to make it unnecessary to mention special case
 ourselves with one text from the Prophet, which is sufficient to confirm even the weakest: The just cried, and 
 the Lord heard them; and delivered them out of all their troubles. 
 
-## "From Evil"
+### "From Evil"
 
 We now come to explain the meaning and nature of the Petition. Let the faithful understand that in it we by no 
 means ask deliverance from every evil. 
 
-## What We Do Not Pray For
+### What We Do Not Pray For
 
 There are some things which are commonly considered evils, and which, notwithstanding, are of advantage to 
 those who endure them. Such was the sting of the flesh to which the Apostle was subjected in order that, by the 
@@ -15997,7 +16076,7 @@ such things, far from praying for their removal, he rejoices in them exceedingly
 those evils only, which do not conduce to our spiritual interests; not against such as are profitable to our 
 salvation. 
 
-## What We Do Pray For
+### What We Do Pray For
 
 The full meaning of this Petition, therefore, is, that having been freed from sin and from the danger of 
 temptation, we may be delivered from internal and external evils; that we may be protected from floods, fire and 
@@ -16014,7 +16093,7 @@ of purgatory, from which we piously and devoutly implore that others may be libe
 This is the explanation of this Petition given by the Church in the Mass and Litanies, where we pray to be 
 delivered from evil past, present and to come. 
 
-## "Deliver Us"
+### "Deliver Us"
 
 The goodness of God delivers us from evil in a variety of ways. He prevents impending evils, as we read with 
 regard to the Patriarch Jacob, whom He delivered from the enemies that were stirred up against him on account 
@@ -16031,7 +16110,7 @@ God, moreover, delivers men from evil when he preserves them unhurt in the midst
 did in the case of the children thrown into the fiery furnace, whom the fire did not burn; and of Daniel, whom 
 the lions did not injure. 
 
-## Deliverance From Satan Especially Asked For
+### Deliverance From Satan Especially Asked For
 
 According to the interpretation of St. Basil the Great, St. Chrysostom and St. Augustine, the devil is specially 
 called the evil one, because he was the author of man's transgression, that is, of his sin and iniquity, and also 
@@ -16050,7 +16129,7 @@ Therefore if your neighbour has injured you in any respect, when you pray to God
 only to deliver you from evil, that is, from the injuries which your neighbour inflicts; but also to rescue your 
 neighbour from the power of the devil, whose wicked suggestions impel men to wrong. 
 
-## Patience and Joy under Continued Affliction
+### Patience and Joy under Continued Affliction
 
 Next we must remember that if by prayers and supplications we are not delivered from evil, we should endure 
 our afflictions with patience, convinced that it is the will of God that we should so endure them. If, therefore, 
@@ -16074,22 +16153,26 @@ scourged, rejoiced exceedingly that they were accounted worthy to suffer reproac
 such sentiments, we shall sing in transports of joy: Princes have persecuted me without cause; and my heart 
 hath been in awe of thy words; I will rejoice at thy words, as one that hath found great spoil.
 
-## THE SEAL OF THE LORD'S PRAYER "Amen"
+## THE SEAL OF THE LORD'S PRAYER
 
-## Necessity Of Explaining The Conclusion Of The Lord's Prayer
+### "Amen"
+
+### Necessity Of Explaining The Conclusion Of The Lord's Prayer
 
 St. Jerome in his commentary on St. Matthew rightly calls this word what it really is, the seal of the Lord's 
-Prayer. As then we have already admonished the faithful with regard to the preparation to be made before this 
+
+## Prayer. As then we have already admonished the faithful with regard to the preparation to be made before this
+
 holy prayer, so we deem it necessary that they should also know why we close our prayers with this word, and 
 what it signifies; for devotion in concluding our prayers is not less important than attention in beginning them. 
 
-## fruits that Come at the Conclusion of Prayer Assurance That We Have Been Heard
+### fruits that Come at the Conclusion of Prayer Assurance That We Have Been Heard
 
 The faithful, then, should be taught that the fruits, which we gather from the conclusion of the Lord's Prayer are 
 numerous and abundant, the greatest and most joyful of them being the attainment of what we ask. On this point 
 enough has already been said. 
 
-## Fervour And Illumination
+### Fervour And Illumination
 
 By this concluding word, not only do we obtain a propitious hearing from God, but also receive other blessings 
 of a higher order still, the excellence of which surpasses all powers of description. 
@@ -16097,25 +16180,27 @@ For since, as St. Cyprian remarks, by prayer man converses with God, it happens 
 divine Majesty is brought nearer to those who are engaged in prayer than to others, and enriches them with 
 singular gifts. Those, therefore, who pray devoutly, may not be inaptly compared to persons who approach a 
 glowing fire; if cold, they derive warmth; if warm, they derive heat. Thus, also, those who approach God (in 
-prayer) depart with a warmth proportioned to their faith and fervour; the heart is inflamed with zeal for the 
+
+## prayer) depart with a warmth proportioned to their faith and fervour; the heart is inflamed with zeal for the
+
 glory of God, the mind is illumined after an admirable manner, and they are enriched exceedingly with divine 
 gifts, as it is written: Thou hast prevented him with blessings of sweetness. 
 
 An example for all is that great man Moses. By intercourse and converse with God he so shone with the 
 reflected splendours of the Divinity, that the Israelites could not look upon his eyes or countenance. 
 
-## Sweetness
+### Sweetness
 
 Those who pray with such vehement fervour enjoy in a wonderful manner the goodness and majesty of God. In 
 the morning, says the Prophet, I will stand before thee, and will see; because thou art not a God that willest 
 
-## iniquity.
+### iniquity.
 
 The more familiar these truths are to the mind, the more piously do we venerate, and the more fervently do we 
 worship God, and the more delightfully do we taste how sweet is the Lord, and how truly blessed are all who 
 hope in Him. 
 
-## Confidence And Gratitude
+### Confidence And Gratitude
 
 Encircled by the most clear light from above we also discover our own lowliness and how exalted is the majesty 
 of God, according to the saying of St. Augustine: Give me to know Thee: give me to know myself. Distrusting 
@@ -16128,7 +16213,7 @@ express. This we read that holy David did, who commenced by praying: Save me fro
 me, and concluded with these words, I will give glory to the Lord according to his justice, and will sing to the 
 name of the Lord the most High.' 
 
-## Illustrations From The Psalms
+### Illustrations From The Psalms
 
 There are innumerable prayers of the Saints of the same kind, whose beginnings are full of fear, but which end 
 with hope and joy. This spirit, however, is eminently conspicuous in the prayers of David. 
@@ -16147,7 +16232,7 @@ adds these words of joy and confidence: Behold, God is my help; and the Lord is 
 Let him, therefore, who has recourse to holy prayer approach God his Father, fortified by faith and animated by 
 hope, not doubting that he will obtain those blessings of which he stands in need. 
 
-## Meaning of the Word "Amen" First Explanation
+### Meaning of the Word "Amen" First Explanation
 
 The word amen, with which the Lord's Prayer concludes, contains, as it were, the germs of many of these 
 
@@ -16165,13 +16250,14 @@ front evil. She reserves it as appropriate to the priest himself, who, as mediat
 #### God has heard the prayers of His people.
 
 This practice, however, is not common to all the prayers, but is peculiar to the Lord's Prayer. To the other 
-prayers the server answers Amen, because in every other this word only expresses assent and desire. In the 
+
+## prayers the server answers Amen, because in every other this word only expresses assent and desire. In the
 
 #### Lord's Prayer it is an answer, intimating that
 
 #### God has heard the petition of His suppliant.
 
-## Other Explanations Of The Word "Amen"
+### Other Explanations Of The Word "Amen"
 
 By many, the word amen is differently interpreted. The Septuagint interprets it, So be it; others translate it, 
 Verily: Aquila renders it, Faithfully. Which of these versions we adopt, is a matter of little importance, provided 
@@ -16180,7 +16266,7 @@ it signifies the concession of what hag been prayed for. This interpretation is 
 to the Corinthians, where he says: All the promises of God are in him, "it is"; therefore also by him, amen to 
 God, unto our glory. 
 
-## Advantages of Terminating our Prayer with this Word
+### Advantages of Terminating our Prayer with this Word
 
 To us also this word is very appropriate, containing, as it does, some confirmation of the Petitions which we 
 have already offered up. It also fixes our attention when we are engaged in holy prayer; for it frequently 

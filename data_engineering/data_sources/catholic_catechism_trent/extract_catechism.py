@@ -186,7 +186,11 @@ def _get_section_context(lines: List[str], current_idx: int) -> Tuple[str, int]:
     - context_type: 'intro', 'part', 'article', 'level2_section', or 'none'
     - header_level: The level of the most recent structural header found
     """
-    # Look backwards for the most recent structural header
+    # Track the hierarchy: find the most recent Level 1, then Level 2, etc.
+    found_level1 = None
+    found_level2 = None
+
+    # Look backwards for the most recent structural headers
     for i in range(current_idx - 1, -1, -1):
         line = lines[i].strip()
         if not line:
@@ -197,28 +201,44 @@ def _get_section_context(lines: List[str], current_idx: int) -> Tuple[str, int]:
             header_level = len(line) - len(line.lstrip('#'))
             header_text = line.lstrip('#').strip()
 
-            # Check for INTRODUCTORY (Level 1)
-            if re.match(r'^INTRODUCTORY', header_text, re.IGNORECASE):
-                return ('intro', header_level)
-            # Check for PART (Level 1)
-            if re.match(r'^PART\s+[IVX]+', header_text, re.IGNORECASE):
-                return ('part', header_level)
-            # Check for ARTICLE (Level 2)
-            if re.match(r'^ARTICLE\s+[IVX]+', header_text, re.IGNORECASE):
-                return ('article', header_level)
-            # Check for Level 2 sections like "THE SACRAMENTS", "THE SACRAMENT OF..."
-            if header_level == 2:
-                if re.match(r'^THE\s+SACRAMENT', header_text, re.IGNORECASE):
-                    return ('level2_section', header_level)
+            # Level 1 headers
+            if header_level == 1:
+                if re.match(r'^INTRODUCTORY', header_text, re.IGNORECASE):
+                    found_level1 = ('intro', 1)
+                elif re.match(r'^PART\s+[IVX]+', header_text, re.IGNORECASE):
+                    found_level1 = ('part', 1)
+
+            # Level 2 headers
+            elif header_level == 2:
+                if re.match(r'^ARTICLE\s+[IVX]+', header_text, re.IGNORECASE):
+                    found_level2 = ('article', 2)
+                # Check for Level 2 sections: THE SACRAMENTS, THE SACRAMENT OF..., THE DECALOGUE, etc.
+                elif re.match(r'^THE\s+(SACRAMENTS?|DECALOGUE|COMMANDMENTS?)', header_text, re.IGNORECASE):
+                    found_level2 = ('level2_section', 2)
+
         # Also check unformatted structural markers
         elif re.match(r'^INTRODUCTORY', line, re.IGNORECASE):
-            return ('intro', 1)
+            found_level1 = ('intro', 1)
         elif re.match(r'^PART\s+[IVX]+', line, re.IGNORECASE):
-            return ('part', 1)
+            found_level1 = ('part', 1)
         elif re.match(r'^ARTICLE\s+[IVX]+', line, re.IGNORECASE):
-            return ('article', 2)
-        elif re.match(r'^THE\s+SACRAMENT', line, re.IGNORECASE):
-            return ('level2_section', 2)
+            found_level2 = ('article', 2)
+        elif re.match(r'^THE\s+(SACRAMENTS?|DECALOGUE|COMMANDMENTS?)', line, re.IGNORECASE):
+            found_level2 = ('level2_section', 2)
+
+        # Once we have both Level 1 and Level 2, we can determine context
+        if found_level1 and found_level2:
+            # If we're under a Level 2 section, return that
+            return found_level2
+        elif found_level1:
+            # If we only have Level 1, return that
+            return found_level1
+
+    # Return what we found, or default
+    if found_level2:
+        return found_level2
+    elif found_level1:
+        return found_level1
 
     return ('none', 0)
 
@@ -286,21 +306,101 @@ def _format_italicized_headers(text: str, italicized_texts: List[str]) -> str:
                 continue
 
             # Determine header level based on context
-            context_type, parent_level = _get_section_context(lines, i)
+            # Look backwards to find both Level 1 and Level 2 headers
+            # NOTE: Structural headers may not be formatted yet, so check both formatted and unformatted
+            found_level1_type = None
+            found_level2_type = None
+            last_level1_idx = -1
+            last_level2_idx = -1
+
+            for j in range(i - 1, -1, -1):
+                prev_line = lines[j].strip()
+                if not prev_line:
+                    continue
+
+                # Check formatted headers
+                if prev_line.startswith('#'):
+                    prev_level = len(prev_line) - len(prev_line.lstrip('#'))
+                    prev_text = prev_line.lstrip('#').strip()
+
+                    # Track Level 1 (INTRODUCTORY, PART)
+                    if prev_level == 1:
+                        if re.match(r'^INTRODUCTORY', prev_text, re.IGNORECASE):
+                            found_level1_type = 'intro'
+                            last_level1_idx = j
+                        elif re.match(r'^PART\s+[IVX]+', prev_text, re.IGNORECASE):
+                            found_level1_type = 'part'
+                            last_level1_idx = j
+
+                    # Track Level 2 (ARTICLE, THE SACRAMENTS, etc.)
+                    elif prev_level == 2:
+                        if re.match(r'^ARTICLE\s+[IVX]+', prev_text, re.IGNORECASE):
+                            found_level2_type = 'article'
+                            last_level2_idx = j
+                        # Check for Level 2 sections even if merged with other text
+                        # Use search (not match) to find "THE SACRAMENTS", "PRAYER", etc. even when merged
+                        elif re.search(r'\b(THE\s+(SACRAMENTS?|DECALOGUE|COMMANDMENTS?)|PRAYER)\b', prev_text, re.IGNORECASE):
+                            found_level2_type = 'level2_section'
+                            last_level2_idx = j
+
+                # Also check unformatted structural markers (since formatting happens after italic detection)
+                else:
+                    if re.match(r'^INTRODUCTORY(?:\s|$)', prev_line, re.IGNORECASE):
+                        found_level1_type = 'intro'
+                        last_level1_idx = j
+                    elif re.match(r'^PART\s+[IVX]+', prev_line, re.IGNORECASE):
+                        found_level1_type = 'part'
+                        last_level1_idx = j
+                    elif re.match(r'^ARTICLE\s+[IVX]+', prev_line, re.IGNORECASE):
+                        found_level2_type = 'article'
+                        last_level2_idx = j
+                    # Check for Level 2 sections even if merged with other text
+                    # Use search with word boundary to find "THE SACRAMENTS", "PRAYER", etc. even when merged
+                    elif re.search(r'\b(THE\s+(SACRAMENTS?|DECALOGUE|COMMANDMENTS?)|PRAYER)\b', prev_line, re.IGNORECASE):
+                        found_level2_type = 'level2_section'
+                        last_level2_idx = j
+
+                # Stop if we hit a Level 1 marker (can't go further back)
+                if prev_line.startswith('#') and len(prev_line) - len(prev_line.lstrip('#')) == 1:
+                    if found_level1_type:
+                        break
+                elif re.match(r'^(INTRODUCTORY|PART\s+[IVX]+)', prev_line, re.IGNORECASE):
+                    if found_level1_type:
+                        break
 
             # Hierarchy rules:
-            # - Under INTRODUCTORY or PART (Level 1) → Level 2
-            # - Under ARTICLE or Level 2 section (Level 2) → Level 3
-            # - Under Level 3 section → Level 4
+            # - Directly under PART/INTRODUCTORY (no Level 2 in between) → Level 2
+            # - Under ARTICLE or Level 2 section (and Level 2 comes after Level 1) → Level 3
+            # - Special case: Under INTRODUCTORY, if Level 2 is also directly under INTRODUCTORY (sibling), then this is also Level 2
             # - Unknown → Level 4 (default)
-            if context_type in ('intro', 'part'):
-                header_level = '##'  # Level 2 (under Level 1)
-            elif context_type in ('article', 'level2_section'):
-                header_level = '###'  # Level 3 (under Level 2)
-            elif parent_level == 3:
-                header_level = '####'  # Level 4 (under Level 3)
+            if found_level1_type == 'intro' and found_level2_type:
+                # Under INTRODUCTORY: check if Level 2 header is a sibling (also directly under INTRODUCTORY)
+                # If so, this italic header should also be Level 2 (sibling), not Level 3
+                # We check if there's another Level 2 between the found Level 2 and INTRODUCTORY
+                has_intervening_level2 = False
+                if last_level1_idx >= 0 and last_level2_idx >= 0:
+                    # Check if there's another Level 2 header between Level 2 and Level 1
+                    for k in range(last_level1_idx + 1, last_level2_idx):
+                        check_line = lines[k].strip()
+                        if check_line.startswith('##'):
+                            has_intervening_level2 = True
+                            break
+
+                if not has_intervening_level2:
+                    # Level 2 is directly under INTRODUCTORY (sibling), so this is also Level 2
+                    header_level = '##'
+                else:
+                    # Level 2 is nested, so this is Level 3
+                    header_level = '###'
+            elif found_level1_type and not found_level2_type:
+                # Directly under Level 1, so this is Level 2
+                header_level = '##'
+            elif found_level2_type and found_level1_type and last_level2_idx > last_level1_idx:
+                # Under Level 2 section (which comes after Level 1), so this is Level 3
+                header_level = '###'
             else:
-                header_level = '####'  # Level 4 (default/deeper subsections)
+                # Default to Level 4 for deeper subsections or unknown
+                header_level = '####'
 
             # Check if followed by substantial content
             is_short_header = 5 <= len(stripped) <= 15
@@ -770,6 +870,13 @@ def add_markdown_headers(text: str, italicized_texts: Optional[List[str]] = None
         # Level 1: INTRODUCTORY (should be Level 1, not Level 2)
         if re.match(r'^INTRODUCTORY(?:\s|$)', stripped, re.IGNORECASE):
             lines[i] = f"# {stripped}"
+            continue
+
+        # Level 2: Major sections like "THE SACRAMENTS", "THE DECALOGUE", "THE COMMANDMENTS", "PRAYER"
+        # These can appear merged with other text, so use search instead of match
+        if re.search(r'^(THE\s+(SACRAMENTS?|DECALOGUE|COMMANDMENTS?)|PRAYER)', stripped, re.IGNORECASE):
+            # Format the entire line as Level 2 (even if merged with other text)
+            lines[i] = f"## {stripped}"
             continue
 
         # Level 2: All-caps structural words (PREFACE, etc.) - but not INTRODUCTORY (handled above)

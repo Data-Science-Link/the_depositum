@@ -77,6 +77,35 @@ Achieve 95% accuracy in matching header levels between the extracted Markdown an
 **Date**: 2025-12-20
 **Status**: ✅ Completed
 
+### Iteration 3 - Improved Context Detection
+**Date**: 2025-12-20
+**Status**: ✅ Completed
+
+**Changes Made**:
+1. Enhanced context detection to recognize "THE SACRAMENTS", "THE DECALOGUE", and "PRAYER" as Level 2 sections
+2. Improved hierarchy detection to handle merged headers (e.g., "THE SACRAMENTS Importance Of Instruction On The Sacraments")
+3. Added logic to detect items directly under INTRODUCTORY vs. items under Level 2 sections
+
+**Results**:
+- Total headers in CSV: 1,128
+- Filtered TOC entries: 1,124
+- Total Markdown headers: 1,190
+- Matches (correct level): 1,000
+- Mismatches (wrong level): 12
+- Not found: 112
+- **Accuracy: 88.97%** ✅ (up from 19.84% - significant improvement!)
+
+**Key Improvements**:
+1. ✅ Items under "THE SACRAMENTS" and "THE DECALOGUE" are now correctly Level 3
+2. ✅ "PRAYER" is now recognized as a Level 2 section
+3. ⚠️ Some items directly under INTRODUCTORY are still Level 3 instead of Level 2
+   - Examples: "Love Of God", "The Means Required for Religious Instruction", "Faith"
+4. ⚠️ Some merged headers like "Importance Of Instruction On The Sacraments" are Level 2 but should be Level 3
+
+**Remaining Issues**:
+- 12 mismatches (mostly items directly under INTRODUCTORY being Level 3 instead of Level 2)
+- 112 items not found (likely due to text extraction differences or merged headers)
+
 **Changes Made**:
 1. Made `_format_italicized_headers()` context-aware with `_get_section_context()`:
    - Tracks current section by looking backwards for structural headers
