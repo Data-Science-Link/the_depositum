@@ -22,6 +22,8 @@ format: markdown
 
 # Leviticus Commentary
 
+The Book is called**Leviticus**: because it treats of the offices, ministries, rites and ceremonies of the Priests and Levites. The Hebrews call it**Vayyicra**, from the word with which it begins; ( Ch.) “and (the Lord) called.” The*a*at the end of this word is printed in a smaller size, to insinuate that little children should begin to read this Book first, if we may give any credit to those who attempt to account for all the irregularities sanctioned by the great Massora! But such irregular letters are the faults of some transcribers, and are of no authority. Kennicott Dis. 1.—This Book is styled also, “The Priests’ Law.” H.—The seven first chapters explain the sacrifices; the sixteen next, the offices and ordination of the Priests and Levites. From the 23d chapter to the end, the feasts are designated, and some regulations respecting vows are interspersed. All these rites and sacrifices foreshewed the eucharistic sacrifice of Jesus Christ, (S. Leo. ser. 8. de pas. Trid. sef. 22. c. 1.) and tended to keep the Hebrews employed, and at a greater distance from idolatry. S. Jer. on Isai. i. &c.—These prescriptions were given during the month of Nisan, in the second year after the exit, while the Hebrews remained at the foot of Mount Sinai. God spoke from the New Tabernacle. T.—In the Book of Deuteronomy we find but few regulations respecting sacrifices, as Moses had sufficiently explained them in this book. D.—If we confine ourselves to the letter, we may say these precepts are*not good*, and carnal; (Ezec. 20:25. Heb. 7:16) but if we consider the spirit, we shall confess that they are excellent, and*spiritual.*Rom. 7:14. 2 Cor. 3:6. Orig. c. Cels. vii. C.
+
 ## Table of Contents
 
 - [Chapter 1](#chapter-1)

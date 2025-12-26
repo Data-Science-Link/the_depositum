@@ -257,14 +257,6 @@ def process_epub_content(book: epub.EpubBook) -> Tuple[Dict[str, Dict[int, List[
             # Process all paragraphs in this div
             paragraphs = div.find_all('p')
 
-            # Debug: log first few divs to see what we're getting
-            if div_count <= 3:  # Only log for first few divs
-                logger.info(f"Div {div_count} has {len(paragraphs)} paragraphs")
-                for i, p in enumerate(paragraphs[:3]):
-                    p_class = p.get('class', [])
-                    text = clean_text(p.get_text())[:80]
-                    logger.info(f"  Paragraph {i}: class={p_class}, text={text}")
-
             for p in paragraphs:
                 p_class = p.get('class', [])
                 if not p_class:
@@ -275,12 +267,6 @@ def process_epub_content(book: epub.EpubBook) -> Tuple[Dict[str, Dict[int, List[
 
                 if not text_content:
                     continue
-
-                # Debug: log all paragraphs when we're near EXODUS introduction
-                if current_book and 'EXODUS' in current_book.upper():
-                    if 'lang-en15' in p_class_str or (in_introduction and current_chapter is None) or (current_chapter == 1 and in_introduction):
-                        logger.debug(f"EXODUS DEBUG: class={p_class_str}, text={text_content[:100]}")
-
 
                 # Skip title page and metadata content (lang-en through lang-en9)
                 # These contain: title, author, publisher, publication date
@@ -432,15 +418,10 @@ def process_epub_content(book: epub.EpubBook) -> Tuple[Dict[str, Dict[int, List[
                         logger.warning(f"✗ Found lang-en17 but couldn't parse: '{text_content}' (len={len(text_content)}, repr={repr(text_content[:50])})")
                     continue
 
-                # Debug: log paragraphs when we're looking for introduction
-                if in_introduction and current_book and (not current_chapter or current_chapter == 1):
-                    logger.debug(f"DEBUG: Processing paragraph for {current_book} intro - class={p_class_str[:50]}, text={text_content[:80]}")
-
                 # Check if this is verse commentary (lang-en16 or lang-en7)
                 # Note: lang-en7 is used for both intro text AND verse commentary
                 # We distinguish by checking for verse numbers
                 # BUT: if we're in introduction mode and don't have a chapter yet, prioritize introduction collection
-                # EXODUS DEBUG: Log all lang-en7 paragraphs to see if intro text is being processed
                 if 'lang-en16' in p_class_str or 'lang-en7' in p_class_str:
                     # If we're in introduction mode and no chapter, check if this looks like introduction first
                     # Introduction text typically doesn't start with "Ver." and is longer
@@ -511,47 +492,20 @@ def process_epub_content(book: epub.EpubBook) -> Tuple[Dict[str, Dict[int, List[
                                     book_context = current_book if current_book else (last_seen_book_hint if last_seen_book_hint else "unknown")
                                     logger.info(f"Added introduction paragraph for {book_context} (before chapter): {commentary_clean[:50]}...")
                                 continue
-                            else:
-                                # Debug: log why it wasn't collected
-                                logger.debug(f"Introduction mode but paragraph doesn't look like intro: len={len(raw_text_for_check)}, starts_with_Ver={raw_text_for_check.strip().startswith('Ver.')}, has_Ver_in_30={('Ver.' in raw_text_for_check[:30])}")
                         # If we're in chapter 1 and haven't collected intro yet, also collect
-                        # EXODUS CASE: The introduction text (lang-en7) may be processed AFTER the chapter 1 header
-                        # has been detected (current_chapter=1), so we need to collect it here too
+                        # This handles edge cases where introduction text comes after chapter 1 header
                         elif current_chapter == 1 and not current_introduction:
-                            # EXODUS DEBUG: Confirm we're in this branch
-                            if current_book and 'EXODUS' in current_book.upper():
-                                logger.info(f"EXODUS DEBUG: In chapter 1 branch, checking intro text")
-                            # Check if this looks like introduction (long text, no "Ver." at start)
-                            # Exodus intro: "The second Book of Moses is called Exodus from the Greek word..."
-                            # EXODUS DEBUG: Log before the check
-                            if current_book and 'EXODUS' in current_book.upper() and 'The second Book of Moses' in raw_text_for_check:
-                                logger.info(f"EXODUS DEBUG: Before looks_like_intro check - text_len={len(raw_text_for_check)}, first_50_chars={raw_text_for_check[:50]}")
                             looks_like_intro = (len(raw_text_for_check) > 50 and
                                               not raw_text_for_check.strip().startswith('Ver.') and
                                               'Ver.' not in raw_text_for_check[:30])
-                            # EXODUS DEBUG: Log the result
-                            if current_book and 'EXODUS' in current_book.upper() and 'The second Book of Moses' in raw_text_for_check:
-                                logger.info(f"EXODUS DEBUG: looks_like_intro result={looks_like_intro}, len_check={len(raw_text_for_check) > 50}, no_Ver_start={not raw_text_for_check.strip().startswith('Ver.')}, no_Ver_in_30={'Ver.' not in raw_text_for_check[:30]}")
                             if looks_like_intro:
                                 commentary_clean = commentary_md.strip()
                                 if commentary_clean:
                                     current_introduction.append(commentary_clean)
                                     logger.info(f"Added introduction paragraph for {current_book} (chapter 1, first): {commentary_clean[:50]}...")
                                 continue
-                        # EXODUS CASE: Also handle if we're in chapter 1 and already have some intro paragraphs
+                        # Also handle if we're in chapter 1 and already have some intro paragraphs
                         # (in case intro text comes in multiple paragraphs after chapter header)
-                        elif current_chapter == 1 and current_introduction:
-                            # Only collect if it clearly looks like intro (not verse commentary)
-                            looks_like_intro = (len(raw_text_for_check) > 50 and
-                                              not raw_text_for_check.strip().startswith('Ver.') and
-                                              'Ver.' not in raw_text_for_check[:30])
-                            if looks_like_intro:
-                                commentary_clean = commentary_md.strip()
-                                if commentary_clean:
-                                    current_introduction.append(commentary_clean)
-                                    logger.info(f"Added introduction paragraph for {current_book} (chapter 1, continuing): {commentary_clean[:50]}...")
-                                continue
-                        # Also collect if we're in chapter 1 and still collecting introduction
                         elif current_chapter == 1 and current_introduction:
                             looks_like_intro = (len(raw_text_for_check) > 50 and
                                               not raw_text_for_check.strip().startswith('Ver.') and
@@ -607,19 +561,16 @@ def process_epub_content(book: epub.EpubBook) -> Tuple[Dict[str, Dict[int, List[
                         continue
 
                     # If we're in introduction mode and no verse number, collect as introduction
-                    # This includes the case where we're in chapter 1 but still collecting introduction
-                    # Also collect if we're in chapter 1 and haven't processed any verses yet for that chapter
+                    # This handles remaining cases where introduction text appears
                     if in_introduction and verse_num is None:
-                        # Check if this looks like introduction text (not verse commentary)
-                        # Introduction text typically doesn't start with verse-like patterns
                         commentary_clean = commentary_md.strip()
-                        # If it's very short and looks like "Ver. X." it's probably not intro
-                        # Also, if we're in chapter 1 and haven't seen any verses yet, it might be intro
-                        is_likely_intro = commentary_clean and not (len(commentary_clean) < 20 and ('Ver.' in commentary_clean or 'ver.' in commentary_clean.lower()))
-                        # Also allow if we're in chapter 1 and no verses have been processed for this chapter yet
+                        is_likely_intro = (commentary_clean and
+                                         len(commentary_clean) > 50 and
+                                         not commentary_clean.strip().startswith('Ver.') and
+                                         'Ver.' not in commentary_clean[:30])
+                        # Also allow if we're in chapter 1 and no verses have been processed yet
                         if current_book and current_chapter == 1 and not commentary_data.get(current_book, {}).get(1):
                             is_likely_intro = True
-                        # Allow collection even if current_book is not set yet (we'll assign it later)
                         if is_likely_intro:
                             current_introduction.append(commentary_clean)
                             book_context = current_book if current_book else (last_seen_book_hint if last_seen_book_hint else "unknown")
@@ -628,36 +579,25 @@ def process_epub_content(book: epub.EpubBook) -> Tuple[Dict[str, Dict[int, List[
 
                     # Also check: if we have book but no chapter yet, and no verse number, it might be intro
                     # This handles the first introduction paragraph that appears before "INTRODUCTION" header
-                    # Also handle case where we don't have book name yet but have a hint
-                    if verse_num is None and (current_book or last_seen_book_hint):
-                        # Check if this looks like introduction text
+                    if verse_num is None and current_book and not current_chapter:
                         commentary_clean = commentary_md.strip()
                         looks_like_intro = (commentary_clean and
                                           len(commentary_clean) > 50 and
                                           not commentary_clean.strip().startswith('Ver.') and
                                           'Ver.' not in commentary_clean[:30])
-
                         if looks_like_intro:
-                            if current_book and not current_chapter:
-                                if not in_introduction:
-                                    # Start collecting introduction (first paragraph before "INTRODUCTION" header)
-                                    in_introduction = True
-                                    current_introduction = [commentary_clean]
-                                    logger.info(f"Started collecting introduction for {current_book} (first paragraph)")
-                                else:
-                                    # Add to existing introduction
-                                    current_introduction.append(commentary_clean)
-                                    logger.info(f"Added introduction paragraph for {current_book}")
-                            elif last_seen_book_hint and not current_book:
-                                # We have a hint but no book name yet - collect as pending
-                                pending_introduction.append(commentary_clean)
-                                logger.info(f"Collected pending introduction paragraph (hint: {last_seen_book_hint}): {commentary_clean[:50]}...")
+                            if not in_introduction:
+                                in_introduction = True
+                                current_introduction = [commentary_clean]
+                                logger.info(f"Started collecting introduction for {current_book} (first paragraph)")
+                            else:
+                                current_introduction.append(commentary_clean)
+                                logger.info(f"Added introduction paragraph for {current_book}")
                         continue
 
                     # If we don't have a book name yet but we have a hint, collect as pending introduction
-                    if not current_book and last_seen_book_hint and verse_num is None and ('lang-en16' in p_class_str or 'lang-en7' in p_class_str):
+                    if not current_book and last_seen_book_hint and verse_num is None:
                         commentary_clean = commentary_md.strip()
-                        # Check if this looks like introduction text (not verse commentary)
                         if commentary_clean and len(commentary_clean) > 50 and not ('Ver.' in commentary_clean[:30] or 'ver.' in commentary_clean[:30].lower()):
                             pending_introduction.append(commentary_clean)
                             logger.info(f"Collected pending introduction paragraph (hint: {last_seen_book_hint}): {commentary_clean[:50]}...")
