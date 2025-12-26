@@ -110,6 +110,35 @@ DEUTEROCANONICAL_BOOKS = [
     {'id': '2MA', 'name': '2 Maccabees', 'canonical_position': 21},  # Biblical Novellas
 ]
 
+# Name variations mapping (Latin/Vulgate names to canonical English names)
+# Used for matching book names from different sources (e.g., Haydock Commentary EPUB)
+BOOK_NAME_VARIATIONS = {
+    # Historical books
+    'josue': 'Joshua',
+    'tobias': 'Tobit',
+    # Wisdom books
+    'psalm': 'Psalms',
+    'psalms': 'Psalms',
+    'ecclesiasticus': 'Sirach',
+    'canticle of canticles': 'Song of Solomon',
+    'song of solomon': 'Song of Solomon',
+    # Prophetic books
+    'isaias': 'Isaiah',
+    'jeremias': 'Jeremiah',
+    'ezechiel': 'Ezekiel',
+    'osee': 'Hosea',
+    'abdias': 'Obadiah',
+    'jonas': 'Jonah',
+    'micheas': 'Micah',
+    'habacuc': 'Habakkuk',
+    'sophonias': 'Zephaniah',
+    'aggeus': 'Haggai',
+    'zacharias': 'Zechariah',
+    'malachias': 'Malachi',
+    # New Testament
+    'apocalypse': 'Revelation',
+}
+
 
 def get_canonical_info(book_id: str = None, book_name: str = None) -> Optional[dict]:
     """Get the canonical information for a book in the Catholic Bible.
@@ -136,6 +165,21 @@ def get_canonical_info(book_id: str = None, book_name: str = None) -> Optional[d
     # Fallback: try to match by name (case-insensitive, handle variations)
     if book_name:
         book_name_lower = book_name.lower().strip()
+
+        # First, check if there's a known variation mapping
+        if book_name_lower in BOOK_NAME_VARIATIONS:
+            canonical_name = BOOK_NAME_VARIATIONS[book_name_lower]
+            # Now look up the canonical name
+            for book in CATHOLIC_BIBLE_CANON:
+                if book['name'].lower() == canonical_name.lower():
+                    return {
+                        'canonical_position': book['canonical_position'],
+                        'canonical_name': book['name'],
+                        'section': book.get('section', ''),
+                        'id': book['id']
+                    }
+
+        # Try direct match
         for book in CATHOLIC_BIBLE_CANON:
             if book['name'].lower() == book_name_lower:
                 return {
@@ -144,7 +188,7 @@ def get_canonical_info(book_id: str = None, book_name: str = None) -> Optional[d
                     'section': book.get('section', ''),
                     'id': book['id']
                 }
-            # Handle variations like "1 Samuel" vs "1 Samuel"
+            # Handle variations like "1 Samuel" vs "1 Samuel" (spaces)
             if book_name_lower.replace(' ', '') == book['name'].lower().replace(' ', ''):
                 return {
                     'canonical_position': book['canonical_position'],
@@ -152,6 +196,19 @@ def get_canonical_info(book_id: str = None, book_name: str = None) -> Optional[d
                     'section': book.get('section', ''),
                     'id': book['id']
                 }
+
+        # Try partial matches for compound names (e.g., "CANTICLE OF CANTICLES" -> "Song of Solomon")
+        # Check if any variation key is contained in the book name
+        for variation_key, canonical_name in BOOK_NAME_VARIATIONS.items():
+            if variation_key in book_name_lower or book_name_lower in variation_key:
+                for book in CATHOLIC_BIBLE_CANON:
+                    if book['name'].lower() == canonical_name.lower():
+                        return {
+                            'canonical_position': book['canonical_position'],
+                            'canonical_name': book['name'],
+                            'section': book.get('section', ''),
+                            'id': book['id']
+                        }
 
     return None
 
