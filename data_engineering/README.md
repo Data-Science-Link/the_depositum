@@ -107,11 +107,17 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
    # Edit .env with any custom configuration
    ```
 
-3. **Download source files**:
-   - **Haydock Commentary**: Download EPUB from Isidore E-Book Library or JohnBlood GitLab
-     - Place in `data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub`
-   - **Catechism**: Download PDF from SaintsBooks.net
+3. **Download source files** (⚠️ **REQUIRED - files not included in repo**):
+   - **Haydock Commentary**:
+     - **Direct Download**: [Haydock Catholic Bible Commentary - Haydock, George Leo.epub](https://isidore.co/CalibreLibrary/Haydock,%20George%20Leo/Haydock%20Catholic%20Bible%20Commentary%20(3948)/Haydock%20Catholic%20Bible%20Commentary%20-%20Haydock,%20George%20Leo.epub) (~4.6MB)
+     - Place in `data_sources/bible_commentary_haydock/`
+     - See [bible_commentary_haydock/README.md](data_sources/bible_commentary_haydock/README.md) for detailed instructions
+   - **Catechism**:
+     - **Direct Download**: [The Roman Catechism.pdf](https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf) (~1.6MB)
      - Place `The Roman Catechism.pdf` in `data_sources/catholic_catechism_trent/`
+     - See [catholic_catechism_trent/README.md](data_sources/catholic_catechism_trent/README.md) for detailed instructions
+
+   **Note**: Source files (EPUB, PDF) are excluded from git via `.gitignore` to keep repository size small. Users must download them separately.
 
 ## 🔧 Running Individual Extractors
 
