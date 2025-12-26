@@ -68,6 +68,7 @@ data_engineering/processed_data/*
 # Note: Markdown files in data_final are tracked by git
 data_final/bible_commentary_haydock/*
 !data_final/bible_commentary_haydock/.gitkeep
+!data_final/bible_commentary_haydock/*.md
 data_final/catholic_catechism_trent/*
 !data_final/catholic_catechism_trent/.gitkeep
 !data_final/catholic_catechism_trent/*.md

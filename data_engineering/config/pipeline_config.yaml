@@ -12,7 +12,7 @@ api:
 # File Paths
 paths:
   raw_data:
-    haydock: "data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub"
+    haydock: "data_engineering/data_sources/bible_commentary_haydock/Haydock Catholic Bible Comment - Haydock, George Leo_3948.epub"
     catechism: "data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf"
 
   processed_data:
