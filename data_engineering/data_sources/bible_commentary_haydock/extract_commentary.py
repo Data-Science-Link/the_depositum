@@ -147,6 +147,7 @@ def convert_html_to_markdown(element) -> str:
     - Italic text (<em>) -> *text*
     - Paragraphs -> newlines
     - Preserves Latin phrases and Hebrew transliterations
+    - Preserves spaces between adjacent HTML elements
 
     Args:
         element: BeautifulSoup element
@@ -158,28 +159,101 @@ def convert_html_to_markdown(element) -> str:
         return ""
 
     # Handle string content directly
+    # For text nodes, we preserve leading/trailing spaces as they indicate spacing
+    # between elements in the original HTML
     if isinstance(element, str):
-        return clean_text(element)
+        if not element:
+            return ""
+        # Preserve leading and trailing spaces before cleaning
+        has_leading_space = element[0].isspace() if element else False
+        has_trailing_space = element[-1].isspace() if element else False
+        # Normalize internal whitespace (multiple spaces/tabs/newlines to single space)
+        # but preserve leading/trailing spaces
+        text = re.sub(r'\s+', ' ', element.strip())
+        # Remove null bytes and other control characters
+        text = text.replace('\x00', '')
+        text = text.replace('\u200b', '')
+        text = text.replace('\u200c', '')
+        text = text.replace('\u200d', '')
+        # Restore leading/trailing spaces if they existed in original
+        if has_leading_space:
+            text = ' ' + text
+        if has_trailing_space:
+            text = text + ' '
+        return text
+
+    # Helper function to process children and preserve spaces between adjacent elements
+    def process_children(children) -> str:
+        """Process children and add spaces between adjacent formatted elements.
+
+        When HTML elements are adjacent like <em>text</em><strong>text</strong>,
+        there's no text node between them, so we need to add a space in the markdown.
+        Also handles cases where formatted elements are adjacent to text nodes.
+        """
+        result_parts = []
+        prev_was_element = False
+        prev_ended_formatting = False
+
+        for child in children:
+            child_md = convert_html_to_markdown(child)
+            if not child_md:
+                continue
+
+            # Check if this child is an HTML element (not a text node)
+            is_html_element = not isinstance(child, str) and hasattr(child, 'name')
+
+            # Check if current starts with markdown formatting
+            curr_starts_formatting = child_md.lstrip().startswith('*') or child_md.lstrip().startswith('**')
+
+            # Check if current is a text node that doesn't start with whitespace
+            curr_is_text_no_space = isinstance(child, str) and child_md and not child_md[0].isspace()
+
+            # If previous ended with formatting and current starts with formatting, add space
+            if prev_ended_formatting and curr_starts_formatting:
+                prev_text = result_parts[-1]
+                # Only add space if there isn't already one at the boundary
+                prev_ends_space = prev_text.endswith(' ')
+                curr_starts_space = child_md.startswith(' ')
+                if not prev_ends_space and not curr_starts_space:
+                    result_parts.append(' ')
+
+            # If previous ended with formatting and current is text without leading space,
+            # and the text doesn't start with punctuation, add a space
+            elif prev_ended_formatting and curr_is_text_no_space:
+                first_char = child_md[0]
+                # Don't add space before punctuation (commas, periods, etc.)
+                if first_char.isalnum() or first_char in ['(', '[', '{']:
+                    prev_text = result_parts[-1]
+                    if not prev_text.endswith(' '):
+                        result_parts.append(' ')
+
+            result_parts.append(child_md)
+            prev_was_element = is_html_element
+            # Track if this result ends with markdown formatting
+            prev_ended_formatting = (result_parts[-1].rstrip().endswith('*') or
+                                    result_parts[-1].rstrip().endswith('**'))
+
+        return ''.join(result_parts)
 
     # Handle different tag types
     tag_name = element.name.lower() if hasattr(element, 'name') else None
 
     if tag_name == 'strong':
-        text = ''.join(convert_html_to_markdown(child) for child in element.children)
+        text = process_children(element.children)
         return f"**{clean_text(text)}**"
     elif tag_name == 'em':
-        text = ''.join(convert_html_to_markdown(child) for child in element.children)
+        text = process_children(element.children)
         return f"*{clean_text(text)}*"
     elif tag_name == 'p':
-        text = ''.join(convert_html_to_markdown(child) for child in element.children)
+        text = process_children(element.children)
         return clean_text(text)
     elif tag_name == 'span':
         # Preserve span content (often used for Hebrew transliterations)
-        text = ''.join(convert_html_to_markdown(child) for child in element.children)
+        text = process_children(element.children)
         return clean_text(text)
     else:
         # For other elements, extract text recursively
-        text = ''.join(convert_html_to_markdown(child) for child in element.children)
+        text = process_children(element.children)
         return clean_text(text)
 
 
