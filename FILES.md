@@ -95,7 +95,7 @@ These directories are created by the pipeline and contain generated files:
   - `catholic_catechism_trent/` - Intermediate catechism file
 
 - `data_final/` - Final output directories
-  - `bible_douay_rheims/` - 73 Markdown files (1_Genesis.md through 66_Revelation.md)
+  - `bible_douay_rheims/` - 66 Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - currently missing 7 deuterocanonical books)
   - `bible_commentary_haydock/` - Commentary Markdown files
   - `catholic_catechism_trent/` - Catholic_Catechism_Trent_McHugh_Callan.md
   - `00_Project_Prompt_and_Sources.md` - Project constitution and source documentation for AI tools
@@ -124,7 +124,7 @@ These directories are created by the pipeline and contain generated files:
 ## File Naming Conventions
 
 - **Extraction scripts**: `extract_{source}.py`
-- **Bible files**: `{number}_{BookName}.md` (e.g., `1_Genesis.md`, `40_Matthew.md`, `66_Revelation.md`)
+- **Bible files**: `Bible_Book_{number}_{book_name}.md` (e.g., `Bible_Book_01_Genesis.md`, `Bible_Book_47_Matthew.md`, `Bible_Book_73_Revelation.md`)
 - **Commentary files**: `Bible_Book_{number}_{book_name}_Commentary.md` (e.g., `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_50_John_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 - **Catechism file**: `Catholic_Catechism_Trent_McHugh_Callan.md`
 - **Documentation**: `README.md` in each directory

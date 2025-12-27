@@ -184,7 +184,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 ### Expected Outputs
 
 **Douay-Rheims Bible**:
-- 73 files (1_Genesis.md through 66_Revelation.md)
+- 66 files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - currently missing 7 deuterocanonical books)
 - Each file contains frontmatter, book title, chapters, and verses
 - Format: `**verse_number** verse_text`
 

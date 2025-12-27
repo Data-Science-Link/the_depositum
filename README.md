@@ -129,7 +129,7 @@ This pipeline extracts and processes three foundational Catholic texts that toge
 ### Pillar A: Douay-Rheims Bible (1899 American Edition)
 - **Source**: bible-api.com (ebible.org data)
 - **Format**: API → JSON → Markdown
-- **Output**: 66 individual Markdown files (1_Genesis.md through 66_Revelation.md) - Note: Currently missing 7 deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees) as bible-api.com only provides the Protestant canon. See bible_douay_rheims/README.md for migration plans to IQ Bible API.
+- **Output**: 66 individual Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md) - Note: Currently missing 7 deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees) as bible-api.com only provides the Protestant canon. See bible_douay_rheims/README.md for migration plans to IQ Bible API.
 - **Script**: `data_engineering/data_sources/bible_douay_rheims/extract_bible.py`
 - **No prerequisites**: Downloads directly from API
 - **Historical Significance**: First officially authorized Catholic Bible in English, translated from the Latin Vulgate. The 1899 American Edition represents the Challoner revision, which became the standard English Catholic Bible for centuries.
@@ -245,7 +245,7 @@ the_depositum/
 
 ### Generated Directories (not in version control)
 - `data_engineering/processed_data/` - Intermediate processed files
-- `data_final/bible_douay_rheims/` - Final Bible output (66 .md files, numbered like `1_Genesis.md`, `66_Revelation.md` - currently missing 7 deuterocanonical books)
+- `data_final/bible_douay_rheims/` - Final Bible output (66 .md files, named like `Bible_Book_01_Genesis.md`, `Bible_Book_73_Revelation.md` - currently missing 7 deuterocanonical books)
 - `data_final/bible_commentary_haydock/` - Final commentary output (73 .md files, named like `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 - `data_final/catholic_catechism_trent/` - Final catechism output (.md file)
 - `data_final/00_Project_Prompt_and_Sources.md` - Project constitution and source documentation
