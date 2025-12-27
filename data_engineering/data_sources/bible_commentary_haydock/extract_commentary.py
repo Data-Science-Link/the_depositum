@@ -119,7 +119,7 @@ def extract_verse_number(text: str) -> Optional[int]:
 
 
 def parse_chapter_header(text: str) -> Optional[Tuple[str, int]]:
-    """Parses chapter header like 'GENESIS 19' into book name and chapter number.
+    """Parses chapter header like 'GENESIS 19' or '1 SAMUEL 1' into book name and chapter number.
 
     Args:
         text: Chapter header text
@@ -127,12 +127,18 @@ def parse_chapter_header(text: str) -> Optional[Tuple[str, int]]:
     Returns:
         Tuple of (book_name, chapter_number) or None if parsing fails
     """
-    # Pattern: BOOK_NAME followed by optional whitespace and chapter number
-    match = re.match(r'^([A-Z][A-Z\s]+?)\s+(\d+)$', text.strip())
+    # Pattern: Optional leading number (for numbered books like "1 SAMUEL"),
+    # then BOOK_NAME, then optional whitespace and chapter number
+    # Examples: "GENESIS 19", "1 SAMUEL 1", "2 CORINTHIANS 3", "1 JOHN 1"
+    match = re.match(r'^(\d+\s+)?([A-Z][A-Z\s]+?)\s+(\d+)$', text.strip())
     if match:
-        book_name = match.group(1).strip()
+        leading_num = match.group(1)  # Optional leading number like "1 " or "2 "
+        book_name = match.group(2).strip()
+        # If there was a leading number, prepend it to the book name
+        if leading_num:
+            book_name = (leading_num + book_name).strip()
         try:
-            chapter_num = int(match.group(2))
+            chapter_num = int(match.group(3))
             return (book_name, chapter_num)
         except ValueError:
             return None

@@ -116,6 +116,16 @@ BOOK_NAME_VARIATIONS = {
     # Historical books
     'josue': 'Joshua',
     'tobias': 'Tobit',
+    '1 kings': '1 Samuel',  # Vulgate numbering: 1 Kings = 1 Samuel
+    '2 kings': '2 Samuel',  # Vulgate numbering: 2 Kings = 2 Samuel
+    '3 kings': '1 Kings',  # Vulgate numbering: 3 Kings = 1 Kings
+    '4 kings': '2 Kings',  # Vulgate numbering: 4 Kings = 2 Kings
+    '1 paralipomenon': '1 Chronicles',  # Latin name for Chronicles
+    '2 paralipomenon': '2 Chronicles',  # Latin name for Chronicles
+    '1 esdras': 'Ezra',  # Latin name for Ezra
+    '2 esdras': 'Nehemiah',  # Latin name for Nehemiah
+    '1 machabees': '1 Maccabees',  # Alternative spelling
+    '2 machabees': '2 Maccabees',  # Alternative spelling
     # Wisdom books
     'psalm': 'Psalms',
     'psalms': 'Psalms',
