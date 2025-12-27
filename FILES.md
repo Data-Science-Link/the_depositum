@@ -95,9 +95,9 @@ These directories are created by the pipeline and contain generated files:
   - `catholic_catechism_trent/` - Intermediate catechism file
 
 - `data_final/` - Final output directories
-  - `bible_douay_rheims/` - 73 Markdown files (1_Genesis.md through 66_Revelation.md)
+  - `bible_douay_rheims/` - 66 Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - currently missing 7 deuterocanonical books)
   - `bible_commentary_haydock/` - Commentary Markdown files
-  - `catholic_catechism_trent/` - Catholic_Catechism_Trent_McHugh_Callan.md
+  - `catholic_catechism_trent/` - 000_Catholic_Catechism_Trent_McHugh_Callan.md
   - `00_Project_Prompt_and_Sources.md` - Project constitution and source documentation for AI tools
 
 - `data_engineering/logs/` - Execution logs (bible_extraction.log, catechism_extraction.log)
@@ -117,16 +117,16 @@ These directories are created by the pipeline and contain generated files:
 - **Other**: LICENSE, .gitignore
 
 ### Generated Files (Not Version Controlled)
-- **Bible output**: 73 Markdown files (after running pipeline)
-- **Commentary output**: Variable number of Markdown files (after running pipeline)
+- **Bible output**: 66 Markdown files (currently missing 7 deuterocanonical books: Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees - see bible_douay_rheims/README.md for details)
+- **Commentary output**: 73 Markdown files (one per book of the Catholic canon)
 - **Catechism output**: 1 Markdown file (after running pipeline)
 
 ## File Naming Conventions
 
 - **Extraction scripts**: `extract_{source}.py`
-- **Bible files**: `{number}_{BookName}.md` (e.g., `1_Genesis.md`, `40_Matthew.md`, `66_Revelation.md`)
-- **Commentary files**: `{book_name}_commentary.md` (structure depends on EPUB)
-- **Catechism file**: `Catholic_Catechism_Trent_McHugh_Callan.md`
+- **Bible files**: `Bible_Book_{number}_{book_name}.md` (e.g., `Bible_Book_01_Genesis.md`, `Bible_Book_47_Matthew.md`, `Bible_Book_73_Revelation.md`)
+- **Commentary files**: `Bible_Book_{number}_{book_name}_Commentary.md` (e.g., `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_50_John_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
+- **Catechism file**: `000_Catholic_Catechism_Trent_McHugh_Callan.md` (the "000" prefix ensures it appears second in sorted lists)
 - **Documentation**: `README.md` in each directory
 - **Configuration**: `pipeline_config.yaml`, `pyproject.toml`
 - **Rules**: `{category}.mdc` in `.cursor/rules/`

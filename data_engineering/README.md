@@ -142,7 +142,7 @@ cd data_sources/bible_commentary_haydock
 python extract_commentary.py
 ```
 
-**Prerequisites**: EPUB file must be in `raw/` directory
+**Prerequisites**: EPUB file must be in `bible_commentary_haydock/` directory (the script looks for files matching the pattern `Haydock Catholic Bible Comment*.epub`)
 
 **Output**: Commentary files in `processed_data/bible_commentary_haydock/`
 
@@ -157,7 +157,7 @@ python extract_catechism.py
 
 **Prerequisites**: PDF file (`The Roman Catechism.pdf`) must be in the `catholic_catechism_trent/` directory
 
-**Output**: Single Markdown file (`Catholic_Catechism_Trent_McHugh_Callan.md`) in `data_final/catholic_catechism_trent/`
+**Output**: Single Markdown file (`000_Catholic_Catechism_Trent_McHugh_Callan.md`) in `data_final/catholic_catechism_trent/`
 
 ## 🔄 Running the Full Pipeline
 
@@ -184,7 +184,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 ### Expected Outputs
 
 **Douay-Rheims Bible**:
-- 73 files (1_Genesis.md through 66_Revelation.md)
+- 66 files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - currently missing 7 deuterocanonical books)
 - Each file contains frontmatter, book title, chapters, and verses
 - Format: `**verse_number** verse_text`
 
@@ -194,7 +194,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 - Proper Markdown headers
 
 **Roman Catechism**:
-- Single file: `Catholic_Catechism_Trent_McHugh_Callan.md`
+- Single file: `000_Catholic_Catechism_Trent_McHugh_Callan.md`
 - Headers: `# PART`, `## ARTICLE`, `##` for major sections, `###` for subsections, `####` for italicized section titles
 - Clean text with proper formatting
 - All content preserved from PDF (only formatting artifacts removed)
@@ -240,7 +240,7 @@ BIBLE_API_BASE_URL=https://bible-api.com/data/dra
 API_RATE_LIMIT_DELAY=0.5
 
 # File Paths
-HAYDOCK_EPUB_PATH=data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub
+HAYDOCK_EPUB_PATH=data_engineering/data_sources/bible_commentary_haydock/Haydock Catholic Bible Comment - Haydock, George Leo_3948.epub
 CATECHISM_PDF_PATH=data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf
 
 # Output Directories
@@ -266,7 +266,7 @@ LOG_DIR=logs
 
 - **EPUB Structure**: Inspect EPUB HTML to find correct class names
 - **Missing Content**: Adjust BeautifulSoup selectors based on EPUB version
-- **File Not Found**: Verify EPUB is in correct `raw/` directory
+- **File Not Found**: Verify EPUB is in `bible_commentary_haydock/` directory and filename matches the pattern expected by the script
 
 ### Catechism Extraction Issues
 

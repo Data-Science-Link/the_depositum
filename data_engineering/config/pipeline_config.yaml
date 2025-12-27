@@ -43,9 +43,9 @@ output:
 
   # File naming
   naming:
-    douay_rheims: "{book_number}_{book_name}.md"  # Actual format: 1_Genesis.md, 66_Revelation.md
-    haydock: "{book_name}_commentary.md"
-    catechism: "Catholic_Catechism_Trent_McHugh_Callan.md"
+    douay_rheims: "Bible_Book_{book_number:02d}_{book_name}.md"  # Actual format: Bible_Book_01_Genesis.md, Bible_Book_73_Revelation.md
+    haydock: "Bible_Book_{book_number}_{book_name}_Commentary.md"  # Actual format: Bible_Book_01_Genesis_Commentary.md, Bible_Book_73_Revelation_Commentary.md
+    catechism: "000_Catholic_Catechism_Trent_McHugh_Callan.md"
 
 # Validation
 validation:

@@ -45,7 +45,7 @@ python extract_catechism.py --max-pages 5
 
 ## Output
 
-The script generates a single Markdown file: `Catholic_Catechism_Trent_McHugh_Callan.md` directly in `data_final/catholic_catechism_trent/` (final output location).
+The script generates a single Markdown file: `000_Catholic_Catechism_Trent_McHugh_Callan.md` directly in `data_final/catholic_catechism_trent/` (final output location). The "000" prefix ensures it appears second in sorted lists (after `00_Project_Prompt_and_Sources.md`).
 
 The file includes:
 - YAML frontmatter with metadata

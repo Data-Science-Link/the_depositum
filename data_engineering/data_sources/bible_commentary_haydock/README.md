@@ -30,7 +30,7 @@ The script extracts commentary from an EPUB file and converts it to clean Markdo
    cp ~/Downloads/Haydock\ Catholic\ Bible\ Commentary\ -\ Haydock,\ George\ Leo.epub .
    ```
 
-   **Note**: The script will look for the EPUB file in this directory. The file is automatically ignored by git (see `.gitignore`) to keep the repository size small.
+   **Note**: The script will look for the EPUB file in this directory (not in a `raw/` subdirectory). The script uses the path from `pipeline_config.yaml` if available, or falls back to looking for files matching the pattern `Haydock Catholic Bible Comment*.epub` in this directory. The file is automatically ignored by git (see `.gitignore`) to keep the repository size small.
 
 ## Usage
 
@@ -40,7 +40,7 @@ python extract_commentary.py
 
 ## Output
 
-The script generates Markdown files organized by book/chapter in `data_engineering/processed_data/bible_commentary_haydock/` (intermediate), which are then copied to `data_final/bible_commentary_haydock/` (final output).
+The script generates Markdown files organized by book/chapter directly in `data_final/bible_commentary_haydock/` (final output location). Files are named using the pattern `Bible_Book_{number}_{book_name}_Commentary.md` (e.g., `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_50_John_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`).
 
 ## Customization
 
@@ -60,7 +60,7 @@ The script uses generic HTML parsing that works with most EPUB structures. Howev
 
 ## Requirements
 
-- EPUB file in `raw/` directory
+- EPUB file in `bible_commentary_haydock/` directory (the script looks for files matching the pattern `Haydock Catholic Bible Comment*.epub`)
 - `ebooklib` library
 - `beautifulsoup4` library
 - Python 3.10+
