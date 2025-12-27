@@ -97,7 +97,7 @@ These directories are created by the pipeline and contain generated files:
 - `data_final/` - Final output directories
   - `bible_douay_rheims/` - 66 Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - currently missing 7 deuterocanonical books)
   - `bible_commentary_haydock/` - Commentary Markdown files
-  - `catholic_catechism_trent/` - Catholic_Catechism_Trent_McHugh_Callan.md
+  - `catholic_catechism_trent/` - 000_Catholic_Catechism_Trent_McHugh_Callan.md
   - `00_Project_Prompt_and_Sources.md` - Project constitution and source documentation for AI tools
 
 - `data_engineering/logs/` - Execution logs (bible_extraction.log, catechism_extraction.log)
@@ -126,7 +126,7 @@ These directories are created by the pipeline and contain generated files:
 - **Extraction scripts**: `extract_{source}.py`
 - **Bible files**: `Bible_Book_{number}_{book_name}.md` (e.g., `Bible_Book_01_Genesis.md`, `Bible_Book_47_Matthew.md`, `Bible_Book_73_Revelation.md`)
 - **Commentary files**: `Bible_Book_{number}_{book_name}_Commentary.md` (e.g., `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_50_John_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
-- **Catechism file**: `Catholic_Catechism_Trent_McHugh_Callan.md`
+- **Catechism file**: `000_Catholic_Catechism_Trent_McHugh_Callan.md` (the "000" prefix ensures it appears second in sorted lists)
 - **Documentation**: `README.md` in each directory
 - **Configuration**: `pipeline_config.yaml`, `pyproject.toml`
 - **Rules**: `{category}.mdc` in `.cursor/rules/`
