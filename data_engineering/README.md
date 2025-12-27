@@ -142,7 +142,7 @@ cd data_sources/bible_commentary_haydock
 python extract_commentary.py
 ```
 
-**Prerequisites**: EPUB file must be in `raw/` directory
+**Prerequisites**: EPUB file must be in `bible_commentary_haydock/` directory (the script looks for files matching the pattern `Haydock Catholic Bible Comment*.epub`)
 
 **Output**: Commentary files in `processed_data/bible_commentary_haydock/`
 
@@ -240,7 +240,7 @@ BIBLE_API_BASE_URL=https://bible-api.com/data/dra
 API_RATE_LIMIT_DELAY=0.5
 
 # File Paths
-HAYDOCK_EPUB_PATH=data_engineering/data_sources/bible_commentary_haydock/raw/Haydock Catholic Bible Commentary.epub
+HAYDOCK_EPUB_PATH=data_engineering/data_sources/bible_commentary_haydock/Haydock Catholic Bible Comment - Haydock, George Leo_3948.epub
 CATECHISM_PDF_PATH=data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf
 
 # Output Directories
@@ -266,7 +266,7 @@ LOG_DIR=logs
 
 - **EPUB Structure**: Inspect EPUB HTML to find correct class names
 - **Missing Content**: Adjust BeautifulSoup selectors based on EPUB version
-- **File Not Found**: Verify EPUB is in correct `raw/` directory
+- **File Not Found**: Verify EPUB is in `bible_commentary_haydock/` directory and filename matches the pattern expected by the script
 
 ### Catechism Extraction Issues
 

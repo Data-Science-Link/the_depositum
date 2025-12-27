@@ -29,7 +29,7 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 
 **Prerequisites**:
 - Download EPUB from Isidore E-Book Library or JohnBlood GitLab
-- Place in `bible_commentary_haydock/raw/` directory
+- Place in `bible_commentary_haydock/` directory (the script looks for files matching the pattern `Haydock Catholic Bible Comment*.epub`)
 
 **See**: [bible_commentary_haydock/README.md](bible_commentary_haydock/README.md) for details
 
@@ -94,7 +94,7 @@ All extractors save intermediate files to:
 
 Final output (after pipeline completion with `--copy-output`) is in:
 - `data_final/bible_douay_rheims/` (66 Bible books - see note above about missing deuterocanonical books)
-- `data_final/bible_commentary_haydock/` (Commentary files)
+- `data_final/bible_commentary_haydock/` (73 Commentary files, named like `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 - `data_final/catholic_catechism_trent/` (Catechism file)
 
 ## Data Flow

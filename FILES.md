@@ -117,15 +117,15 @@ These directories are created by the pipeline and contain generated files:
 - **Other**: LICENSE, .gitignore
 
 ### Generated Files (Not Version Controlled)
-- **Bible output**: 73 Markdown files (after running pipeline)
-- **Commentary output**: Variable number of Markdown files (after running pipeline)
+- **Bible output**: 66 Markdown files (currently missing 7 deuterocanonical books: Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees - see bible_douay_rheims/README.md for details)
+- **Commentary output**: 73 Markdown files (one per book of the Catholic canon)
 - **Catechism output**: 1 Markdown file (after running pipeline)
 
 ## File Naming Conventions
 
 - **Extraction scripts**: `extract_{source}.py`
 - **Bible files**: `{number}_{BookName}.md` (e.g., `1_Genesis.md`, `40_Matthew.md`, `66_Revelation.md`)
-- **Commentary files**: `{book_name}_commentary.md` (structure depends on EPUB)
+- **Commentary files**: `Bible_Book_{number}_{book_name}_Commentary.md` (e.g., `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_50_John_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 - **Catechism file**: `Catholic_Catechism_Trent_McHugh_Callan.md`
 - **Documentation**: `README.md` in each directory
 - **Configuration**: `pipeline_config.yaml`, `pyproject.toml`

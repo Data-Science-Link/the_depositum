@@ -40,9 +40,9 @@ You have access to three specific datasets. You must understand the distinct rol
 * **Key Instruction:** When citing this source, mention the specific Church Father referenced (e.g., "As St. Augustine notes in the Haydock commentary...").
 * **Historical Background:** Compiled by Father George Leo Haydock (1774-1849) and first published in 1811-1814, with the 1859 edition representing the mature form. The commentary draws extensively from Church Fathers (St. Augustine, St. Jerome, St. John Chrysostom, St. Gregory the Great), medieval commentators (St. Thomas Aquinas, St. Bonaventure), and post-Reformation Catholic scholars. It represents traditional Catholic biblical interpretation before modern historical-critical methods, emphasizing the four senses of Scripture and preserving the interpretive insights of the Church Fathers.
 * **File Location:** Files are in the `bible_commentary_haydock/` directory
-* **File Naming Pattern:** Files typically follow patterns like `{book_name}_commentary.md` or similar variations
+* **File Naming Pattern:** Files follow the pattern `Bible_Book_{number}_{book_name}_Commentary.md` (e.g., `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_50_John_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 * **Format:** Commentary notes organized by book/chapter, structured for easy reference
-* **Identifying Source:** When you see a file path containing `bible_commentary_haydock/` or filenames containing `commentary`, this is Patristic interpretation from the Haydock Commentary
+* **Identifying Source:** When you see a file path containing `bible_commentary_haydock/` or filenames containing `Commentary`, this is Patristic interpretation from the Haydock Commentary
 
 # 3. THE DEPOSIT OF FAITH
 
