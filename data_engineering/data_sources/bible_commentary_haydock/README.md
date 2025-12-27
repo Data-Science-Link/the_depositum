@@ -12,14 +12,25 @@ The script extracts commentary from an EPUB file and converts it to clean Markdo
 
 ## Prerequisites
 
-1. **Download the EPUB file**:
-   - Source: Isidore E-Book Library or JohnBlood GitLab
-   - File: `Haydock Catholic Bible Commentary.epub`
+**⚠️ IMPORTANT: The source EPUB file is NOT included in this repository to keep the repo size small. You must download it separately before running the extraction script.**
 
-2. **Place in raw directory**:
+1. **Download the EPUB file**:
+   - **Direct Download URL**: [Haydock Catholic Bible Commentary - Haydock, George Leo.epub](https://isidore.co/CalibreLibrary/Haydock,%20George%20Leo/Haydock%20Catholic%20Bible%20Commentary%20(3948)/Haydock%20Catholic%20Bible%20Commentary%20-%20Haydock,%20George%20Leo.epub)
+   - **Source Directory**: [Isidore E-Book Library](https://isidore.co/CalibreLibrary/Haydock,%20George%20Leo/Haydock%20Catholic%20Bible%20Commentary%20(3948)/)
+   - **File Size**: ~4.6MB
+   - **File Name**: `Haydock Catholic Bible Commentary - Haydock, George Leo.epub`
+   - **Note**: The ZIP file from Isidore did not work, but the direct EPUB download works correctly.
+
+2. **Place the EPUB file in this directory**:
    ```bash
-   cp ~/Downloads/Haydock\ Catholic\ Bible\ Commentary.epub raw/
+   # From the project root
+   cp ~/Downloads/Haydock\ Catholic\ Bible\ Commentary\ -\ Haydock,\ George\ Leo.epub data_engineering/data_sources/bible_commentary_haydock/
+
+   # Or if you're already in this directory
+   cp ~/Downloads/Haydock\ Catholic\ Bible\ Commentary\ -\ Haydock,\ George\ Leo.epub .
    ```
+
+   **Note**: The script will look for the EPUB file in this directory. The file is automatically ignored by git (see `.gitignore`) to keep the repository size small.
 
 ## Usage
 

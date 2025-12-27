@@ -13,21 +13,25 @@ The script extracts the catechism from a PDF file and converts it to clean Markd
 
 ## Prerequisites
 
+**⚠️ IMPORTANT: The source PDF file is NOT included in this repository to keep the repo size small. You must download it separately before running the extraction script.**
+
 1. **Download the PDF file**:
+   - **Direct Download URL**: [The Roman Catechism.pdf](https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf)
    - **Source**: [SaintsBooks.net](https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf)
-   - **Direct URL**: https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf
-   - **File**: `The Roman Catechism.pdf`
+   - **File Size**: ~1.6MB
+   - **File Name**: `The Roman Catechism.pdf`
    - **Important**: This is the McHugh & Callan translation (1923), not the older Donovan translation (1829)
 
-2. **Place in this directory**:
+2. **Place the PDF file in this directory**:
    ```bash
+   # From the project root
    cp ~/Downloads/The\ Roman\ Catechism.pdf data_engineering/data_sources/catholic_catechism_trent/
-   ```
 
-   Or if you're already in this directory:
-   ```bash
+   # Or if you're already in this directory
    cp ~/Downloads/The\ Roman\ Catechism.pdf .
    ```
+
+   **Note**: The script will look for the PDF file in this directory. The file is automatically ignored by git (see `.gitignore`) to keep the repository size small.
 
 ## Usage
 
