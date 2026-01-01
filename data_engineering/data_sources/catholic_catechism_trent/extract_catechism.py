@@ -68,7 +68,7 @@ except (FileNotFoundError, yaml.YAMLError, KeyError) as e:
     logger.warning(f"Could not load config, using defaults: {e}")
     INPUT_FILENAME = Path(__file__).parent / "The Roman Catechism.pdf"
     OUTPUT_DIR = Path(__file__).parent.parent.parent.parent / "data_final" / "catholic_catechism_trent"
-    OUTPUT_FILENAME = "000_Catholic_Catechism_Trent_McHugh_Callan.md"
+    OUTPUT_FILENAME = "Catholic_Catechism_Trent.md"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 OUTPUT_FILEPATH = OUTPUT_DIR / OUTPUT_FILENAME

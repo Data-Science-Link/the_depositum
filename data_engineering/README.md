@@ -157,7 +157,7 @@ python extract_catechism.py
 
 **Prerequisites**: PDF file (`The Roman Catechism.pdf`) must be in the `catholic_catechism_trent/` directory
 
-**Output**: Single Markdown file (`000_Catholic_Catechism_Trent_McHugh_Callan.md`) in `data_final/catholic_catechism_trent/`
+**Output**: Single Markdown file (`Catholic_Catechism_Trent.md`) in `data_final/catholic_catechism_trent/`
 
 ## 🔄 Running the Full Pipeline
 
@@ -194,7 +194,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 - Proper Markdown headers
 
 **Roman Catechism**:
-- Single file: `000_Catholic_Catechism_Trent_McHugh_Callan.md`
+- Single file: `Catholic_Catechism_Trent.md`
 - Headers: `# PART`, `## ARTICLE`, `##` for major sections, `###` for subsections, `####` for italicized section titles
 - Clean text with proper formatting
 - All content preserved from PDF (only formatting artifacts removed)
