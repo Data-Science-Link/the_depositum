@@ -152,12 +152,8 @@ def fetch_json_from_github(book_name: str, max_retries: int = MAX_RETRIES) -> Op
             sys.stdout.flush()  # Force immediate output
 
             try:
-                # Try with SSL verification first, fallback to unverified if needed
-                try:
-                    response = requests.get(url, timeout=REQUEST_TIMEOUT, verify=True)
-                except requests.exceptions.SSLError:
-                    logger.warning(f"SSL verification failed, trying without verification...")
-                    response = requests.get(url, timeout=REQUEST_TIMEOUT, verify=False)
+                # Always use SSL verification for security
+                response = requests.get(url, timeout=REQUEST_TIMEOUT, verify=True)
 
                 # Handle rate limiting with exponential backoff
                 if response.status_code == 429:
