@@ -11,61 +11,126 @@ The script downloads the Bible directly from `bible-api.com`, which provides str
 - **Clean Formatting**: Outputs standard Markdown ready for NotebookLM
 - **Structured Data**: Three-level API (books → chapters → verses) provides granular access
 
-## Important Note: Missing Deuterocanonical Books
+## Extraction Approach: Patchwork Solution (MVP)
 
-⚠️ **The `bible-api.com` service only provides 66 books (Protestant canon), not the full 73-book Catholic canon.**
+This directory uses a **patchwork approach** to extract the complete 73-book Catholic canon:
 
-The script will detect and attempt to fetch the 7 missing deuterocanonical books:
-- Tobit (TOB)
-- Judith (JDT)
-- Wisdom (WIS)
-- Sirach/Ecclesiasticus (SIR)
-- Baruch (BAR)
-- 1 Maccabees (1MA)
-- 2 Maccabees (2MA)
+### Two-Source Strategy
 
-However, these books are **not available** from the `bible-api.com` API. The script will:
-- Log a clear warning about missing books
-- Continue processing the 66 available books
-- Return an error exit code (1) to indicate incomplete extraction
+1. **Primary Source (66 books)**: `bible-api.com` API
+   - Provides the Protestant canon (66 books)
+   - Free, reliable, well-structured API
+   - Extracted via `extract_bible.py`
 
-**Current Status:** The extraction is functional for the 66 books available from `bible-api.com`. The missing 7 deuterocanonical books are not included in the current output.
+2. **Secondary Source (7 books)**: GitHub Repository
+   - Provides the 7 missing Deuterocanonical books
+   - Free, publicly available JSON files
+   - Extracted via `extract_deuterocanonical.py`
 
-## Future Plans: Transition to IQ Bible API
+### Why This Approach?
 
-**Planned Migration:** Once the NotebookLM project proves worthwhile with the current data sources (Catechism and Commentary), we plan to transition to the [IQ Bible API](https://iqbible.com/api-docs/) to obtain the complete 73-book Catholic canon.
+**Advantages:**
+- ✅ **No API subscription costs** - Both sources are free
+- ✅ **Complete Catholic canon** - All 73 books available
+- ✅ **MVP-ready** - Good enough for initial deployment
+- ✅ **Consistent format** - Both scripts output identical Markdown structure
 
-### Why IQ Bible API?
+**Limitations:**
+- ⚠️ **Not a unified source** - Requires running two separate scripts
+- ⚠️ **GitHub dependency** - Relies on external repository availability
+- ⚠️ **Less robust** - Not as production-ready as a single API source
+- ⚠️ **Manual coordination** - Both scripts must be run to get complete canon
 
-The IQ Bible API provides:
-- ✅ **Complete Catholic Canon**: All 73 books including the 7 deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees)
-- ✅ **Douay-Rheims Translation**: Full support for the Douay-Rheims 1899 American Edition
-- ✅ **Well-Documented**: Comprehensive API documentation with clear endpoints
-- ✅ **Extra-Biblical Endpoints**: Dedicated endpoints for deuterocanonical books (`GetBooksExtraBiblical`, `GetChapterExtraBiblical`)
+**Future Improvement:**
+This is an MVP solution. For production use, consider migrating to a unified API source (e.g., IQ Bible API) that provides all 73 books from a single, reliable endpoint. The current patchwork approach works well for development and initial deployment but may be improved with a better source in the future.
 
-### Implementation Timeline
+## Deuterocanonical Books Extraction
 
-The migration to IQ Bible API will be implemented **after**:
-1. ✅ Completion of Catechism extraction
-2. ✅ Completion of Commentary extraction
-3. ✅ Validation that the NotebookLM project provides value with the current 66-book dataset
+A separate script (`extract_deuterocanonical.py`) extracts the 7 missing Deuterocanonical books from the GitHub repository [xxruyle/Bible-DouayRheims](https://github.com/xxruyle/Bible-DouayRheims/tree/main/Douay-Rheims).
 
-This approach allows us to:
-- Focus on completing other data sources first
-- Validate the project's usefulness before investing in API subscriptions
-- Ensure a smooth transition when ready
+### Usage
 
-### IQ Bible API Details
+```bash
+python extract_deuterocanonical.py
+```
 
-- **Documentation**: [https://iqbible.com/api-docs/](https://iqbible.com/api-docs/)
-- **Access**: Available via RapidAPI (requires API key subscription)
-- **Pricing**: Freemium model with free tier available for testing
-- **Endpoints**: Uses `GetChapterExtraBiblical` endpoint for deuterocanonical books
+This script:
+- Downloads JSON files for the 7 Deuterocanonical books from GitHub
+- Converts them to the same Markdown format as the main extraction script
+- Saves them to the same output directory (`data_final/bible_douay_rheims/`)
+- Handles different JSON structures automatically
+- Includes retry logic, rate limiting, and SSL fallback
+- Sorts verses numerically to ensure correct order
+
+### Books Extracted
+
+- Tobit (TOB) - Position 17 (14 chapters)
+- Judith (JDT) - Position 18 (11 chapters)
+- Wisdom (WIS) - Position 27 (19 chapters)
+- Sirach (SIR) - Position 28 (48 chapters)
+- Baruch (BAR) - Position 32 (6 chapters)
+- 1 Maccabees (1MA) - Position 20 (16 chapters)
+- 2 Maccabees (2MA) - Position 21 (14 chapters)
+
+### Complete Extraction Workflow
+
+To extract all 73 books of the Catholic canon:
+
+1. **Extract 66 books from bible-api.com:**
+   ```bash
+   python extract_bible.py
+   ```
+
+2. **Extract 7 Deuterocanonical books from GitHub:**
+   ```bash
+   python extract_deuterocanonical.py
+   ```
+
+Both scripts output to the same directory (`data_final/bible_douay_rheims/`) and use the same Markdown format, ensuring consistency. The Deuterocanonical books are automatically placed in their correct canonical positions (17, 18, 20, 21, 27, 28, 32).
+
+## Current Status: Complete 73-Book Catholic Canon ✅
+
+**Status:** The complete 73-book Catholic canon is now available through the patchwork approach:
+- ✅ 66 books from bible-api.com
+- ✅ 7 Deuterocanonical books from GitHub
+- ✅ All books in correct canonical positions
+- ✅ Consistent Markdown formatting across all books
+
+## Future Improvements
+
+### Potential Migration to Unified API
+
+While the current patchwork approach works well for MVP, future improvements could include:
+
+**Option 1: IQ Bible API**
+- Provides all 73 books from a single API
+- Well-documented with dedicated endpoints for Deuterocanonical books
+- Requires API subscription (freemium model available)
+- Documentation: [https://iqbible.com/api-docs/](https://iqbible.com/api-docs/)
+
+**Option 2: Other Unified Sources**
+- Various Bible APIs and services may provide complete Catholic canon
+- Would eliminate need for two separate extraction scripts
+- Would provide more robust, production-ready solution
+
+**Current Approach:**
+The patchwork solution (API + GitHub) is sufficient for MVP and development. Migration to a unified source can be considered when:
+- Project proves valuable and warrants investment
+- Production deployment requires more robust solution
+- Single-source reliability becomes a priority
 
 ## Usage
 
+### Main Bible Extraction (66 books)
+
 ```bash
 python extract_bible.py
+```
+
+### Deuterocanonical Books Extraction (7 books)
+
+```bash
+python extract_deuterocanonical.py
 ```
 
 ## Output

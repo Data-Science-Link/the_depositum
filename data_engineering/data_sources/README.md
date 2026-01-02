@@ -5,22 +5,31 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 ## Available Sources
 
 ### 1. Douay-Rheims Bible (`bible_douay_rheims/`)
-**Status**: ⚠️ Partial - 66 books (missing 7 deuterocanonical books)
+**Status**: ✅ Complete - 73 books (full Catholic canon via patchwork approach)
 
-**Overview**: Downloads the Douay-Rheims Bible (1899 American Edition) from bible-api.com.
+**Overview**: Extracts the complete Douay-Rheims Bible (1899 American Edition) using a patchwork approach:
+- **66 books** from `bible-api.com` (Protestant canon)
+- **7 Deuterocanonical books** from GitHub repository (Catholic canon completion)
 
-**Current Limitation**:
-- The `bible-api.com` service only provides 66 books (Protestant canon)
-- Missing 7 deuterocanonical books: Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees
+**Extraction Scripts**:
+- `extract_bible.py` - Extracts 66 books from bible-api.com API
+- `extract_deuterocanonical.py` - Extracts 7 Deuterocanonical books from GitHub JSON files
 
 **Key Features**:
-- Automatic detection of available books (currently 66)
-- Clean Markdown output
+- Complete 73-book Catholic canon
+- Clean Markdown output with consistent formatting
 - Rate-limited API calls
 - No manual downloads required
-- Future plan: Transition to IQ Bible API for complete 73-book canon (see README for details)
+- Automatic verse sorting (numerical order)
+- Handles multiple JSON structures from GitHub
 
-**See**: [bible_douay_rheims/README.md](bible_douay_rheims/README.md) for details and future migration plans
+**Approach Notes**:
+- This is an **MVP patchwork solution** - functional and complete, but requires two separate scripts
+- Works well for development and initial deployment
+- Future improvements may include migration to a unified API source for better robustness
+- Both scripts output to the same directory with identical formatting
+
+**See**: [bible_douay_rheims/README.md](bible_douay_rheims/README.md) for detailed documentation
 
 ### 2. Haydock Commentary (`bible_commentary_haydock/`)
 **Status**: ⚠️ Requires EPUB download
@@ -56,9 +65,13 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 Each source has its own extraction script:
 
 ```bash
-# Bible (no prerequisites)
+# Bible - Extract 66 books from API
 cd bible_douay_rheims
 python extract_bible.py
+
+# Bible - Extract 7 Deuterocanonical books from GitHub
+cd bible_douay_rheims
+python extract_deuterocanonical.py
 
 # Commentary (requires EPUB)
 cd bible_commentary_haydock
@@ -93,7 +106,7 @@ All extractors save intermediate files to:
 - `data_engineering/processed_data/catholic_catechism_trent/` (Catechism)
 
 Final output (after pipeline completion with `--copy-output`) is in:
-- `data_final/bible_douay_rheims/` (66 Bible books - see note above about missing deuterocanonical books)
+- `data_final/bible_douay_rheims/` (73 Bible books - complete Catholic canon)
 - `data_final/bible_commentary_haydock/` (73 Commentary files, named like `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 - `data_final/catholic_catechism_trent/` (Catechism file)
 
@@ -103,7 +116,13 @@ Final output (after pipeline completion with `--copy-output`) is in:
 Raw Sources → Extraction Scripts → Processed Data → Final Output
      ↓              ↓                    ↓              ↓
   API/EPUB/PDF   Python Scripts    Validation      Markdown Files
+  GitHub/JSON
 ```
+
+**Bible Extraction Flow:**
+- 66 books: `bible-api.com` → `extract_bible.py` → Markdown
+- 7 Deuterocanonical books: `GitHub JSON` → `extract_deuterocanonical.py` → Markdown
+- Both output to same directory with consistent formatting
 
 ## Troubleshooting
 

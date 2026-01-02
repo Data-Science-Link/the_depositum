@@ -16,8 +16,9 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 ## 📁 Contents
 
 ### Data Sources
-- `data_sources/bible_douay_rheims/` - Douay-Rheims Bible extraction from bible-api.com
-  - `extract_bible.py` - Main extraction script
+- `data_sources/bible_douay_rheims/` - Douay-Rheims Bible extraction (patchwork approach)
+  - `extract_bible.py` - Main extraction script (66 books from bible-api.com)
+  - `extract_deuterocanonical.py` - Deuterocanonical books extraction (7 books from GitHub)
   - `README.md` - Extraction guide and documentation
 - `data_sources/bible_commentary_haydock/` - Haydock Commentary extraction from EPUB
   - `extract_commentary.py` - Main extraction script
@@ -123,16 +124,29 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ### Douay-Rheims Bible
 
+**Note:** The Bible extraction uses a **patchwork approach** (MVP solution):
+- **66 books** extracted from `bible-api.com` (Protestant canon)
+- **7 Deuterocanonical books** extracted from GitHub repository (Catholic canon completion)
+- This approach avoids API subscription costs and works for MVP, but may be improved with a unified source in the future
+
+**Extract 66 books from API:**
 ```bash
 cd data_sources/bible_douay_rheims
 python extract_bible.py
 ```
 
-**Output**: 73 Markdown files in `processed_data/bible_douay_rheims/`
+**Extract 7 Deuterocanonical books from GitHub:**
+```bash
+cd data_sources/bible_douay_rheims
+python extract_deuterocanonical.py
+```
+
+**Output**: 73 Markdown files in `data_final/bible_douay_rheims/` (complete Catholic canon)
 
 **Configuration**:
 - API endpoint: `https://bible-api.com/data/dra`
 - Translation ID: `dra` (Douay-Rheims 1899 American Edition)
+- GitHub source: `https://github.com/xxruyle/Bible-DouayRheims/tree/main/Douay-Rheims`
 - Rate limiting: 0.5 second delay between requests
 
 ### Haydock Commentary
@@ -184,7 +198,9 @@ python data_engineering/scripts/run_pipeline.py --validate
 ### Expected Outputs
 
 **Douay-Rheims Bible**:
-- 66 files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - currently missing 7 deuterocanonical books)
+- 73 files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - complete Catholic canon)
+- 66 books extracted from bible-api.com
+- 7 Deuterocanonical books extracted from GitHub (Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees)
 - Each file contains frontmatter, book title, chapters, and verses
 - Format: `**verse_number** verse_text`
 
@@ -261,6 +277,8 @@ LOG_DIR=logs
 - **API Timeouts**: Increase delay between requests in config
 - **Missing Books**: Verify API endpoint is accessible
 - **Encoding Errors**: Ensure UTF-8 encoding throughout
+- **Deuterocanonical Books**: If GitHub extraction fails, check network connectivity and verify the repository is accessible
+- **Verse Ordering**: If verses appear out of order, re-run the extraction script (recently fixed)
 
 ### Commentary Extraction Issues
 
@@ -287,7 +305,13 @@ LOG_DIR=logs
 Raw Sources → Extraction Scripts → Validation → Processed Data
      ↓              ↓                  ↓              ↓
   API/EPUB/PDF   Python Scripts    Quality Checks  Markdown Files
+  GitHub/JSON
 ```
+
+**Bible Extraction Flow:**
+- 66 books: `bible-api.com` → `extract_bible.py` → Markdown
+- 7 Deuterocanonical books: `GitHub JSON` → `extract_deuterocanonical.py` → Markdown
+- Both output to same directory with consistent formatting
 
 ## 🔒 Security & Privacy
 
