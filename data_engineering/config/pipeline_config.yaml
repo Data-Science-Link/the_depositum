@@ -50,6 +50,7 @@ output:
 # Validation
 validation:
   douay_rheims:
+    # Complete 73-book Catholic canon (66 from API + 7 Deuterocanonical from GitHub)
     expected_books: 73
     required_books:
       - "Genesis"

@@ -30,7 +30,7 @@ This pipeline produces Markdown files specifically optimized for AI tools and No
 
 ## 🎯 What This Project Provides
 
-- **📖 Douay-Rheims Bible**: 66 books extracted from bible-api.com and converted to Markdown (currently missing 7 deuterocanonical books - see bible_douay_rheims/README.md for details)
+- **📖 Douay-Rheims Bible**: Complete 73-book Catholic canon extracted via patchwork approach (66 books from bible-api.com, 7 Deuterocanonical books from GitHub) - see bible_douay_rheims/README.md for details
 - **📚 Haydock Bible Commentary**: Full commentary extracted from EPUB format
 - **✝️ Roman Catechism (McHugh & Callan)**: Catechism of the Council of Trent converted from PDF to Markdown
 - **🔄 Reproducible Pipeline**: Complete automation for data extraction and transformation
@@ -112,7 +112,7 @@ python data_engineering/scripts/run_pipeline.py --copy-output
 **Step 5: Verify Output**:
 
 ```bash
-# Bible (should have 66 files - currently missing 7 deuterocanonical books)
+# Bible (should have 73 files - complete Catholic canon)
 ls data_final/bible_douay_rheims/ | wc -l
 
 # Commentary
@@ -127,11 +127,16 @@ ls data_final/catholic_catechism_trent/
 This pipeline extracts and processes three foundational Catholic texts that together represent the complete Deposit of Faith - Scripture, Tradition, and Magisterium. Each source has been carefully selected for its historical significance, doctrinal authority, and public domain status. Together, they ensure that AI responses are grounded in authoritative Catholic teaching.
 
 ### Pillar A: Douay-Rheims Bible (1899 American Edition)
-- **Source**: bible-api.com (ebible.org data)
-- **Format**: API → JSON → Markdown
-- **Output**: 66 individual Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md) - Note: Currently missing 7 deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees) as bible-api.com only provides the Protestant canon. See bible_douay_rheims/README.md for migration plans to IQ Bible API.
-- **Script**: `data_engineering/data_sources/bible_douay_rheims/extract_bible.py`
-- **No prerequisites**: Downloads directly from API
+- **Source**: Patchwork approach (MVP solution)
+  - 66 books from bible-api.com (ebible.org data)
+  - 7 Deuterocanonical books from GitHub repository (xxruyle/Bible-DouayRheims)
+- **Format**: API/JSON → Markdown
+- **Output**: 73 individual Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md) - Complete Catholic canon
+- **Scripts**:
+  - `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` (66 books)
+  - `data_engineering/data_sources/bible_douay_rheims/extract_deuterocanonical.py` (7 books)
+- **No prerequisites**: Downloads directly from API and GitHub
+- **Note**: This is an MVP patchwork approach. While functional and complete, it requires two separate scripts. Future improvements may include migration to a unified API source for better robustness. See bible_douay_rheims/README.md for details.
 - **Historical Significance**: First officially authorized Catholic Bible in English, translated from the Latin Vulgate. The 1899 American Edition represents the Challoner revision, which became the standard English Catholic Bible for centuries.
 - **Role in Deposit of Faith**: Represents **Sacred Scripture** - the written Word of God
 
@@ -187,7 +192,7 @@ the_depositum/
 │
 ├── data_final/                  # Final output (ready for NotebookLM)
 │   ├── 00_Project_Prompt_and_Sources.md # Project constitution and source documentation
-│   ├── bible_douay_rheims/     # 66 Bible books (.md files) - currently missing 7 deuterocanonical books
+│   ├── bible_douay_rheims/     # 73 Bible books (.md files) - Complete Catholic canon
 │   ├── bible_commentary_haydock/ # 73 Commentary files (.md files)
 │   └── catholic_catechism_trent/ # Catechism file (.md file)
 │
@@ -201,6 +206,7 @@ the_depositum/
     │   ├── README.md           # Data sources overview
     │   ├── bible_douay_rheims/
     │   │   ├── extract_bible.py
+    │   │   ├── extract_deuterocanonical.py
     │   │   └── README.md
     │   ├── bible_commentary_haydock/
     │   │   ├── extract_commentary.py
@@ -231,7 +237,8 @@ the_depositum/
 - `data_engineering/config/pipeline_config.yaml` - Pipeline configuration
 - `data_engineering/scripts/run_pipeline.py` - Main pipeline orchestrator
 - `data_engineering/data_sources/README.md` - Data sources overview
-- `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` - Bible extraction script
+- `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` - Bible extraction script (66 books from API)
+- `data_engineering/data_sources/bible_douay_rheims/extract_deuterocanonical.py` - Deuterocanonical books extraction script (7 books from GitHub)
 - `data_engineering/data_sources/bible_douay_rheims/README.md` - Bible extraction guide
 - `data_engineering/data_sources/bible_commentary_haydock/extract_commentary.py` - Commentary extraction script
 - `data_engineering/data_sources/bible_commentary_haydock/README.md` - Commentary extraction guide
@@ -245,7 +252,7 @@ the_depositum/
 
 ### Generated Directories (not in version control)
 - `data_engineering/processed_data/` - Intermediate processed files
-- `data_final/bible_douay_rheims/` - Final Bible output (66 .md files, named like `Bible_Book_01_Genesis.md`, `Bible_Book_73_Revelation.md` - currently missing 7 deuterocanonical books)
+- `data_final/bible_douay_rheims/` - Final Bible output (73 .md files, named like `Bible_Book_01_Genesis.md`, `Bible_Book_73_Revelation.md` - complete Catholic canon)
 - `data_final/bible_commentary_haydock/` - Final commentary output (73 .md files, named like `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 - `data_final/catholic_catechism_trent/` - Final catechism output (.md file)
 - `data_final/00_Project_Prompt_and_Sources.md` - Project constitution and source documentation

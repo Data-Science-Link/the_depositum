@@ -3,7 +3,7 @@
 Main Pipeline Runner
 
 Orchestrates the complete data extraction pipeline for all three sources:
-1. Douay-Rheims Bible
+1. Douay-Rheims Bible (66 books from API + 7 Deuterocanonical books from GitHub)
 2. Haydock Commentary
 3. Roman Catechism
 
@@ -23,6 +23,7 @@ project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root))
 
 from data_engineering.data_sources.bible_douay_rheims.extract_bible import main as extract_bible
+from data_engineering.data_sources.bible_douay_rheims.extract_deuterocanonical import main as extract_deuterocanonical
 from data_engineering.data_sources.bible_commentary_haydock.extract_commentary import main as extract_commentary
 from data_engineering.data_sources.catholic_catechism_trent.extract_catechism import main as extract_catechism
 
@@ -71,16 +72,45 @@ def copy_to_final_output(source_dir: Path, dest_dir: Path, description: str):
 
 
 def run_bible_extraction():
-    """Run Douay-Rheims Bible extraction."""
+    """Run Douay-Rheims Bible extraction (patchwork approach).
+
+    Extracts 66 books from bible-api.com and 7 Deuterocanonical books from GitHub
+    to complete the 73-book Catholic canon.
+    """
     logger.info("=" * 60)
-    logger.info("Extracting Douay-Rheims Bible...")
+    logger.info("Extracting Douay-Rheims Bible (Complete 73-book Catholic canon)...")
     logger.info("=" * 60)
+
+    success = True
+
+    # Step 1: Extract 66 books from API
+    logger.info("Step 1/2: Extracting 66 books from bible-api.com...")
     try:
-        extract_bible()
-        return True
+        result = extract_bible()
+        if result != 0:
+            logger.warning("Bible API extraction completed with warnings")
+            success = False
     except Exception as e:
-        logger.error(f"Bible extraction failed: {e}")
-        return False
+        logger.error(f"Bible API extraction failed: {e}", exc_info=True)
+        success = False
+
+    # Step 2: Extract 7 Deuterocanonical books from GitHub
+    logger.info("Step 2/2: Extracting 7 Deuterocanonical books from GitHub...")
+    try:
+        result = extract_deuterocanonical()
+        if result != 0:
+            logger.warning("Deuterocanonical extraction completed with warnings")
+            success = False
+    except Exception as e:
+        logger.error(f"Deuterocanonical extraction failed: {e}", exc_info=True)
+        success = False
+
+    if success:
+        logger.info("✅ Complete: All 73 books extracted successfully")
+    else:
+        logger.warning("⚠️  Bible extraction completed with some issues")
+
+    return success
 
 
 def run_commentary_extraction():

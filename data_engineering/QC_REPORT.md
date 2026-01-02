@@ -22,9 +22,11 @@ This report documents a thorough quality control (QC) review of the final markdo
 ## 1. Douay-Rheims Bible Verification
 
 ### 1.1 File Structure
-- **Total Books:** 73 books (Catholic canon)
+- **Total Books:** 73 books (Complete Catholic canon)
+- **Extraction Method:** Patchwork approach (66 books from bible-api.com, 7 Deuterocanonical books from GitHub)
 - **File Naming:** Consistent pattern `Bible_Book_{number}_{book_name}.md`
 - **Format:** Proper YAML frontmatter, table of contents, chapter headers, verse formatting
+- **Deuterocanonical Books:** Tobit (17), Judith (18), 1 Maccabees (20), 2 Maccabees (21), Wisdom (27), Sirach (28), Baruch (32)
 
 ### 1.2 Spot-Checked Passages
 
