@@ -1,0 +1,538 @@
+#!/usr/bin/env python3
+"""
+Podcast Audio Post-Processing Script
+
+Appends a standardized intro to podcast audio and normalizes loudness to -16 LUFS.
+
+Usage:
+    uv run python data_engineering/audio_post_processing/process_podcast.py \\
+        --intro /path/to/intro.wav \\
+        --podcast /path/to/podcast.m4a \\
+        --output /path/to/output.m4a
+
+Requirements:
+    - ffmpeg must be installed on the system (for m4a support)
+    - Intro file should be a .wav file mastered to -16 LUFS
+    - Podcast file should be a .m4a file
+"""
+
+import sys
+import argparse
+import logging
+import subprocess
+import shutil
+from pathlib import Path
+from typing import Optional
+
+try:
+    from pydub import AudioSegment
+    import pyloudnorm as pyln
+    import numpy as np
+except ImportError as e:
+    print(f"Error importing required audio libraries: {e}")
+    print("Please install dependencies with: uv sync")
+    sys.exit(1)
+
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+# Target loudness in LUFS
+TARGET_LUFS = -16.0
+
+# Default export quality settings (high quality to preserve audio)
+# For MP3: 256kbps VBR (Variable Bitrate) - better quality than CBR
+# For M4A: 256kbps AAC - high quality standard
+DEFAULT_MP3_BITRATE = '256k'
+DEFAULT_M4A_BITRATE = '256k'
+
+
+def check_ffmpeg_available() -> bool:
+    """Check if ffmpeg is installed and available in the system PATH.
+
+    pydub uses ffmpeg via subprocess calls to handle m4a and other formats.
+    This function verifies ffmpeg is accessible before attempting to use it.
+
+    Returns:
+        True if ffmpeg is available, False otherwise
+    """
+    # First check if ffmpeg command exists in PATH
+    ffmpeg_path = shutil.which('ffmpeg')
+    if ffmpeg_path is None:
+        return False
+
+    # Try to run ffmpeg to verify it works
+    try:
+        result = subprocess.run(
+            ['ffmpeg', '-version'],
+            capture_output=True,
+            timeout=5,
+            check=False
+        )
+        return result.returncode == 0
+    except (subprocess.TimeoutExpired, FileNotFoundError, OSError):
+        return False
+
+
+def validate_file_path(file_path: Path, file_type: str) -> None:
+    """Validate that a file path exists and is readable.
+
+    Args:
+        file_path: Path to the file to validate
+        file_type: Description of the file type for error messages
+
+    Raises:
+        FileNotFoundError: If the file does not exist
+        PermissionError: If the file cannot be read
+    """
+    if not file_path.exists():
+        raise FileNotFoundError(f"{file_type} file not found: {file_path}")
+
+    if not file_path.is_file():
+        raise ValueError(f"{file_type} path is not a file: {file_path}")
+
+    # Check if file is readable
+    try:
+        with open(file_path, 'rb') as f:
+            f.read(1)
+    except PermissionError:
+        raise PermissionError(f"Cannot read {file_type} file: {file_path}")
+
+
+def get_audio_bitrate(file_path: Path) -> Optional[float]:
+    """Get audio file bitrate in kbps if available (for informational logging).
+
+    Uses ffprobe to detect the original bitrate. Returns None if unavailable.
+    This is optional and won't fail if ffprobe is missing.
+
+    Args:
+        file_path: Path to the audio file
+
+    Returns:
+        Bitrate in kbps, or None if unavailable
+    """
+    try:
+        result = subprocess.run(
+            ['ffprobe', '-v', 'error', '-show_entries', 'stream=bit_rate',
+             '-of', 'default=noprint_wrappers=1:nokey=1', str(file_path)],
+            capture_output=True,
+            text=True,
+            timeout=5
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            bitrate_bps = int(result.stdout.strip())
+            return bitrate_bps / 1000  # Convert to kbps
+    except (subprocess.TimeoutExpired, ValueError, FileNotFoundError):
+        pass
+    return None
+
+
+def load_audio_file(file_path: Path, file_type: str) -> AudioSegment:
+    """Load an audio file using pydub.
+
+    Note: pydub uses ffmpeg (via subprocess) to handle m4a and other non-WAV formats.
+    For .wav files, pydub uses the built-in wave module. For .m4a and other formats,
+    pydub calls ffmpeg in the background to decode the audio.
+
+    When loading compressed formats, the audio is decoded to uncompressed PCM.
+    Re-encoding will cause some quality loss, so we use high bitrates to minimize this.
+
+    Args:
+        file_path: Path to the audio file
+        file_type: Description of the file type for logging
+
+    Returns:
+        AudioSegment object containing the loaded audio
+
+    Raises:
+        Exception: If the file cannot be loaded (may indicate ffmpeg is missing)
+    """
+    logger.info(f"Loading {file_type}: {file_path}")
+
+    try:
+        # Log original bitrate if available (optional, won't fail if unavailable)
+        bitrate = get_audio_bitrate(file_path)
+        if bitrate:
+            logger.info(f"Original {file_type} bitrate: {bitrate:.0f} kbps")
+
+        # Determine format from extension
+        file_ext = file_path.suffix.lower()
+        if file_ext == '.wav':
+            # WAV files use Python's built-in wave module (no ffmpeg needed)
+            audio = AudioSegment.from_wav(str(file_path))
+        elif file_ext == '.m4a':
+            # m4a files require ffmpeg (pydub calls it via subprocess)
+            audio = AudioSegment.from_file(str(file_path), format='m4a')
+        else:
+            # Try auto-detection
+            audio = AudioSegment.from_file(str(file_path))
+
+        logger.info(f"Loaded {file_type}: {len(audio)}ms duration, {audio.frame_rate}Hz, {audio.channels} channels")
+        return audio
+
+    except Exception as e:
+        logger.error(f"Failed to load {file_type} file {file_path}: {e}")
+        raise
+
+
+def measure_loudness(audio: AudioSegment) -> float:
+    """Measure the loudness of an audio segment in LUFS.
+
+    Args:
+        audio: AudioSegment to measure
+
+    Returns:
+        Loudness value in LUFS
+
+    Raises:
+        Exception: If loudness measurement fails
+    """
+    try:
+        # Convert AudioSegment to numpy array for pyloudnorm
+        # pyloudnorm expects float32 array with values between -1.0 and 1.0
+        samples = np.array(audio.get_array_of_samples(), dtype=np.float32)
+
+        # Normalize to -1.0 to 1.0 range
+        if audio.sample_width == 1:
+            samples = samples / 128.0 - 1.0
+        elif audio.sample_width == 2:
+            samples = samples / 32768.0
+        elif audio.sample_width == 4:
+            samples = samples / 2147483648.0
+        else:
+            samples = samples / (2 ** (audio.sample_width * 8 - 1))
+
+        # Reshape for multi-channel audio
+        if audio.channels > 1:
+            samples = samples.reshape((-1, audio.channels))
+        else:
+            samples = samples.reshape((-1, 1))
+
+        # Create meter and measure loudness
+        meter = pyln.Meter(audio.frame_rate)
+        loudness = meter.integrated_loudness(samples)
+
+        logger.info(f"Measured loudness: {loudness:.2f} LUFS")
+        return loudness
+
+    except Exception as e:
+        logger.error(f"Failed to measure loudness: {e}")
+        raise
+
+
+def normalize_loudness(audio: AudioSegment, target_lufs: float) -> AudioSegment:
+    """Normalize audio to a target LUFS level.
+
+    Args:
+        audio: AudioSegment to normalize
+        target_lufs: Target loudness in LUFS
+
+    Returns:
+        Normalized AudioSegment
+
+    Raises:
+        Exception: If normalization fails
+    """
+    try:
+        # Measure current loudness
+        current_lufs = measure_loudness(audio)
+
+        # Calculate gain adjustment needed
+        gain_db = target_lufs - current_lufs
+        logger.info(f"Adjusting gain by {gain_db:.2f} dB to reach {target_lufs} LUFS")
+
+        # Apply gain adjustment
+        normalized = audio.apply_gain(gain_db)
+
+        # Verify the result (only log if significantly off target)
+        verified_lufs = measure_loudness(normalized)
+        if abs(verified_lufs - target_lufs) > 0.1:
+            logger.warning(f"Normalized loudness: {verified_lufs:.2f} LUFS (target: {target_lufs} LUFS) - slight deviation")
+        else:
+            logger.info(f"Normalized loudness: {verified_lufs:.2f} LUFS (target: {target_lufs} LUFS)")
+
+        return normalized
+
+    except Exception as e:
+        logger.error(f"Failed to normalize loudness: {e}")
+        raise
+
+
+def concatenate_audio(intro: AudioSegment, podcast: AudioSegment) -> AudioSegment:
+    """Concatenate intro and podcast audio segments.
+
+    Args:
+        intro: Intro audio segment
+        podcast: Podcast audio segment
+
+    Returns:
+        Concatenated AudioSegment with intro first, then podcast
+    """
+    logger.info("Concatenating intro and podcast audio...")
+
+    # Ensure both segments have the same sample rate and channels
+    if intro.frame_rate != podcast.frame_rate:
+        logger.info(f"Resampling podcast from {podcast.frame_rate}Hz to {intro.frame_rate}Hz")
+        podcast = podcast.set_frame_rate(intro.frame_rate)
+
+    if intro.channels != podcast.channels:
+        logger.info(f"Converting podcast from {podcast.channels} to {intro.channels} channels")
+        if intro.channels == 1:
+            podcast = podcast.set_channels(1)
+        elif intro.channels == 2:
+            podcast = podcast.set_channels(2)
+
+    # Concatenate: intro first, then podcast
+    combined = intro + podcast
+
+    total_duration = len(combined) / 1000.0  # Convert to seconds
+    logger.info(f"Combined audio duration: {total_duration:.1f} seconds")
+
+    return combined
+
+
+def export_audio(audio: AudioSegment, output_path: Path) -> Path:
+    """Export audio segment to a file.
+
+    Note: pydub uses ffmpeg (via subprocess) to export MP3/m4a and other non-WAV formats.
+    For .wav files, pydub uses the built-in wave module. For .mp3/.m4a and other formats,
+    pydub calls ffmpeg in the background to encode the audio.
+
+    Args:
+        audio: AudioSegment to export
+        output_path: Path where the file should be saved
+
+    Returns:
+        Path to the exported file (may differ if extension was changed)
+
+    Raises:
+        Exception: If export fails (may indicate ffmpeg is missing)
+    """
+    logger.info(f"Exporting audio to: {output_path}")
+
+    # Create output directory if it doesn't exist
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # Determine format from extension and adjust if needed
+    file_ext = output_path.suffix.lower()
+    actual_output_path = output_path
+
+    try:
+        if file_ext == '.wav':
+            # WAV files use Python's built-in wave module (no ffmpeg needed)
+            audio.export(str(output_path), format='wav')
+        elif file_ext == '.mp3':
+            # MP3 files require ffmpeg (pydub calls it via subprocess)
+            # Using VBR quality level 2 (~256kbps average) for high quality
+            logger.info(f"Exporting as MP3 (VBR quality 2, ~{DEFAULT_MP3_BITRATE} average)")
+            audio.export(
+                str(output_path),
+                format='mp3',
+                parameters=['-q:a', '2']  # VBR quality level 2 (~256kbps average)
+            )
+        elif file_ext == '.m4a':
+            # m4a files require ffmpeg (pydub calls it via subprocess)
+            # Use 'ipod' format which is ffmpeg's name for m4a container
+            # Using 256kbps AAC for high quality
+            logger.info(f"Exporting as M4A (AAC) at {DEFAULT_M4A_BITRATE} bitrate")
+            audio.export(
+                str(output_path),
+                format='ipod',
+                codec='aac',
+                bitrate=DEFAULT_M4A_BITRATE
+            )
+        else:
+            # Default to MP3 (most compatible for podcasting)
+            logger.warning(f"Unknown extension {file_ext}, defaulting to MP3 format")
+            actual_output_path = output_path.with_suffix('.mp3')
+            audio.export(
+                str(actual_output_path),
+                format='mp3',
+                parameters=['-q:a', '2']  # VBR quality level 2 (~256kbps average)
+            )
+
+        # Verify file was created
+        if not actual_output_path.exists():
+            raise FileNotFoundError(f"Output file was not created: {actual_output_path}")
+
+        file_size_mb = actual_output_path.stat().st_size / (1024 * 1024)
+        logger.info(f"Successfully exported audio: {file_size_mb:.2f} MB")
+
+        return actual_output_path
+
+    except Exception as e:
+        logger.error(f"Failed to export audio to {output_path}: {e}")
+        raise
+
+
+def process_podcast(
+    intro_path: Path,
+    podcast_path: Path,
+    output_path: Path,
+    target_lufs: float = TARGET_LUFS
+) -> int:
+    """Main processing function: append intro and normalize loudness.
+
+    Args:
+        intro_path: Path to the intro .wav file
+        podcast_path: Path to the podcast .m4a file
+        output_path: Path where the processed file should be saved
+        target_lufs: Target loudness in LUFS (default: -16.0)
+
+    Returns:
+        0 on success, 1 on failure
+    """
+    try:
+        # Validate input files
+        logger.info("Validating input files...")
+        validate_file_path(intro_path, "Intro")
+        validate_file_path(podcast_path, "Podcast")
+
+        # Load audio files
+        intro_audio = load_audio_file(intro_path, "intro")
+        podcast_audio = load_audio_file(podcast_path, "podcast")
+
+        # Measure intro loudness and normalize if needed (within 0.5 LUFS tolerance)
+        intro_lufs = measure_loudness(intro_audio)
+        logger.info(f"Intro loudness: {intro_lufs:.2f} LUFS (target: {target_lufs} LUFS)")
+
+        # Check if intro needs normalization (outside 0.5 LUFS tolerance)
+        lufs_tolerance = 0.5
+        if abs(intro_lufs - target_lufs) > lufs_tolerance:
+            logger.info(f"Intro loudness is outside tolerance (±{lufs_tolerance} LUFS), normalizing...")
+            intro_audio = normalize_loudness(intro_audio, target_lufs)
+        else:
+            logger.info(f"Intro loudness is within tolerance (±{lufs_tolerance} LUFS), no adjustment needed")
+
+        # Normalize podcast to target loudness
+        logger.info("Normalizing podcast loudness...")
+        normalized_podcast = normalize_loudness(podcast_audio, target_lufs)
+
+        # Concatenate intro and normalized podcast
+        combined_audio = concatenate_audio(intro_audio, normalized_podcast)
+
+        # Export the final file
+        final_output_path = export_audio(combined_audio, output_path)
+
+        logger.info("=" * 60)
+        logger.info("Podcast processing completed successfully!")
+        logger.info(f"Output file: {final_output_path}")
+        logger.info("=" * 60)
+
+        return 0
+
+    except FileNotFoundError as e:
+        logger.error(f"File not found: {e}")
+        return 1
+    except PermissionError as e:
+        logger.error(f"Permission error: {e}")
+        return 1
+    except Exception as e:
+        logger.error(f"Processing failed: {e}", exc_info=True)
+        return 1
+
+
+def main() -> int:
+    """Main entry point for the script.
+
+    Returns:
+        Exit code: 0 for success, non-zero for failure
+    """
+    parser = argparse.ArgumentParser(
+        description="Process podcast audio: append intro and normalize loudness to -16 LUFS",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+    uv run python data_engineering/audio_post_processing/process_podcast.py \\
+        --intro /Users/me/audio/intro.wav \\
+        --podcast /Users/me/audio/episode_01.m4a \\
+        --output /Users/me/audio/episode_01_processed.mp3
+
+    # Without --output, defaults to "Mastered episode_01.mp3" in same directory
+    uv run python data_engineering/audio_post_processing/process_podcast.py \\
+        --intro /Users/me/audio/intro.wav \\
+        --podcast /Users/me/audio/episode_01.m4a
+
+Note: ffmpeg must be installed on your system for MP3/m4a support.
+        """
+    )
+
+    parser.add_argument(
+        '--intro',
+        type=str,
+        required=True,
+        help='Path to the intro .wav file (should be mastered to -16 LUFS)'
+    )
+
+    parser.add_argument(
+        '--podcast',
+        type=str,
+        required=True,
+        help='Path to the raw podcast .m4a file'
+    )
+
+    parser.add_argument(
+        '--output',
+        type=str,
+        required=False,
+        default=None,
+        help='Path where the processed output file should be saved (default: "Mastered " prefix added to podcast filename)'
+    )
+
+    parser.add_argument(
+        '--target-lufs',
+        type=float,
+        default=TARGET_LUFS,
+        help=f'Target loudness in LUFS (default: {TARGET_LUFS})'
+    )
+
+    args = parser.parse_args()
+
+    # Check for ffmpeg before processing (required for m4a support)
+    logger.info("Checking for ffmpeg...")
+    if not check_ffmpeg_available():
+        logger.error("=" * 60)
+        logger.error("ffmpeg is not installed or not available in PATH")
+        logger.error("=" * 60)
+        logger.error("ffmpeg is required for m4a file support.")
+        logger.error("Installation instructions:")
+        logger.error("  macOS:    brew install ffmpeg")
+        logger.error("  Linux:    sudo apt-get install ffmpeg  (or sudo yum install ffmpeg)")
+        logger.error("  Windows: Download from https://ffmpeg.org/download.html")
+        logger.error("")
+        logger.error("After installing, ensure ffmpeg is in your system PATH.")
+        return 1
+
+    logger.info("ffmpeg is available")
+
+    # Convert string paths to Path objects
+    intro_path = Path(args.intro).expanduser().resolve()
+    podcast_path = Path(args.podcast).expanduser().resolve()
+
+    # Generate default output path if not provided
+    if args.output is None:
+        # Add "Mastered " prefix to podcast filename, change extension to .mp3
+        podcast_stem = podcast_path.stem
+        output_path = podcast_path.parent / f"Mastered {podcast_stem}.mp3"
+        logger.info(f"No output path provided, using default: {output_path}")
+    else:
+        output_path = Path(args.output).expanduser().resolve()
+        # If no extension provided, default to .mp3
+        if not output_path.suffix:
+            output_path = output_path.with_suffix('.mp3')
+            logger.info(f"No extension in output path, defaulting to MP3: {output_path}")
+
+    # Process the podcast
+    return process_podcast(
+        intro_path=intro_path,
+        podcast_path=podcast_path,
+        output_path=output_path,
+        target_lufs=args.target_lufs
+    )
+
+
+if __name__ == '__main__':
+    sys.exit(main())
