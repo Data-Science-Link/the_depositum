@@ -33,12 +33,30 @@ except ImportError as e:
     print("Please install dependencies with: uv sync")
     sys.exit(1)
 
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
+# Set up logging to both console and file
+LOG_DIR = Path(__file__).parent.parent / "logs"
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+LOG_FILE = LOG_DIR / "podcast_processing.log"
+
+# Configure logger
 logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+logger.handlers.clear()  # Prevent duplicate handlers if script is imported
+
+# Create formatter (shared between handlers)
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+
+# File handler
+file_handler = logging.FileHandler(LOG_FILE, encoding='utf-8')
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+
+# Console handler
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+logger.addHandler(console_handler)
 
 # Target loudness in LUFS
 TARGET_LUFS = -16.0
@@ -77,29 +95,110 @@ def check_ffmpeg_available() -> bool:
         return False
 
 
-def validate_file_path(file_path: Path, file_type: str) -> None:
+def find_matching_file(file_path: Path, file_type: str) -> Optional[Path]:
+    """Try to find a matching file if exact path doesn't exist.
+
+    Handles cases where apostrophe characters might differ (straight vs curly).
+
+    Args:
+        file_path: Path to the file to find
+        file_type: Description of the file type for error messages
+
+    Returns:
+        Path to matching file if found, None otherwise
+    """
+    if file_path.exists():
+        return file_path
+
+    # If file doesn't exist, try to find a similar file in the same directory
+    parent_dir = file_path.parent
+    expected_stem = file_path.stem
+    expected_ext = file_path.suffix
+
+    if not parent_dir.exists():
+        logger.warning(f"Parent directory does not exist: {parent_dir}")
+        return None
+
+    # Normalize apostrophes for comparison (treat all apostrophe variants as equivalent)
+    def normalize_apostrophes(text: str) -> str:
+        """Normalize all apostrophe variants to a standard character for comparison."""
+        # Replace all common apostrophe variants (U+0027, U+2019, U+2018, U+02BC) with a standard character
+        # Using straight apostrophe as the standard
+        normalized = text
+        # Replace curly apostrophe (U+2019) with straight
+        normalized = normalized.replace('\u2019', "'")
+        # Replace left single quotation mark (U+2018) with straight
+        normalized = normalized.replace('\u2018', "'")
+        # Replace modifier letter apostrophe (U+02BC) with straight
+        normalized = normalized.replace('\u02BC', "'")
+        return normalized
+
+    normalized_expected = normalize_apostrophes(expected_stem)
+    logger.info(f"File not found, searching for matching {file_type} file. Expected stem (normalized): '{normalized_expected}'")
+
+    # List all files with the same extension in the directory
+    try:
+        candidates_found = []  # Only collect if no match found (for error reporting)
+        for candidate in parent_dir.iterdir():
+            if not candidate.is_file():
+                continue
+            if candidate.suffix.lower() != expected_ext.lower():
+                continue
+
+            candidate_stem = candidate.stem
+            normalized_candidate = normalize_apostrophes(candidate_stem)
+
+            if normalized_expected == normalized_candidate:
+                logger.info(f"Found matching {file_type} file with different apostrophe: {candidate.name}")
+                return candidate
+
+            # Only collect candidates if we haven't found a match yet (for error reporting)
+            candidates_found.append((candidate.name, normalized_candidate))
+
+        # Log available files only if no match was found (for debugging)
+        if candidates_found:
+            logger.debug(f"Available {file_type} files in directory (normalized stems):")
+            for name, norm_stem in candidates_found:
+                logger.debug(f"  - '{name}' -> normalized: '{norm_stem}'")
+    except (PermissionError, OSError) as e:
+        logger.debug(f"Error searching for matching file: {e}")
+        return None
+
+    return None
+
+
+def validate_file_path(file_path: Path, file_type: str) -> Path:
     """Validate that a file path exists and is readable.
+
+    If the exact file doesn't exist, tries to find a matching file (handles apostrophe differences).
 
     Args:
         file_path: Path to the file to validate
         file_type: Description of the file type for error messages
 
+    Returns:
+        Path to the validated file (may differ from input if a match was found)
+
     Raises:
-        FileNotFoundError: If the file does not exist
+        FileNotFoundError: If the file does not exist and no match can be found
         PermissionError: If the file cannot be read
     """
-    if not file_path.exists():
+    # Try to find the file (handles apostrophe mismatches)
+    actual_path = find_matching_file(file_path, file_type)
+    if actual_path is None:
         raise FileNotFoundError(f"{file_type} file not found: {file_path}")
 
-    if not file_path.is_file():
-        raise ValueError(f"{file_type} path is not a file: {file_path}")
+    if not actual_path.is_file():
+        raise ValueError(f"{file_type} path is not a file: {actual_path}")
 
     # Check if file is readable
     try:
-        with open(file_path, 'rb') as f:
+        with open(actual_path, 'rb') as f:
             f.read(1)
     except PermissionError:
-        raise PermissionError(f"Cannot read {file_type} file: {file_path}")
+        raise PermissionError(f"Cannot read {file_type} file: {actual_path}")
+
+    return actual_path
 
 
 def get_audio_bitrate(file_path: Path) -> Optional[float]:
@@ -386,10 +485,10 @@ def process_podcast(
         0 on success, 1 on failure
     """
     try:
-        # Validate input files
+        # Validate input files (may return different paths if matches found)
         logger.info("Validating input files...")
-        validate_file_path(intro_path, "Intro")
-        validate_file_path(podcast_path, "Podcast")
+        intro_path = validate_file_path(intro_path, "Intro")
+        podcast_path = validate_file_path(podcast_path, "Podcast")
 
         # Load audio files
         intro_audio = load_audio_file(intro_path, "intro")
