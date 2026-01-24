@@ -64,18 +64,14 @@ data_engineering/data_sources/*/raw/*
 data_engineering/processed_data/*
 !data_engineering/processed_data/.gitkeep
 
-# Final data output (keep structure, ignore content)
-# Note: Markdown files in data_final are tracked by git
-data_final/bible_commentary_haydock/*
-!data_final/bible_commentary_haydock/.gitkeep
-!data_final/bible_commentary_haydock/*.md
-data_final/catholic_catechism_trent/*
-!data_final/catholic_catechism_trent/.gitkeep
-!data_final/catholic_catechism_trent/*.md
+# Final data output - all files are now tracked
 
 # Logs
 logs/
 *.log
+
+# Audio post-processing scripts (contains user-specific paths)
+data_engineering/audio_post_processing/run_episodes.sh
 
 # IDE
 .vscode/
