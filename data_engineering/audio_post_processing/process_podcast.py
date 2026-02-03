@@ -6,13 +6,13 @@ Appends a standardized intro to podcast audio and normalizes loudness to -16 LUF
 
 Usage:
     uv run python data_engineering/audio_post_processing/process_podcast.py \\
-        --intro /path/to/intro.wav \\
+        --intro /path/to/intro.mp3 \\
         --podcast /path/to/podcast.m4a \\
         --output /path/to/output.m4a
 
 Requirements:
     - ffmpeg must be installed on the system (for m4a support)
-    - Intro file should be a .wav file mastered to -16 LUFS
+    - Intro file should be .mp3 or .wav, mastered to -16 LUFS
     - Podcast file should be a .m4a file
 """
 
@@ -262,6 +262,9 @@ def load_audio_file(file_path: Path, file_type: str) -> AudioSegment:
         if file_ext == '.wav':
             # WAV files use Python's built-in wave module (no ffmpeg needed)
             audio = AudioSegment.from_wav(str(file_path))
+        elif file_ext == '.mp3':
+            # MP3 files require ffmpeg (pydub calls it via subprocess)
+            audio = AudioSegment.from_mp3(str(file_path))
         elif file_ext == '.m4a':
             # m4a files require ffmpeg (pydub calls it via subprocess)
             audio = AudioSegment.from_file(str(file_path), format='m4a')
@@ -476,7 +479,7 @@ def process_podcast(
     """Main processing function: append intro and normalize loudness.
 
     Args:
-        intro_path: Path to the intro .wav file
+        intro_path: Path to the intro file (.mp3 or .wav)
         podcast_path: Path to the podcast .m4a file
         output_path: Path where the processed file should be saved
         target_lufs: Target loudness in LUFS (default: -16.0)
@@ -546,13 +549,13 @@ def main() -> int:
         epilog="""
 Examples:
     uv run python data_engineering/audio_post_processing/process_podcast.py \\
-        --intro /Users/me/audio/intro.wav \\
+        --intro /Users/me/audio/intro.mp3 \\
         --podcast /Users/me/audio/episode_01.m4a \\
         --output /Users/me/audio/episode_01_processed.mp3
 
     # Without --output, defaults to "Mastered episode_01.mp3" in same directory
     uv run python data_engineering/audio_post_processing/process_podcast.py \\
-        --intro /Users/me/audio/intro.wav \\
+        --intro /Users/me/audio/intro.mp3 \\
         --podcast /Users/me/audio/episode_01.m4a
 
 Note: ffmpeg must be installed on your system for MP3/m4a support.
@@ -563,7 +566,7 @@ Note: ffmpeg must be installed on your system for MP3/m4a support.
         '--intro',
         type=str,
         required=True,
-        help='Path to the intro .wav file (should be mastered to -16 LUFS)'
+        help='Path to the intro file (.mp3 or .wav, mastered to -16 LUFS)'
     )
 
     parser.add_argument(
