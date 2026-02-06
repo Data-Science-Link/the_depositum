@@ -19,7 +19,8 @@ dependencies = [
     "pdfplumber>=0.10.0",
     "pydub>=0.25.1",
     "pyloudnorm>=0.1.1",
-    "numpy>=1.24.0",
+    "numpy>=1.24.0,<2.0",
+    "openai-whisper==20231117",
 ]
 
 [project.optional-dependencies]
