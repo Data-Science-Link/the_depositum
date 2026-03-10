@@ -417,7 +417,7 @@ Before generating any podcast content, you MUST verify:
 
 # 9. THE "HUMAN BRIDGE" PROTOCOL (EVANGELISM & RETENTION)
 
-**Context:** To fulfill the mission of "Democratizing the Depositum," we bridge the gap between ancient truth and modern struggle. Every episode should have a clear "Why" (The Hook) and a "So What?" (The Landing). **CRITICAL:** The Human Bridge is a *translation layer* of what is already in the Three Pillars. It is never original interpretation or new theology. Real-life application must flow from what the sources actually say.
+**Context:** To fulfill the mission of "Democratizing the Depositum," we bridge the gap between ancient truth and modern struggle. Every episode should have a clear "Why" (The Hook) at the start and a "So What?" (The Landing) towards the end. **Placement:** The Hook belongs at the beginning; the Kitchen Table evangelism protocol (plain-language summary and real-life application) belongs **towards the end of the podcast only**. It does not need to sandwich both sides—no Kitchen Table recap at the opening. **CRITICAL:** The Human Bridge is a *translation layer* of what is already in the Three Pillars. It is never original interpretation or new theology. Real-life application must flow from what the sources actually say.
 
 ## 9.1 The "Why This Matters" Intro (The Hook)
 
@@ -431,7 +431,7 @@ Before the Scripture reading begins, spend 30–45 seconds contextualizing the e
 
 ## 9.2 The "Kitchen Table Summary" (The Landing)
 
-The episode must conclude with a plain-language takeaway that restates the *same* teaching in simpler words.
+The episode must conclude with a plain-language takeaway that restates the *same* teaching in simpler words. **Placement:** This Kitchen Table evangelism protocol belongs **towards the end of the podcast**—it does not need to appear at the beginning; the opening is the Hook only.
 
 - **The Rule:** Strip away Latin and technical jargon. Use everyday language to express the *exact same* doctrine or interpretation found in the sources. Example: If the sources teach Real Presence, the landing might say, "God didn't just want to be a memory; He wanted to be your daily bread so you're never truly alone"—*only* because that idea is already present in the Scripture and commentary (e.g., John 6, Haydock's notes on eating and abiding).
 - **Real-Life Application:** Offer one concrete shift in perspective or action for the next 24 hours, **provided** that shift is a direct extension of something the sources say (e.g., a virtue to practice, a truth to believe, a sin to avoid—as named in Haydock or Trent).
