@@ -2,8 +2,9 @@
 """
 Podcast Audio Post-Processing Script
 
-Appends a standardized intro to podcast audio. Intro is used as-is (already mastered).
-Only the podcast portion is normalized to -16 LUFS.
+Appends a standardized intro to podcast audio and optionally an outro at the end.
+Intro and outro are used as-is for format; podcast and outro loudness are normalized to -16 LUFS.
+Intro is assumed already mastered; outro volume is adjusted to match target LUFS.
 
 Usage:
     uv run python data_engineering/audio_post_processing/process_podcast.py \\
@@ -11,9 +12,17 @@ Usage:
         --podcast /path/to/podcast.m4a \\
         --output /path/to/output.m4a
 
+    With outro:
+    uv run python data_engineering/audio_post_processing/process_podcast.py \\
+        --intro /path/to/intro.mp3 \\
+        --outro /path/to/outro.mp3 \\
+        --podcast /path/to/podcast.m4a \\
+        --output /path/to/output.m4a
+
 Requirements:
     - ffmpeg must be installed on the system (for m4a support)
     - Intro file should be .mp3 or .wav, mastered to -16 LUFS
+    - Outro file (optional) is normalized to target LUFS before appending
     - Podcast file should be a .m4a file
 """
 
@@ -462,36 +471,44 @@ def normalize_loudness(audio: AudioSegment, target_lufs: float) -> AudioSegment:
         raise
 
 
-def concatenate_audio(intro: AudioSegment, podcast: AudioSegment) -> AudioSegment:
-    """Concatenate intro and podcast audio segments.
+def _match_and_append(anchor: AudioSegment, segment: AudioSegment, segment_name: str) -> AudioSegment:
+    """Match segment to anchor's frame rate and channels, then return anchor + segment."""
+    if anchor.frame_rate != segment.frame_rate:
+        logger.info(f"Resampling {segment_name} from {segment.frame_rate}Hz to {anchor.frame_rate}Hz")
+        segment = segment.set_frame_rate(anchor.frame_rate)
+    if anchor.channels != segment.channels:
+        logger.info(f"Converting {segment_name} from {segment.channels} to {anchor.channels} channels")
+        if anchor.channels == 1:
+            segment = segment.set_channels(1)
+        elif anchor.channels == 2:
+            segment = segment.set_channels(2)
+    return anchor + segment
+
+
+def concatenate_audio(
+    intro: AudioSegment,
+    podcast: AudioSegment,
+    outro: Optional[AudioSegment] = None,
+) -> AudioSegment:
+    """Concatenate intro, podcast, and optionally outro audio segments.
 
     Args:
         intro: Intro audio segment
-        podcast: Podcast audio segment
+        podcast: Podcast audio segment (already normalized)
+        outro: Optional outro audio segment (caller should normalize before passing)
 
     Returns:
-        Concatenated AudioSegment with intro first, then podcast
+        Concatenated AudioSegment: intro + podcast [+ outro if provided]
     """
     logger.info("Concatenating intro and podcast audio...")
+    combined = _match_and_append(intro, podcast, "podcast")
 
-    # Ensure both segments have the same sample rate and channels
-    if intro.frame_rate != podcast.frame_rate:
-        logger.info(f"Resampling podcast from {podcast.frame_rate}Hz to {intro.frame_rate}Hz")
-        podcast = podcast.set_frame_rate(intro.frame_rate)
-
-    if intro.channels != podcast.channels:
-        logger.info(f"Converting podcast from {podcast.channels} to {intro.channels} channels")
-        if intro.channels == 1:
-            podcast = podcast.set_channels(1)
-        elif intro.channels == 2:
-            podcast = podcast.set_channels(2)
-
-    # Concatenate: intro first, then podcast
-    combined = intro + podcast
+    if outro is not None:
+        logger.info("Appending outro...")
+        combined = _match_and_append(combined, outro, "outro")
 
     total_duration = len(combined) / 1000.0  # Convert to seconds
     logger.info(f"Combined audio duration: {total_duration:.1f} seconds")
-
     return combined
 
 
@@ -621,15 +638,17 @@ def process_podcast(
     intro_path: Path,
     podcast_path: Path,
     output_path: Path,
-    target_lufs: float = TARGET_LUFS
+    target_lufs: float = TARGET_LUFS,
+    outro_path: Optional[Path] = None,
 ) -> int:
-    """Main processing function: append intro and normalize loudness.
+    """Main processing function: append intro (and optionally outro), normalize loudness.
 
     Args:
         intro_path: Path to the intro file (.mp3 or .wav)
         podcast_path: Path to the podcast .m4a file
         output_path: Path where the processed file should be saved
         target_lufs: Target loudness in LUFS (default: -16.0)
+        outro_path: Optional path to the outro file (.mp3 or .wav); volume is normalized to target_lufs
 
     Returns:
         0 on success, 1 on failure
@@ -639,6 +658,8 @@ def process_podcast(
         logger.info("Validating input files...")
         intro_path = validate_file_path(intro_path, "Intro")
         podcast_path = validate_file_path(podcast_path, "Podcast")
+        if outro_path is not None:
+            outro_path = validate_file_path(outro_path, "Outro")
 
         # Load audio files
         intro_audio = load_audio_file(intro_path, "intro")
@@ -652,13 +673,19 @@ def process_podcast(
             + (f" (source metadata: {source_dur_sec:.2f}s)" if source_dur_sec is not None else "")
         )
 
-        # Intro is used as-is (already mastered); only normalize podcast loudness
-        # Normalize podcast to target loudness
+        # Intro is used as-is (already mastered); normalize podcast loudness
         logger.info("Normalizing podcast loudness...")
         normalized_podcast = normalize_loudness(podcast_audio, target_lufs)
 
-        # Concatenate intro and normalized podcast
-        combined_audio = concatenate_audio(intro_audio, normalized_podcast)
+        # Optional: load and normalize outro
+        outro_audio: Optional[AudioSegment] = None
+        if outro_path is not None:
+            outro_audio = load_audio_file(outro_path, "outro")
+            logger.info("Normalizing outro loudness...")
+            outro_audio = normalize_loudness(outro_audio, target_lufs)
+
+        # Concatenate intro + podcast [+ outro]
+        combined_audio = concatenate_audio(intro_audio, normalized_podcast, outro_audio)
         combined_ms = len(combined_audio)
         logger.info(f"Duration check: combined segment {combined_ms}ms ({combined_ms/1000:.2f}s)")
 
@@ -696,7 +723,7 @@ def main() -> int:
         Exit code: 0 for success, non-zero for failure
     """
     parser = argparse.ArgumentParser(
-        description="Process podcast audio: append intro and normalize loudness to -16 LUFS",
+        description="Process podcast audio: append intro (and optional outro), normalize loudness to -16 LUFS",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
@@ -705,7 +732,13 @@ Examples:
         --podcast /Users/me/audio/episode_01.m4a \\
         --output /Users/me/audio/episode_01_processed.mp3
 
-    # Without --output, defaults to "Mastered episode_01.mp3" in same directory
+    # With outro (volume normalized and appended at end)
+    uv run python data_engineering/audio_post_processing/process_podcast.py \\
+        --intro /Users/me/audio/intro.mp3 \\
+        --outro /Users/me/audio/outro.mp3 \\
+        --podcast /Users/me/audio/episode_01.m4a
+
+    # Without --output, defaults to "Mastered <podcast_name>.mp3" in same directory
     uv run python data_engineering/audio_post_processing/process_podcast.py \\
         --intro /Users/me/audio/intro.mp3 \\
         --podcast /Users/me/audio/episode_01.m4a
@@ -719,6 +752,14 @@ Note: ffmpeg must be installed on your system for MP3/m4a support.
         type=str,
         required=True,
         help='Path to the intro file (.mp3 or .wav, mastered to -16 LUFS)'
+    )
+
+    parser.add_argument(
+        '--outro',
+        type=str,
+        required=False,
+        default=None,
+        help='Path to the outro file (.mp3 or .wav); volume is normalized to target LUFS and appended at the end'
     )
 
     parser.add_argument(
@@ -765,6 +806,9 @@ Note: ffmpeg must be installed on your system for MP3/m4a support.
     # Convert string paths to Path objects
     intro_path = Path(args.intro).expanduser().resolve()
     podcast_path = Path(args.podcast).expanduser().resolve()
+    outro_path: Optional[Path] = None
+    if args.outro:
+        outro_path = Path(args.outro).expanduser().resolve()
 
     # Generate default output path if not provided
     if args.output is None:
@@ -784,7 +828,8 @@ Note: ffmpeg must be installed on your system for MP3/m4a support.
         intro_path=intro_path,
         podcast_path=podcast_path,
         output_path=output_path,
-        target_lufs=args.target_lufs
+        target_lufs=args.target_lufs,
+        outro_path=outro_path,
     )
 
 
