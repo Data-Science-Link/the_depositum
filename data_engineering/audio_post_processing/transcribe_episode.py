@@ -12,7 +12,7 @@ Usage:
 Requirements:
     - ffmpeg must be installed on the system (for m4a support)
     - openai-whisper package must be installed
-    
+
 Note: If you encounter dependency issues with uv (especially on macOS x86_64), try installing
 openai-whisper directly with pip:
     pip install openai-whisper
@@ -86,7 +86,7 @@ def generate_markdown(audio_path: Path, result: dict, timestamp: datetime) -> st
     if full_text:
         lines.append("## Transcript")
         lines.append("")
-        
+
         # Add simple timestamps at natural breaks (every ~10 seconds)
         segments = result.get("segments", [])
         if segments:
@@ -109,7 +109,7 @@ def generate_markdown(audio_path: Path, result: dict, timestamp: datetime) -> st
                         last_timestamp = start_time
                     else:
                         current_text.append(text)
-            
+
             # Add remaining text
             if current_text:
                 lines.append(" ".join(current_text))

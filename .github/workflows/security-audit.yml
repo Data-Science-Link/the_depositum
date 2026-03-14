@@ -55,7 +55,8 @@ jobs:
     - name: Install project dependencies
       run: |
         source .venv/bin/activate
-        uv pip install -e ".[dev]"
+        uv pip install setuptools standard-pkg-resources hatchling editables
+        uv pip install -e ".[dev]" --no-build-isolation
 
     - name: Install system dependencies
       run: |
