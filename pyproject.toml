@@ -32,7 +32,7 @@ dev = [
 ]
 
 [tool.uv.extra-build-dependencies]
-openai-whisper = ["setuptools"]
+openai-whisper = ["standard-pkg-resources"]
 
 [build-system]
 requires = ["hatchling"]
