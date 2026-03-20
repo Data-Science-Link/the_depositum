@@ -3,8 +3,8 @@
 Podcast Audio Post-Processing Script
 
 Appends a standardized intro to podcast audio and optionally an outro at the end.
-Intro and outro are used as-is for format; podcast and outro loudness are normalized to -16 LUFS.
-Intro is assumed already mastered; outro volume is adjusted to match target LUFS.
+Intro and podcast are used as-is for format; podcast loudness is normalized to -16 LUFS.
+Intro is assumed already mastered. Outro is normalized to a lower LUFS (see OUTRO_VOLUME_REDUCTION_PERCENT) so it sits slightly under the main content.
 
 Usage:
     uv run python data_engineering/audio_post_processing/process_podcast.py \\
@@ -22,7 +22,7 @@ Usage:
 Requirements:
     - ffmpeg must be installed on the system (for m4a support)
     - Intro file should be .mp3 or .wav, mastered to -16 LUFS
-    - Outro file (optional) is normalized to target LUFS before appending
+    - Outro file (optional) is normalized to a lower LUFS (configurable reduction) before appending
     - Podcast file should be a .m4a file
 """
 
@@ -72,6 +72,10 @@ logger.addHandler(console_handler)
 
 # Target loudness in LUFS
 TARGET_LUFS = -16.0
+
+# Outro is normalized quieter than main content (approx 10% perceived loudness per 1 dB).
+# This percent drives the LUFS offset: e.g. 20 -> 2 dB quieter -> outro at target_lufs - 2.
+OUTRO_VOLUME_REDUCTION_PERCENT = 20
 
 # Default export quality settings (high quality to preserve audio)
 # For MP3: 256kbps VBR (Variable Bitrate) - better quality than CBR
@@ -648,7 +652,7 @@ def process_podcast(
         podcast_path: Path to the podcast .m4a file
         output_path: Path where the processed file should be saved
         target_lufs: Target loudness in LUFS (default: -16.0)
-        outro_path: Optional path to the outro file (.mp3 or .wav); volume is normalized to target_lufs
+        outro_path: Optional path to the outro file (.mp3 or .wav); volume is normalized to a lower LUFS (target_lufs minus OUTRO_VOLUME_REDUCTION_PERCENT-based offset)
 
     Returns:
         0 on success, 1 on failure
@@ -677,12 +681,14 @@ def process_podcast(
         logger.info("Normalizing podcast loudness...")
         normalized_podcast = normalize_loudness(podcast_audio, target_lufs)
 
-        # Optional: load and normalize outro
+        # Optional: load and normalize outro (to a lower LUFS so it sits under the main content)
         outro_audio: Optional[AudioSegment] = None
         if outro_path is not None:
+            outro_lufs_offset_db = OUTRO_VOLUME_REDUCTION_PERCENT / 10.0  # ~1 dB per 10% perceived loudness
+            outro_target_lufs = target_lufs - outro_lufs_offset_db
             outro_audio = load_audio_file(outro_path, "outro")
             logger.info("Normalizing outro loudness...")
-            outro_audio = normalize_loudness(outro_audio, target_lufs)
+            outro_audio = normalize_loudness(outro_audio, outro_target_lufs)
 
         # Concatenate intro + podcast [+ outro]
         combined_audio = concatenate_audio(intro_audio, normalized_podcast, outro_audio)
@@ -759,7 +765,7 @@ Note: ffmpeg must be installed on your system for MP3/m4a support.
         type=str,
         required=False,
         default=None,
-        help='Path to the outro file (.mp3 or .wav); volume is normalized to target LUFS and appended at the end'
+        help='Path to the outro file (.mp3 or .wav); volume is normalized to a lower LUFS and appended at the end'
     )
 
     parser.add_argument(
@@ -814,7 +820,7 @@ Note: ffmpeg must be installed on your system for MP3/m4a support.
     if args.output is None:
         # Add "Mastered " prefix to podcast filename, change extension to .mp3
         podcast_stem = podcast_path.stem
-        output_path = podcast_path.parent / f"Mastered {podcast_stem}.mp3"
+        output_path = podcast_path.parent / f"Mastered__{podcast_stem}.mp3"
         logger.info(f"No output path provided, using default: {output_path}")
     else:
         output_path = Path(args.output).expanduser().resolve()
