@@ -242,3 +242,30 @@ The script uses settings from `data_engineering/config/pipeline_config.yaml`:
 - **License**: Public Domain
 - **No API Key Required**: The API is free and open to use
 
+## Post-processing Repair (dummy verse placeholders)
+
+### Background
+Some responses from `bible-api.com` (Douay-Rheims 1899 American Edition / `dra`) include placeholder text such as:
+`dummy verses inserted by amos`
+
+When written into Markdown verbatim, this can also correlate with missing verse numbers inside the chapter.
+
+### Repair Strategy
+After extraction, we run a chapter-level post-processing repair that:
+
+1. Detects “damaged” chapters in `data_final/bible_douay_rheims/`:
+   - any chapter containing the dummy placeholder text, or
+   - any chapter with verse-numbering gaps (e.g., `16` followed by `18`)
+2. Replaces the entire `## Chapter N` block from the alternate source:
+   - `xxruyle/Bible-DouayRheims` consolidated `EntireBible-DR.json`
+3. Logs every repaired chapter and keeps a repair history + QC plan in:
+   - `data_engineering/data_sources/bible_douay_rheims/bible_api_dummy_verse_repair_log.md`
+
+The same document also includes “Third-party Sanity Checks (DRBO)” with spot-check results.
+
+### How to Run
+From project root:
+```bash
+python data_engineering/scripts/post_process_repair_douay_rheims_dummy_verses.py
+```
+
