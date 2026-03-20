@@ -105,6 +105,22 @@ def run_bible_extraction():
         logger.error(f"Deuterocanonical extraction failed: {e}", exc_info=True)
         success = False
 
+    # Step 3: Repair dummy placeholders / verse numbering gaps (post-processing)
+    logger.info("=" * 60)
+    logger.info("Step 3/3: Repairing bible-api.com dummy verses (post-processing)...")
+    try:
+        from data_engineering.scripts.post_process_repair_douay_rheims_dummy_verses import (
+            main as repair_douay_rheims_dummy_verses,
+        )
+
+        repair_result = repair_douay_rheims_dummy_verses()
+        if repair_result != 0:
+            logger.warning("Bible dummy-verse repair completed with issues")
+            success = False
+    except Exception as e:
+        logger.error(f"Dummy-verse repair failed: {e}", exc_info=True)
+        success = False
+
     if success:
         logger.info("✅ Complete: All 73 books extracted successfully")
     else:
