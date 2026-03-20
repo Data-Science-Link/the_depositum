@@ -125,23 +125,26 @@ format: markdown
 
 ## Chapter 6
 
-**1** Hear ye what the Lord saith: Arise, contend thou in judgment against the mountains, and let the hills hear thy voice.  
-**2** Let the mountains hear the judgment of the Lord, and the strong foundations of the earth: for the Lord will enter into judgment with his people, and he will plead against Israel.  
-**3** O my people, what have I done to thee, or in what have I molested thee? answer thou me.  
-**4** For I brought thee up out of the land of Egypt, and delivered thee out of the house of slaves: and I sent before thy face Moses, and Aaron, and Mary.  
-**5** dummy verses inserted by amos  
-**6** O my people, remember, I pray thee, what Balach the king of Moab purposed: and what Balaam the son of Beor answered him, from Setim to Galgal, that thou mightest know the justices of the Lord.  
-**8** What shall I offer to the Lord that is worthy? wherewith shall I kneel before the high God? shall I offer holocausts unto him, and calves of a year old?  
-**9** May the Lord be appeased with thousands of rams, or with many thousands of fat he goats? shall I give my firstborn for my wickedness, the fruit of my body for the sin of my soul?  
-**10** I will shew thee, O man, what is good, and what the Lord requireth of thee: Verily, to do judgment, and to love mercy, and to walk solicitous with thy God.  
-**11** The voice of the Lord crieth to the city, and salvation shall be to them that fear thy name: hear, O ye tribes, and who shall approve it?  
-**12** As yet there is a fire in the house of the wicked, the treasures of iniquity, and a scant measure full of wrath.  
-**13** Shall I justify wicked balances, and the deceitful weights of the bag?  
-**14** By which her rich men were filled with iniquity, and the inhabitants thereof have spoken lies, and their tongue was deceitful in their mouth.  
-**15** And I therefore began to strike thee with desolation for thy sins.  
-**16** Thou shalt eat, but shalt not be filled: and thy humiliation shall be in the midst of thee: and thou shalt take hold, but shalt not save: and those whom thou shalt save, I will give up to the sword.  
-**17** Thou shalt sow, but shalt not reap: thou shalt tread the olives, but shalt not be anointed with the oil: and the new wine, but shalt not drink the wine.  
-**18** For thou hast kept the statutes of Amri, and all the works of the house of Achab: and thou hast walked according to their wills, that I should make thee a desolation, and the inhabitants thereof a hissing, and you shall bear the reproach of my people.  
+**1** Wo is me, for I am become as one that gleaneth in autumn the grapes of the vintage: there is no cluster to eat, my soul desired the first-ripe figs.  
+**2** The holy man is perished out of the earth, and there is none upright among men: they all lie in wait for blood, every one hunteth his brother to death.  
+**3** The evil of their hands they call good: the prince requireth, and the judge is for giving: and the great man hath uttered the desire of his soul, and they have troubled it.  
+**4** He that is best among them, is as a brier: and he that is righteous, as the thorn of the hedge. The day of thy inspection, thy visitation cometh: now shall be their destruction.  
+**5** Believe not a friend, and trust not in a prince: keep the doors of thy mouth from her that sleepeth in thy bosom.  
+**6** *For the son dishonoureth the father, and the daughter riseth up against her mother, the daughter-in-law against her mother-in-law: **and a man's enemies are they of his own household.  
+**7** But I will look towards the Lord, I will wait for God, my Saviour: my God will hear me.  
+**8** Rejoice not, thou my enemy, over me, because I am fallen: I shall arise, when I sit in darkness, the Lord is my light.  
+**9** I will bear the wrath of the Lord, because I have sinned against him: until he judge my cause, and execute judgment for me: he will bring me forth into the light, I shall behold his justice.  
+**10** And my enemy shall behold, and she shall be covered with shame, who saith to me: Where is the Lord thy God? my eyes shall look down upon her: now shall she be trodden under foot as the mire of the streets.  
+**11** The day shall come, that thy walls may be built up: in that day shall the law be far removed.  
+**12** In that day they shall come even from Assyria to thee, and to the fortified cities: and from the fortified cities even to the river, and from sea to sea, and from mountain to mountain.  
+**13** And the land shall be made desolate, because of the inhabitants thereof, and for the fruit of their devices.  
+**14** Feed thy people with thy rod, the flock of thy inheritance, them that dwell alone in the forest, in the midst of Carmel: they shall feed in Basan and Galaad, according to the days of old.  
+**15** According to the days of thy coming out of the land of Egypt, I will shew him wonders.  
+**16** The nations shall see, and shall be confounded at all their strength: they shall put the hand upon the mouth, their ears shall be deaf.  
+**17** They shall lick the dust like serpents, as the creeping things of the earth, they shall be disturbed in their houses: they shall dread the Lord, our God, and shall fear thee.  
+**18** *Who is a God like to thee, who takest away iniquity, and passest by the sin of the remnant of thy inheritance? he will send his fury in no more, because he delighteth in mercy.  
+**19** He will turn again, and have mercy on us: he will put away our iniquities: and he will cast all our sins into the bottom of the sea.  
+**20** Thou wilt perform the truth to Jacob, the mercy to Abraham: which thou hast sworn to our fathers from the days of old.  
 
 ---
 

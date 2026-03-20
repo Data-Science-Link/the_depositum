@@ -725,55 +725,54 @@ format: markdown
 
 ## Chapter 23
 
-**1** And the word of the Lord came to me, saying: Son of man, there were two women, daughters of one mother.  
-**2** dummy verses inserted by amos  
-**3** And they committed fornication in Egypt, in their youth they committed fornication: there were their breasts pressed down, and the teats of their virginity were bruised.  
-**4** And their names were Oolla the elder, and Ooliba her younger sister: and I took them, and they bore sons and daughters. Now for their names, Samaria is Oolla, and Jerusalem is Ooliba.  
-**5** And Oolla committed fornication against me, and doted on her lovers, on the Assyrians that came to her,  
-**6** Who were clothed with blue, princes, and rulers, beautiful youths, all horsemen, mounted upon horses.  
-**7** And she committed her fornications with those chosen men, all sons of the Assyrians: and she defiled herself with the uncleanness of all them on whom she doted.  
-**8** Moreover also she did not forsake her fornications which she had committed in Egypt: for they also lay with her in her youth, and they bruised the breasts of her virginity, and poured out their fornication upon her.  
-**9** Therefore have I delivered her into the hands of her lovers, into the hands of the sons of the Assyrians, upon whose lust she doted.  
-**10** They discovered her disgrace, took away her sons and daughters, and slew her with the sword: and they became infamous women, and they executed judgments in her.  
-**11** And when her sister Ooliba saw this, she was mad with lust more than she: and she carried her fornication beyond the fornication of her sister.  
-**12** Impudently prostituting herself to the children of the Assyrians, the princes, and rulers that came to her, clothed with divers colours, to the horsemen that rode upon horses, and to young men all of great beauty.  
-**13** And I saw that she was defiled, and that they both took one way.  
-**14** And she increased her fornications: and when she had seen men painted on the wall, the images of the Chaldeans set forth in colours,  
-**15** And girded with girdles about their reins, and with dyed turbans on their heads, the resemblance of all the captains, the likeness of the sons of Babylon, and of the land of the Chaldeans wherein they were born,  
-**16** She doted upon them with the lust of her eyes, and she sent messengers to them into Chaldea.  
-**17** And when the sons of Babylon were come to her to the bed of love, they defiled her with their fornications, and she was polluted by them, and her soul was glutted with them.  
-**18** And she discovered her fornications, and discovered her disgrace: and my soul was alienated from her, as my soul was alienated from her sister.  
-**19** For she multiplied her fornications, remembering the days of her youth, in which she played the harlot in the land of Egypt.  
-**20** And she was mad with lust after lying with them whose flesh is as the flesh of asses: and whose issue as the issue of horses.  
-**21** And thou hast renewed the wickedness of thy youth, when thy breasts were pressed in Egypt, and the papa of thy virginity broken.  
-**22** Therefore, Ooliba, thus saith the Lord God: Behold I will raise up against thee all thy lovers with whom thy soul hath been glutted: and I will gather them together against thee round about.  
-**23** The children of Babylon, and all the Chaldeans, the nobles, and the kings, and princes, all the sons of the Assyrians, beautiful young men, all the captains, and rulers, the princes of princes, and the renowned horsemen.  
-**24** And they shall come upon thee well appointed with chariot and wheel, a multitude of people: they shall be armed against thee on every side with breastplate, and buckler, and helmet: and I will set judgment before them, and they shall judge thee by their judgments.  
-**25** And I will set my jealousy against thee, which they shall execute upon thee with fury: they shall cut off thy nose and thy ears: and what remains shall fall by the sword: they shall take thy sons, and thy daughters, and thy residue shall be devoured by fire.  
-**26** And they shall strip thee of thy garments, and take away the instruments of thy glory.  
-**27** And I will put an end to thy wickedness in thee, and thy fornication brought out of the land of Egypt: neither shalt thou lift up thy eyes to them, nor remember Egypt any more.  
-**28** For thus saith the Lord God: Behold, I will deliver thee into the hands of them whom thou hatest, into their hands with whom thy soul hath been glutted.  
-**29** And they shall deal with thee in hatred, and they shall take away all thy labours, and shall let thee go naked, and full of disgrace, and the disgrace of thy fornication shall be discovered, thy wickedness, and thy fornications.  
-**30** They have done these things to thee, because thou hast played the harlot with the nations among which thou wast defiled with their idols.  
-**31** Thou hast walked in the way of thy sister, and I will give her cup into thy hand.  
-**32** Thus saith the Lord God: Thou shalt drink thy sister's cup, deep, and wide: thou shalt be had in derision and scorn, which containeth very much.  
-**33** Thou shalt be filled with drunkenness, and sorrow: with the cup of grief, and sadness, with the cup of thy sister Samaria.  
-**34** And thou shalt drink it, and shalt drink it up even to the dregs, and thou shalt devour the fragments thereof, thou shalt rend thy breasts: because I have spoken it, saith the Lord God.  
-**35** Therefore thus saith the Lord God: Because thou hast forgotten me, and hast cast me off behind thy back, bear thou also thy wickedness, and thy fornications.  
-**36** And the Lord spoke to me, saying: Son of man, dost thou judge Oolla, and Ooliba, and dost thou declare to them their wicked deeds?  
-**37** Because they have committed adultery, and blood is in their hands, and they have committed fornication with their idols: moreover also their children, whom they bore to me, they have offered to them to be devoured.  
-**38** Yea, and they have done this to me. They polluted my sanctuary on the same day, and profaned my sabbaths.  
-**39** And when they sacrificed their children to their idols, and went into my sanctuary the same day to profane it: they did these things even in the midst of my house.  
-**40** They sent for men coming from afar, to whom they had sent a messenger: and behold they came: for whom thou didst wash thyself, and didst paint thy eyes, and wast adorned with women's ornaments.  
-**41** Thou sattest on a very fine bed, and a table was decked before thee: whereupon thou didst set my incense, and my ointment.  
-**42** And there was in her the voice of a multitude rejoicing: and to some that were brought of the multitude of men, and that came from the desert, they put bracelets on their hands, and beautiful crowns on their heads.  
-**43** And I said to her that was worn out in her adulteries: Now will this woman still continue in her fornication.  
-**44** And they went in to her, as to a harlot: so went they in unto Oolla, and Ooliba, wicked women.  
-**45** They therefore are k just men: these shall judge them as adulteresses are judged, and as shedders of blood are judged: because they are adulteresses, and blood is in their hands.  
-**46** For thus saith the Lord God: Bring a multitude upon them, and deliver them over to tumult and rapine:  
-**47** And lee the people stone them with stones, and let them be stabbed with their swords: they shall kill their sons and daughters, and their houses they shall burn with fire.  
-**48** And I will take away wickedness out of the land: and all women shall learn, not to do according to the wickedness of them.  
-**49** And they shall render your wickedness upon you, and you shall bear the sins of your idols: and you shall know that I am the Lord God.  
+**1** And the word of the Lord came to me, *saying: Son of man, there were two women, daughters of one mother:  
+**2** And they committed fornication in Egypt, in their youth they committed fornication: there were their breasts pressed down, and the teats of their virginity were bruised.  
+**3** And their names were Oolla, the elder, and Ooliba, her younger sister: and I took them, and they bore sons and daughters. Now for their names: Samaria is Oolla, and Jerusalem is Ooliba.  
+**4** And Oolla committed fornication against me, and doated on her lovers, on the Assyrians that came to her.  
+**5** Who were clothed with blue, princes, and rulers, beautiful youths, all horsemen, mounted upon horses.  
+**6** And she committed her fornications with those chosen men, all sons of the Assyrians: and she defiled herself with the uncleanness of all them on whom she doated.  
+**7** Moreover also,she did not forsake her fornications which she had committed in Egypt: for they also lay with her in her youth, and they bruised the breasts of her virginity, and poured out their fornication upon her.  
+**8** Therefore have I delivered her into the hands of her lovers, into the hands of the sons of the Assyrians, upon whose lust she doaed.  
+**9** *They discovered her disgrace, took away her sons and daughters, and slew her with the sword: and they became infamous women, and they executed judgments in her.  
+**10** And when her sister, Ooliba, saw this, she was mad with lust more than she: and she carried her fornication beyond the fornication of her sister.  
+**11** Impudently prostituting herself to the children of the Assyrians, the princes, and rulers that came to her, clothed with divers colours, to the horsemen that rode upon horses, and to young men, all of great beauty.  
+**12** And I saw that she was defiled, and that they both took one way.  
+**13** And she increased her fornications: and when she had seen men painted on the wall, the images of the Chaldeans set forth in colours,  
+**14** And girded with girdles about their reins, and with dyed turbans on their heads, the resemblance of all the captains, the likeness of the sons of Babylon, and of the land of the Chaldeans, wherein they were born.  
+**15** She doated upon them with the lust of her eyes, and she sent messengers to them into Chaldea.  
+**16** And when the sons of Babylon were come to her to the bed of love, they defiled her with their fornications, and she was polluted by them, and her soul was glutted with them.  
+**17** And she discovered her fornications, and discovered her disgrace: and my soul was alienated from her as my soul was alienated from her sister.  
+**18** For she multiplied her fornications, remembering the days of her youth, in which she played the harlot in the land of Egypt.  
+**19** And she was mad with lust after lying with them, whose flesh is as the flesh of asses: and whose issue as the issue of horses.  
+**20** And thou hast renewed the wickedness of thy youth, when thy breasts were pressed in Egypt, and the paps of thy virginity broken.  
+**21** Therefore, Ooliba, thus saith the Lord God: Behold I will raise up against thee all thy lovers, with whom thy soul hath been glutted: and I will gather them together against thee round about.  
+**22** The children of Babylon, and all the Chaldeans, the nobles, and the kings, and princes, all the sons of the Assyrians, beautiful young men, all the captains, and rulers, the princes of princes, and the renowned horsemen.  
+**23** And they shall come upon thee well appointed with chariot and wheel, a multitude of people: they shall be armed against thee on every side with breastplate, and buckler, and helmet: and I will set judgment before them, and they shall judge thee by their judgments.  
+**24** And I will set my jealousy against thee, which they shall execute upon thee, with fury: they shall cut off thy nose and thy ears: and what remains shall fall by the sword: they shall take thy sons, and thy daughters, and thy residue shall be devoured by fire.  
+**25** And they shall strip thee of thy garments, and take away the instruments of thy glory.  
+**26** And I will put an end to thy wickedness in thee, and thy fornication brought out of the land of Egypt: neither shalt thou lift up thy eyes to them, nor remember Egypt any more.  
+**27** For thus saith the Lord God: Behold, I will deliver thee into the hands of them whom thou hatest, into their hands with whom thy soul hath been glutted.  
+**28** And they shall deal with thee in hatred, and they shall take away all thy labours, and shall let thee go naked, and full of disgrace, and the disgrace of thy fornication shall be discovered, thy wickedness, and thy fornications.  
+**29** They have done these things to thee, because thou hast played the harlot with the nations among which thou wast defiled with their idols.  
+**30** Thou hast walked in the way of thy sister, and I will give her cup into thy hand.  
+**31** Thus saith the Lord God: Thou shalt drink thy sister's cup, deep, and wide: thou shalt be had in derision and scorn, which containeth very much.  
+**32** Thou shalt be filled with drunkenness, and sorrow: with the cup of grief, and sadness, with the cup of thy sister, Samaria.  
+**33** And thou shalt drink it, and shalt drink it up even to the dregs, and thou shalt devour the fragments thereof, thou shalt rend thy breasts: because I have spoken it, saith the Lord God.  
+**34** Therefore thus saith the Lord God: Because thou hast forgotten me, and hast cast me off behind thy back, bear thou also thy wickedness, and thy fornications.  
+**35** And the Lord spoke to me, saying: Son of man, dost thou judge Oolla, and Ooliba, and dost thou declare to them their wicked deeds?  
+**36** Because they have committed adultery, and blood is in their hands, and they have committed fornication with their idols: moreover also their children, whom they bore to me, they have offered to them to be devoured.  
+**37** Yea, and they have done this to me. They polluted my sanctuary on the same day, and profaned my sabbaths.  
+**38** And when they sacrificed their children to their idols, and went into my sanctuary the same day, to profane it: they did these things even in the midst of my house.  
+**39** They sent for men coming from afar, to whom they had sent a messenger: and behold they came: for whom thou didst wash thyself, and didst paint thy eyes, and wast adorned with women's ornaments.  
+**40** Thou sattest on a very fine bed, and a table was decked before thee: whereupon thou didst set my incense and my ointment.  
+**41** And there was in her the voice of a multitude rejoicing: and to some that were brought of the multitude of men, and that came from the desert, they put bracelets on their hands, and beautiful crowns on their heads.  
+**42** And I said to her that was worn out in her adulteries: Now will this woman still continue in her fornication.  
+**43** And they went in to her, as to a harlot: so went they in unto Oolla, and Ooliba, wicked women.  
+**44** They, therefore, are just men: these shall judge them as adulteresses are judged, and as shedders of blood are judged: because they are adulteresses, and blood is in their hands.  
+**45** For thus saith the Lord God: Bring a multitude upon them, and deliver them over to tumult and rapine:  
+**46** And let the people stone them with stones, and let them be stabbed with their swords: they shall kill their sons and daughters, and their houses they shall burn with fire.  
+**47** And I will take away wickedness out of the land: and all women shall learn, not to do according to the wickedness of them.  
+**48** And they shall render your wickedness upon you, and you shall bear the sins of your idols: and you shall know that I am the Lord God.  
 
 ---
 
@@ -1390,33 +1389,29 @@ format: markdown
 
 ## Chapter 43
 
-**1** And he brought me to the gate that looked towards the east.  
-**2** And behold the glory of the God of Israel came in by the way of the east: and his voice was like the noise of many waters, and the earth shone with his majesty.  
-**3** And I saw the vision according to the appearance which I had seen when he came to destroy the city: and the appearance was according to the vision which I had seen by the river Chobar: and I fell upon my face.  
-**4** And the majesty of the Lord went into the temple by the way of the gate that looked to the east.  
-**5** And the spirit lifted me up and brought me into the inner court: and behold the house was filled with the glory of the Lord.  
-**6** And I heard one speaking to me out of the house, and the man that stood by me,  
-**7** Said to me: Son of man, the place of my throne, and the place of the soles of my feet, where I dwell in the midst of the children of Israel for ever: and the house of Israel shall no more profane my holy name, they and their kings by their fornications, and by the carcasses of their kings, and by the high places.  
-**8** They who have set their threshold by my threshold, and their posts by my posts: and there was but a wall between me and them: and they profaned my holy name by the abominations which they committed: for which reason I consumed them in my wrath.  
-**10** Now therefore let them put away their fornications, and the carcasses of their kings far from me: and I will dwell in the midst of them for ever.  
-**11** But thou, son of man, shew to the house of Israel the temple, and let them be ashamed of their iniquities, and let them measure the building:  
-**12** And be ashamed of all that they have done. Shew them the form of the house, and of the fashion thereof, the goings out and the comings in, and the whole plan thereof, and all its ordinances, and all its order, and all its laws, and thou shalt write it in their sight: that they may keep the whole form thereof, and its ordinances, and do them.  
-**13** This is the law of the house upon the top of the mountain: All its border round about is most holy: this then is the law of the house.  
-**14** And these are the measures of the altar by the truest cubit, which is a cubit and a handbreadth: the bottom thereof was a cubit, and the breadth a cubit: and the border thereof unto its edge, and round about, one handbreadth: and this was the trench of the altar.  
-**15** And from the bottom of the ground to the lowest brim two cubits, and the breadth of one cubit: and from the lesser brim to the greater brim four cubits, and the breadth of one cubit.  
-**16** And the Ariel itself was four cubits: and from the Ariel upward were four horns.  
-**17** And the Ariel was twelve cubits long, and twelve cubits broad, foursquare, with equal sides.  
-**18** And the brim was fourteen cubits long, and fourteen cubits broad in the four corners thereof: and the crown round about it was half a cubit, and the bottom of it one cubit round about: and its steps turned toward the east.  
-**19** And he said to me: Son of man, thus saith the Lord God: These are the ceremonies of the altar, in what day soever it shall be made: that holocausts may be offered upon it, and blood poured out.  
-**20** And thou shalt give to the priests, and the Levites, that are of the race of Sadoc, who approach to me, saith the Lord God, to offer to me a calf of the herd for sin.  
-**21** And thou shalt take of his blood, and shalt put it upon the four horns thereof, and upon the four corners of the brim, and upon the crown round  
-**22** And thou shalt take the calf, that is offered for sin: and thou shalt burn him in a separate place of the house without the sanctuary.  
-**23** And in the second day thou shalt offer a he goat without blemish for sin: and they shall expiate the altar, as they expiated it with the calf.  
-**24** And when thou shalt have made an end of the expiation thereof, thou shalt offer a calf of the herd without blemish, and a ram of the flock without blemish.  
-**25** And thou shalt offer them in the sight of the Lord: and the priests shall put salt upon them, and shall offer them a holocaust to the Lord.  
-**26** Seven days shalt thou offer a he goat for sill daily: they shall offer also a calf of the herd, and a ram of the flock without blemish.  
-**27** Seven days shall they expiate the altar, and shall cleanse it: and they shall consecrate it.  
-**28** And the days being, expired, on the eighth day and thenceforward, the priests shall offer your holocausts upon the altar, and the peace offerings: and I will be pacified towards you, saith the Lord God.  
+**26** And he brought me again to the gate of the house, and behold waters issued out from under the threshold of the house toward the east: for the forefront, of the house looked toward the east: but the waters came down to the right side of the temple, to the south part of the altar.  
+**27** And he led me out by the way of the north gate, and he caused me to turn to the way without the outward gate, to the way that looked toward the east: and behold there ran out waters on the right side.  
+**28** And when the man that had the line in his hand went out towards the east, he measured a thousand cubits: and he brought me through the water up to the ancles.  
+**29** And again he measured a thousand, and he brought me through the water up to the knees.  
+**30** And he measured a thousand, and he brought me through the water up to the loins. And he measured a thousand, and it was a torrent, which I could not pass over: for the waters were risen so as to make a deep torrent, which could not be passed over.  
+**31** And he said to me: Surely thou hast seen, O son of man. And he brought me out, and he caused me to turn to the bank of the torrent.  
+**32** And when I had turned myself, behold on the bank of the torrent were very many trees on both sides.  
+**33** And he said to me: These waters that issue forth toward the hillocks of sand to the east, and go down to the plains of the desert, shall go into the sea, and shall go out, and the waters shall be healed.  
+**34** And every living creature that creepeth whithersoever the torrent shall come, shall live: and there shall be fishes in abundance after these waters shall come thither, and they shall be healed, and all things shall live to which the torrent shall come.  
+**35** And the fishers shall stand over these waters, from Engaddi even to Engallim there shall be drying of nets: there shall be many sorts of the fishes thereof, as the fishes of the great sea, a very great multitude:  
+**36** But on the shore thereof, and in the fenny places they shall not be healed, because they shall be turned into salt pits.  
+**37** And by the torrent on the banks thereof, on both sides, shall grow all trees that bear fruit: their leaf shall not fall off, and their fruit shall not fail: every month shall they bring forth first-fruits, because the waters thereof shall issue out of the sanctuary: and the fruits thereof shall be for food, and the leaves thereof for medicine.  
+**38** Thus saith the Lord God: This is the border, by which you shall possess the land according to the twelve tribes of Israel: for Joseph hath a double portion.  
+**39** And you shall possess it, every man in like manner as his brother: concerning which I lifted up my hand to give it to your fathers: and this land shall fall unto you for a possession.  
+**40** And this is the border of the land: toward the north side, from the great sea by the way of Hethalon, as men go to Sedada.  
+**41** Emath, Berotha, Sabarim, which is between the border of Damascus and the border of Emath, the house of Tichon, which is by the border of Auran.  
+**42** And the border from the sea even to the court of Enon, shall be the border of Damascus, and from the north to the north: the border of Emath, this is the north side.  
+**43** And the east side is from the midst of Auran, and from the midst of Damascus, and from the midst of Galaad, and from the midst of the land of Israel, Jordan making the bound to the east sea, and thus you shall measure the east side.  
+**44** And the south side southward is from Thamar, even to the waters of contradiction of Cades: and the torrent, even to the great sea: and this is the south side southward.  
+**45** And the side toward the sea, is the great sea, from the borders straight on, till thou come to Emath: this is the side of the sea.  
+**46** And you shall divide this land unto you by the tribes of Israel:  
+**47** And you shall divide it by lot for an inheritance to you, and to the strangers that shall come over to you, that shall beget children among you: and they shall be unto you as men of the same country born among the children of Israel: they shall divide the possession with you in the midst of the tribes of Israel.  
+**48** And in what tribe soever the stranger shall be, there shall you give him possession, saith the Lord God.  
 
 ---
 

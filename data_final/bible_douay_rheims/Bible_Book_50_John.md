@@ -173,59 +173,59 @@ format: markdown
 
 ## Chapter 4
 
-**1** When Jesus therefore understood that the Pharisees had heard that Jesus maketh more disciples, and baptizeth more than John,  
+**1** When, therefore, Jesus understood that the Pharisees had heard that Jesus maketh more disciples, and *baptizeth more than John,  
 **2** (Though Jesus himself did not baptize, but his disciples,)  
-**3** He left Judea, and went again into Galilee.  
-**4** And he was of necessity to pass through Samaria.  
-**5** He cometh therefore to a city of Samaria, which is called Sichar, near the land which Jacob gave to his son Joseph.  
-**6** Now Jacob's well was there. Jesus therefore being wearied with his journey, sat thus on the well. It was about the sixth hour.  
-**7** There cometh a woman of Samaria, to draw water. Jesus saith to her: Give me to drink.  
-**8** For his disciples were gone into the city to buy meats.  
+**3** He left Judea, and departed again into Galilee.  
+**4** And it was necessary he should pass through Samaria.  
+**5** He cometh, therefore, to a city of Samaria which is called Sichar; near the piece of land *which Jacob gave to his son Joseph.  
+**6** Now Jacob's well was there. Jesus, therefore, being wearied with his journey, sat thus on the well. It was about the sixth hour.  
+**7** There cometh a woman of Samaria to draw water. Jesus saith to her: Give me to drink.  
+**8** (For his disciples were gone into the city, to buy food.)  
 **9** Then that Samaritan woman saith to him: How dost thou, being a Jew, ask of me to drink, who am a Samaritan woman? For the Jews do not communicate with the Samaritans.  
-**10** Jesus answered, and said to her: If thou didst know the gift of God, and who he is that saith to thee, Give me to drink; thou perhaps wouldst have asked of him, and he would have given thee living water.  
-**11** The woman saith to him: Sir, thou hast nothing wherein to draw, and the well is deep; from whence then hast thou living water?  
+**10** Jesus answered, and said to her: If thou didst know the gift of God, and who it is that saith to thee, Give me to drink: thou perhaps wouldst have asked of him, and he would have given thee living water.  
+**11** The woman saith to him: Sir, thou hast nothing wherein to draw, and the well is deep: from whence then hast thou living water?  
 **12** Art thou greater than our father Jacob, who gave us the well, and drank thereof himself, and his children, and his cattle?  
-**13** Jesus answered, and said to her: Whosoever drinketh of this water, shall thirst again; but he that shall drink of the water that I will give him, shall not thirst for ever:  
-**14** But the water that I will give him, shall become in him a fountain of water, springing up into life everlasting.  
+**13** Jesus answered, and said to her: Whosoever drinketh of this water shall thirst again: but he that shall drink of the water that I will give him, shall not thirst for ever.  
+**14** But the water that I shall give him, shall become in him a fountain of water, springing up into life everlasting.  
 **15** The woman saith to him: Sir, give me this water, that I may not thirst, nor come hither to draw.  
-**16** Jesus saith to her: Go, call thy husband, and come hither. 17 The woman answered, and said: I have no husband. Jesus said to her: Thou hast said well, I have no husband:  
-**17** dummy verses inserted by amos  
-**18** For thou hast had five husbands: and he whom thou now hast, is not thy husband. This thou hast said truly.  
+**16** Jesus saith to her: Go, call thy husband, and come hither.  
+**17** The woman answered, and said: I have no husband. Jesus said to her: Thou hast said well, I have no husband:  
+**18** For thou hast had five husbands: and he whom thou now hast is not thy husband. This thou hast said truly.  
 **19** The woman saith to him: Sir, I perceive that thou art a prophet.  
-**20** Our fathers adored on this mountain, and you say, that at Jerusalem is the place where men must adore.  
-**21** Jesus saith to her: Woman, believe me, that the hour cometh, when you shall neither on this mountain, not in Jerusalem, adore the Father.  
-**22** You adore that which you know not: we adore that which we know; for salvation is of the Jews.  
+**20** Our fathers adored on this mountain, and you say *that at Jerusalem is the place where men must adore.  
+**21** Jesus saith to her: Woman, believe me, that the hour cometh when you shall neither on this mountain, nor in Jerusalem, adore the Father.  
+**22** *You adore that which you know not: we adore that which we know: for salvation is of the Jews.  
 **23** But the hour cometh, and now is, when the true adorers shall adore the Father in spirit and in truth. For the Father also seeketh such to adore him.  
-**24** God is a spirit; and they that adore him, must adore him in spirit and in truth.  
-**25** The woman saith to him: I know that the Messias cometh (who is called Christ); therefore, when he is come, he will tell us all things.  
+**24** *God is a spirit, and they that adore him, must adore him in spirit and in truth.  
+**25** The woman saith to him: I know that the Messias cometh (who is called Christ); therefore when he is come, he will tell us all things.  
 **26** Jesus saith to her: I am he, who am speaking with thee.  
-**27** And immediately his disciples came; and they wondered that he talked with the woman. Yet no man said: What seekest thou? or, why talkest thou with her?  
-**28** The woman therefore left her waterpot, and went her way into the city, and saith to the men there:  
-**29** Come, and see a man who has told me all things whatsoever I have done. Is not he the Christ?  
-**30** They went therefore out of the city, and came unto him.  
+**27** And immediately his disciples came: and they wondered that he talked with the woman. Yet no man said: What seekest thou, or why talkest thou with her?  
+**28** The woman, therefore, left her water-pot, and went away into the city, and saith to the men there:  
+**29** Come, and see a man who hath told me all things that I have done. Is not he the Christ?  
+**30** They went therefore out of the city, and came to him.  
 **31** In the mean time the disciples prayed him, saying: Rabbi, eat.  
-**32** But he said to them: I have meat to eat, which you know not.  
-**33** The disciples therefore said one to another: Hath any man brought him to eat?  
+**32** But he said to them: I have meat to eat which you know not of.  
+**33** The disciples, therefore, said one to another: Hath any man brought him any thing to eat?  
 **34** Jesus saith to them: My meat is to do the will of him that sent me, that I may perfect his work.  
-**35** Do you not say, There are yet four months, and then the harvest cometh? Behold, I say to you, lift up your eyes, and see the countries; for they are white already to harvest.  
+**35** Do not you say, there are yet four months, and then the harvest cometh? Behold I say to you, lift up your eyes, and see the countries, *for they are white already to harvest.  
 **36** And he that reapeth receiveth wages, and gathereth fruit unto life everlasting: that both he that soweth, and he that reapeth, may rejoice together.  
-**37** For in this is the saying true: That it is one man that soweth, and it is another that reapeth.  
+**37** For in this is the saying true: that it is one man that soweth, and it is another that reapeth.  
 **38** I have sent you to reap that in which you did not labour: others have laboured, and you have entered into their labours.  
-**39** Now of that city many of the Samaritans believed in him, for the word of the woman giving testimony: He told me all things whatsoever I have done.  
-**40** So when the Samaritans were come to him, they desired that he would tarry there. And he abode there two days.  
-**41** And many more believed in him because of his own word.  
-**42** And they said to the woman: We now believe, not for thy saying: for we ourselves have heard him, and know that this is indeed the Saviour of the world.  
-**43** Now after two days, he departed thence, and went into Galilee.  
-**44** For Jesus himself gave testimony that a prophet hath no honour in his own country.  
-**45** And when he was come into Galilee, the Galileans received him, having seen all the things he had done at Jerusalem on the festival day; for they also went to the festival day.  
-**46** He came again therefore into Cana of Galilee, where he made the water wine. And there was a certain ruler, whose son was sick at Capharnaum.  
-**47** He having heard that Jesus was come from Judea into Galilee, went to him, and prayed him to come down, and heal his son; for he was at the point of death.  
+**39** Now of that city many of the Samaritans believed in him, for the word of the woman giving testimony: that he told me whatsoever I have done.  
+**40** So when the Samaritans were come to him, they desired that he would stay there. And he staid there two days.  
+**41** And many more believed in him, because of his own word.  
+**42** And they said to the woman: We now believe, not for thy saying; for we ourselves have heard him, and know that this is indeed the Saviour of the world.  
+**43** Now, after two days, he departed thence; and went into Galilee.  
+**44** *For Jesus himself gave testimony that a prophet hath no honour in his own country.  
+**45** *Then, when he was come into Galilee, the Galileans received him, having seen all the things he had done at Jerusalem on the festival day: for they also went to the festival day.  
+**46** He came again, therefore, into Cana of Galilee, *where he made the water wine. And there was a certain ruler whose son was sick at Capharnaum.  
+**47** He having heard that Jesus was come from Judea into Galilee, went to him, and prayed him to come down and heal his son; for he was at the point of death.  
 **48** Jesus therefore said to him: Unless you see signs and wonders, you believe not.  
 **49** The ruler saith to him: Lord, come down before that my son die.  
 **50** Jesus saith to him: Go thy way; thy son liveth. The man believed the word which Jesus said to him, and went his way.  
-**51** And as he was going down, his servants met him; and they brought word, saying, that his son lived.  
-**52** He asked therefore of them the hour wherein he grew better. And they said to him: Yesterday, at the seventh hour, the fever left him.  
-**53** The father therefore knew, that it was at the same hour that Jesus said to him, Thy son liveth; and himself believed, and his whole house.  
+**51** And as he was going down, his servants met him: and they brought word, saying: that his son lived.  
+**52** He asked, therefore, of them the hour wherein he grew better. And they said to him: Yesterday, at the seventh hour, the fever left him.  
+**53** The father, therefore, knew that it was at the same hour that Jesus said to him: Thy son liveth: and himself believed, and his whole house.  
 **54** This is again the second miracle that Jesus did, when he was come out of Judea into Galilee.  
 
 ---
@@ -771,32 +771,32 @@ format: markdown
 
 ## Chapter 15
 
-**1** If you keep my commandments, you shall abide in my love; as I also have kept my Father's commandments, and do abide in his love.  
-**2** dummy verses inserted by amos  
-**3** dummy verses inserted by amos  
-**4** dummy verses inserted by amos  
-**5** dummy verses inserted by amos  
-**6** dummy verses inserted by amos  
-**7** dummy verses inserted by amos  
-**8** dummy verses inserted by amos  
-**9** dummy verses inserted by amos  
-**10** dummy verses inserted by amos  
-**11** These things I have spoken to you, that my joy may be in you, and your joy may be filled.  
-**12** This is my commandment, that you love one another, as I have loved you.  
+**1** I am the true vine; and my Father is the husbandman.  
+**2** Every branch in me, that beareth not fruit, he will take away: and every one that beareth fruit, he will purge it, that it may bring forth more fruit.  
+**3** *Now you are clean, by reason of the word, which I have spoken to you.  
+**4** Remain in me: and I in you. As the branch cannot bear fruit of itself, unless it abide in the vine: so neither can you, unless you abide in me.  
+**5** I am the vine: you are the branches: he that abideth in me, and I in him, the same beareth much fruit: for without me you can do nothing.  
+**6** If any one remaineth not in me, he shall be cast forth as a branch, and shall wither and they shall gather him up, and cast him into the fire, and he burneth.  
+**7** If you remain in me, and my words remain in you: you shall ask whatever you will, and it shall be done to you.  
+**8** In this is my Father glorified, that you bring forth very much fruit, and become my disciples.  
+**9** As the Father hath loved me, I also have loved you. Remain in my love.  
+**10** If you keep my commandments, you will remain in my love, as I also have kept my Father's commandments, and do remain in his love.  
+**11** These things I have spoken to you: that my joy may be in you, and your joy may be filled.  
+**12** *This is my commandment, that you love one another, as I have loved you.  
 **13** Greater love than this no man hath, that a man lay down his life for his friends.  
 **14** You are my friends, if you do the things that I command you.  
-**15** I will not now call you servants: for the servant knoweth not what his lord doth. But I have called you friends: because all things whatsoever I have heard of my Father, I have made known to you.  
-**16** You have not chosen me: but I have chosen you; and have appointed you, that you should go, and should bring forth fruit; and your fruit should remain: that whatsoever you shall ask of the Father in my name, he may give it you.  
-**17** These things I command you, that you love one another.  
+**15** I will not now call you servants: for the servant knoweth not what his lord doth. But I have called you friends: because all things whatsoever I have heard from my Father, I have made known to you.  
+**16** You have not chosen me: but I have chosen you, and have appointed you, *that you should go, and should bring forth fruit, and your fruit should remain: that whatsoever you shall ask of the Father in my name, he may give it you.  
+**17** *These things I command you, that you love one another.  
 **18** If the world hate you, know ye, that it hath hated me before you.  
-**19** If you had been of the world, the world would love its own: but because you are not of the world, but I have chosen you out of the world, therefore the world hateth you.  
-**20** Remember my word that I said to you: The servant is not greater than his master. If they have persecuted me, they will also persecute you: if they have kept my word, they will keep yours also.  
-**21** But all these things they will do to you for my name's sake: because they know not him who sent me.  
-**22** If I had not come, and spoken to them, they would not have sin; but now they have no excuse for their sin.  
+**19** If you had been of the world, the world would love its own; but because you are not of the world, but I have chosen you out of the world, therefore the world hateth you.  
+**20** Remember my word that I said to you: *The servant is not greater than his lord. If they have persecuted me, **they will also persecute you: if they have kept my word, they will keep yours also.  
+**21** But all these things they will do to you for my name's sake: because they know not him that sent me.  
+**22** If I had not come, and spoken to them, they would not have sin: but now they have no excuse for their sin.  
 **23** He that hateth me, hateth my Father also.  
-**24** If I had not done among them the works that no other man hath done, they would not have sin; but now they have both seen and hated both me and my Father.  
-**25** But that the word may be fulfilled which is written in their law: They hated me without cause.  
-**26** But when the Paraclete cometh, whom I will send you from the Father, the Spirit of truth, who proceedeth from the Father, he shall give testimony of me.  
+**24** If I had not done among them the works that no other man hath done, they would not have sin: but now they have both seen and hated both me and my Father.  
+**25** But that the word may be fulfilled which is written in their law: *They have hated me without cause.  
+**26** *But when the Paraclete is come, whom I will send you from the Father, the Spirit of truth, who proceedeth from the Father, he shall give testimony of me:  
 **27** And you shall give testimony, because you are with me from the beginning.  
 
 ---

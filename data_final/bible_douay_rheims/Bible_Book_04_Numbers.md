@@ -337,96 +337,95 @@ format: markdown
 
 ## Chapter 7
 
-**1** And it came to pass in the day that Moses had finished the tabernacle, and set it up, and had anointed and sanctified it with all its vessels, the altar likewise and all the vessels thereof,  
-**2** The princes of Israel and the heads of the families, in every tribe, who were the rulers of them who had been numbered, offered  
-**3** Their gifts before the Lord, six wagons covered, and twelve oxen. Two princes offered one wagon, and each one an ox, and they offered them before the tabernacle.  
-**6** Offered a silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**7** And the Lord said to Moses:  
-**8** Receive them from them to serve in the ministry of the tabernacle, and thou shalt deliver them to the Levites according to the order of their ministry.  
-**9** Moses therefore receiving the wagons and the oxen, delivered them to the Levites.  
-**10** Two wagons and four oxen he gave to the sons of Gerson, according to their necessity.  
-**11** The other four wagons, and eight oxen he gave to the sons of Merari, according to their offices and service, under the hand of Ithamar the son of Aaron the priest.  
-**12** But to the sons of Caath he gave no wagons or oxen: because they serve in the sanctuary and carry their burdens upon their own shoulders.  
-**13** And the princes offered for the dedication of the altar on the day when it was anointed, their oblation before the altar.  
-**14** And the Lord said to Moses: Let each of the princes one day after another offer their gifts for the dedication of the altar.  
-**15** The first day Nahasson the son of Aminadab of the tribe of Juda offered his offering:  
-**16** And his offering was a silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides according to the weight of the sanctuary, both full of flour tempered with oil for  
-**17** A little mortar of ten sides of gold full of incense:  
-**18** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**19** And a buck goat for sin:  
-**20** And for the sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of a year old. This was the offering of Nahasson the son of Aminadab.  
-**21** The second day Nathanael the son of Suar, prince of the tribe of Issachar, made his offering,  
-**22** A silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**23** A little mortar of gold weighing ten sides full of incense:  
-**24** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**25** And a buck goat for sin:  
-**26** And for the sacrifice of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Nathanael the son of Suar.  
-**27** The third day the prince of the sons of Zabulon, Eliab the son of Helon,  
-**28** Offered a silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides by the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**29** A little mortar of gold weighing ten sides full of incense:  
-**30** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**31** And a buck goat for sin:  
-**32** And for the sacrifice of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This is the oblation of Eliab the son of Helon.  
-**33** The fourth day the prince of the sons of Ruben, Elisur the son of Sedeur,  
-**34** dummy verses inserted by amos  
-**35** A little mortar of gold weighing ten sides full of incense:  
-**36** An ox of the herd, and a ram, and a lamb of a year old, for a holocaust:  
-**37** And a buck goat for sin:  
-**38** And for victims of peace offerings two oxen, five rams, five buck goats. five lambs of a year old. This was the offering of Elisur the son of Sedeur.  
-**39** The fifth day the prince of the sons of Simeon, Salamiel the son of Surisaddai,  
-**40** Offered a silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides after the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**41** A little mortar of gold weighing ten sides full of incense:  
-**42** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**43** And a buck goat for sin:  
-**44** And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Salamiel the son of Surisaddai.  
-**45** The sixth day the prince of the sons of Gad, Eliasaph the son of Duel,  
-**46** Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides by the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**47** A little mortar of gold weighing ten sides full of incense:  
-**48** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**49** And a buck goat for sin:  
-**50** And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Eliasaph the son of Duel.  
-**51** The seventh day the prince of the sons of Ephraim, Elisama the son Ammiud,  
-**52** Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides according to the weight of the sanctuary, both full of hour tempered with oil for a sacrifice:  
-**53** A little mortar of gold weighing ten sides full of incense :  
-**54** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**55** And a buck goat for sin:  
-**56** And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Elisama the son of Ammiud.  
-**57** The eighth day the prince of the sons of Manasses, Gamaliel the son of Phadassur,  
-**58** Offered a silver dish weighing a hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**59** A little mortar of gold weighing ten sicles full of incense:  
-**60** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**61** And a buck goat for sin:  
-**62** And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Gamaliel the son of Phadassur.  
-**63** The ninth day the prince of the sons of Benjamin, Abidan the son of Gedeon,  
-**64** Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides by the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**65** A little mortar of gold weighing ten sides full of incense:  
-**66** An ox of the herd, and a ram, and a lamb of a year old for a, holocaust:  
-**67** And a buck goat for sin:  
-**68** And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Abidan the son of Gedeon.  
-**69** The tenth day the prince of the sons of Dan, Ahiezer the son of Ammisaddai,  
-**70** Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**71** A little mortar of gold weighing ten sides full of incense :  
-**72** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**73** And a buck goat for sin:  
-**74** And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Ahiezer the son of Ammisaddai.  
-**75** The eleventh day the prince of the sons of Aser, Phegiel the son of Ochran,  
-**76** Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**77** A little mortar of gold weighing ten sides full of incense:  
-**78** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**79** And a buck goat for sin:  
-**80** And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Phegiel the son of Ochran.  
-**81** The twelfth day the prince of the sons of Nephtali, Ahira the son of Enan,  
-**82** Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:  
-**83** A little mortar of gold weighing ten sides full of incense:  
-**84** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
-**85** And a buck goat for sin:  
-**86** And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Ahira the son of Enan.  
-**87** These were the offerings made by the princes of Israel in the dedication of the altar, in the day wherein it was consecrated. Twelve dishes of silver: twelve silver bowls: twelve little mortars of gold:  
-**88** Each dish weighing a hundred and thirty sides of silver, and each bowl seventy sides: that is, putting all the vessels of silver together, two thousand four hundred sides, by the weight of the sanctuary.  
-**89** Twelve little mortars of gold full of incense, weighing ten sides apiece, by the weight of the sanctuary: that is, in all a hundred and twenty sides of gold.  
-**90** Twelve oxen out of the herd for a holocaust, twelve rams, twelve lambs of a year old, and their libations: twelve buck goats for sin.  
-**91** And for sacrifices of peace offerings, oxen twenty-four, rams sixty, buck goats sixty, lambs of a year old sixty. These things were offered in the dedication of the altar, when it was anointed.  
-**92** And when Moses entered into the tabernacle of the covenant, to consult the oracle, he heard the voice of one speaking to him from the propitiatory, that was over the ark between the two cherubims, and from this place he spoke to him.  
+**1** And it came to pass in the day* that Moses had finished the tabernacle, and set it up, and had anointed and sanctified it with all its vessels, the altar likewise and all the vessels thereof,  
+**2** The princes of Israel and the heads of the families, in every tribe, who were the rulers of them who had been numbered, offered*  
+**3** Their gifts before the Lord, six waggons covered, and twelve oxen. Two princes offered one waggon, and each one an ox, and they offered them before the tabernacle.  
+**4** And the Lord said to Moses:  
+**5** Receive them from them to serve in the ministry of the tabernacle, and thou shalt deliver them to the Levites according to the order of their ministry.  
+**6** Moses therefore receiving the waggons and the oxen, delivered them to the Levites.  
+**7** Two waggons and four oxen he gave to the sons of Gerson, according to their necessity.  
+**8** The other four waggons, and eight oxen, he gave to the sons of Merari, according to their offices and service, under the hand of Ithamar, the son of Aaron, the priest.  
+**9** But to the sons of Caath he gave no waggons or oxen: because they serve in the sanctuary, and carry their burdens upon their own shoulders.  
+**10** And the princes offered for the dedication of the altar, on the day when it was anointed, their oblation before the altar.  
+**11** And the Lord said to Moses: Let each of the princes, one day after another, offer their gifts for the dedication of the altar.  
+**12** The first day Nahasson, the son of Aminadab, of the tribe of Juda, offered his offering:  
+**13** And his offering was a silver dish, weighing one hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**14** A little mortar, of ten sicles of gold, full of incense:  
+**15** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**16** And a buck-goat for sin:  
+**17** And for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five lambs of a year old. This was the offering of Nahasson, the son of Aminadab.  
+**18** The second day Nathanael, the son of Suar, prince of the tribe of Issachar, made his offering:  
+**19** A silver dish, weighing one hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**20** A little mortar of gold, weighing ten sicles, full of incense:  
+**21** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**22** And a buck-goat for sin:  
+**23** And for the sacrifice of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Nathanael, the son of Suar.  
+**24** The third day the prince of the sons of Zabulon, Eliab, the son of Helon,  
+**25** Offered a silver dish, weighing one hundred and thirty sicles, a silver bowl of seventy sicles, by the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**26** A little mortar of gold, weighing ten sicles, full of incense:  
+**27** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**28** And a buck-goat for sin:  
+**29** And for the sacrifice of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This is the oblation of Eliab, the son of Helon.  
+**30** The fourth day the prince of the sons of Ruben, Elisur, the son of Sedeur,  
+**31** Offered a silver dish, weighing one hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**32** A little mortar of gold, weighing ten sicles, full of incense:  
+**33** An ox of the herd, and a ram, and a lamb of a year old, for a holocaust:  
+**34** And a buck-goat for sin:  
+**35** And for victims of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Elisur, the son of Sedeur.  
+**36** The fifth day the prince of the sons of Simeon, Salamiel, the son of Surisaddai,  
+**37** Offered a silver dish weighing one hundred and thirty sicles, a silver bowl of seventy sicles, after the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**38** A little mortar of gold, weighing ten sicles, full of incense:  
+**39** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**40** And a buck-goat for sin:  
+**41** And for sacrifices of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Salamiel, the son of Surisaddai.  
+**42** The sixth day the prince of the sons of Gad, Eliasaph, the son of Duel,  
+**43** Offered a silver dish weighing a hundred and thirty sicles, a silver bowl of seventy sicles, by the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**44** A little mortar of gold, weighing ten sicles, full of incense:  
+**45** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**46** And a buck-goat for sin:  
+**47** And for sacrifices of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Eliasaph, the son of Duel.  
+**48** The seventh day the prince of the sons of Ephraim, Elisama, the son Ammiud,  
+**49** Offered a silver dish, weighing a hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of hour tempered with oil, for a sacrifice:  
+**50** A little mortar of gold, weighing ten sicles, full of incense:  
+**51** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**52** And a buck-goat for sin:  
+**53** And for sacrifices of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Elisama, the son of Ammiud.  
+**54** The eighth day the prince of the sons of Manasses, Gamaliel, the son of Phadassur,  
+**55** Offered a silver dish, weighing a hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**56** A little mortar of gold, weighing ten sicles, full of incense:  
+**57** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**58** And a buck-goat for sin:  
+**59** And for sacrifices of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Gamaliel, the son of Phadassur.  
+**60** The ninth day the prince of the sons of Benjamin, Abidan, the son of Gedeon,  
+**61** Offered a silver dish, weighing a hundred and thirty sicles, a silver bowl of seventy sicles, by the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**62** A little mortar of gold, weighing ten sicles, full of incense:  
+**63** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**64** And a buck-goat for sin:  
+**65** And for sacrifices of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Abidan, the son of Gedeon.  
+**66** The tenth day the prince of the sons of Dan, Ahiezer, the son of Ammisaddai,  
+**67** Offered a silver dish, weighing a hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**68** A little mortar of gold, weighing ten sicles, full of incense:  
+**69** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**70** And a buck-goat for sin:  
+**71** And for sacrifices of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Ahiezer, the son of Ammisaddai.  
+**72** The eleventh day the prince of the sons of Aser, Phegiel, the son of Ochran,  
+**73** Offered a silver dish, weighing a hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**74** A little mortar of gold, weighing ten sicles, full of incense:  
+**75** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**76** And a buck-goat for sin:  
+**77** And for sacrifices of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Phegiel, the son of Ochran.  
+**78** The twelfth day the prince of the sons of Nephthali, Ahira, the son of Enan,  
+**79** Offered a silver dish, weighing a hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil, for a sacrifice:  
+**80** A little mortar of gold, weighing ten sicles, full of incense:  
+**81** An ox of the herd, and a ram, and a lamb of a year old for a holocaust:  
+**82** And a buck-goat for sin:  
+**83** And for sacrifices of peace-offerings, two oxen, five rams, five buck-goats, five lambs of a year old. This was the offering of Ahira, the son of Enan.  
+**84** These were the offerings made by the princes of Israel, in the dedication of the altar, in the day wherein it was consecrated. Twelve dishes of silver: twelve silver bowls: twelve little mortars of gold:  
+**85** Each dish weighing a hundred and thirty sicles of silver, and each bowl seventy sicles: that is, putting all the vessels of silver together, two thousand four hundred sicles, by the weight of the sanctuary.  
+**86** Twelve little mortars of gold full of incense, weighing ten sicles apiece, by the weight of the sanctuary: that is, in all, a hundred and twenty sicles of gold.  
+**87** Twelve oxen out of the herd for a holocaust, twelve rams, twelve lambs of a year old, and their libations: twelve buck-goats for sin.  
+**88** And for sacrifices of peace-offerings, oxen twenty-four, rams sixty, buck-goats sixty, lambs of a year old sixty. These things were offered in the dedication of the altar, when it was anointed.  
+**89** And when Moses entered into the tabernacle of the covenant, to consult the oracle, he heard the voice of one speaking to him from the propitiatory, that was over the ark between the two cherubims, and from this place he spoke to him.  
 
 ---
 

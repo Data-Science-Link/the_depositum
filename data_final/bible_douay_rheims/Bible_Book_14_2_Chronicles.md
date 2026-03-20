@@ -128,28 +128,28 @@ format: markdown
 
 ## Chapter 4
 
-**1** He made also an altar of brass twenty cubits long, and twenty cubits broad, and ten cubits high.  
-**3** Also a molten sea of ten cubits from brim to brim, round in compass: it was five cubits high, and a line of thirty cubits compassed it round about.  
-**4** And under it there was the likeness of oxen, and certain engravings on the outside of ten cubits compassed the belly of the sea, as it were with two rows.  
-**5** And the oxen were cast: and the sea itself was set upon the twelve oxen, three of which looked toward the north, and other three toward the west: and other three toward the south, and the other three that remained toward the east, and the sea stood upon them: and the hinder parts of the oxen were in- ward under the sea.  
-**6** Now the thickness of it was a handbreadth, and the brim of it was like the brim of a cup, or of a crisped lily: and it held three thousand measures.  
-**7** He made also ten lavers: and he see five on the right hand, and five on the left, to wash in them all such things as they mere to offer for holocausts: but the sea was for the priests to wash in.  
-**8** And he made ten golden candlesticks, according to the form which they were commanded to be made by: and he set them in the temple, five on the right hand, and five on the left.  
-**9** Moreover also ten tables: and he set them in the temple, five on the right side, and five on the left. Also a hundred bowls of gold.  
-**10** He made also the court of the priests, and a great hall, and doors in the hall, which he covered with brass.  
-**11** And he set the sea on the right side over against the east toward the south.  
-**12** And Hiram made caldrons, and fleshhooks, and bowls: and finished all the king's work in the house of God:  
-**13** That is to say, the two pillars, and the pommels, and the chapiters, and the network, to cover the chapiters over the pommels.  
-**14** And four hundred pomegranates, and two wreaths of network, so that two rows of pomegranates were joined to each wreath, to cover the pommels, and the chapiters of the pillars.  
-**15** He made also bases, and lavers, which he set upon the bases:  
-**16** One sea, and twelve oxen under the sea;  
-**17** And the caldrons, and fleshhooks, and bowls. All the vessels did Hiram his father make for Solomon in the house of the Lord of the finest brass.  
-**18** In the country near the Jordan did the king cast them, in a clay ground between Sochot and Saredatha.  
-**19** And the multitude of vessels was innumerable, so that the weight of the brass was not known.  
-**20** And Solomon made all the vessels for the house of God, and the golden altar, and the tables, upon which were the leaves of proposition,  
-**21** The candlesticks also of most pure gold with their lamps to give light before the oracle, according to the manner.  
-**22** And certain flowers, and lamps, and golden tongs: all were made of the finest gold.  
-**23** The vessels also for the perfumes, and the censers, and the bowls, and the mortars, of pure gold. And he graved the doors of the inner temple, that is, for the holy of holies: and the doors of the temple without were of gold. And thus all the work was finished which So  
+**1** He made also an altar of brass, twenty cubits long, and twenty cubits broad, and ten cubits high.  
+**2** *Also a molten sea, of ten cubits from brim to brim, round in compass: it was five cubits high, and a line of thirty cubits compassed it round about.  
+**3** And under it there was the likeness of oxen, and certain engravings on the outside of ten cubits, compassed the belly of the sea, as it were with two rows.  
+**4** And the oxen were cast, and the sea itself was set upon the twelve oxen, three of which looked towards the north, and other three towards the west, and other three towards the south, and the other three that remained toward, the east, and the sea stood upon them: and the hinder parts of the oxen were inward under the sea.  
+**5** Now the thickness of it was a handbreadth, and the brim of it was like the brim of a cup, or of a crisped lily: and it held three thousand measures.  
+**6** He made also ten lavers, and he set five on the right hand, and five on the left, to wash in them all such things, as they were to offer for holocausts: but the sea was for the priests to wash in.  
+**7** And he made ten golden candlesticks, according to the form which they were commanded to be made by: and he set them in the temple, five on the right hand, and five on the left.  
+**8** Moreover also ten tables: and he set them in the temple, five on the right side, and five on the left. Also a hundred bowls of gold.  
+**9** He made also the court of the priests, and a great hall, and doors in the hall, which he covered with brass.  
+**10** And he set the sea on the right side, over-against the east, towards the south.  
+**11** And Hiram made cauldrons, and flesh-hooks, and bowls, and finished all the king's work in the house of God;  
+**12** That is to say, the two pillars, and the pommels, and the chapiters, and the net-work to cover the chapiters over the pommels.  
+**13** And four hundred pomegranates, and two wreaths of net-work, so that two rows of pomegranates were joined to each wreath, to cover the pommels and the chapiters of the pillars.  
+**14** He made also bases and lavers, which he set upon the bases:  
+**15** One sea, and twelve oxen under the sea;  
+**16** And the cauldrons, and flesh-hooks, and bowls. All the vessels did Hiram, his father, make for Solomon, in the house of the Lord, of the finest brass.  
+**17** In the country near the Jordan, did the king cast them, in a clay ground between Sochot and Saredatha.  
+**18** And the multitude of vessels was innumerable, so that the weight of the brass was not known.  
+**19** And Solomon made all the vessels for the house of God, and the golden altar, and the tables, upon which were the loaves of proposition.  
+**20** The candlesticks also of most pure gold, with their lamps, to give light before the oracle, according to the manner.  
+**21** And certain flowers, and lamps, and golden tongs: all were made of the finest gold.  
+**22** The vessels also for the perfumes, and the censers, and the bowls, and the mortars, of pure gold. And he graved the doors of the inner temple, that is, for the holy of holies: and the doors of the temple without were of gold. And thus all the work was finished, which Sol  
 
 ---
 
@@ -839,33 +839,33 @@ format: markdown
 
 ## Chapter 30
 
-**1** And Ezechias sent to all Israel and Juda: and he wrote letters to Ephraim and Manasses, that they should come to the house of the Lord in Jerusalem, and keep the phase to the Lord the God of Israel.  
-**3** For the king, taking counsel, and the princes, and all the assembly of Jerusalem, decreed to keep the phase the second month.  
-**4** For they could not keep it in its time; because there were not priests enough sanctified, and the people was not as yet gathered together to Jerusalem.  
-**5** And the thing pleased the king, and all the people.  
-**6** And they decreed to send messengers to all Israel from Bersabee even to Dan, that they should come, and keep the phase to the Lord the God of Israel in Jerusalem: for many had not kept it as it is prescribed by the law.  
-**7** And the posts went with letters by commandment of the king, and his princes, to all Israel and Juda, proclaiming according to the king's orders: Ye children of Israel, turn again to the Lord the God of Abraham, and of Isaac, and of Israel: and he will return to the remnant of you that have escaped the hand of the king of the Assyrians.  
-**8** Be not like your fathers, and brethren, who departed from the Lord the God of their fathers, and he hath given them up to destruction, as you see.  
-**9** Harden not your necks, as your fathers did: yield yourselves to the Lord, and come to his sanctuary, which he hath sanctified for ever: serve the Lord the God of your fathers, and the wrath of his indignation shall be turned away from you.  
-**10** For if you turn again to the Lord: your brethren, and children shall find mercy before their masters, that have led them away captive, and they shall return into this land: for the Lord your God is merciful, and will not turn away his face from you, if you return to him.  
-**11** So the posts went speedily from city to city, through the land of Ephraim, and of Manasses, even to ZabuloI  
-**12** Nevertheless some men of Aser, and of Manasses, and of Zabulon, yielding to the counsel, came to Jerusalem.  
-**13** But the hand of God was in Juda, to give them one heart to do the word of the Lord, according to the commandment of the king, and of the princes.  
-**14** And much people were assembled to Jerusalem to celebrate the solemnity of the unleavened bread in the second month:  
-**15** And they arose and destroyed the altars that were in Jerusalem, and took sway all things in which incense was burnt to idols, and cast them into the torrent Cedron.  
-**16** And they immolated the phase on the fourteenth day of the second month. And the priests and the Levites being at length sanctified offered holocausts in the house of the Lord.  
-**17** And they stood in their order according to the disposition, and law of Moses the man of God: but the priests received the blood which was to be poured out, from the hands of the Levites,  
-**18** Because a great number was not sanctified: and therefore the Levites immolated the phase for them that came not in time to be sanctified to the Lord.  
-**19** For a great part of the people from Ephraim, and Manasses, and Issachar, and Zabulon, that had not been sanctified, ate the phase otherwise than it is written: and Ezechias prayed for them, saying: The Lord who is good will shew mercy,  
-**20** To all them, who with their whole heart, seek the Lord the God of their fathers: and will not impute it to them that they are not sanctified.  
-**21** And the Lord heard him, and was merciful to the people.  
-**22** And the children of Israel, that were found at Jerusalem, kept the feast of unleavened bread seven days with great joy, praising the Lord every day: the Levites also, and the priests, with instruments that agreed to their office.  
-**23** And Ezechias spoke to the heart of all the Levites, that had good understanding concerning the Lord: and they ate during the seven days of the solemnity, immolating victims of peace offerings, and praising the Lord the God of their fathers.  
-**24** And it pleased the whole multitude to keep other seven days: which they did with great joy.  
-**25** For Ezechias the king of Juda had given to the multitude a thousand bullocks, and seven thousand sheep: and the princes had given the people a thousand bullocks, and ten thousand sheep: and a great number of priests was sanctified.  
-**26** And all the multitude of Juda with the priests and Levites, and all the assembly, that came out of Israel; and the proselytes of the land of Israel, and that dwelt in Juda were full of joy.  
-**27** And there was a great solemnity in Jerusalem, such as had not been in that city since the time of Solomon the son of David king of Israel.  
-**28** And the priests and the Levites rose up and blessed the people: and their voice was heard: and their prayer came to the holy dwelling place of heaven.  
+**1** And *Ezechias sent to all Israel and Juda: and he wrote letters to Ephraim and Manasses, that they should come to the house of the Lord, in Jerusalem, and keep the Phase to the Lord, the God of Israel.  
+**2** For the king, taking counsel, and the princes, and all the assembly of Jerusalem, decreed to keep the Phase the second month.  
+**3** For they could not keep it in its time: because there were not priests enough sanctified; and the people was not as yet gathered together to Jerusalem.  
+**4** And the thing pleased the king, and all the people.  
+**5** And they decreed to send messengers to all Israel, from Bersabee even to Dan, that they should come, and keep the Phase to the Lord, the God of Israel, in Jerusalem: for many had not kept it as it is prescribed by the law.  
+**6** And the posts went with letters by commandment of the king, and his princes, to all Israel and Juda, proclaiming according to the king's orders: Ye children of Israel, turn again to the Lord, the God of Abraham, and of Isaac, and of Israel: and he will return to the remnant of you that have escaped the hand of the king of the Assyrians.  
+**7** Be not like your fathers, and brethren, who departed from the Lord, the God of their fathers, and he hath given them up to destruction, as you see.  
+**8** Harden not your necks, as your fathers did: yield yourselves to the Lord, and come to his sanctuary, which he hath sanctified for ever: serve the Lord, the God of your fathers, and the wrath of his indignation shall be turned away from you.  
+**9** For if you turn again to the Lord: your brethren, and children, shall find mercy before their masters, that have led them away captive, and they shall return into this land: for the Lord, your God, is merciful, and will not turn away his face from you, if you return to him.  
+**10** So the posts went speedily from city to city, through the land of Ephraim, and of Manasses, even to Zabulon, whilst they laughed at them, and mocked them.  
+**11** Nevertheless, some men of Aser, and of Manasses, and of Zabulon, yielding to the counsel, came to Jerusalem.  
+**12** But the hand of God was in Juda, to give them one heart to do the word of the Lord, according to the commandment of the king, and of the princes.  
+**13** And much people were assembled to Jerusalem, to celebrate the solemnity of the unleavened bread in the second month.  
+**14** And they arose, and destroyed the altars that were in Jerusalem, and took away all things in which incense was burnt to idols, and cast them into the torrent Cedron.  
+**15** And they immolated the Phase on the fourteenth day of the second month. And the priests and the Levites being at length sanctified, offered holocausts in the house of the Lord.  
+**16** And they stood in their order, according to the disposition, and law of Moses, the man of God: but the priests received the blood which was to be poured out, from the hands of the Levites,  
+**17** Because a great number was not sanctified: and, therefore, the Levites immolated the Phase for them that came not in time to be sanctified to the Lord.  
+**18** For a great part of the people from Ephraim, and Manasses, and Issachar, and Zabulon, that had not been sanctified, eat the Phase, otherwise than it is written: and Ezechias prayed for them, saying: The Lord, who is good, will shew mercy,  
+**19** To all them, who with their whole heart, seek the Lord, the God of their fathers: and will not impute it to them, that they are not sanctified.  
+**20** And the Lord heard him, and was merciful to the people.  
+**21** And the children of Israel, that were found at Jerusalem, kept the feast of unleavened bread seven days, with great joy, praising the Lord every day: The Levites also, and the priests, with instruments, that agreed to their office.  
+**22** And Ezechias spoke to the heart of all the Levites, that had good understanding, concerning the Lord: and they eat during the seven days of the solemnity, immolating victims of peace-offerings, and praising the Lord, the God of their fathers.  
+**23** And it pleased the whole multitude to keep other seven days: which they did with great joy.  
+**24** For Ezechias, the king of Juda, had given to the multitude a thousand bullocks, and seven thousand sheep: and the princes had given the people a thousand bullocks, and ten thousand sheep: and a great number of priests was sanctified.  
+**25** And all the multitude of Juda, with the priests and Levites, and all the assembly, that came out of Israel: and the proselytes of the land of Israel, and that dwelt in Juda, were full of joy.  
+**26** And there was a great solemnity in Jerusalem, such as had not been in that city since the time of Solomon, the son of David, king of Israel.  
+**27** And the priests and the Levites rose up, and blessed the people: and their voice was heard: and their prayer came to the holy dwelling-place of heaven.  
 
 ---
 

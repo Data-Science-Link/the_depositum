@@ -59,53 +59,52 @@ format: markdown
 
 ## Chapter 1
 
-**1** These are the words, which Moses spoke to all Israel beyond the Jordan, in the plain wilderness, over against the Red Sea, between Pharan and Thophel and Laban and Haseroth, where there is very much gold:  
-**2** Eleven days' journey from Horeb by the way of Mount Seir to Cadesbarne.  
-**3** In the fortieth year, the eleventh month, the first day of the month, Moses spoke to the children of Israel all that the Lord had commanded him to say to them:  
-**4** After that he had slain Sehon king of the Amorrhites, who dwelt in Hesebon: and Og king of Basan who abode in Astaroth, and in Edrai,  
-**6** l And you answered me: We have sinned against the Lord: we will go up and fight, as the Lord our God hath commanded. And when you went ready armed unto the mountain,  
-**7** Beyond the Jordan in the land of Moab. And Moses began to expound the law, and to say:  
-**8** The Lord our God spoke to us in Horeb, saying: You have stayed long enough in this mountain:  
-**9** Turn you, and come to the mountain of the Amorrhites, and to the other places that are next to it, the plains and the hills and the vales towards the south, and by the sea shore, the land of the Chanaanites, and of Libanus, as far as the great river Euphrates.  
-**10** Behold, said he, I have delivered it to you: go in and possess it, concerning which the Lord swore to your fathers Abraham, Isaac, and Jacob, that he would give it to them, and to their seed after them.  
-**11** And I said to you at that time:  
-**12** I alone am not able to bear you: for the Lord your God hath multiplied you, and you are this day as the stars of heaven, for multitude.  
-**13** (The Lord God of your fathers add to this number many thousands, and bless you as he hath spoken.)  
-**14** I alone am not able to bear your business, and the charge of you and your differences.  
-**15** Let me have from among you wise and understanding men, and such whose conversation is approved among your tribes, that I may appoint them your rulers.  
-**16** Then you answered me: The thing is good which thou meanest to do.  
-**17** And I took out of your tribes men wise and honourable, and appointed them rulers, tribunes, and centurions, and officers over fifties, and over tens, who might teach you all things.  
-**18** And I commanded them, saying: Hear them, and judge that which is just: whether he be one of your country, or a stranger.  
-**19** There shall be no difference of persons, you shall hear the little as well as the great: neither shall you respect any man's person, because it is the judgment of God. And if any thing seem hard to you, refer it to me, and I will hear it.  
-**20** And I commanded you all things that you were to do.  
-**21** And departing from Horeb, we passed through the terrible and vast wilderness, which you saw, by the way of the mountain of the Amorrhite, as the Lord our God had commanded us. And when we were come into Cadesbarne,  
-**22** I said to you: You are come to the mountain of the Amorrhite, which the Lord our God will give to us.  
-**23** See the land which the Lord thy God giveth thee: go up and possess it, as the Lord our God hath spoken to thy fathers: fear not, nor be any way discouraged.  
-**24** And you came all to me, and said: Let us send men who may view the land, and bring us word what way we shall go up, and to what cities we shall go.  
-**25** And because the saying pleased me, I sent of you twelve men, one of every tribe:  
-**26** Who, when they had set forward and had gone up to the mountains, came as far as the valley of the cluster: and having viewed the land,  
-**27** Taking of the fruits thereof, to shew its fertility, they brought them to us, and said: The land is good, which the Lord our God will give us.  
-**28** And you would not go up, but being incredulous to the word of the Lord our God,  
-**29** You murmured in your tents, and said: The Lord hateth us, and therefore he hath brought us out of the land of Egypt, that he might deliver us into the hand of the Amorrhite, and destroy us.  
-**30** Whither shall we go up? the messengers have terrified our hearts, saying: The multitude is very great, and taller than we: the cities are great, and walled up td the sky, we have seen the sons of the Enacims there.  
-**31** And I said to you: Fear not, neither be ye afraid of them:  
-**32** The Lord God, who is your leader, himself will fight for you, as he did in Egypt in the sight of all.  
-**33** And in the wilderness (as thou hast seen) the Lord thy God hath carried thee, as a man is wont to carry his little son, all the way that you have come, until you came to this place.  
-**34** And yet for all this you did not believe the Lord your God,  
-**35** Who went before you in the way, and marked out the place, wherein you should pitch your tents, in the night shewing you the way by fire, and in the day by the pillar of a cloud.  
-**36** And when the Lord had heard the voice of your words, he was angry and swore, and said:  
-**37** Not one of the men of this wicked generation shall see the good land, which I promised with an oath to your fathers:  
-**38** Except Caleb the son of Jephone: for he shall see it, and to him I will give the land that he hath trodden upon, and to his children, because he hath followed the Lord.  
-**39** Neither is his indignation against the people to be wondered at, since the Lord was angry with me also on your account, and said: Neither shalt thou go in thither.  
-**40** But Josue the son of Nun, thy minister, he shall go in for thee: exhort and encourage him, and he shall divide the land by lot to Israel.  
-**41** Your children, of whom you said that they should be led away captives, and your sons who know not this day the difference of good and evil, they shall go in: and to them I will give the land, and they shall possess it.  
-**42** But return you and go into the wilderness by the way of the Red Sea.  
-**43** dummy verses inserted by amos  
-**44** The Lord said to me: Say to them: Go not up, and fight not, for I am not with you: lest you fall before your enemies.  
-**45** I spoke, and you hearkened not: but resisting the commandment of the Lord, and swelling with pride, you went up into the mountain.  
-**46** And the Amorrhite that dwelt in the mountains coming out, and meeting you, chased you, as bees do: and made slaughter of you from Seir as far as Horma.  
-**47** And when you returned and wept before the Lord, he heard you not, neither would he yield to ;your voice.  
-**48** So you abode in Cadesbarne a long time.  
+**1** These are the words, which Moses spoke to all Israel beyond the Jordan, in the plain wilderness, over-against the Red Sea, between Pharan and Thophel, and Laban and Haseroth, where there is very much gold:  
+**2** Eleven days' journey from Horeb, by the way of Mount Seir, to Cades-barne.  
+**3** *In the fortieth year, the eleventh month, the first day of the month, Moses spoke to the children of Israel, all that the Lord had commanded him to say to them:  
+**4** *After that he had slain Sehon, king of the Amorrhites, who dwelt in Hesebon: and Og, king of Basan, who abode in Astaroth, and in Edrai,  
+**5** Beyond the Jordan in the land of Moab. And Moses began to expound the law, and to say:  
+**6** The Lord our God spoke to us in Horeb, saying: You have stayed long enough in this mountain:  
+**7** Turn you, and come to the mountain of the Amorrhites, and to the other places that are next to it, the plains, and the hills, and the vales, towards the south, and by the sea shore, the land of the Chanaanites, and of Libanus, as far as the great river Euphrates.  
+**8** Behold, said he, I have delivered it to you: go in and possess it, concerning which the Lord swore to your fathers, Abraham, Isaac, and Jacob, that he would give it to them, and to their seed after them.  
+**9** And I said to you at that time:  
+**10** *I alone am not able to bear you: for the Lord your God hath multiplied you, and you are this day as the stars of heaven, for multitude.  
+**11** (The Lord God of your fathers add to this number many thousands, and bless you as he hath spoken.)  
+**12** I alone am not able to bear your business, and the charge of you and your differences.  
+**13** Let me have from among you wise and understanding men, and such whose conversation is approved among your tribes, that I may appoint them your rulers.  
+**14** Then you answered me: The thing is good which thou meanest to do.  
+**15** And I took out of your tribes men wise and honourable, and appointed them rulers, tribunes, and centurions, and officers over fifties, and over tens, who might teach you all things.  
+**16** And I commanded them, saying: Hear them, and judge that which is just: *whether he be one of your country, or a stranger.  
+**17** *There shall be no difference of persons, you shall hear the little as well as the great: neither shall you respect any man's person, because it is the judgment of God. And if any thing seem hard to you, refer it to me, and I will hear it.  
+**18** And I commanded you all things that you were to do.  
+**19** And departing from Horeb, we passed through the terrible and vast wilderness, which you saw, by the way of the mountain of the Amorrhite, as the Lord our God had commanded us. And when we were come into Cades-barne,  
+**20** I said to you: You are come to the mountain of the Amorrhite, which the Lord our God will give to us.  
+**21** See the land which the Lord thy God giveth thee: go up and possess it, as the Lord our God hath spoken to thy fathers: fear not, nor be any way discouraged.  
+**22** *And you came all to me, and said: Let us send men who may view the land, and bring us word what way we shall go up, and to what cities we shall go.  
+**23** And because the saying pleased me, I sent of you twelve men, one of every tribe:  
+**24** Who, when they had set forward, and had gone up to the mountains, came as far as the valley of the cluster: and having viewed the land,  
+**25** Taking of the fruits thereof, to shew its fertility, they brought them to us, and said: The land is good, which the Lord our God will give us.  
+**26** And you would not go up, but being incredulous to the word of the Lord our God,  
+**27** You murmured in your tents, and said: The Lord hateth us, and therefore he hath brought us out of the land of Egypt, that he might deliver us into the hand of the Amorrhite, and destroy us.  
+**28** Whither shall we go up? the messengers have terrified our hearts, saying: The multitude is very great, and taller than we: the cities are great, and walled up to the sky, we have seen the sons of the Enacims there.  
+**29** And I said to you: Fear not, neither be ye afraid of them:  
+**30** The Lord God, who is your leader, himself will fight for you, as he did in Egypt in the sight of all.  
+**31** And in the wilderness (as thou hast seen) the Lord thy God hath carried thee, as a man is wont to carry his little son, all the way that you have come, until you came to this place.  
+**32** And yet for all this you did not believe the Lord your God,  
+**33** *Who went before you in the way, and marked out the place wherein you should pitch your tents, in the night shewing you the way by fire, and in the day by the pillar of a cloud.  
+**34** And when the Lord had heard the voice of your words, he was angry and swore, and said:  
+**35** *Not one of the men of this wicked generation shall see the good land, which I promised with an oath to your fathers:  
+**36** Except Caleb, the son of Jephone: for he shall see it, and to him I will give the land, that he hath trodden upon, and to his children, because he hath followed the Lord.  
+**37** Neither is his indignation against the people to be wondered at, since the Lord was angry with me also on your account, and said: Neither shalt thou go in thither.  
+**38** But Josue, the son of Nun, thy minister, he shall go in for thee: exhort and encourage him, and he shall divide the land by lot to Israel.  
+**39** Your children, of whom you said that they should be led away captives, and your sons, who know not this day the difference of good and evil, they shall go in: and to them I will give the land, and they shall possess it.  
+**40** But return you and go into the wilderness by the way of the Red Sea.  
+**41** *And you answered me: We have sinned against the Lord: we will go up and fight, as the Lord our God hath commanded. And when you went ready armed unto the mountain,  
+**42** The Lord said to me: Say to them: *Go not up, and fight not, for I am not with you: lest you fall before your enemies.  
+**43** I spoke, and you hearkened not: but resisting the commandment of the Lord, and swelling with pride, you went up into the mountain.  
+**44** And the Amorrhite that dwelt in the mountains, coming out, and meeting you, chased you, as bees do: and made slaughter of you from Seir as far as Horma.  
+**45** And when you returned and wept before the Lord, he heard you not, neither would he yield to your voice.  
+**46** So you abode in Cades-barne a long time.  
 
 ---
 
@@ -426,37 +425,38 @@ format: markdown
 
 ## Chapter 11
 
-**1** Therefore love the Lord thy God and observe his precepts and ceremonies, his judgments and commandments at all times.  
-**2** Know this day the things that your children know not, who saw not the chastisements of the Lord your God. his great doings and strong hand, and stretched out arm,  
+**1** Therefore *love the Lord thy God and observe his precepts and ceremonies, his judgments and commandments, at all times.  
+**2** Know this day the things that your children know not, who saw not the chastisements of the Lord your God, his great doings and strong hand, and stretched-out arm,  
 **3** The signs and works which he did in the midst of Egypt to king Pharao, and to all his land,  
 **4** And to all the host of the Egyptians, and to their horses and chariots: how the waters of the Red Sea covered them, when they pursued you, and how the Lord destroyed them until this present day:  
 **5** And what he hath done to you in the wilderness, till you came to this place:  
-**6** And to Dathan and Abiron the sons of Eliab, who was the son of Ruben: whom the earth, opening her mouth swallowed up with their households and tents, and all their substance, which they had in the midst of Israel.  
-**8** Your eyes have seen all the greet works of the Lord, that he hath done,  
-**9** That you may keep all his commandments, which I command you this day, and may go in, and possess the land, to which you are entering,  
-**10** And may live in it a long time: which the Lord promised by oath to your fathers, and to their seed, a land which floweth with milk and honey.  
-**11** For the land, which thou goest to possess, is not like the land of Egypt, from whence thou camest out, where, when the seed is sown, waters are brought in to water it after the manner of gardens.  
-**12** But it is a land of hills and plains, expecting rain from heaven.  
-**13** And the Lord thy God doth always visit it, and his eyes are on it from the beginning of the year unto the end thereof.  
-**14** If then you obey my commandments, which I command you this day, that you love the Lord your God, and serve him with all your heart, and with all your soul:  
-**15** He will give to your land the early rain and the latter rain, that you may gather in your corn, and your wine, and your oil,  
-**16** And your hay out of the fields to feed your cattle, and that you may eat and be filled.  
-**17** Beware lest perhaps your heart be deceived, and you depart from the Lord, and serve strange gods, and adore them:  
-**18** And the Lord being angry shut up heaven, that the rain come not down, nor the earth yield her fruit, and you perish quickly from the excellent land, which the Lord will give you.  
-**19** Lay up these my words in your hearts and minds, and hang them for a sign on your hands, and place them between your eyes.  
-**20** Teach your children that they meditate on them, when thou sittest in thy house, and when thou walkest on the way, end when thou liest down and risest up.  
-**21** Thou shalt write them upon the posts and the doors of thy house:  
-**22** That thy days may be multiplied, and the days of thy children in the land which the Lord swore to thy fathers, that he would give them as long as the heaven hangeth over the earth.  
-**23** For if you keep the commandments which I command you, and do them, to love the Lord your God, and walk in all his ways, cleaving unto him,  
-**24** The Lord will destroy all these nations before your face, and you shall possess them, which are greater and stronger than you.  
-**25** Every place, that your foot shall tread upon, shall be yours. From the desert, and from Libanus, from the great river Euphrates unto the western sea shall be your borders.  
-**26** None shall stand against you: the Lord your God shall lay the dread and fear of you upon all the land that you shall tread upon, as he hath spoken to you.  
-**27** Behold I set forth in your sight this day a blessing and a curse:  
-**28** A blessing, if you obey the commandments of the Lord your God, which I command you this day:  
-**29** A curse, if you obey not the commandments of the Lord your. God, but revolt from the way which now I shew you, and walk after strange gods which you know not.  
-**30** And when the Lord thy God shall have brought thee into the land, whither thou goest to dwell, thou shalt put the blessing upon mount Garizim, the curse upon mount Hebal:  
-**31** Which are beyond the Jordan, behind the way that goeth to the setting of the sun, in the land of the Chanaanite who dwelleth in the plain country over against Galgala, which is near the valley that reacheth and entereth far.  
-**32** For you shall pass over the Jordan, to possess the land, which the Lord your God will give you, that you may have it and possess it.  
+**6** *And to Dathan and Abiron, the sons of Eliab, who was the son of Ruben: **whom the earth, opening her mouth, swallowed up, with their households and tents, and all their substance, which they had in the midst of Israel.  
+**7** Your eyes have seen all the greet works of the Lord that he hath done,  
+**8** That you may keep all his commandments, which I command you this day, and may go in, and possess the land, to which you are entering,  
+**9** And may live in it a long time: which the Lord promised by oath to your fathers, and to their seed, a land which floweth with milk and honey.  
+**10** For the land, which thou goest to possess, is not like the land of Egypt, from whence thou camest out, where, when the seed is sown, waters are brought in to water it after the manner of gardens:  
+**11** But it is a land of hills and plains, expecting rain from heaven.  
+**12** And the Lord thy God doth always visit it, and his eyes are on it from the beginning of the year unto the end thereof.  
+**13** *If then you obey my commandments, which I command you this day, that you love the Lord your God, and serve him with all your heart, and with all your soul:  
+**14** He will give to your land the early rain and the latter rain, that you may gather in your corn, and your wine, and your oil,  
+**15** And your hay out of the fields to feed your cattle, and that you may eat and be filled.  
+**16** Beware lest perhaps your heart be deceived, and you depart from the Lord, and serve strange gods, and adore them:  
+**17** And the Lord being angry shut up heaven, that the rain come not down, nor the earth yield her fruit, and you perish quickly from the excellent land, which the Lord will give you.  
+**18** *Lay up these my words in your hearts and minds, and hang them for a sign on your hands, and place them between your eyes.  
+**19** Teach your children that they meditate on them, when thou sittest in thy house, and when thou walkest on the way, and when thou liest down and risest up.  
+**20** Thou shalt write them upon the posts and the doors of thy house:  
+**21** That thy days may be multiplied, and the days of thy children in the land, which the Lord swore to thy fathers, that he would give them as long as the heaven hangeth over the earth.  
+**22** For if you keep the commandments which I command you, and do them, to love the Lord your God, and walk in all his ways, cleaving unto him,  
+**23** The Lord will destroy all these nations before your face, and you shall possess them, which are greater and stronger than you.  
+**24** *Every place, that your foot shall tread upon, shall be yours. From the desert, and from Libanus, from the great river Euphrates unto the western sea shall be your borders.  
+**25** None shall stand against you: the Lord your God shall lay the dread and fear of you upon all the land, that you shall tread upon, as he hath spoken to you.  
+**26** Behold I set forth in your sight this day a blessing and a curse:  
+**27** A blessing, if you obey the commandments of the Lord your God, which I command you this day:  
+**28** A curse, if you obey not the commandments of the Lord your God, but revolt from the way, which now I shew you, and walk after strange gods, which you know not.  
+**29** And when the Lord thy God shall have brought thee into the land, whither thou goest to dwell, thou shalt put the blessing upon Mount Garizim, the curse upon Mount Hebal:  
+**30** Which are beyond the Jordan, behind the way that goeth to the setting of the sun, in the land of the Chanaanite, who dwelleth in the plain country over-against Galgala, which is near the valley that reacheth and entereth far.  
+**31** For you shall pass over the Jordan, to possess the land, which the Lord your God will give you, that you may have it, and possess it.  
+**32** See therefore that you fulfil the ceremonies and judgments, which I shall set this day before you.  
 
 ---
 
@@ -859,24 +859,24 @@ format: markdown
 ## Chapter 26
 
 **1** And when thou art come into the land which the Lord thy God will give thee to possess, and hast conquered it, and dwellest in it:  
-**2** Thou shalt take the first of all thy fruits, and put then? in a basket, and shalt go to the place which the Lord thy God shall choose, that his name may be invocated there:  
+**2** Thou shalt take the first of all thy fruits, and put them in a basket, and shalt go to the place which the Lord thy God shall choose, that his name may be invocated there:  
 **3** And thou shalt go to the priest that shall be in those days, and say to him: I profess this day before the Lord thy God, that I am come into the land, for which he swore to our fathers, that he would give it us.  
 **4** And the priest taking the basket at thy hand, shall set it before the altar of the Lord thy God:  
-**5** And thou shalt speak thus in the sight of the Lord thy God: The Syrian pursued my father, who went down into Egypt, and sojourned there in a very small number, and grew into a nation great and strong and of an infinite multitude.  
-**6** And the Egyptians afflicted us, and persecuted us, laying on us most grievous burdens :  
-**7** And we cried to the Lord God of our fathers: who heard us, and looked down upon our af  
-**9** And brought us out of Egypt with a strong hand, and a stretched out arm, with great terror, with signs and wonders:  
-**10** And brought us into this place, and gave us this land flowing with milk and honey.  
-**11** And therefore now I offer the firstfruits of the land which the Lord hath given me. And thou shalt leave them in the sight of the ford thy God, adoring the Lord thy God.  
-**12** And thou shalt feast in all the good things which the Lord thy God hath given thee, and thy house, thou and the Levite, and the stranger that is with thee.  
-**13** When thou hast made an end of tithing all thy fruits, in the third year of tithes thou shalt give it to the Levite, and to the stranger, and to the fatherless, and to the widow, that they may eat within thy gates, and be filled:  
-**14** And thou shalt speak thus in the sight of the Lord thy God: I have taken that which was sanctified out of my house, and I have given it to the Levite, and to the stranger, and to the fatherless, and to the widow, as thou hast commanded me: I have not transgressed thy commandments nor forgotten thy precepts.  
-**15** I have not eaten of them is my mourning, nor separated them for any uncleanness, nor spent any thing of them in funerals. I have obeyed the voice of the Lord my God, and have done all things as thou hast commanded me.  
-**16** Look from thy sanctuary, and thy high habitation of heaven, and bless thy people Israel, and the land which thou hast given us, as thou didst swear to our fathers, a land flowing with milk and honey.  
-**17** This day the Lord thy God hath commanded thee to do these commandments and judgments: and to keep and fulfil them with all thy heart, and with all thy soul.  
-**18** Thou hast chosen the Lord this day to be thy God, and to walk in his ways and keep his ceremonies, and precepts, end judgments, and obey his command.  
-**19** And the Lord hath chosen thee this day, to be his peculiar people, as he hath spoken to thee, and to keep all his commandments:  
-**20** And to make thee higher than all nations which he hath created, to his own praise, and name, and glory: that thou mayst be a holy people of the Lord thy God, as he hath spoken.  
+**5** And thou shalt speak thus in the sight of the Lord thy God: The Syrian pursued my father, who went down into Egypt, and sojourned there in a very small number, and grew into a nation great and strong, and of an infinite multitude.  
+**6** And the Egyptians afflicted us, and persecuted us, laying on us most grievous burdens:  
+**7** And we cried to the Lord God of our fathers: who heard us, and looked down upon our affliction, and labour, and distress:  
+**8** And brought us out of Egypt with a strong hand, and a stretched-out arm, with great terror, with signs and wonders:  
+**9** And brought us into this place, and gave us this land, flowing with milk and honey.  
+**10** And therefore now I offer the first-fruits of the land, which the Lord hath given me. And thou shalt leave them in the sight of the Lord thy God, adoring the Lord thy God.  
+**11** And thou shalt feast in all the good things which the Lord thy God hath given thee, and thy house, thou, and the Levite, and the stranger that is with thee.  
+**12** When thou hast made an end of tithing all thy fruits, in the third year of tithes, thou shalt give it to the Levite, and to the stranger, and to the fatherless, and to the widow, that they may eat within thy gates, and be filled:  
+**13** And thou shalt speak thus in the sight of the Lord thy God: *I have taken that which was sanctified out of my house, and I have given it to the Levite, and to the stranger, and to the fatherless, and to the widow, as thou hast commanded me: I have not transgressed thy commandments nor forgotten thy precepts.  
+**14** I have not eaten of them is my mourning, nor separated them for any uncleanness, nor spent any thing of them in funerals. I have obeyed the voice of the Lord my God, and have done all things as thou hast commanded me.  
+**15** *Look from thy sanctuary, and thy high habitation of heaven, and bless thy people Israel, and the land which thou hast given us, as thou didst swear to our fathers, a land flowing with milk and honey.  
+**16** This day the Lord thy God hath commanded thee to do these commandments and judgments: and to keep and fulfil them, with all thy heart, and with all thy soul.  
+**17** Thou hast chosen the Lord this day to be thy God, and to walk in his ways, and keep his ceremonies, and precepts, and judgments, and obey his command.  
+**18** *And the Lord hath chosen thee this day, to be his peculiar people, as he hath spoken to thee, and to keep all his commandments:  
+**19** And to make thee higher than all nations which he hath created, to his own praise, and name, and glory: that thou mayst be a holy people of the Lord thy God, as he hath spoken.  
 
 ---
 

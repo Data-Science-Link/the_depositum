@@ -196,36 +196,35 @@ format: markdown
 
 ## Chapter 5
 
-**1** For ten acres of vineyard shall yield one little measure, and thirty bushels of seed shall yield three bushels.  
-**2** dummy verses inserted by amos  
-**3** dummy verses inserted by amos  
-**4** dummy verses inserted by amos  
-**5** dummy verses inserted by amos  
-**6** dummy verses inserted by amos  
-**7** dummy verses inserted by amos  
-**8** dummy verses inserted by amos  
-**9** dummy verses inserted by amos  
-**10** dummy verses inserted by amos  
-**11** Woe to you that rise up early in the morning to follow drunkenness, and to drink till the evening, to be inflamed with wine.  
-**12** The harp, and the lyre, and the timbrel, and the pipe, and wine are in your feasts: and the work of the Lord you regard not, nor do you consider the works of his hands.  
-**13** Therefore is my people led away captive, because they had not knowledge, and their nobles have perished with famine, and their multitude were dried up with thirst.  
-**14** Therefore hath hell enlarged her soul, and opened her mouth without any bounds, and their strong ones, and their people, and their high and glorious ones shall go down into it.  
-**15** And man shall be brought down, and man shall be humbled, and the eyes of the lofty shall be brought low.  
-**16** And the Lord of hosts shall be exalted in judgment, and the holy God shall be sanctified in justice.  
-**17** And the lambs shall feed according to their order, and strangers shall eat the deserts turned into fruitfulness.  
-**18** Woe to you that draw iniquity with cords of vanity, and sin as the rope of a cart.  
-**19** That say: Let him make haste, and let his work come quickly, that we may see it: and let the counsel of the Holy One of Israel come, that we may know it.  
-**20** Woe to you that call evil good, and good evil: that put darkness for light, and light for darkness: that put bitter for sweet, and sweet for bitter.  
-**21** Woe to you that rue wise in your own eyes, and prudent in your own conceits.  
-**22** Woe to you that are mighty to drink wine, and stout men at drunkenness.  
-**23** That justify the wicked for gifts, and take away the justice of the just from him.  
-**24** Therefore as the tongue of the fire devoureth the stubble, and the heat of the dame consumeth it: so shall their root be as ashes, and their bud shall go up se dust: for they have cast away the law of the Lord of hosts, and have blasphemed the word of the Holy One of Israel.  
-**25** Therefore is the wrath of the Lord kindled against his people, and he hath stretched out his hand upon them, and struck them: and the mountains were troubled, and their carcasses became as dung in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still.  
-**26** And he will lift up a sign to the nations afar off, and will whistle to them from the ends of the earth: and behold they shall come with speed swiftly.  
-**27** There is none that shall faint, nor labour among them: they shall not slumber nor sleep, neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken.  
-**28** Their arrows are sharp, and all their bows are bent. The hoofs of their horses shall be like the hint, and their wheels like the violence of a tempest.  
-**29** Their roaring like that of a lion, they shall roar like young lions: yea they shall roar, and take hold of the prey, and they shall keep fast hold of it, and there shall be none to deliver it.  
-**30** And they shall make a noise against them that day, like the roaring of the sea; we shall look towards the land, and behold darkness of tribulation, and the light is darkened with the mist thereof.  
+**1** I will *sing to my beloved the canticle of my cousin concerning his vineyard. My beloved had a vineyard on a hill in a fruitful place.  
+**2** And he fenced it in, and picked the stones out of it, and planted it with the choicest vines, and built a tower in the midst thereof, and set up a wine-press therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.  
+**3** And now, O ye inhabitants of Jerusalem, and ye men of Juda, judge between me and my vineyard.  
+**4** What is there that I ought to do more to my vineyard, that I have not done to it? was it that I looked that it should bring forth grapes, and it hath brought forth wild grapes?  
+**5** And now I will shew you what I will do to my vineyard. I will take away the hedge thereof, and it shall be wasted: I will break down the wall thereof, and it shall be trodden down.  
+**6** And I will make it desolate: it shall not be pruned, and it shall not be digged: but briers and thorns shall come up: and I will command the clouds to rain no rain upon it.  
+**7** Woe to you that join house to house, and lay field to field, even to the end of the place: shall you alone dwell in the midst of the earth?  
+**8** These things are in my ears, saith the Lord of hosts: unless many great and fair houses shall become desolate, without an inhabitant.  
+**9** For ten acres of vineyard shall yield one little measure, and thirty bushels of seed shall yield three bushels.  
+**10** Woe to you that rise up early in the morning to follow drunkenness, and to drink till the evening, to be inflamed with wine.  
+**11** The harp, and the lyre, and the timbrel, and the pipe, and wine, are in your feasts: and the work of the Lord you regard not, nor do you consider the works of his hands.*  
+**12** Therefore is my people led away captive, because they had not knowledge, and their nobles have perished with famine, and their multitude were dried up with thirst.  
+**13** Therefore hath hell enlarged her soul, and opened her mouth without any bounds, and their strong ones, and their people, and their high and glorious ones shall go down into it.  
+**14** And man shall be brought down, and man shall be humbled, and the eyes of the lofty shall be brought low.  
+**15** And the Lord of hosts shall be exalted in judgment, and the holy God shall be sanctified in justice.  
+**16** And the lambs shall feed according to their order, and strangers shall eat the deserts turned into fruitfulness.  
+**17** Woe to you that draw iniquity with cords of vanity, and sin as the rope of a cart.  
+**18** That say: Let him make haste, and let his work come quickly, that we may see it: and let the counsel of the holy one of Israel come, that we may know it.  
+**19** Woe to you that call evil good, and good evil: that put darkness for light, and light for darkness: that put bitter for sweet, and sweet for bitter.  
+**20** *Woe to you that are wise in your own eyes, and prudent in your own conceits.  
+**21** Woe to you that are mighty to drink wine, and stout men at drunkenness.  
+**22** That justify the wicked for gifts, and take away the justice of the just from him.  
+**23** Therefore, as the tongue of the fire devoureth the stubble, and the heat of the flame consumeth it; so shall their root be as ashes, and their bud shall go up as dust: for they have cast away the law of the Lord of hosts, and have blasphemed the word of the holy one of Israel.  
+**24** Therefore is the wrath of the Lord kindled against his people, and he hath stretched out his hand upon them, and struck them: and the mountains were troubled, and their carcasses became as dung in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still.  
+**25** And he will lift up a sign to the nations afar off, and will whistle to them from the ends of the earth: and behold they shall come with speed swiftly.  
+**26** There is none that shall faint, nor labour among them: they shall not slumber, nor sleep, neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken.  
+**27** Their arrows are sharp, and all their bows are bent. The hoofs of their horses shall be like the flint, and their wheels like the violence of a tempest.  
+**28** Their roaring like that of a lion, they shall roar like young lions: yea, they shall roar, and take hold of the prey, and they shall keep fast hold of it, and there shall be none to deliver it.  
+**29** And they shall make a noise against them that day, like the roaring of the sea: we shall look towards the land, and behold darkness of tribulation, and the light is darkened with the mist thereof.  
 
 ---
 
@@ -594,32 +593,31 @@ format: markdown
 
 ## Chapter 22
 
-**1** The burden of the valley of vision. What aileth thee also, that thou too art wholly gone up to the housetops?  
+**1** The burden of the valley of vision. What aileth thee also, that thou too art wholly gone up to the house tops?  
 **2** Full of clamour, a populous city, a joyous city: thy slain are not slain by the sword, nor dead in battle.  
 **3** All the princes are fled together, and are bound hard: all that were found, are bound together, they are fled far off.  
 **4** Therefore have I said: Depart from me, I will weep bitterly: labour not to comfort me, for the devastation of the daughter of my people.  
-**5** For it is a day of slaughter and of treading down, and of weeping to the Lord the God of hosts in the valley of vision, searching the wall, and magnificent upon the mountain.  
+**5** For it is a day of slaughter, and of treading down, and of weeping to the Lord, the God of hosts, in the valley of vision, searching the wall, and magnificent upon the mountain.  
 **6** And Elam took the quiver, the chariot of the horseman, and the shield was taken down from the wall.  
-**7** And thy choice valleys shall be full of chariots, and the horseman shall place themselves in the gate.  
+**7** And thy choice valleys shall be full of chariots, and the horsemen shall place themselves in the gate.  
 **8** And the covering of Juda shall be discovered, and thou shalt see in that day the armoury of the house of the forest.  
-**9** And you shall see the breaches of the city of David, that they are many: and you have gathered together the waters of the lower pool,  
+**9** And you shall see the breaches of the city of David, that they are many: and you have gathered together the waters of the lower pool.  
 **10** And have numbered the houses of Jerusalem, and broken down houses to fortify the wall.  
-**11** And you made a ditch between the two walls for the water of the old pool: and you have not looked up to the maker thereof, nor regarded him even at a distance, that wrought it long ago.  
+**11** *And you made a ditch between the two walls for the water of the old pool: and you have not looked up to the maker thereof, nor regarded him even at a distance, that wrought it long ago.  
 **12** And the Lord, the God of hosts, in that day shall call to weeping, and to mourning, to baldness, and to girding with sackcloth:  
-**13** And behold joy and gladness, killing calves, and slaying rams, eating flesh, and drinking wine: Let us eat and drink; for to morrow we shall die.  
+**13** And behold joy and gladness, killing calves, and slaying rams, eating flesh, and drinking wine: *Let us eat, and drink; for to-morrow we shall die.  
 **14** And the voice of the Lord of hosts was revealed in my ears: Surely this iniquity shall not be forgiven you till you die, saith the Lord God of hosts.  
-**15** Thus saith the Lord God of hosts: Go, get thee in to him that dwelleth in the tabernacle, to Sobna who is over the temple: and thou shalt say to him:  
+**15** Thus saith the Lord God of hosts: Go, get thee in to him that dwelleth in the tabernacle, to Sobna, who is over the temple: and thou shalt say to him:  
 **16** What dost thou here, or as if thou wert somebody here? for thou hast hewed thee out a sepulchre here, thou hast hewed out a monument carefully in a high place, a dwelling for thyself in a rock.  
 **17** Behold the Lord will cause thee to be carried away, as a cock is carried away, and he will lift thee up as a garment.  
-**18** He will crown thee with a crown of tribulation, he will toss thee like a ball into a large and spacious country: there shalt thou die, and there shall the chariot of thy glory be, the shame of the house of thy Lord.  
+**18** He will crown thee with a crown of tribulation; he will toss thee like a ball into a large and spacious country: there shalt thou die, and there shall the chariot of thy glory be, the shame of the house of thy Lord.  
 **19** And I will drive thee out From thy station, and depose thee from thy ministry.  
-**20** And it shall come to pass in that day, that I will call my servant Eliacim the son of Helcias,  
+**20** And it shall come to pass in that day, that I will call my servant Eliacim the son of Helcias.  
 **21** And I will clothe him with thy robe, and will strengthen him with thy girdle, and will give thy power into his hand: and he shall be as a father to the inhabitants of Jerusalem, and to the house of Juda.  
-**22** And I will lay the key of the house of David upon his shoulder: and he shall open, and none shall shut: and he shall shut, and none shall open.  
+**22** *And I will lay the key of the house of David upon his shoulder: and he shall open, and none shall shut: and he shall shut, and none shall open.  
 **23** And I will fasten him as a peg in a sure place, and he shall be for a throne of glory to the house of his father.  
-**24** And they shall hang upon him all the glory of his father's house, divers kinds of vessels, every little vessel, from the vessels of cups even to every instrument of music.  
-**25** dummy verses inserted by amos  
-**26** In that day, saith the Lord of hosts, shall the peg be removed, that was fastened in the sure place: and it shall be broken and shall fall: and that which hung thereon, shall perish, because the Lord hath spoken it.  
+**24** And they shall hang upon him all the glory of his father's house, divers kinds of vessels, every little vessel, from the vessels of cups, even to every instrument of music.  
+**25** In that day, saith the Lord of hosts, shall the peg be removed, that was fastened in the sure place: and it shall be broken and shall fall: and that which hung thereon, shall perish, because the Lord hath spoken it.  
 
 ---
 
@@ -676,16 +674,16 @@ format: markdown
 
 ## Chapter 25
 
-**1** For the hand of the Lord shall rest in this mountain: and Moab shall be trodden down under him, as straw is broken in pieces with the wain.  
-**2** dummy verses inserted by amos  
-**3** dummy verses inserted by amos  
-**4** dummy verses inserted by amos  
-**5** dummy verses inserted by amos  
-**6** dummy verses inserted by amos  
-**7** dummy verses inserted by amos  
-**8** dummy verses inserted by amos  
-**9** dummy verses inserted by amos  
-**10** dummy verses inserted by amos  
+**1** O Lord, thou art my God, I will exalt thee, and give glory to thy name; for thou hast done wonderful things, thy designs of old, faithful, Amen.  
+**2** For thou hast reduced the city to a heap, the strong city to ruin, the house of strangers to be no city, and to be no more built up for ever.  
+**3** Therefore shall a strong people praise thee; the city of mighty nations shall fear thee.  
+**4** Because thou hast been a strength to the poor, a strength to the needy in his distress: a refuge from the whirlwind, a shadow from the heat. For the blast of the mighty is like a whirlwind beating against a wall.  
+**5** Thou shalt bring down the tumult of strangers, as heat in thirst: and as with heat under a burning cloud, thou shalt make the branch of the mighty to wither away.  
+**6** And the Lord of hosts shall make unto all people in this mountain, a feast of fat things, a feast of wine, of fat things full of marrow, of wine purified from the lees.  
+**7** And he shall destroy in this mountain the face of the bond with which all people were tied, and the web that he began over all nations.  
+**8** He shall cast death down headlong for ever: *and the Lord God shall wipe away tears from every face; and the reproach of his people he shall take away from off the whole earth: for the Lord hath spoken it.  
+**9** And they shall say in that day: Lo, this is our God, we have waited for him, and he will save us: this is the Lord, we have patiently waited for him, we shall rejoice and be joyful in his salvation.  
+**10** For the hand of the Lord shall rest in this mountain: and Moab shall be trodden down under him, as straw is broken in pieces with the wain.  
 **11** And he shall stretch forth his hands under him, as he that swimmeth stretcheth forth his hands to swim: and he shall bring down his glory with the dashing of his hands.  
 **12** And the bulwarks of thy high walls shall fall, and be brought low, and shall be pulled down to the ground, even to the dust.  
 
