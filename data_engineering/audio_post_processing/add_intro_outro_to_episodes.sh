@@ -155,20 +155,20 @@ EPISODES_DIR='/Users/michaellink/Library/CloudStorage/GoogleDrive-linkmichaelj@g
 # EPISODE_FILE="Why_Jesus_Left_to_Send_the_Spirit.m4a"
 # run_command
 
-# Episode 16
-EPISODE_NUM="16"
-EPISODE_FILE="How_fire_turned_cowards_into_the_Church_Edited.m4a"
-run_command
+# # Episode 16
+# EPISODE_NUM="16"
+# EPISODE_FILE="How_fire_turned_cowards_into_the_Church_Edited.m4a"
+# run_command
 
 # # Episode 17
 # EPISODE_NUM="17"
-# EPISODE_FILE=".m4a"
+# EPISODE_FILE="How_Martyrs_Conquered_the_Roman_Empire.m4a"
 # run_command
 
-# # Episode 18
-# EPISODE_NUM="18"
-# EPISODE_FILE=".m4a"
-# run_command
+# Episode 18
+EPISODE_NUM="18"
+EPISODE_FILE="Why_Judas_and_Peter_Chose_Differently_Edited.m4a"
+run_command
 
 # # Episode 19
 # EPISODE_NUM="19"
