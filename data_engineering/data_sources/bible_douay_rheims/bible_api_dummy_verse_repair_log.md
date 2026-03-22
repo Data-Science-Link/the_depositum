@@ -37,6 +37,10 @@ We add a post-processing step that repairs at the chapter level:
 4. **Validate** immediately after repair:
    - re-scan for remaining dummy placeholders
 
+### Alternate source: trade-off
+
+Using `EntireBible-DR.json` from `xxruyle/Bible-DouayRheims` is **not ideal** as a canonical, fully attributed Douay–Rheims edition (upstream documents a home-grown `dr_bible.txt` conversion and does not tie the text to a named publisher or scan). Even so, it is **better than leaving bible-api.com’s dummy placeholders and verse gaps** in the corpus: those defects are clearly wrong and break reading, numbering, and downstream use. Where maximum textual pedigree matters, compare against an independently chosen reference (e.g. a published edition or established online DR text).
+
 ## Repair Implementation Notes
 - The repair script replaces the entire chapter (not only dummy lines). This avoids verse alignment issues when the API payload is missing verse entries or has inconsistent numbering.
 - The repair script is configured via `data_engineering/config/pipeline_config.yaml` and runs against `data_final/bible_douay_rheims/` by default.
