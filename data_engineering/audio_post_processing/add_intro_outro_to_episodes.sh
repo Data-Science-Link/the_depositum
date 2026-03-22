@@ -165,15 +165,15 @@ EPISODES_DIR='/Users/michaellink/Library/CloudStorage/GoogleDrive-linkmichaelj@g
 # EPISODE_FILE="How_Martyrs_Conquered_the_Roman_Empire.m4a"
 # run_command
 
-# Episode 18
-EPISODE_NUM="18"
-EPISODE_FILE="Why_Judas_and_Peter_Chose_Differently_Edited.m4a"
-run_command
-
-# # Episode 19
-# EPISODE_NUM="19"
-# EPISODE_FILE=".m4a"
+# # Episode 18
+# EPISODE_NUM="18"
+# EPISODE_FILE="Why_Judas_and_Peter_Chose_Differently_Edited.m4a"
 # run_command
+
+# Episode 19
+EPISODE_NUM="19"
+EPISODE_FILE="Why_Jesus_Built_His_Church_on_Fishermen.m4a"
+run_command
 
 # # Episode 20
 # EPISODE_NUM="20"
