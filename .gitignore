@@ -71,6 +71,7 @@ logs/
 *.log
 
 # Audio post-processing scripts (contains user-specific paths)
+data_engineering/audio_post_processing/add_intro_outro_to_episodes.sh
 data_engineering/audio_post_processing/run_episodes.sh
 data_engineering/audio_post_processing/run_transcriptions.sh
 
