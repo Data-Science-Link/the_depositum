@@ -6,8 +6,7 @@ Transcribes .m4a audio files using OpenAI Whisper and outputs markdown-formatted
 with word-level timestamps.
 
 Usage:
-    uv run python data_engineering/audio_post_processing/transcribe_episode.py \\
-        --audio /path/to/episode.m4a
+    uv run python data_engineering/audio_post_processing/transcribe_episode.py --audio /path/to/episode.m4a
 
 Requirements:
     - ffmpeg must be installed on the system (for m4a support)
