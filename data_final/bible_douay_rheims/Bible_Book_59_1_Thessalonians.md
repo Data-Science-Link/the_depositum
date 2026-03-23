@@ -45,25 +45,25 @@ format: markdown
 
 ## Chapter 2
 
-**1** For yourselves know, brethren, our entrance in unto you, that it was not in vain:  
-**2** But having suffered many things before, and been shamefully treated (as you know) at Philippi, we had confidence in our God, to speak unto you the gospel of God in much carefulness.  
-**3** For our exhortation was not of error, nor of uncleanness, nor in deceit:  
-**4** But as we were approved by God that the gospel should be committed to us: even so we speak, not as pleasing men, but God, who proveth our hearts.  
-**5** For neither have we used, at any time, the speech of flattery, as you know; nor taken an occasion of covetousness, God is witness:  
-**6** Nor sought we glory of men, neither of you, nor of others. 7 Whereas we might have been burdensome to you, as the apostles of Christ: but we became little ones in the midst of you, as if a nurse should cherish her children:  
-**7** dummy verses inserted by amos  
-**8** So desirous of you, we would gladly impart unto you not only the gospel of God, but also our own souls: because you were become most dear unto us.  
-**9** For you remember, brethren, our labour and toil: working night and day, lest we should be chargeable to any of you, we preached among you the gospel of God.  
-**10** You are witnesses, and God also, how holily, and justly, and without blame, we have been to you that have believed:  
-**11** As you know in what manner, entreating and comforting you, (as a father doth his children,)  
-**12** We testified to every one of you, that you would walk worthy of God, who hath called you unto his kingdom and glory.  
-**13** Therefore, we also give thanks to God without ceasing: because, that when you had received of us the word of the hearing of God, you received it not as the word of men, but (as it is indeed) the word of God, who worketh in you that have believed.  
-**14** For you, brethren, are become followers of the churches of God which are in Judea, in Christ Jesus: for you also have suffered the same things from your own coutrymen, even as they have from the Jews,  
-**15** Who both killed the Lord Jesus, and the prophets, and have persecuted us, and please not God, and are adversaries to all men;  
-**16** Prohibiting us to speak to the Gentiles, that they may be saved, to fill up their sins always: for the wrath of God is come upon them to the end.  
-**17** But we, brethren, being taken away from you for a short time, in sight, not in heart, have hastened the more abundantly to see your face with great desire.  
-**18** For we would have come unto you, I Paul indeed, once and again: but Satan hath hindered us.  
-**19** For what is our hope, or joy, or crown of glory? Are not you, in the presence of our Lord Jesus Christ at his coming?  
+**1** For yourselves, brethren, know our entrance unto you, that it was not in vain:  
+**2** But having suffered before, and being contumeliously treated (as you know) at Philippi, *we had confidence in our God, to speak to you the gospel of God in much solicitude.  
+**3** For our exhortation was not of error, nor of uncleanness, nor in deceit.  
+**4** But as we were approved of God, that the gospel should be committed to us: even so we speak, not as pleasing men, but God, who proveth our hearts.  
+**5** For neither have we used at any time, the speech of flattery, as you know: nor taken an occasion of covetousness: God is witness:  
+**6** Nor sought we glory of men, neither of you, nor of others.  
+**7** Whereas we might have been burdensome to you, as the apostles of Christ: but we became little ones in the midst of you, as if a nurse should cherish her children.  
+**8** So desirous of you, we would gladly have imparted to you not only the gospel of God, but also our own souls: because you were become most dear unto us.  
+**9** For you remember, brethren, our labour and toil: *working night and day, lest we should be burdensome to any of you, we preached among you the gospel of God.  
+**10** You are witnesses, and God, how holily, and justly, and without blame we have been among you, who have believed:  
+**11** As you know, in what manner, entreating and comforting you, (as a father doth his children).  
+**12** We testified to every one of you, that you would walk worthy of God, who hath called you to his kingdom and glory.  
+**13** Therefore, we also give thanks to God without ceasing: because that when you had received of us the word of the hearing of God, you received it not as the word of men, but (as it truly is) the word of God, who worketh in you, who have believed.  
+**14** For you, brethren, are become followers of the churches of God which are in Judea, in Christ Jesus: for you also have suffered the same things from your own countrymen, even as they have from the Jews:  
+**15** Who both killed the Lord Jesus, and the prophets, and have persecuted us, and they please not God, and are adversaries to all men;  
+**16** Forbidding us to speak to the Gentiles that they may be saved, to fill up their sins always: for the wrath of God is come upon them to the end.  
+**17** But we, brethren, being taken away from you, for a short time, in sight, not in heart, have hastened the more abundantly to see your face with great desire:  
+**18** For we would have come to you, even I, Paul, once and again; but Satan hath hindered us.  
+**19** For what is our hope or joy, or crown of glory? Are not you, in the presence of our Lord Jesus Christ at his coming?  
 **20** For you are our glory and joy.  
 
 ---
@@ -110,33 +110,33 @@ format: markdown
 
 ## Chapter 5
 
-**1** But of the times and moments, brethren, you need not, that we should write to you;  
-**2** For yourselves know perfectly, that the day of the Lord shall so come, as a thief in the night.  
-**3** For when they shall say, peace and security; then shall sudden destruction come upon them, as the pains upon her that is with child, and they shall not escape.  
-**4** But you, brethren, are not in darkness, that that day should overtake you as a thief.  
-**5** For all you are the children of light, and children of the day: we are not of the night, nor of darkness. 6 Therefore, let us not sleep, as others do; but let us watch, and be sober.  
-**6** dummy verses inserted by amos  
-**7** For they that sleep, sleep in the night; and they that are drunk, are drunk in the night.  
-**8** But let us, who are of the day, be sober, having on the breastplate of faith and charity, and for a helmet the hope of salvation.  
-**9** For God hath not appointed us unto wrath, but unto the purchasing of salvation by our Lord Jesus Christ,  
-**10** Who died for us; that, whether we watch or sleep, we may live together with him.  
-**11** For which cause comfort one another; and edify one another, as you also do.  
-**12** And we beseech you, brethren, to know them who labour among you, and are over you in the Lord, and admonish you:  
-**13** That you esteem them more abundantly in charity, for their work's sake. Have peace with them.  
-**14** And we beseech you, brethren, rebuke the unquiet, comfort the feeble minded, support the weak, be patient towards all men.  
-**15** See that none render evil for evil to any man; but ever follow that which is good towards each other, and towards all men.  
+**1** But of the times and moments, brethren, you need not that we should write to you.  
+**2** *For yourselves know perfectly, that the day of the Lord shall so come, as a thief in the night.  
+**3** For when they shall say, peace and security, then shall sudden destruction come upon them, as the pains upon her that is with child, and they shall not escape.  
+**4** But you, brethren, are not in darkness, that that day should overtake you as a thief:  
+**5** For all you are the children of light, and children of the day: we are not of the night, nor of darkness.  
+**6** Therefore let us not sleep, as others do: but let us watch and be sober.  
+**7** For they who sleep, sleep in the night: and they who are drunk, are drunk in the night.  
+**8** But let us, who are of the day, be sober, *having on the breastplate of faith and charity, and for a helmet, the hope of salvation:  
+**9** For God hath not appointed us to wrath, but to the purchasing of salvation by our Lord Jesus Christ,  
+**10** Who died for us: that whether we watch or sleep, we may live together with him.  
+**11** Wherefore comfort one another: and edify one another, as you also do.  
+**12** And we beseech you, brethren, to know them who labour among you, and are over you in the Lord, and admonish you,  
+**13** That you esteem them more abundantly in charity for their work: have peace with them.  
+**14** And we beseech you, brethren, rebuke the unquiet, comfort the feeble-minded, support the weak, be patient towards all men.  
+**15** *See that none render evil for evil to any one: but ever follow that which is good towards each other, and towards all men.  
 **16** Always rejoice.  
-**17** Pray without ceasing.  
-**18** In all things give thanks; for this is the will of God in Christ Jesus concerning you all.  
-**19** Extinguish not the spirit.  
+**17** *Pray without ceasing.  
+**18** In all things give thanks: for this is the will of God in Christ Jesus concerning you all.  
+**19** Extinguish not the Spirit.  
 **20** Despise not prophecies.  
-**21** But prove all things; hold fast that which is good.  
+**21** But prove all things: hold that which is good.  
 **22** From all appearance of evil refrain yourselves.  
-**23** And may the God of peace himself sanctify you in all things; that your whole spirit, and soul, and body, may be preserved blameless in the coming of our Lord Jesus Christ.  
-**24** He is faithful who hath called you, who also will do it.  
+**23** And may the God of peace himself sanctify you in all things: that your whole spirit, and soul, and body be preserved blameless unto the coming of our Lord Jesus Christ.  
+**24** *He is faithful who hath called you: who will also perform.  
 **25** Brethren, pray for us.  
 **26** Salute all the brethren with a holy kiss.  
-**27** I charge you by the Lord, that this epistle be read to all the holy brethren.  
+**27** I charge you, by the Lord, that this epistle be read to all the holy brethren:  
 **28** The grace of our Lord Jesus Christ be with you. Amen.  
 
 ---

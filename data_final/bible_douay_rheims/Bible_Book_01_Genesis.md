@@ -554,70 +554,69 @@ format: markdown
 
 **1** And after he began to be ninety and nine years old, the Lord appeared to him: and said unto him: I am the Almighty God: walk before me, and be perfect.  
 **2** And I will make my covenant between me and thee: and I will multiply thee exceedingly.  
-**3** Abram tell flat on his face.  
-**4** And God said to him: I AM, and my covenant is with thee, and thou shalt be a father. of many nations.  
+**3** Abram fell flat on his face.  
+**4** And God said to him: I am, and my covenant is with thee, and thou shalt be a father of many nations.  
 **5** Neither shall thy name be called any more Abram: but thou shalt be called Abraham: because I have made thee a father of many nations.  
-**6** And I will make thee increase, exceedingly, and I will make nations of thee, and kings shall come out of thee.  
-**7** And I will establish my covenant between me and thee, and between thy sad after thee in their generations, by a perpetual covenant: to be a God to thee, and to thy seed after thee.  
-**8** And I will give to thee, and to thy seed, the land of thy sojournment, all the land of Chanaan for a perpetual possession, and I will be their God.  
-**9** Again God said to Abraham: And thou therefore shalt keep my covenant, and thy seed after thee in their generations.  
-**10** This is my covenant which you shall observe, between me and you, and thy seed after thee: All the male kind of you shall be circumcised:  
-**11** And you shall circumcise the flesh of your foreskin, that it may be for a h sign of the covenant between me and you.  
-**12** An infant of eight days old shall be circumcised among you, every man child in your generations: he that is born in the house, as well as the bought servant shall be circumcised, and whosoever is not of your stock:  
+**6** And I will make thee increase exceedingly, and I will make nations of thee, and kings shall come out of thee.  
+**7** And I will establish my covenant between me and thee, and between thy seed after thee in their generations, by a perpetual covenant: to be a God to thee, and to thy seed after thee.  
+**8** And I will give to thee, and to thy seed, the land of thy sojournment, all the land of Chanaan, for a perpetual possession, and I will be their God.  
+**9** Again God said to Abraham: *And thou therefore shalt keep my covenant, and thy seed after thee in their generations.  
+**10** This is my covenant which you shall observe between me and you, and thy seed after thee: All the male-kind of you shall be circumcised.  
+**11** And you shall circumcise the flesh of your foreskin, that it may be for a *sign of the covenant between me and you.  
+**12** An infant of eight days old shall be circumcised among you, every man-child in your generations: he that is born in the house, as well as the bought servant, shall be circumcised, and whosoever is not of your stock:  
 **13** And my covenant shall be in your flesh for a perpetual covenant.  
-**14** The male, whose dash of his foreskin shall not be circumcised, that soul shall be destroyed out of his people: because he hath broken my covenant.  
+**14** The male whose flesh of his foreskin shall not be circumcised, that soul shall be destroyed out of his people: because he hath broken my covenant.  
 **15** God said also to Abraham: Sarai thy wife thou shalt not call Sarai, but Sara.  
-**16** And I will bless her, and of her I will give thee a son, whom I will bless, and he shell become nations, and kings of people shall spring from him.  
+**16** And I will bless her, and of her I will give thee a son, whom I will bless, and he shall become nations, and kings of people shall spring from him.  
 **17** Abraham fell upon his face, and laughed, saying in his heart: Shall a son, thinkest thou, be born to him that is a hundred years old? and shall Sara that is ninety years old bring forth?  
 **18** And he said to God: O that Ismael may live before thee.  
-**19** And God said to Abraham: Sara thy wife shall bear thee a son, and thou shalt call his name Isaac, and I will establish my covenant with him for a perpetual covenant, and with his seed after him.  
+**19** And God said to Abraham: *Sara thy wife shall bear thee a son, and thou shalt call his name Isaac, and I will establish my covenant with him for a perpetual covenant, and with his seed after him.  
 **20** And as for Ismael I have also heard thee. Behold, I will bless him, and increase, and multiply him exceedingly: he shall beget twelve chiefs, and I will make him a great nation.  
 **21** But my covenant I will establish with Isaac, whom Sara shall bring forth to thee at this time in the next year.  
-**22** And when he had left oil speaking with him, God went up from Abraham.  
+**22** And when he had left off speaking with him, God went up from Abraham.  
 **23** And Abraham took Ismael his son, and all that were born in his house: and all whom he had bought, every male among the men of his house: and he circumcised the flesh of their foreskin forthwith the very same day, as God had commanded him.  
 **24** Abraham was ninety and nine years old, when he circumcised the flesh of his foreskin.  
 **25** And Ismael his son was full thirteen years old at the time of his circumcision.  
-**26** dummy verses inserted by amos  
-**27** And all the men of his house, as well they that were born in his house, as the bought servants and strangers were circumcised with him.  
-**28** The selfsame day was Abraham circumcised and Ismael his son.  
+**26** The self-same day was Abraham circumcised and Ismael his son.  
+**27** And all the men of his house, as well they that were born in his house, as the bought servants and strangers. were circumcised with him.  
 
 ---
 
 ## Chapter 18
 
-**1** And the Lord appeared to him in the vale of Mambre as he was sitting at the door of his tent, in the very heat of the day.  
-**3** And when he had lifted up his eyes, there appeared to him three men standing near him: and as soon as he saw them he ran to meet them from the door of his tent, and adored down to the ground.  
-**4** And he said: Lord, if I have found favour in thy sight, pass not away from thy servant:  
-**5** But I will fetch a little water, and wash ye your feet, and rest ye under the tree.  
-**6** And I will set a morsel of bread, and strengthen ye your heart, afterwards you shall pass on: for therefore are you come aside to your servant. And they said: Do as thou hast spoken.  
-**7** Abraham made haste into the tent to Sera, and said to her: Make haste, temper together three measures of flour, and make cakes upon the hearth.  
-**8** And he himself ran to the herd, and took from thence a calf very tender and very good, and gave it to a young man: who made haste and boiled it.  
-**9** He took also butter and milk, and the calf which he had boiled, and set before them: but he stood by them under the tree.  
-**10** And when they had eaten, they said to him: Where is Sara thy wife? He answered: Lo, she is in the tent.  
-**11** And he said to him: I will return and come to thee at this time, life accompanying and Sara thy wife shall have a son. Which when Sara heard, she laughed behind the door of the tent.  
-**12** Now they were both old, and far advanced in years, and it had ceased to be with Sara after the manner of women.  
-**13** And she laughed secretly, saying: After I am grown old  
-**14** And the Lord said to Abraham: Why did Sera laugh, saying: Shall I who am an old woman bear a child indeed ?  
-**15** Is there any thing hard to God? according to appointment I will return to thee at this same time, life accompanying, and Sara shall have a son.  
-**16** Sara denied, saying: I did not laugh: for she was afraid. But the Lord said, Nay: but thou didst laugh:  
-**17** And when the men rose up from thence, they turned their eyes towards Sodom: and Abraham walked with them, bringing them on the way.  
-**18** And the Lord said: Can I hide from Abraham what I am about to do:  
-**19** "Seeing he shall become a great and mighty nation, and in him all the nations of the earth shall be blessed?  
-**20** For I know that he will command his children, and his household after him to keep the way of the Lord, and do judgment and justice: that for Abraham's sake the Lord may bring to effect all the things he hath spoken unto him.  
-**21** And the Lord said: The cry of Sodom and Gomorrha is multiplied, and their sin is become exceedingly grievous.  
-**22** I will go down and see whether they have done according to the cry that is come to me: or whether it be not so, that I may know.  
-**23** And they turned themselves from thence, and went their way to Sodom: but Abraham as yet stood before the Lord.  
-**24** And drawing nigh he said: Wilt thou destroy the just with the wicked?  
-**25** If there be fifty just men in the city, shall they perish withal? and wilt thou not spare that place for the sake of the fifty just, if they be therein?  
-**26** Far be it from thee to do this thing, and to slay the just with the wicked, and for the just to be in like case as the wicked, this is not beseeming thee: thou who judgest all the earth, wilt not make this judgment.  
-**27** And the Lord said to him: If I And in Sodom fifty just within the city, I will spare the whole place for their sake.  
-**28** And Abraham answered, and said: Seeing I have once begun, I will speak to my Lord, whereas I am dust and ashes.  
-**29** What if there be Ave less than fifty just persons? wilt thou for five and forty destroy the whole city? And he said: I will not destroy it, if I find five and forty.  
-**30** And again he said to him: But if forty be found there, what wilt thou do? He said: I will not destroy it for the sake of forty.  
-**31** Lord, saith he, be not angry, I beseech thee, if I speak: What if thirty shall be found there? He answered: I will not do it, if I And thirty there.  
-**32** Seeing, saith he, I have once begun, I will speak to my Lord. What if twenty be found there? He said: I will not destroy it for the sake of twenty.  
-**33** I beseech thee, saith he, be not angry, Lord, if I speak yet once more: What if tell should be found there ? And he said: I will not destroy it for the sake of ten.  
-**34** And the Lord departed, after he had left speaking to Abraham: and Abraham returned to his place.  
+**1** And the Lord appeared to him *in the vale of Mambre as he was sitting at the door of his tent, in the very heat of the day.  
+**2** And when he had lifted up his eyes, there appeared to him three men standing near him: and as soon as he saw them, he ran to meet them from the door of his tent, and adored down to the ground.  
+**3** And he said: Lord, if I have found favour in thy sight, pass not away from thy servant:  
+**4** But I will fetch a little water, and wash ye your feet, and rest ye under the tree.  
+**5** And I will set a morsel of bread, and strengthen ye your heart, afterwards you shall pass on: for therefore are you come aside to your servant. And they said: Do as thou hast spoken.  
+**6** Abraham made haste into the tent to Sara, and said to her: Make haste, temper together three measures of flour, and make cakes upon the hearth.  
+**7** And he himself ran to the herd, and took from thence a calf, very tender and very good, and gave it to a young man, who made haste and boiled it.  
+**8** He took also butter and milk, and the calf which he had boiled, and set before them: but he stood by them under the tree.  
+**9** And when they had eaten, they said to him: Where is Sara thy wife? He answered: Lo she is in the tent.  
+**10** And he said to him: *I will return and come to thee at this time, life accompanying, and Sara, thy wife, shall have a son. Which when Sara heard, she laughed behind the door of the tent.  
+**11** Now they were both old, and far advanced in years, and it had ceased to be with Sara after the manner of women.  
+**12** And she laughed secretly, saying: After I am grown old, *and my lord is an old man, shall I give myself to pleasure?  
+**13** And the Lord said to Abraham: Why did Sara laugh, saying: Shall I, who am an old woman, bear a child indeed?  
+**14** Is there any thing hard to God? According to appointment I will return to thee at this same time, life accompanying, and Sara shall have a son.  
+**15** Sara denied, saying: I did not laugh: for she was afraid. But the Lord said, Nay; but thou didst laugh.  
+**16** And when the men rose up from thence, they turned their eyes towards Sodom: and Abraham walked with them, bringing them on the way.  
+**17** And the Lord said: Can I hide from Abraham what I am about to do:  
+**18** *Seeing he shall become a great and mighty nation, and in him all the nations of the earth shall be blessed?  
+**19** For I know that he will command his children, and his household after him, to keep the way of the Lord, and do judgment and justice: that for Abraham's sake, the Lord may bring to effect all the things he hath spoken unto him.  
+**20** And the Lord said: The cry of Sodom and Gomorrha is multiplied, and their sin is become exceedingly grievous.  
+**21** I will go down and see whether they have done according to the cry that is come to me; or whether it be not so, that I may know.  
+**22** And they turned themselves from thence, and went their way to Sodom: but Abraham as yet stood before the Lord.  
+**23** And drawing nigh, he said: Wilt thou destroy the just with the wicked?  
+**24** If there be fifty just men in the city, shall they perish withal? and wilt thou not spare that place for the sake of the fifty just, if they be therein?  
+**25** Far be it from thee to do this thing, and to slay the just with the wicked, and for the just to be in like case as the wicked; this is not beseeming thee: thou who judgest all the earth, wilt not make this judgment.  
+**26** And the Lord said to him: If I find in Sodom fifty just within the city, I will spare the whole place for their sake.  
+**27** And Abraham answered, and said: Seeing I have once begun, I will speak to my Lord, whereas I am dust and ashes.  
+**28** What if there be five less than fifty just persons? wilt thou for five and forty destroy the whole city? And he said: I will not destroy it, if I find five and forty.  
+**29** And again he said to him: But if forty be found there, what wilt thou do? He said: I will not destroy it for the sake of forty.  
+**30** Lord, saith he, be not angry, I beseech thee, if I speak: What if thirty shall be found there? He answered: I will not do it, if I find thirty there.  
+**31** Seeing, saith he, I have once begun, I will speak to my Lord: What if twenty be found there? He said: I will not destroy it for the sake of twenty.  
+**32** I beseech thee, saith he, be not angry, Lord, if I speak yet once more: What if tell should be found there? And he said: I will not destroy it for the sake of ten.  
+**33** And the Lord departed, after he had left speaking to Abraham: and Abraham returned to his place.  
 
 ---
 
@@ -666,24 +665,24 @@ format: markdown
 
 ## Chapter 20
 
-**1** Abraham removed from thence to the south country, and dwelt between Cedes and Sur, and sojourned in Gerara.  
-**2** And he said of Sara his wife: She is my sister. So Abimelech the king of Oerara sent, and took her.  
-**3** And God came to Abimelech in a dream by night, and he said to him: Lo thou shalt die for the woman thou hast taken: for she hath a husband.  
-**4** Now Abimelech had not touched her, and he said : Lord, wilt thou slay a nation, that is ignorant and justl  
-**5** Did not he say to me : She is my sister: and she say, He is my brother? in the simplicity of my heart, and cleanness of my hands have I done this.  
+**1** Abraham removed from thence* to the south country, and dwelt between Cades and Sur, and sojourned in Gerara.  
+**2** And he said of Sara his wife: She is my sister. So Abimelech the king of Gerara sent, and took her.  
+**3** And God came to Abimelech in a dream by night, and he said to him: Lo thou shalt die for the woman that thou hast taken: for she hath a husband.  
+**4** Now Abimelech had not touched her, and he said: Lord, wilt thou slay a nation that is ignorant and just?  
+**5** Did not he say to me: She is my sister: and she say, He is my brother? in the simplicity of my heart, and cleanness of my hands have I done this.  
 **6** And God said to him: And I know that thou didst it with a sincere heart: and therefore I withheld thee from sinning against me, and I suffered thee not to touch her.  
-**7** Now therefore restore the man his wife, for he is a prophet: and he shall pray for thee, and thou shalt live: but if thou wilt not restore her, know that thou shalt surely die, thou and all that are thins.  
+**7** Now therefore restore the man his wife, for he is a prophet: and he shall pray for thee, and thou shalt live: but if thou wilt not restore her, know that thou shalt surely die, thou and all that are thine.  
 **8** And Abimelech forthwith rising up in the night, called all his servants: and spoke all these words in their hearing, and all the men were exceedingly afraid.  
 **9** And Abimelech called also for Abraham, and said to him: What hast thou done to us? what have we offended thee in, that thou hast brought upon me and upon my kingdom a great sin? thou hast done to us what thou oughtest not to do.  
-**10** And again he expostulated with him, and said, What sawest thou, that thou hast done this?  
+**10** And again he expostulated with him, and said: What sawest thou, that thou hast done this?  
 **11** Abraham answered: I thought with myself, saying: Perhaps there is not the fear of God in this place: and they will kill me for the sake of my wife:  
-**12** Howbeit, otherwise also she is truly my sister, the daughter of my father, and not the daughter of my mother, and I took her to wife.  
-**13** And after God brought me out of my father's house, I said to her: I Thou shalt do me this kindness: In every place, to which we shall come, thou shalt say that I am thy brother.  
-**14** And Abimelech took sheep and oxen, and servants and handmaids, and gave to Abraham: and restored to him Sara, his wife.  
-**15** dummy verses inserted by amos  
-**16** And said: The land is before you, dwell wheresoever it shall please thee.  
-**18** And when Abraham prayed, God healed Abimelech and his wife, and his handmaids, and they bore children:  
-**19** For the Lord had closed up every womb of the house of Abimelech on ac- count of Sara, Abraham's wife.  
+**12** Howbeit, otherwise also she is truly my sister,* the daughter of my father, and not the daughter of my mother, and I took her to wife.  
+**13** And after God brought me out of my father's house, I said to her: *Thou shalt do me this kindness: In every place, to which we shall come, thou shalt say that I am thy brother.  
+**14** And Abimelech took sheep and oxen, and servants and handmaids, and gave to Abraham: and restored to him Sara his wife,  
+**15** And said: The land is before you, dwell wheresoever it shall please thee.  
+**16** And to Sara he said: Behold I have given thy brother a thousand pieces of silver, this shall serve thee for a covering of thy eyes to all that are with thee, and whithersoever thou shalt go: and remember thou wast taken.  
+**17** And when Abraham prayed, God healed Abimelech and his wife, and his handmaids, and they bore children:  
+**18** For the Lord had closed up every womb of the house of Abimelech on account of Sara, Abraham's wife.  
 
 ---
 
@@ -933,52 +932,52 @@ format: markdown
 
 ## Chapter 27
 
-**1** Now Isaac was old, and his eyes were dim, and he could not see: and he called Esau, his elder son, and said to him: My son? And he answered: Here I am.  
-**2** And his father said to him: Thou seest that I am old, and know not the day of my death.  
-**3** Take thy arms, thy quiver, and bow, and go abroad: and when thou hast taken some thing by hunting,  
-**4** Make me savoury meat thereof, as thou knowest I like, and bring it, that I may eat: and my soul may bless thee before I die.  
+**1** Now Isaac was old, *and his eyes were dim, and he could not see: and he called Esau, his elder son, and said to him: My son? And he answered: Here I am.  
+**2** And his father said to him, Thou seest that I am old, and know not the day of my death.  
+**3** Take thy arms, thy quiver, and bow, and go abroad; and when thou hast taken something by hunting,  
+**4** Make me savoury meat thereof, as thou knowest I like, and bring it that I may eat: and my soul may bless thee, before I die.  
 **5** And when Rebecca had heard this, and he was gone into the field to fulfill his father's commandment,  
-**6** She said to her son Jacob: I heard thy father talking with Esau thy brother, and saying to him:  
+**6** She said to her son Jacob: I heard thy father talking with Esau, thy brother, and saying to him:  
 **7** Bring me of thy hunting, and make me meats that I may eat, and bless thee in the sight of the Lord, before I die.  
-**8** Now, therefore, my son, follow my counsel:  
-**9** And go thy way to the flock, bring me two kids of the best, that I may make of them meat for thy father, such as he gladly eateth:  
+**8** Now therefore, my son, follow my counsel:  
+**9** And go thy way to the flock, bring me two kids of the best, that I may make of them meat for thy father, such as he gladly eateth.  
 **10** Which when thou hast brought in, and he hath eaten, he may bless thee before he die.  
-**11** And he answered her: Thou knowest that Esau my brother is a hairy man, and I am smooth.  
-**12** If my father shall feel me, and perceive it, I fear lest he will think I would have mocked him, and I shall bring upon me a curse instead of a blessing.  
+**11** And he answered her: Thou knowest that Esau, my brother, is a hairy man, and I am smooth:  
+**12** If my father should feel me, and perceive it, I fear lest he will think I would have mocked him, and I shall bring upon me a curse instead of a blessing.  
 **13** And his mother said to him: Upon me be this curse, my son: only hear thou my voice, and go, fetch me the things which I have said.  
 **14** He went, and brought, and gave them to his mother. She dressed meats, such as she knew his father liked.  
 **15** And she put on him very good garments of Esau, which she had at home with her:  
 **16** And the little skins of the kids she put about his hands, and covered the bare of his neck.  
 **17** And she gave him the savoury meat, and delivered him bread that she had baked.  
 **18** Which when he had carried in, he said: My father? But he answered: I hear. Who art thou, my son?  
-**19** And Jacob said: I am Esau thy firstborn: I have done as thou didst command me: arise, sit, and eat of my venison, that thy soul may bless me.  
-**20** And Isaac said to his son: How couldst thou find it so quickly, my son?  
-**21** And Isaac said: Come hither, that I may feel thee, my son, and may prove whether thou be my son Esau, or not.  
-**22** He came near to his father, and when he had felt him, Isaac said: The voice indeed is the voice of Jacob; but the hands are the hands of Esau.  
-**23** He said: Art thou my son Esau? He answered: I am.  
-**24** dummy verses inserted by amos  
+**19** And Jacob said: I am Esau, thy first-born: I have done as thou didst command me; arise, sit, and eat of my venison, that thy soul may bless me.  
+**20** And Isaac said to his son: How couldst thou find it so quickly, my son? He answered: It was the will of God, that what I sought came quickly in my way:  
+**21** And Isaac said: Come hither, that I may feel thee, my son, and may prove whether thou be my son Esau, or no.  
+**22** He came near to his father, and when he had felt him, Isaac said: The voice indeed is the voice of Jacob; but the hands, are the hands of Esau.  
+**23** And he knew him not, because his hairy hands made him like to the elder. Then blessing him,  
+**24** He said: Art thou my son Esau? He answered: I am.  
 **25** Then he said: Bring me the meats of thy hunting, my son, that my soul may bless thee. And when they were brought, and he had eaten, he offered him wine also, which after he had drunk,  
 **26** He said to him: Come near me, and give me a kiss, my son.  
-**27** He came near, and kissed him. And immediately as he smelled the fragrant smell of his garments, blessing him, he said: Behold the smell of my son is as the smell of a plentiful field, which Lord hath blessed.  
+**27** He came near, and kissed him. And immediately as he smelled the fragrant smell of his garments, blessing him, he said: Behold, the smell of my son is as the smell of a plentiful field, which Lord hath blessed.  
 **28** God give thee the dew of heaven, and of the fatness of the earth, abundance of corn and wine.  
-**29** And let peoples serve thee, and tribes worship thee: be thou lord of thy brethren, and let they mother's children bow down before thee. Cursed be he that curseth thee: and let him that blesseth thee be filled with blessings.  
-**30** Isaac had scarce ended his words, when Jacob being now gone out abroad, Esau came,  
-**31** And brought in to his father meats made of what he had taken in hunting, saying: Arise, my father, and eat of thy son's venison; that thy soul may bless me.  
-**32** And Isaac said to him: Why! who art thou? He answered: I am thy firstborn son Esau.  
-**33** Isaac was struck with fear, and astonished exceedingly: and wondering beyond what can be believed, said Who is he then the even now brought me venison that he had taken, and I ate of all before thou camest? and I have blessed him, and he shall be blessed.  
-**34** Esau having heard his father's words, roared out with a great cry: and being in a great consternation, said: Bless me also, my father.  
+**29** And let peoples serve thee, and tribes worship thee: be thou lord of thy brethren, and let thy mother's children bow down before thee. Cursed be he that curseth thee: and let him that blesseth thee be filled with blessings.  
+**30** Isaac had scarce ended his words, when, Jacob being now gone out abroad, Esau came,  
+**31** And brought in to his father meat,s made of what he had taken in hunting, saying: Arise, my father, and eat of thy son's venison; that thy soul may bless me.  
+**32** And Isaac said to him: Why! who art thou? He answered: I am thy first-born son, Esau.  
+**33** Isaac was struck with fear, and astonished exceedingly: and wondering beyond what can be believed, said: Who is he then that even now brought me venison that he had taken, and I ate of all before thou camest? and I have blessed him, and he shall be blessed.  
+**34** Esau having heard his father's words, roared out with a great cry; and, being in a great consternation, said: Bless me also, my father.  
 **35** And he said: Thy brother came deceitfully and got thy blessing.  
-**36** But he said again: Rightly is his name called Jacob; for he hath supplanted me lo this second time: my first birthright he took away before, and now this second time he hath stolen away my blessing. And again he said to his father: Hast thou not reserved me also a blessing?  
+**36** But he said again: Rightly is his name called Jacob; for he hath supplanted me lo this second time: *My first birth-right he took away before, and now this second time he hath stolen away my blessing. And again he said to his father: Hast thou not reserved me also a blessing?  
 **37** Isaac answered: I have appointed him thy lord, and have made all his brethren his servants: I have established him with corn and wine, and after this, what shall I do more for thee, my son?  
-**38** And Esac said to him: Hast thou only one blessing, father? I beseech thee bless me also. And when he wept with a loud cry,  
+**38** And Esac said to him: Hast thou only one blessing, father? I beseech thee bless me also. And when he wept with a loud cry,*  
 **39** Isaac being moved, said to him: In the fat of the earth, and in the dew of heaven from above,  
-**40** Shall thy blessing be. Thou shalt live by the sword and shalt serve thy brother: and the time shall come, when thou shalt shake off and loose his yoke from thy neck.  
-**41** Esau therefore always hated Jacob for the blessing wherewith his father had blessed him: and he said in his heart: The days will come of the mourning of my father, and I will kill my brother Jacob.  
-**42** These things were told to Rebecca: and she sent and called Jacob her son, and said to him: Behold Esau thy brother threateneth to kill thee.  
-**43** Now therefore, my son, hear my voice: arise and flee to Laban my brother to Haran:  
+**40** Shall thy blessing be. Thou shalt live by the sword, and shalt serve thy brother: and the time shall come, when thou shalt shake off and loose his yoke from thy neck.  
+**41** Esau therefore always hated Jacob for the blessing wherewith his father had blessed him; and he said in his heart: *The days will come of the mourning of my father, and I will kill my brother Jacob.  
+**42** These things were told to Rebecca: and she sent and called Jacob, her son, and said to him: Behold Esau, thy brother, threateneth to kill thee.  
+**43** Now therefore, my son, hear my voice, arise and flee to Laban, my brother, to Haran:  
 **44** And thou shalt dwell with him a few days, till wrath of thy brother be assuaged,  
 **45** And his indignation cease, and he forget the things thou hast done to him: afterwards I will send, and bring thee from thence hither. Why shall I be deprived of both my sons in one day?  
-**46** And Rebecca said to Isaac: I am weary of my life because of the daughters of Heth: if Jacob take a wife of the stock of this land, I choose not to live.  
+**46** And Rebecca said to Isaac: *I am weary of my life, because of the daughters of Heth: if Jacob take a wife of the stock of this land, I choose not to live.  
 
 ---
 
@@ -1381,157 +1380,152 @@ format: markdown
 ## Chapter 38
 
 **1** At that time Juda went down from his brethren, and turned in to a certain Odollamite, named Hiras.  
-**2** And he saw there the daughter of a man of Chanaan, called Sue: and taking her to wife, he went in unto her.  
+**2** *And he saw there the daughter of a man of Chanaan, called Sue: and taking her to wife, he went in unto her.  
 **3** And she conceived, and bore a son, and called his name Her.  
-**4** And conceiving again, she bore a son, and called him Onan.  
-**5** She bore also a third: whom she called Sela. after whose birth, she ceased to bear any more.  
-**6** And Juda took a wife for Her his firstborn, whose name was Thamar.  
-**7** And Her, the firstborn of Juda, was wicked in the sight of the Lord: and was slain by him.  
-**8** Juda, therefore add to Onan his son: Go in to thy brother's wife and marry her, that thou mayst raise seed to thy brother.  
+**4** *And conceiving again, she bore a son, and called him Onan.  
+**5** She bore also a third: whom she called Sela. After whose birth, she ceased to bear any more.  
+**6** And Juda took a wife for Her, his first-born, whose name was Thamar.  
+**7** *And Her, the first-born of Juda, was wicked in the sight of the Lord: and was slain by him.  
+**8** Juda, therefore said to Onan his son: Go in to thy brother's wife and marry her, that thou mayst raise seed to thy brother.  
 **9** He knowing that the children should not be his, when he went in to his brother's wife, spilled his seed upon the ground, lest children should be born in his brother's name.  
-**10** And therefore the Lord slew him, be- cause he did a detestable thing.  
-**11** Wherefore Juda said to Thamar his daughter in law: Remain a widow in thy father's house, till Sela my son grow up: for he was afraid lest he also might die, as his brethren did. She went her way and dwelt in her father's house.  
-**12** And after many days were past, the daughter of Sue the wife of Juda died: and when he had taken comfort after his mourning, he went up to Thamnas, to the shearers of his sheep, he and Hiras the Odollamite the shepherd of his flock.  
-**13** And it was told Thamar that her father in law was come up to Thamnas to shear his sheep.  
+**10** And therefore the Lord slew him, because he did a detestable thing:  
+**11** Wherefore Juda said to Thamar his daughter- in-law: Remain a widow in thy father's house, till Sela my son grow up: for he was afraid lest he also might die, as his brethren did. She went her way, and dwelt in her father's house.  
+**12** And after many days were past, the daughter of Sue the wife of Juda died: and when he had taken comfort after his mourning, he went up to Thamnas, to the shearers of his sheep, he and Hiras the Odollamite, the shepherd of his flock.  
+**13** And it was told Thamar that her father-in-law was come up to Thamnas to shear his sheep.  
 **14** And she put off the garments of her widowhood, and took a veil: and changing her dress, sat in the cross way, that leadeth to Thamnas: because Sela was grown up, and she had not been married to him.  
-**15** dummy verses inserted by amos  
-**16** When Juda saw her, he thought she was a harlot: for she had covered her face, lest she should be known.  
-**18** He said: I will send thee a kid out of the flock. And when she said again: I will suffer what thou wilt, if thou give a pledge, till thou send what thou promisest,  
-**19** Juda said: What wilt thou have for a pledge ? She answered: Thy ring and bracelet, and the staff which thou holdest in thy hand. The woman therefore at one copulation conceived.  
-**20** And she arose and went her way: and putting off the apparel which she had taken, put on the garments of her widowhood.  
-**21** And Juda sent a kid by his shepherd, the Odollamite, that he might receive the pledge again, which he had given to the woman: but he, not finding her,  
-**22** asked the men of that place : Where is the woman that sat in the cross way? And when they all made answer: There was no harlot in this place,  
-**23** He returned to Juda, and said to him: I have not found her; moreover the men of that place said to me, that there never sat a harlot there.  
-**24** Juda said : Let her take it to herself ; surely she cannot charge us with a,lie: I sent the kid which I promised: and thou didst not find her.  
-**25** And behold after three months they told a lie, saying: Thamar, thy daughter in law hath played the harlot, and she appeareth to have a big belly. And Juda said : Bring her out that she may be burnt.  
-**26** dummy verses inserted by amos  
-**27** But when she was led to execution, she sent to her father in law, saying: By the man, to whom these things belong, I am with child. See whose ring, and bracelet, and staff this is.  
-**29** And when she was ready to be brought to bed, there appeared twins in her womb: and in the very delivery of the infants, one put forth a hand, whereon the midwife tied a scarlet thread, saying:  
-**30** This shall come forth the first.  
-**31** But he drawing back his hand, the other came forth: and the woman said: Why is the partition divided for thee? and therefore called his name Phares.  
-**32** Afterwards his brother came out, on whose hand was the scarlet thread: and she called him Zara.  
+**15** When Juda saw her, he thought she was a harlot: for she had covered her face, lest she should be known.  
+**16** And going to her, he said: Suffer me to lie with thee: for he knew her not to be his daughter-in-law. And she answered: What wilt thou give me to enjoy my company?  
+**17** He said: I will send thee a kid out of the flock. And when she said again: I will suffer what thou wilt, if thou give a pledge, till thou send what thou promisest.  
+**18** Juda said: What wilt thou have for a pledge? She answered: Thy ring and bracelet, and the staff which thou holdest in thy hand. The woman therefore at one copulation conceived.  
+**19** And she arose and went her way: and putting off the apparel which she had taken, put on the garments of her widowhood.  
+**20** And Juda sent a kid by his shepherd, the Odollamite, that he might receive the pledge again, which he had given to the woman: but he, not finding her,  
+**21** Asked the men of that place: Where is the woman that sat in the cross way? And when they all made answer: There was no harlot in this place,  
+**22** He returned to Juda, and said to him: I have not found her; moreover the men of that place said to me, that there never sat a harlot there.  
+**23** Juda said: Let her take it to herself; surely she cannot charge us with a lie, I sent the kid which I promised: and thou didst not find her.  
+**24** And behold, after three months, they told Juda, saying: Thamar, thy daughter-in-law hath played the harlot, and she appeareth to have a big belly. And Juda said: Bring her out that she may be burnt.  
+**25** But when she was led to execution, she sent to her father-in-law, saying: By the man, to whom these things belong, I am with child. See whose ring, and bracelet, and staff this is.  
+**26** But he acknowledging the gifts, said: She is juster than I: because I did not give her to Sela, my son. However, he knew her no more.  
+**27** *And when she was ready to be brought to bed, there appeared twins in her womb: and in the very delivery of the infants, one put forth a hand, whereon the midwife tied a scarlet thread, saying:  
+**28** This shall come forth the first.  
+**29** But he drawing back his hand, the other came forth: and the woman said: Why is the partition divided for thee? and therefore called his name Phares.  
+**30** *Afterwards his brother came out, on whose hand was the scarlet thread: and she called him Zara.  
 
 ---
 
 ## Chapter 39
 
-**1** And Joseph was brought into Egypt, and Putiphar an eunuch of Pharao, chief captain of the army, an Egyptian, bought him of the Ismaelites, by whom he was brought.  
-**2** And the Lord was with him, and he was a prosperous man in all things: and he dwelt in his master's house,  
+**1** And Joseph was brought into Egypt, and Putiphar, an eunuch of Pharao, chief captain of the army, an Egyptian, bought him of the Ismaelites, by whom he was brought.  
+**2** And the Lord was with him, and he was a prosperous man in all things: and he dwelt in his master's house:  
 **3** Who knew very well that the Lord was with him, and made all that he did to prosper in his hand.  
 **4** And Joseph found favour in the sight of his master, and ministered to him: and being set over all by him, he governed the house committed to him, and all things that were delivered to him:  
-**5** And the Lord blessed the house of the Egyptian for Joseph's sake, and multiplied all his substance, both at home, and in the fields.  
-**6** dummy verses inserted by amos  
-**7** h And after many days his mistress 'cast her eyes on Joseph, and said: Lie with me.  
-**8** Neither knew he any other thing, but the bread which he ate. And Joseph was of a beautiful countenance, and comely to behold.  
-**10** But he, in no wise consenting to that wicked act, said to her: Behold, my master hath delivered all things to me, and knoweth not what he hath in his own house:  
-**11** Neither is there any thing which is hot in my power, or that he hath not delivered to me, but thee, who art his wife : how then can I do this wicked thing, and I sin against my God?  
-**12** With such words as these day by day, both the woman was importunate with the young man, and he refused the adultery.  
-**13** Now it happened on it certain day, that Joseph went into the house, and was doing some business without any, man with him:  
-**14** And she catching the skirt of his garment, said: Lie with me. But he leaving the garment in her hand, fled, and went out.  
-**15** And when the woman saw the garment in her hands, and herself disregarded,  
-**16** She called to her the men of her house, and said to them: See, he hath brought in a Hebrew, to abuse us: he came in to me, to lie with me : and when I cried out,  
-**17** dummy verses inserted by amos  
-**18** And he heard my voice, he left the garment that I held, and got him out.  
-**20** For a proof therefore of her fidelity, she kept the garment, and shewed it to her husband when he returned home:  
-**21** And said: The Hebrew servant, whom thou best brought, came to me to abuse me.  
-**22** And when he heard me cry, he left the garment which I held, and fled out.  
-**23** His master hearing these things, and giving too much credit to his wife's words, was very angry.  
-**24** And cast Joseph into the prison, where the king's prisoners were kept, and he was there shut up.  
-**25** But the Lord was with Joseph and having mercy upon him gave him favour in the sight of the chief keeper of the prison:  
-**26** Who delivered into his hand all the prisoners that were kept in custody: and whatsoever was done was under him.  
-**27** Neither did he himself know any thing, having committed all things to him: for the Lord was with him, and made all that he did to prosper.  
+**5** And the Lord blessed the house of the Egyptian for Joseph's sake, and multiplied all his substance, both at home and in the fields.  
+**6** Neither knew he any other thing, but the bread which he ate. And Joseph was of a beautiful countenance, and comely to behold.  
+**7** *And after many day,s his mistress cast her eyes on Joseph, and said: Lie with me.  
+**8** But he in no wise consenting to that wicked act, said to her: Behold, my master hath delivered all things to me, and knoweth not what he hath in his own house:  
+**9** Neither is there any thing which is hot in my power, or that he hath not delivered to me, but thee, who art his wife; how then can I do this wicked thing, and sin against my God?  
+**10** With such words as these day by day, both the woman was importunate with the young man, and he refused the adultery.  
+**11** Now it happened on a certain day, that Joseph went into the house, and was doing some business, without any man with him:  
+**12** And she catching the skirt of his garment, said: Lie with me. But he leaving the garment in her hand, fled, and went out.  
+**13** And when the woman saw the garment in her hands, and herself disregarded,  
+**14** She called to her the men of her house, and said to them: See, he hath brought in a Hebrew, to abuse us: he came in to me, to lie with me; and when I cried out,  
+**15** And he heard my voice, he left the garment that I held, and got him out.  
+**16** For a proof therefore of her fidelity, she kept the garment, and shewed it to her husband when he returned home:  
+**17** And said: The Hebrew servant, whom thou hast brought, came to me to abuse me.  
+**18** And when he heard me cry, he left the garment which I held, and fled out.  
+**19** His master hearing these things, and giving too much credit to his wife's words, was very angry,  
+**20** *And cast Joseph into the prison, where the king's prisoners were kept, and he was there shut up.  
+**21** But the Lord was with Joseph, and having mercy upon him gave him favour in the sight of the chief keeper of the prison:  
+**22** Who delivered into his hand all the prisoners that were kept in custody: and whatsoever was done, was under him.  
+**23** Neither did he himself know any thing, having committed all things to him: for the Lord was with him, and made all that he did to prosper.  
 
 ---
 
 ## Chapter 40
 
-**1** After this, it came to pass, that two eunuchs, the butler and the baker of the king of Egypt, offended their lord.  
-**2** And Pharao being angry with them (now the one was chief butler, the other chief baker)  
-**3** He sent them to the prison of the commander of the soldiers, in which Joseph also was prisoner,  
+**1** After this, it came to pass, *that two eunuchs, the butler and the baker of the king of Egypt, offended their lord.  
+**2** And Pharao being angry with them, (now the one was chief butler, the other chief baker,)  
+**3** He sent them to the prison of the commander of the soldiers, in which Joseph also was prisoner.  
 **4** But the keeper of the prison delivered them to Joseph, and he served them. Some little time passed, and they were kept in custody.  
 **5** And they both dreamed a dream the same night, according to the interpretation agreeing to themselves:  
-**6** And when Joseph was come in to them in the morning, and saw them sad,  
-**7** He asked them, saying: Why is your oountenance sadder to day than usual?  
-**8** They answered: We have dreamed a dream, and there is nobody to interpret it to us. And Joseph said to them: Both not interpretation belong to God? Tell me what you have dreamed. g The chief butler first told his dream: I saw before me a vine,  
-**9** dummy verses inserted by amos  
-**10** On which were three branches, which by little and little sent out buds, and after the blossoms brought forth ripe grapes :  
-**11** And the cup of Pharao was in my hand: and I took the grapes, and pressed them into the cup which I held, and I gave the cup to Pharao.  
-**12** Joseph answered: This is the interpretation of the dream: The three branches are yet three days:  
-**13** After which Pharao will remember thy service, and will restore thee to thy former place: and thou shah present him the cup according to thy office, as before thou wast wont to do.  
-**14** Only remember me, when it shall be well with thee, and do me this kindness: to put Pharao in mind to take me out of this prison:  
-**15** dummy verses inserted by amos  
-**16** For I was stolen away out of the land I of the Hebrews, and here without any fault was cast into the dungeon.  
-**18** The chief baker seeing that he had wisely interpreted the dream, said: I also dreamed a dream, That I bed three baskets of meal upon my heed:  
-**19** And that in one basket which was uppermost, I carried all meats that are made by the art of baking, and that the birds ate out of it.  
-**20** Joseph answered: This is the interpretation of the dream: The three baskets are yet three days:  
-**21** After which Pharao will take thy hand from thee, and hang thee on a cross, and the birds shall tear thy flesh.  
-**22** The third day after this was the birthday of Pharao: and he made a. great feast for his servants, and at the banquet remembered the chief butler, and the chief baker.  
-**23** And he restored the one to his place to present him the cup:  
-**24** The other he hanged on a gibbet, that the truth of the interpreter might be shewn.  
-**25** But the chief butler, when things prospered with him, forgot his interpreter.  
+**6** And when Joseph was come into them in the morning, and saw them sad,  
+**7** He asked them, saying: Why is your oountenance sadder to-day than usual?  
+**8** They answered: We have dreamed a dream, and there is nobody to interpret it to us. And Joseph said to them: Doth not interpretation belong to God? Tell me what you have dreamed.  
+**9** On which were three branches, which by little and little sent out buds, and after the blossoms brought forth ripe grapes:  
+**10** And the cup of Pharao was in my hand: and I took the grapes, and pressed them into the cup which I held, and I gave the cup to Pharao.  
+**11** Joseph answered: This is the interpretation of the dream: The three branches, are yet three days:  
+**12** After which Pharao will remember thy service, and will restore thee to thy former place: and thou shalt present him the cup according to thy office, as before thou wast wont to do.  
+**13** Only remember me, when it shall be well with thee, and do me this kindness: to put Pharao in mind to take me out of this prison:  
+**14** For I was stolen away out of the land of the Hebrews, and here without any fault was cast into the dungeon.  
+**15** The chief baker seeing that he had wisely interpreted the dream, said: I also dreamed a dream, That I had three baskets of meal upon my head:  
+**16** And that in one basket which was uppermost, I carried all meats that are made by the art of baking, and that the birds ate out of it.  
+**17** Joseph answered: This is the interpretation of the dream: The three baskets are yet three days:  
+**18** After which Pharao will take thy head from thee, and hang thee on a cross, and the birds shall tear thy flesh.  
+**19** The third day after this was the birth-day of Pharao: and he made a great feast for his servants, and at the banquet remembered the chief butler, and the chief baker.  
+**20** And he restored the one to his place, to present him the cup:  
+**21** The other he hanged on a gibbet, that the truth of the interpreter might be shewn.  
+**22** But the chief butler, when things prospered with him, forgot his interpreter.  
 
 ---
 
 ## Chapter 41
 
-**1** After two years Pharao had a dream. He thought he stood by the river,  
+**1** After two years Pharao had a dream.* He thought he stood by the river,  
 **2** Out of which came up seven kine, very beautiful and fat: and they fed in marshy places.  
-**3** Other seven also came up out of the river, ill favoured, and leanfleshed: and they fed on the very bank of the river, in green places:  
+**3** Other seven also came up out of the river, ill-favoured, and lean fleshed: and they fed on the very bank of the river, in green places:  
 **4** And they devoured them, whose bodies were very beautiful and well conditioned. So Pharao awoke.  
-**5** dummy verses inserted by amos  
-**6** He slept again, and dreamed another dream: Seven ears of corn came up upon one stalk full and fair:  
-**8** Then seven other ears sprung up thin and blasted,  
-**9** And devoured all the beauty of the former. Pharao awaked after his rest:  
-**10** And when morning was come, being struck with fear, he sent to all the interpreters of Egypt, and to all the wise men: and they being called for, he told them his dream, and there was not any one that could interpret it.  
-**11** Then at length the chief butler remembering, said: I confess my sin:  
-**12** The king being angry with his servants, commanded me and the chief baker to be cast into the prison of the captain of the soldiers:  
-**13** Where in one night both of us dreamed a dream foreboding things to come.  
-**14** There was there a young man a Hebrew, servant to the same captain of the soldiers: to whom we told our dreams,  
-**15** And we heard what afterwards the event of the thing proved to be so. For I was restored to my office: and he was hanged upon a gibbet.  
-**16** Forthwith at the king's command, Joseph was brought out of the prison, and they shaved him, and changing his apparel, brought him in to him.  
-**17** And he said to him: I have dreamed dreams, and there is no one that can expound them: Now I have heard that thou art very wise at interpreting them.  
-**18** Joseph answered: Without me, God shall give Pharao a prosperous answer.  
-**19** So Pharao told what he had dreamed: Methought I stood upon the bank of the river,  
-**20** And seven kine came up out of the river exceeding beautiful and full of flesh: and they grazed on green places in a marshy pasture.  
-**21** And behold, there followed these, other seven kine, so very ill favoured and lean, that I never saw the like in the land of Egypt:  
-**22** And the devoured and consumed the former,  
-**23** And yet gave no mark of their being full: but were as lean and ill favoured as before. I awoke, and then fell asleep again,  
-**24** And dreamed a dream: Seven ears of corn grew upon one stalk, full and very fair.  
-**25** Other seven also thin and blasted, sprung of the stock:  
-**26** And they devoured the beauty of the former: I told this dream to the conjecturers, and there is no man that can expound it.  
-**27** Joseph answered: The king's dream is one: God hath shewn to Pharao what he is about to do.  
-**28** The seven beautiful kine, and the seven full ears, are seven years of plenty: and both contain the same meaning of the dream.  
-**29** And the seven lean and thin kine that came up after them, and the seven thin ears that were blasted with the burning wind, are seven years of famine to come:  
-**30** Which shall be fulfilled in this order:  
-**31** Behold, there shall come seven years of great plenty in the whole land of Egypt:  
-**32** After which shall follow other seven years of so great scacity, that all the abundance before shall be forgotten: for the famine shall consume all the land,  
-**33** And the greatness of the scarcity shall destroy the greatness of the plenty.  
-**34** And for that thou didst see the second time a dream pertaining to the same thing: it is a token of the certainty, and that the word of God cometh to pass, and is fulfilled speedily.  
-**35** Now therefore let the king provide a wise and industrious man, and make him ruler over the land of Egypt:  
-**36** That he may appoint overseers over all the countries: and gather into barns the fifth part of the fruits, during the seven fruitful years,  
-**37** That shall now presently ensue: and let all the corn be laid up under Pharao's hands and be reserved in the cities.  
-**38** And let it be in readiness, against the famine of seven years to come, which shall oppress Egypt, and the land shall not consumed with scarcity.  
-**39** The counsel pleased Pharao and all his servants.  
-**40** And he said to them: Can we find such another man, that is full of the spirit of God?  
-**41** He said therefore to Joseph: Seeing God hath shewn thee all that thou hast said, can I find one wiser and one like unto thee?  
-**42** Thou shalt be over my house, and at the commandment of thy mouth all the people shall obey: only in the kingly throne will I be above thee.  
-**43** And again Pharao said to Joseph: Behold, I have appointed thee over the whole land of Egypt.  
-**44** And he took his ring from his own hand, and gave it into his hand: and he put upon him a robe of silk, and put a chain of gold about his neck.  
-**45** And he made him go up into his second chariot, the crier proclaiming that all should bow their knee before him, and that they should know he was made govenor over the whole land of Egypt.  
-**46** And the king said to Joseph: I am Pharao; without thy commandment no man shall move hand or foot in all the land of Egypt.  
-**47** And he turned his name, and called him in the Eyyptian tounge, The saviour of the world. And he gave him to wife Asenth the daughter of Putiphare priest of Heliopolis. Then Joseph went out to the land of Egypt:  
-**48** (Now he was thirty years old when he stood before king Pharao) and he went round all the countries of Egypt.  
-**49** And the fruitfulness of the seven years came: and the corm being bound up into sheaves was gathered together into the barns of Egypt.  
-**50** And all the abundance of grain was laid up in every city.  
-**51** And there was so great abundance of wheat, that it was equal to the sand of the sea, and the plenty exceeded measure.  
-**52** And before the famine came, Joseph had two sons born: whom Aseneth the daughter of Putiphare priest of Heliopolis bore unto him.  
-**53** And he called the name of the first born Manasses, saying: God hath made me to forget all my labours, and my father's house.  
-**54** And he named the second Epharaim, saying: God hath made me to grow in the land of my poverty.  
-**55** Now when the seven years of the plenty that had been in Egypt were past:  
-**56** The seven years of scarcity, which Joseph had foretold, began to come: and the famine prevailed in the whole world, but there was bread in all the land of Egypt.  
-**57** And when there also they began to be famished, the people cried to Pharao for food. And he said to them: Go to Joseph: and do all that he shall say to you.  
-**58** And the famine increased daily in all the land: and Joseph opened all the barns, and sold to the Egyptians: for the famine had oppressed them also.  
-**59** And all provinces came into Egypt, to buy food, and to seek some relief of their want.  
+**5** He slept again, and dreamed another dream: Seven ears of corn came up upon one stalk full and fair:  
+**6** Then seven other ears sprung up thin and blasted,  
+**7** And devoured all the beauty of the former. Pharao awaked after his rest:  
+**8** And when morning was come, being struck with fear, he sent to all the interpreters of Egypt, and to all the wise men: and they being called for, he told them his dream, and there was not any one that could interpret it.  
+**9** Then at length the chief butler remembering, said: I confess my sin:  
+**10** The king being angry with his servants, commanded me and the chief baker to be cast into the prison of the captain of the soldiers:  
+**11** Where in one night both of us dreamed a dream foreboding things to come.  
+**12** There was there a young man a Hebrew, servant to the same captain of the soldiers: to whom we told our dreams,  
+**13** And we heard what afterwards the event of the thing proved to be so. For I was restored to my office: and he was hanged upon a gibbet.  
+**14** Forthwith at the king's command Joseph was brought out of the prison, and they shaved him: and changing his apparel brought him in to him.  
+**15** And he said to him: I have dreamed dreams, and there is no one that can expound them: Now I have heard that thou art very wise at interpreting them:  
+**16** Joseph answered: Without me, *God shall give Pharao a prosperous answer.  
+**17** So Pharao told what he had dreamed: Methought I stood upon the bank of the river,  
+**18** And seven kine came up out of the river, exceeding beautiful and full of flesh: and they grazed on green places in a marshy pasture.  
+**19** And behold, there followed these, other seven kine, so very ill-favoured and lean, that I never saw the like in the land of Egypt:  
+**20** And they devoured and consumed the former,  
+**21** And yet gave no mark of their being full: but were as lean and ill-favoured as before. I awoke, and then fell asleep again,  
+**22** And dreamed a dream: Seven ears of corn grew up upon one stalk, full and very fair.  
+**23** Other seven also thin and blasted, sprung of the stock:  
+**24** And they devoured the beauty of the former: I told this dream to the conjecturers, and there is no man that can expound it.  
+**25** Joseph answered: The king's dream is one: God hath shewn to Pharao what he is about to do.  
+**26** The seven beautiful kine, and the seven full ears, are seven years of plenty: and both contain the same meaning of the dream.  
+**27** And the seven lean and thin kine that came up after them, and the seven thin ears that were blasted with the burning wind, are seven years of famine to come:  
+**28** Which shall be fulfilled in this order.  
+**29** Behold, there shall come seven years of great plenty in the whole land of Egypt:  
+**30** After which shall follow other seven years of so great scacity, that all the abundance before shall be forgotten: for the famine shall consume all the land,  
+**31** And the greatness of the scarcity shall destroy the greatness of the plenty.  
+**32** And for that thou didst see the second time a dream pertaining to the same thing: it is a token of the certainty, and that the word of God cometh to pass, and is fulfilled speedily.  
+**33** Now therefore let the king provide a wise and industrious man, and make him ruler over the land of Egypt:  
+**34** That he may appoint overseers over all the countries: and gather into barns the fifth part of the fruits, during the seven fruitful years,  
+**35** That shall now presently ensue: and let all the corn be laid up, under Pharao's hands, and be reserved in the cities.  
+**36** And let it be in readiness, against the famine of seven years to come, which shall oppress Egypt, and the land shall not consumed with scarcity.  
+**37** The counsel pleased Pharao, and all his servants.  
+**38** And he said to them: Can we find such another man, that is full of the spirit of God?  
+**39** He said therefore to Joseph: Seeing God hath shewn thee all that thou hast said, can I find one wiser and one like unto thee?  
+**40** *Thou shalt be over my house, and at the commandment of thy mouth all the people shall obey: only in the kingly throne will I be above thee.  
+**41** And again Pharao said to Joseph: Behold, I have appointed thee over the whole land of Egypt.  
+**42** And he took his ring from his own hand, and gave it into his hand: and he put upon him a robe of silk, and put a chain of gold about his neck.  
+**43** And he made him go up into his second chariot, the crier proclaiming that all should bow their knee before him, and that they should know he was made govenor over the whole land of Egypt.  
+**44** And the king said to Joseph: I am Pharao: without thy commandment no man shall move hand or foot in all the land of Egypt.  
+**45** And he turned his name, and called him in the Egyptian tounge the saviour of the world. And he gave him to wife Asenth, the daughter of Putiphare, priest of Heliopolis. Then Joseph went out to the land of Egypt.  
+**46** (Now he was thirty years old when he stood before king Pharao), and he went round all the countries of Egypt.  
+**47** And the fruitfulness of the seven years came: and the corm being bound up into sheaves, was gathered together into the barns of Egypt.  
+**48** And all the abundance of grain was laid up in every city.  
+**49** And there was so great abundance of wheat, that it was equal to the sand of the sea, and the plenty exceeded measure.  
+**50** *And before the famine came, Joseph had two sons born: whom Aseneth, the daughter of Putiphare, priest of Heliopolis, bore unto him.  
+**51** And he called the name of the first-born Manasses, saying: God hath made me to forget all my labours, and my father's house.  
+**52** And he named the second Ephraim, saying: God hath made me to grow in the land of my poverty.  
+**53** Now when the seven years of the plenty that had been in Egypt were passed:  
+**54** *The seven years of scarcity, which Joseph had foretold, began to come: and the famine prevailed in the whole world, but there was bread in all the land of Egypt.  
+**55** And when there also they began to be famished, the people cried to Pharao for food. And he said to them: Go to Joseph: and do all that he shall say to you.  
+**56** And the famine increased daily in all the land: and Joseph opened all the barns, and sold to the Egyptians: for the famine had oppressed them also.  
+**57** And all provinces came into Egypt, to buy food, and to seek some relief of their want.  
 
 ---
 
@@ -1793,40 +1787,38 @@ format: markdown
 
 ## Chapter 49
 
-**1** And Jacob called his sons, and said to them: Gather yourselves together that I may tell you the things that shall befall you in the last days.  
-**2** Gather yourselves together, and hear, O ye sons of Jacob, hearken to Israel your father:  
-**3** Ruben, my firstborn, thou art my strength, and the beginning of my sorrow: excelling in gifts, greater in command.  
-**4** Thou art poured out as water, grow thou not: because thou wentest up to thy father's bed, and didst defile his couch.  
-**5** Simeon and Levi brethren: vessels of iniquity, waging war.  
-**6** Let not my soul go into their counsel, nor my glory be in their assembly: "be- cause in their fury they slew a man, and in their selfwill they undermined a wall.  
-**7** Cursed be their fury, because it was stubborn: and their wrath because it was cruel: I Will divide them in Jacob, and will scatter them in Israel.  
-**8** Juda, thee shall thy brethren praise: thy hands shall be on the necks of thy enemies: the sons of thy father shall bow down to thee.  
-**9** Juda is a lion's whelp: to the prey, my son, thou art gone up: resting thou hast couched as a lion, and as a lioness, who shall rouse him?  
-**10** The sceptre shall not be taken away from Juda, nor a ruler from his thigh, till he come that is to be sent, and he shall be the expectation of nations.  
-**11** Tying his foal to the vineyard, and his ass, 0 my son, to the vine. He shall wash his robe in wine, and his garment in the blood of the grape.  
+**1** And Jacob called his sons, and said to them: Gather yourselves together, that I may tell you the things that shall befall you in the last days.  
+**2** Gather yourselves together, and hear, O ye sons of Jacob, hearken to Israel, your father:  
+**3** Ruben, my first-born, thou art my strength, and the beginning of my sorrow; excelling in gifts, greater in command.  
+**4** Thou art poured out as water, grow thou not; *because thou wentest up to thy father's bed, and didst defile his couch.  
+**5** Simeon and Levi brethren: vessels of iniquity waging war.  
+**6** Let not my soul go into their counsel, nor my glory be in their assembly: *because in their fury they slew a man, and in their self-will they undermined a wall.  
+**7** Cursed be their fury, because it was stubborn: and their wrath, because it was cruel:* I will divide them in Jacob, and will scatter them in Israel.  
+**8** Juda, thee shall thy brethren praise: thy hands shall be on the necks of thy enemies; the sons of thy father shall bow down to thee.  
+**9** *Juda is a lion's whelp: to the prey, my son, thou art gone up: resting thou hast couched as a lion, and as a lioness, who shall rouse him?  
+**10** *The sceptre shall not be taken away from Juda, nor a ruler from his thigh, till he come that is to be sent, and he shall be the expectation of nations.  
+**11** Tying his foal to the vineyard, and his ass, O my son, to the vine. He shall wash his robe in wine, and his garment in the blood of the grape.  
 **12** His eyes are more beautiful than wine, and his teeth whiter than milk.  
-**13** Zabulon shall dwell on the sea shore, and in the road of ships, reaching as far as Sidon.  
-**14** Issachar shall be a strong ass lying down between the borders.  
-**15** dummy verses inserted by amos  
-**16** He saw rest that it was good: and the land that it was excellent: and he bowed his shoulder to carry, and became a servant under tribute.  
-**18** Dan shall judge his people like an- other tribe in Israel.  
-**19** Let Dan be a snake in the way, a serpent in the path, that biteth the horse's heels that his rider may fall backward.  
-**20** I will look for thy salvation, 0 Lord.  
-**21** Gad, being girded, shall fight before him: and he himself shall be girded backward.  
-**22** Aser, his bread shall be fat, and he shall yield dainties to kings.  
-**23** Nephtali, a hart let loose, and giving words of beauty.  
-**24** Joseph is a growing son, a growing son and comely to behold; the daughters run to and fro upon the wall.  
-**25** But they that held darts provoked him, and quarrelled with him, and envied him.  
-**26** His bow rested upon the strong, and the bands of his arms and his hands were loosed, by the hands of the mighty one of Jacob: thence he came forth a pastor, the stone of Israel.  
-**27** dummy verses inserted by amos  
-**28** The God of thy father shall be thy helper, and the Almighty shall bless thee with the blessings of heaven above, with the blessings of the deep that lieth be- neath, with the blessings of the breasts and of the womb.  
-**30** The blessings of thy father are strengthened with the blessings of his fathers: until the desire of the everlasting hills should come; may they be upon the head of Joseph, and upon the crown of the Nazarite among his brethren.  
-**31** Benjamin a ravenous wolf, in the morning shall eat the prey, and in the evening shall divide the spoil.  
-**32** All these are the twelve tribes of Israel: these things their father spoke to them, and he blessed every one, with their proper blessings.  
-**33** And he charged them, saying: I am now going to be gathered to my people : bury me with my fathers in the double cave, which is in the field of Ephron the Hethite,  
-**34** Over against Mambre in the land of Chanaan, which Abraham bought to- gather with the field of Ephron the Hethite for a possession to bury in.  
-**35** There they buried him, and Sara his wife: there was Isaac buried with Rebecca his wife: there also Lia doth lie buried.  
-**36** And when he had ended the commandments, wherewith he instructed his sons, he drew up his feet upon the bed, and died: and he was gathered to his people."  
+**13** Zabulon shall dwell on the sea-shore, and in the road of ships, reaching as far as Sidon.  
+**14** Issachar shall be a strong ass, lying down between the borders.  
+**15** He saw rest that it was good: and the land that it was excellent: and he bowed his shoulder to carry, and became a servant under tribute.  
+**16** Dan shall judge his people like another tribe in Israel.  
+**17** Let Dan be a snake in the way, a serpent in the path, that biteth the horse's heels, that his rider may fall backward.  
+**18** I will look for thy salvation, O Lord.  
+**19** Gad, being girded, shall fight before him: and he himself shall be girded backward.  
+**20** Aser, his bread shall be fat, and he shall yield dainties to kings.  
+**21** Nephthali, a hart let loose, and giving words of beauty.  
+**22** *Joseph is a growing son, a growing son and comely to behold: the daughters run to and fro upon the wall;  
+**23** But they that held darts, provoked him, and quarrelled with him, and envied him.  
+**24** His bow rested upon the strong, and the bands of his arms and his hands were loosed, by the hands of the mighty one of Jacob: thence he came forth a pastor, the stone of Israel.  
+**25** The God of thy father shall be thy helper, and the Almighty shall bless thee with the blessings of heaven above, with the blessings of the deep that lieth beneath, with the blessings of the breasts and of the womb.  
+**26** The blessings of thy father are strengthened with the blessings of his fathers: until the desire of the everlasting hills should come: may they be upon the head of Joseph, and upon the crown of the Nazarite among his brethren.  
+**27** Benjamin a ravenous wolf, in the morning shall eat the prey, and in the evening shall divide the spoil.  
+**28** All these are the twelve tribes of Israel: these things their father spoke to them, and he blessed every one with their proper blessings.  
+**29** And he charged them, saying: I am now going to be gathered to my people: bury me with my fathers in the double cave, which is in the field of Ephron the Hethite,  
+**30** Over-against Mambre in the land of Chanaan,* which Abraham bought togather with the field, of Ephron the Hethite, for a possession to bury in.  
+**31** There they buried him, and Sara his wife: there was Isaac buried with Rebecca, his wife: there also Lia doth lie buried.  
+**32** And when he had ended the commandments, wherewith he instructed his sons, he drew up his feet upon the bed, and died: and he was gathered to his people.*  
 
 ---
 

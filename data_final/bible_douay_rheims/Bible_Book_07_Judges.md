@@ -89,33 +89,27 @@ format: markdown
 
 **1** And an angel of the Lord went up from Galgal to the place of weepers, and said: I made you go out of Egypt, and have brought you into the land for which I swore to your fathers: and I promised that I would not make void my covenant with you for ever:  
 **2** On condition that you should not make a league with the inhabitants of this land, but should throw down their altars: and you would not hear my voice: why have you done this?  
-**3** Wherefore I would not destroy them from before your face: that you may have enemies, and their gods may be your ruin.  
-**4** And when the angel of the Lord spoke these words to all the children of Israel, they lifted up their voice, and wept.  
+**3** Wherefore I would not destroy them from before your face; that you may have enemies, and their gods may be your ruin.  
+**4** And when the angel of the Lord spoke these words to all the children of Israel: they lifted up their voice, and wept.  
 **5** And the name of that place was called, The place of weepers, or of tears: and there they offered sacrifices to the Lord.  
-**6** And Josue sent away the people, and the children of Israel went every one to his own possession to hold it:  
+**6** *And Josue sent away the people, and the children of Israel went every one to his own possession to hold it:  
 **7** And they served the Lord all his days, and the days of the ancients, that lived a long time after him, and who knew all the works of the Lord, which he had done for Israel.  
-**8** And Josue the son of Nun, the servant of the Lord, died, being a hundred and ten years old,  
-**9** And they buried him in the borders of his possession in Thamnathsare in mount Ephraim, on the north side of mount Gaas.  
+**8** And Josue, the son of Nun, the servant of the Lord, died, being a hundred and ten years old;  
+**9** And they buried him in the borders of his possession in Thamnathsare, in Mount Ephraim, on the north side of Mount Gaas.  
 **10** And all that generation was gathered to their fathers: and there arose others that knew not the Lord, and the works which he had done for Israel.  
 **11** And the children of Israel did evil in the sight of the Lord, and they served Baalim.  
-**12** And they left the Lord the God of their fathers, who had brought them out of the land of Egypt: and they followed strange gods, and the gods of the people that dwelt round about them, and they adored them: and they provoked the Lord to anger.  
+**12** And they left the Lord, the God of their fathers, who had brought them out of the land of Egypt: and they followed strange gods, and the gods of the people that dwelt round about them, and they adored them: and they provoked the Lord to anger,  
 **13** Forsaking him, and serving Baal and Astaroth.  
 **14** And the Lord being angry against Israel, delivered them into the hands of plunderers: who took them and sold them to their enemies, that dwelt round about: neither could they stand against their enemies:  
 **15** But whithersoever they meant to go, the hand of the Lord was upon them, as he had said, and as he had sworn to them: and they were greatly distressed.  
 **16** And the Lord raised up judges, to deliver them from the hands of those that oppressed them: but they would not hearken to them,  
 **17** Committing fornication with strange gods, and adoring them. They quickly forsook the way, in which their fathers had walked: and hearing the commandments of the Lord, they did all things contrary.  
-**18** And when the Lord raised them up judges, in their days he was moved to mercy, and heard the groanings of the afflicted, and delivered them from the slaughter of the oppressors.  
-**19** But after the judge was dead, they returned, and did much worse things than their fathers had done, following strange gods, serving them and adoring them. They left not their own inventions, and the stubborn way, by which they were accustomed to walk.  
+**18** And when the Lord raised them up judges, in their days, he was moved to mercy, and heard the groanings of the afflicted, and delivered them from the slaughter of the oppressors.  
+**19** But after the judge was dead, they returned, and did much worse things than their fathers had done, following strange gods, serving them, and adoring them. They left not their own inventions, and the stubborn way, by which they were accustomed to walk.  
 **20** And the wrath of the Lord was kindled against Israel, and he said: Behold this nation hath made void my covenant, which I had made with their fathers, and hath despised to hearken to my voice:  
-**21** I also will not destroy the nations which Josue left, when he died:  
+**21** I also will not destroy the nations which Josue left when he died:  
 **22** That through them I may try Israel, whether they will keep the way of the Lord, and walk in it, as their fathers kept it, or not.  
-**23** dummy verses inserted by amos  
-**24** dummy verses inserted by amos  
-**25** dummy verses inserted by amos  
-**26** dummy verses inserted by amos  
-**27** dummy verses inserted by amos  
-**28** dummy verses inserted by amos  
-**29** The Lord therefore left all these nations, and would not quickly destroy them, neither did he deliver them into the hands of Josue.  
+**23** The Lord therefore left all these nations, and would not quickly destroy them, neither did he deliver them into the hands of Josue.  
 
 ---
 
@@ -223,46 +217,31 @@ format: markdown
 
 ## Chapter 6
 
-**1** And the children of Israel again did evil in the sight of the Lord: and he delivered them into the hand of Madian seven years.  
-**3** And they were grievously oppressed by them. And they made themselves dens and eaves in the mountains, and strong holds to resist.  
-**4** And when Israel had sown, Madian and Amalec, and the rest of the eastern nations came up:  
-**5** And pitching their tents among them, wasted all things as they were in the blade even to the entrance of Gaza: and they left nothing at all in Israel for sustenance of life, nor sheep, nor oxen, nor asses.  
-**6** For they and all their flocks came with their tents, and like locusts filled all places, an innumerable multitude of men, and of camels, wasting whatsoever they touched.  
-**7** And Israel was humbled exceedingly in the sight of Madian.  
-**8** And he cried to the Lord desiring help against the Madianites.  
-**9** And he sent unto them a prophet, and he spoke: Thus saith the Lord the God of Israel: I made you to come up out of Egypt, and brought you out of the house of bondage,  
-**10** And delivered you out of the hands of the Egyptians, and of all the enemies that afflicted you: and I cast them out at your coming in, and gave you their land.  
-**11** dummy verses inserted by amos  
-**12** And an angel of the Lord came, and sat under an oak, that was in Ephra, and belonged to Joas the father of the family of Ezri. And when Gedeon his son was threshing and cleansing wheat by the winepress, to flee from Madian,  
-**13** The angel of the Lord appeared to him, and said: The Lord is with thee, O most valiant of men.  
-**14** And Gedeon said to him: I beseech thee, my lord, if the Lord be with us, why have these evils fallen upon us? Where are his miracles, which our fathers have told us of, saying: The Lord brought us Out of Egypt? but now the Lord hath forsaken us, and delivered us into the bands of Madian.  
-**15** And the Lord looked upon him, and said: Go in this thy strength, and then shalt deliver Israel out of the hand of Madian: know that I have sent thee.  
-**16** He answered and said: I beseech thee, my lord, wherewith shall I deliver Israel? Behold my family is the meanest in Manasses, and I am the least in my father's house.  
-**17** And the Lord said to him: I will be with thee: and thou shalt cut off Madian as one man.  
-**18** And he said: If I have found grace before thee, give me a sign that it is thou that speakest to me,  
-**19** And depart not hence, till I return to thee, and bring a sacrifice, and offer it to thee. And he answered: I will wait thy coming.  
-**20** So Gedeon went in, and boiled a kid, and made unleavened loaves of a measure of flour: and putting the flesh in a basket, and the broth of the flesh into a pot, he carried all under the oak, and presented to him.  
-**21** And the angel of the Lord said to him: Take the flesh and the unleavened loaves, and lay them upon that rock, and pour out the broth thereon. And when he had done so,  
-**22** The angel of the Lord put forth the tip of the rod, which he held in his hand, and touched the flesh and the unleavened loaves: and there arose a fire from the rock, and consumed the flesh and the unleavened loaves: and the angel of the Lord vanished out of his sight.  
-**23** And Gedeon seeing that it was the angel of the Lord, said: Alas, my Lord God: for I have seen the angel of the Lord face to face.  
-**24** And the Lord said to him: Peace be with thee: fear not, thou shalt not die.  
-**25** And Gedeon built there an altar to the Lord, and called it the Lord's peace, until this present day. And when he was yet in Ephra, which is of the family of Ezri,  
-**26** That night the Lord said to him: Take a bullock of thy father's, and another bullock of seven years, and thou shalt destroy the altar of Baal, which is thy father's: and cut down the grove that is about the altar:  
-**27** And thou shalt build an altar to the Lord thy God in the top of this rock, whereupon thou didst lay the sacrifice before: and thou shalt take the second bullock, and shalt offer a holocaust upon a pile of the wood, which thou shalt cut down out of the grove.  
-**28** Then Gedeon taking ten men of his servants, did as the Lord had commanded him. But fearing his father's house, and the men of that city, he would not do it by day, but did all by night.  
-**29** And when the men of that town were risen in the morning, they saw the altar of Baal destroyed, and the grove cut down, and the second bullock laid upon the altar, which then was built.  
-**30** And they said one to another: Who hath done this? And when they inquired for the author of the fact, it was said: Gedeon the son of Joas did all this.  
-**31** And they said to Joas: Bring out thy son hither, that he may die: because he hath destroyed the altar of Baal, and hath cut down his grove.  
-**32** He answered them: Are you the avengers of Baal, that you fight for him? he that is his adversary, let him die before to morrow light appear: if he be a god, let him revenge himself on him that hath cast down his altar.  
-**33** From that day Gedeon was called Jerobaal, because Joss had said: Let Baal revenge himself on him that hath cast down his altar.  
-**34** Now all Madian, and Amalec, and the eastern people were gathered together, and passing over the Jordan, camped in the valley of Jezrael.  
-**35** But the spirit of the Lord came upon Gedeon, and be sounded the trumpet and called together the house of Abiezer, to follow him.  
-**36** And he sent messengers into all Manasses, and they also followed him: and other messengers into Aser and Zabulon and Nephtali, and they came to meet him.  
-**37** And Gedeon said to God: If thou wilt save Israel by my hand, as thou hast said,  
-**38** I will put this fleece of wool on the floor: if there be dew on the fleece only, and it be dry on all the ground beside, I, shall know that by my hand, as thou hast said, thou wilt deliver Israel.  
-**39** And it was so. And rising before day wringing the fleece, he filled a vessel with the dew.  
-**40** And he said again to God: let not thy wrath be kindled against me if I try once more, seeking a sign in the fleece. I pray that the fleece only may be dry, and all the ground wet with dew.  
-**41** And God did that night as he had requested: and it was dry on the fleece only, and there was dew on all the ground.  
+**1** Then *Jerobaal, who is the same as Gedeon, rising up early, and all the people with him, came to the fountain that is called Harad. Now the camp of Madian was in the valley, on the north side of the high hill.  
+**2** And the Lord said to Gedeon: The people that are with thee are many, and Madian shall not be delivered into their hands: lest Israel should glory against me, and say: I was delivered by my own strength.  
+**3** Speak to the people, and proclaim in the hearing of all: *Whosoever is fearful and timorous, let him return. So two and twenty thousand men went away from Mount Galaad and returned home, and only ten thousand remained.  
+**4** And the Lord said to Gedeon: The people are still too many, bring them to the waters, and there I will try them: and of whom I shall say to thee, This shall go with thee, let him go: whom I shall forbid to go, let him return.  
+**5** And when the people were come down to the waters, the Lord said to Gedeon: They that shall lap the water with their tongues, as dogs are wont to lap, thou shalt set apart by themselves: but they that shall drink bowing down their knees, shall be on the other side.  
+**6** And the number of them that had lapped water, casting it with the hand to their mouth, was three hundred men: and all the rest of the multitude had drunk kneeling.  
+**7** And the Lord said to Gedeon: By the three hundred men, that lapped water, I will save you, and deliver Madian into thy hand: but let all the rest of the people return to their place.  
+**8** So taking victuals and trumpets according to their number, he ordered all the rest of the multitude to depart to their tents: and he with the three hundred gave himself to the battle. Now the camp of Madian was beneath him in the valley.  
+**9** The same night the Lord said to him: Arise, and go down into the camp: because I have delivered them into thy hand.  
+**10** But if thou be afraid to go alone, let Phara, thy servant, go down with thee.  
+**11** And when thou shalt hear what they are saying, then shall thy hands be strengthened, and thou shalt go down more secure to the enemies' camp. And he went down with Phara, his servant, into part of the camp, where was the watch of men in arms.  
+**12** But Madian and Amalec, and all the eastern people, lay scattered in the valley, as a multitude of locusts: their camels also were innumerable, as the sand that lieth on the sea shore.  
+**13** And when Gedeon was come, one told his neighbour a dream: and in this manner related what he had seen: I dreamt a dream, and it seemed to me as if a hearth-cake of barley-bread rolled and came down into the camp of Madian: and when it was come to a tent, it struck it, and beat it down flat to the ground.  
+**14** He to whom he spoke, answered: This is nothing else but the sword of Gedeon, the son of Joas, a man of Israel. For the Lord hath delivered Madian, and all their camp into his hand.  
+**15** And when Gedeon had heard the dream, and the interpretation thereof, he adored: and returned to the camp of Israel, and said: Arise, for the Lord hath delivered the camp of Madian into our hands.  
+**16** And he divided the three hundred men into three parts, and gave them trumpets in their hands, and empty pitchers, and lamps within the pitchers.  
+**17** And he said to them: What you shall see me do, do you the same: I will go into one part of the camp, and do you as I shall do.  
+**18** When the trumpet shall sound in my hand, do you also blow the trumpets on every side of the camp, and shout together to the Lord and to Gedeon.  
+**19** And Gedeon, and the three hundred men that were with him, went into part of the camp, at the beginning of the midnight watch, and the watchmen being alarmed, they began to sound their trumpets, and to clap the pitchers one against another.  
+**20** And when they sounded their trumpets in three places round about the camp, and had broken their pitchers, they held their lamps in their left hands, and with their right hands the trumpets which they blew, and they cried out: The sword of the Lord and of Gedeon:  
+**21** Standing every man in his place round about the enemies' camp. So all the camp was troubled, and crying out and howling, they fled away:  
+**22** And the three hundred men nevertheless persisted sounding the trumpets. *And the Lord sent the sword into all the camp, and they killed one another,  
+**23** Fleeing as far as Bethsetta, and the border of Abelmehula, in Tebbath. But the men of Israel, shouting from Nephthali, and Aser, and from all Manasses, pursued after Madian.  
+**24** And Gedeon sent messengers into all Mount Ephraim, saying: Come down to meet Madian, and take the waters before them to Bethbera and the Jordan. And all Ephraim shouted, and took the waters before them and the Jordan as far as Bethbera.  
+**25** *And having taken two men of Madian, Oreb and Zeb: Oreb they slew in the rock of Oreb, and Zeb in the wine-press of Zeb. And they pursued Madian, carrying the heads of Oreb and Zeb to Gedeon, beyond the waters of the Jordan.  
 
 ---
 

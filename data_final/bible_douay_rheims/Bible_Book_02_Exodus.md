@@ -317,38 +317,38 @@ format: markdown
 
 **1** And the Lord said to Moses: Go in to Pharao, and speak to him: Thus saith the Lord God of the Hebrews: Let my people go to sacrifice to me.  
 **2** But if thou refuse, and withhold them still:  
-**3** Behold my hand shall be upon thy fields: and a very grievous murrain upon thy horses, and asses, and camels, and oxen, and sheep.  
+**3** Behold my hand shall be upon thy fields; and a very grievous murrain upon thy horses, and asses, and camels, and oxen, and sheep.  
 **4** And the Lord will make a wonderful difference between the possessions of Israel and the possessions of the Egyptians, that nothing at all shall die of those things that belong to the children of Israel.  
-**5** And the Lord appointed a time, saying: Tomorrow will the Lord do this thing in the land.  
+**5** And the Lord appointed a time, saying: To-morrow will the Lord do this thing in the land.  
 **6** The Lord therefore did this thing the next day: and all the beasts of the Egyptians died, but of the beasts of the children of Israel there died not one.  
-**7** And Pharao sent to see: and there was not any thing dead of that which Israel possessed. And Pharao's heart was hardened, and he did not let the people go.  
+**7** And Pharao sent to see; and there was not any thing dead of that which Israel possessed. And Pharao's heart was hardened, and he did not let the people go.  
 **8** And the Lord said to Moses and Aaron: Take to you handfuls of ashes out of the chimney, and let Moses sprinkle it in the air in the presence of Pharao.  
-**9** And be there dust upon all the land of Egypt: for there shall be boils and swelling blains both in men and beasts in the whole land of Egypt.  
-**10** And they took ashes out of the chimney, and stood before Pharao, and Moses sprinkled it in the air: and there came boils with swelling blains in men and beasts.  
+**9** And be there dust upon all the land of Egypt: for there shall be boils and swelling blains both in men and beasts, in the whole land of Egypt.  
+**10** And they took ashes out of the chimney, and stood before Pharao, and Moses sprinkled it in the air; and there came boils with swelling blains in men and beasts.  
 **11** Neither could the magicians stand before Moses for the boils that were upon them, and in all the land of Egypt.  
 **12** And the Lord hardened Pharao's heart, and he hearkened not unto them, as the Lord had spoken to Moses.  
-**13** And the Lord said to Moses: Arise in the morning, and stand before Pharao, and thou shalt say to him: Thus saith the Lord the God of the Hebrews: Let my people go to sacrifice to me.  
-**14** For I will at this time send all my plagues upon thy heart, and upon thy servants, and upon thy people: that thou mayst know there is none like me in all the earth.  
-**15** For now I will stretch out my hand to strike thee, and thy people with pestilence, and thou shalt perish from the earth.  
-**16** And therefore have I raised thee, that I may shew my power in thee, and my name may be spoken of throughout all the earth.  
-**17** Dost thou yet hold back my people: and wilt thou not let them go?  
-**18** Behold I will cause it to rain to morrow at this same hour, an exceeding great hail: such as hath not been in Egypt from the day that it was founded, until this present time.  
-**19** Send therefore now presently, and gather together thy cattle, and all that thou hast in the field: for men and beasts, and all things that shall be found abroad, and not gathered together out of the fields, which the hail shall fall upon, shall die.  
+**13** And the Lord said to Moses: Arise in the morning, and stand before Pharao, and thou shalt say to him: Thus saith the Lord, the God of the Hebrews: Let my people go to sacrifice to me.  
+**14** For I will at this time send all my plagues upon thy heart, and upon thy servants, and upon thy people; that thou mayst know there is none like me in all the earth.  
+**15** For now I will stretch out my hand to strike thee, and thy people, with pestilence, and thou shalt perish from the earth.  
+**16** *And therefore have I raised thee, that I may shew my power in thee, and my name may be spoken of throughout all the earth.  
+**17** Dost thou yet hold back my people; and wilt thou not let them go?  
+**18** Behold I will cause it to rain to-morrow at this same hour, an exceeding great hail; such as hath not been in Egypt from the day that it was founded, until this present time.  
+**19** Send therefore now presently, and gather together thy cattle, and all that thou hast in the field; for men and beasts, and all things that shall be found abroad, and not gathered together out of the fields which the hail shall fall upon, shall die.  
 **20** He that feared the word of the Lord among Pharao's servants, made his servants and his cattle flee into houses:  
-**21** And the Lord said to Moses: Stretch forth thy hand towards heaven, that there may be hail in the whole land of Egypt, upon men, and upon beasts, and upon every herb of the field in the land of Egypt.  
-**22** And Moses stretched forth his rod towards heaven, and the Lord sent thunder and hail, and lightning running along the ground: and the Lord rained hail upon the land of Egypt.  
-**23** dummy verses inserted by amos  
+**21** But he that regarded not the word of the Lord, left his servants, and his cattle in the fields.  
+**22** And the Lord said to Moses: Stretch forth thy hand towards heaven, that there may be hail in the whole land of Egypt, upon men, and upon beasts, and upon every herb of the field in the land of Egypt.  
+**23** *And Moses stretched forth his rod towards heaven, and the Lord sent thunder and hail, and lightnings running along the ground: and the Lord rained hail upon the land of Egypt.  
 **24** And the hail and fire mixed with it drove on together: and it was of so great bigness, as never before was seen in the whole land of Egypt since that nation was founded.  
 **25** And the hail destroyed through all the land of Egypt all things that were in the fields, both man and beast: and the hail smote every herb of the field, and it broke every tree of the country.  
 **26** Only in the land of Gessen, where the children of Israel were, the hail fell not.  
-**27** And Pharao sent and called Moses and Aaron, saying to them: I have sinned this time also; the Lord is just: I and my people are wicked.  
-**28** Pray ye to the Lord, that the thunderings of God and the hail may cease: that I may let you go, and that you may stay here no longer.  
-**29** Moses said: As soon as I am gone out of the city, I will stretch forth my hands to the Lord, and the thunders shall cease, and the hail shall be no more: that thou mayst know that the earth is the Lord's.  
+**27** And Pharao sent and called Moses and Aaron, saying to them: I have sinned this time also, the Lord is just: I and my people, are wicked.  
+**28** Pray ye to the Lord that the thunderings of God and the hail may cease: that I may let you go, and that you may stay here no longer.  
+**29** Moses said: As soon as I am gone out of the city, I will stretch forth my hands to the Lord, and the thunders shall cease, and the hail shall be no more: that thou mayst know that the earth is the Lord's:  
 **30** But I know that neither thou, nor thy servants do yet fear the Lord God.  
-**31** The flax therefore and the barley were hurt, because the barley was green, and the flax was now boiled:  
+**31** The flax therefore, and the barley were hurt, because the barley was green, and the flax was now bolled:  
 **32** But the wheat, and other winter corn were not hurt, because they were lateward.  
 **33** And when Moses was gone from Pharao out of the city, he stretched forth his hands to the Lord: and the thunders and the hail ceased, neither did there drop any more rain upon the earth.  
-**34** And Pharao seeing that the rain and the hail, and the thunders were ceased, increased his sin.  
+**34** And Pharao seeing that the rain, and the hail, and the thunders were ceased, increased his sin:  
 **35** And his heart was hardened, and the heart of his servants, and it was made exceeding hard: neither did he let the children of Israel go, as the Lord had commanded by the hand of Moses.  
 
 ---
@@ -962,48 +962,48 @@ format: markdown
 ## Chapter 28
 
 **1** Take unto thee also Aaron thy brother with his sons, from among the children of Israel, that they may minister to me in the priest's office: Aaron, Nadab, and Abiu, Eleazar, and Ithamar.  
-**2** And thou shalt make a holy vesture for Aaron thy brother for glory and for beauty.  
-**3** And thou shalt speak to all the wise of heart, whom I have filled with the spirit of wisdom, that they may make Aaron's vestments, in which he being consecrated may minister to me.  
-**4** And these shall be the vestments that they shall make: A rational and an ephod, a tunick and a strait linen garment, a mitre and a girdle. They shall make the holy vestments for thy brother Aaron and his sons, that they may do the office of priesthood unto me.  
+**2** And thou shalt make a holy vesture for Aaron, thy brother, for glory and for beauty.  
+**3** And thou shalt speak to all the wise of heart, whom I have filled with the spirit of wisdom, that they may make Aaron's vestments, in which he being consecrated, may minister to me.  
+**4** And these shall be the vestments that they shall make: A rational and an ephod, a tunic and a strait linen garment, a mitre and a girdle. They shall make the holy vestments for thy brother Aaron and his sons, that they may do the office of priesthood unto me.  
 **5** And they shall take gold, and violet, and purple, and scarlet twice dyed, and fine linen.  
 **6** And they shall make the ephod of gold, and violet, and purple, and scarlet twice dyed, and fine twisted linen, embroidered with divers colours.  
 **7** It shall have the two edges joined in the top on both sides, that they may be closed together.  
-**8** The very workmanship also and all the variety of the work shall be of gold, and violet, and purple, and scarlet twice dyed, and fine twisted linen.  
+**8** The very workmanship also, and all the variety of the work, shall be of gold, and violet, and purple, and scarlet twice dyed, and fine twisted linen.  
 **9** And thou shalt take two onyx stones, and shalt grave on them the names of the children of Israel:  
 **10** Six names on one stone, and the other six on the other, according to the order of their birth.  
-**11** With the work of an engraver and the graving of a jeweller, thou shalt engrave them with the names of the children of Israel, set in gold and compassed about:  
+**11** With the work of an engraver, and the graving of a jeweller, thou shalt engrave them with the names of the children of Israel, set in gold and compassed about:  
 **12** And thou shalt put them in both sides of the ephod, a memorial for the children of Israel. And Aaron shall bear their names before the Lord upon both shoulders, for a remembrance.  
 **13** Thou shalt make also hooks of gold.  
-**14** And two little chains of the purest gold linked one to another, which thou shalt put into the hooks.  
+**14** And two little chains of the purest gold, linked one to another, which thou shalt put into the hooks.  
 **15** And thou shalt make the rational of judgment with embroidered work of divers colours, according to the workmanship of the ephod, of gold, violet, and purple, and scarlet twice dyed, and fine twisted linen.  
-**16** It shall be foursquare and doubled: it shall be the measure of a span both in length and in breadth.  
-**17** And thou shalt set in it four rows of stones: in the first row shall be a sardius stone, and a topaz, and an emerald:  
-**18** In the second a carbuncle, a sapphire and a jasper.  
+**16** It shall be four square and doubled: it shall be the measure of a span both in length and in breadth.  
+**17** And thou shalt set in it four rows of stones: In the first row shall be a sardius stone, and a topaz, and an emerald:  
+**18** In the second a carbuncle, a sapphire, and a jasper:  
 **19** In the third a ligurius, an agate, and an amethyst:  
 **20** In the fourth a chrysolite, an onyx, and a beryl. They shall be set in gold by their rows.  
 **21** And they shall have the names of the children of Israel: with twelve names shall they be engraved, each stone with the name of one according to the twelve tribes.  
-**22** And thou shalt make on the rational chains linked one to another of the purest gold:  
+**22** And thou shalt make on the rational chains, linked one to another, of the purest gold:  
 **23** And two rings of gold, which thou shalt put in the two ends at the top of the rational.  
-**24** And the golden chains thou shalt join to the rings, that are in the ends thereof:  
-**25** And the ends of the chains themselves thou shalt join together with two hooks on both sides of the ephod, which is towards the rational.  
-**26** Thou shalt make also two rings of gold which thou shalt put in the top parts of the rational, in the borders that are over against the ephod, and look towards the back parts thereof.  
+**24** And the golden chains thou shalt join to the rings, that are in the ends thereof.  
+**25** And the ends of the chains themselves, thou shalt join together with two hooks on both sides of the ephod, which is towards the rational.  
+**26** Thou shalt make also two rings of gold, which thou shalt put in the top parts of the rational, in the borders that are over-against the ephod, and look towards the back parts thereof.  
 **27** Moreover also other two rings of gold, which are to be set on each side of the ephod beneath, that looketh towards the nether joining, that the rational may be fitted with the ephod,  
 **28** And may be fastened by the rings thereof unto the rings of the ephod with a violet fillet, that the joining artificially wrought may continue, and the rational and the ephod may not be loosed one from the other.  
 **29** And Aaron shall bear the names of the children of Israel in the rational of judgement upon his breast, when he shall enter into the sanctuary, a memorial before the Lord for ever.  
-**30** And thou shalt put in the rational of judgment doctrine and truth, which shall be on Aaron's breast, when he shall go in before the Lord: and he shall bear the judgment of the children of Israel on his breast, in the sight of the Lord always.  
-**31** And thou shalt make the tunick of the ephod all of violet,  
+**30** And thou shalt put in the rational of judgment, Doctrine and Truth, which shall be on Aaron's breast, when he shall go in before the Lord: and he shall bear the judgment of the children of Israel on his breast, in the sight of the Lord always.  
+**31** And thou shalt make the tunic of the ephod all of violet,  
 **32** In the midst whereof above shall be a hole for the head, and a border round about it woven, as is wont to be made in the outmost parts of garments, that it may not easily be broken.  
-**33** And beneath at the feet of the same tunick round about, thou shalt make as it were pomegranates, of violet, and purple, and scarlet twice dyed, with little bells set between:  
+**33** And beneath at the feet of the same tunic, round about, thou shalt make as it were pomegranates, of violet, and purple, and scarlet twice dyed, with little bells set between:  
 **34** So that there shall be a golden bell and a pomegranate, and again another golden bell and a pomegranate.  
-**35** And Aaron shall be vested with it in the office of his ministry, that the sound may be heard, when he goeth in and cometh out of the sanctuary, in the sight of the Lord, and that he may not die.  
+**35** *And Aaron shall be vested with it in the office of his ministry, that the sound may be heard, when he goeth in and cometh out of the sanctuary, in the sight of the Lord, and that he may not die.  
 **36** Thou shalt make also a plate of the purest gold: wherein thou shalt grave with engraver's work, Holy to the Lord.  
 **37** And thou shalt tie it with a violet fillet, and it shall be upon the mitre,  
 **38** Hanging over the forehead of the high priest. And Aaron shall bear the iniquities of those things, which the children of Israel have offered and sanctified, in all their gifts and offerings. And the plate shall be always on his forehead, that the Lord may be well pleased with them.  
-**39** And thou shalt gird the tunick with fine linen, and thou shalt make a fine linen mitre, and a girdle of embroidered work.  
-**40** Moreover for the sons of Aaron thou shalt prepare linen tunicks, and girdles and mitres for glory and beauty:  
+**39** And thou shalt gird the tunic with fine linen, and thou shalt make a fine linen mitre, and a girdle of embroidered work.  
+**40** Moreover, for the sons of Aaron thou shalt prepare linen tunics, and girdles and mitres for glory and beauty:  
 **41** And with all these things thou shalt vest Aaron thy brother, and his sons with him. And thou shalt consecrate the hands of them all, and shalt sanctify them, that they may do the office of priesthood unto me.  
-**42** Thou shalt make also linen breeches, to cover the flesh of their nakedness from the reins to the thighs:  
-**44** And Aaron and his sons shall use them when they shall go in to the tabernacle of the testimony, or when they approach the altar to minister in the sanctuary, lest being guilty of iniquity they die. It shall be a law for ever to Aaron, and to his seed after him.  
+**42** Thou shalt make also linen breeches, to cover the flesh of their nakedness, from the reins to the thighs:  
+**43**   
 
 ---
 

@@ -306,39 +306,39 @@ format: markdown
 
 ## Chapter 9
 
-**1** And not only she. But when Rebecca also had conceived at once, of Isaac our father.  
-**2** dummy verses inserted by amos  
-**3** dummy verses inserted by amos  
-**4** dummy verses inserted by amos  
-**5** dummy verses inserted by amos  
-**6** dummy verses inserted by amos  
-**7** dummy verses inserted by amos  
-**8** dummy verses inserted by amos  
-**9** dummy verses inserted by amos  
-**10** dummy verses inserted by amos  
-**11** For when the children were not yet born, nor had done any good or evil (that the purpose of God, according to election, might stand,)  
-**12** Not of works, but of him that calleth, it was said to her: The elder shall serve the younger.  
-**13** As it is written: Jacob I have loved, but Esau I have hated.  
+**1** I speak the truth in Christ, I lie not, my conscience bearing me witness in the Holy Ghost:  
+**2** That I have great sadness, and continual sorrow in my heart.  
+**3** *For I wished myself to be an anathema from Christ, for my brethren, who are my kinsmen according to the flesh,  
+**4** Who are Israelites, to whom belongeth the adoption of sons, and the glory, and the covenant, and the giving of the law, and the worship, and the promises:  
+**5** Whose are the fathers, and of whom is Christ according to the flesh, who is over all things, God blessed for ever. Amen.  
+**6** Not as though the word of God hath failed. For all are not Israelites that are of Israel:  
+**7** Neither are all they, who are the seed of Abraham, children: *but in Isaac shall thy seed be called:  
+**8** That is to say, not they who are the children of the flesh, are the children of God: but they *that are the children of the promise, are counted for the seed.  
+**9** For this is the word of promise: *According to this time will I come: and Sara shall have a son.  
+**10** And not only she: *but when Rebecca also had conceived at once, by Isaac, our father.  
+**11** For when the children were not yet born, nor had done any good or evil, (that the purpose of God according to election might stand)  
+**12** Not of works, but of him that calleth, it was said to her:  
+**13** *That the elder shall serve the younger, as it is written: Jacob I have loved, but Esau I have hated.  
 **14** What shall we say then? Is there injustice with God? God forbid.  
-**15** For he saith to Moses: I will have mercy on whom I will have mercy; and I will shew mercy to whom I will shew mercy.  
+**15** For he saith to Moses: *I will have mercy on whom I will have mercy: and I will shew mercy to whom I will shew mercy.  
 **16** So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.  
-**17** For the scripture saith to Pharao: To this purpose have I raised thee, that I may shew my power in thee, and that my name may be declared throughout all the earth.  
-**18** Therefore he hath mercy on whom he will; and whom he will, he hardeneth.  
-**19** Thou wilt say therefore to me: Why doth he then find fault? for who resisteth his will?  
-**20** O man, who art thou that repliest against God? Shall the thing formed say to him that formed it: Why hast thou made me thus?  
+**17** For the Scripture saith to Pharao: *To this purpose have I raised thee up, that I may shew my power in thee: and that my name may be declared throughout all the earth.  
+**18** Therefore he hath mercy on whom he will, and whom he will he hardeneth.  
+**19** Thou wilt say, therefore, to me: Why doth he then find fault? For who resisteth his will?  
+**20** O man, who art thou that repliest against God? *Shall the thing formed say to him that formed it: Why hast thou made me thus?  
 **21** Or hath not the potter power over the clay, of the same lump, to make one vessel unto honour, and another unto dishonour?  
 **22** What if God, willing to shew his wrath, and to make his power known, endured with much patience vessels of wrath, fitted for destruction,  
-**23** That he might shew the riches of his glory on the vessels of mercy, which he hath prepared unto glory?  
-**24** Even us, whom also he hath called, nor only of the Jews, but also of the Gentiles.  
-**25** As in Osee he saith: I will call that which was not my people, my people; and her that was not beloved, beloved; and her that had not obtained mercy, one that hath obtained mercy.  
-**26** And it shall be, in the place where it was said unto them, You are not my people; there they shall be called the sons of the living God.  
-**27** And Isaias crieth out concerning Israel: If the number of the children of Israel be as the sand of the sea, a remnant shall be saved.  
-**28** For he shall finish his word, and cut it short in justice; because a short word shall the Lord make upon the earth.  
-**29** And as Isaias foretold: Unless the Lord of Sabaoth had left us a seed, we had been made as Sodom, and we had been like unto Gomorrha.  
-**30** What then shall we say? That the Gentiles, who followed not after justice, have attained to justice, even the justice that is of faith.  
-**31** But Israel, by following after the law of justice, is not come unto the law of justice.  
-**32** Why so? Because they sought it not by faith, but as it were of works. For they stumbled at the stumblingstone.  
-**33** As it is written: Behold I lay in Sion a stumblingstone and a rock of scandal; and whosoever believeth in him shall not be confounded.  
+**23** That he might shew the riches of his glory upon the vessels of mercy, which he hath prepared unto glory.  
+**24** Even us, whom also he hath called, not of the Jews only, but also of the Gentiles,  
+**25** As he saith in Osee: *I will call the my people, that were not my people: and her beloved, that was not beloved: and her, that had not obtained mercy, one that hath obtained mercy.  
+**26** *And it shall be, in the place where it was said to them: you are not my people: there they shall be called the children of the living God.  
+**27** And Isaias crieth out concerning Israel: *If the number of the children of Israel be as the sand of the sea, a remnant shall be saved.  
+**28** For he shall finish his word, and cut it short in justice: because a short word shall the Lord make upon the earth.  
+**29** And as Isaias foretold:* unless the Lord of sabaoth had left us a seed, we had been made as Sodom, and we had been like unto Gomorrha.  
+**30** What then shall we say? That the Gentiles, who followed not after justice, have attained to justice: even the justice that is of faith.  
+**31** But Israel, by following after the law of justice, is not come to the law of justice.  
+**32** Why so? Because they sought it not by faith, but as it were of works: for they stumbled at the stumbling-stone;  
+**33** As it is written: *Behold I lay in Sion a stumbling-stone, and a rock of scandal: and whosoever believeth in him, shall not be confounded.  
 
 ---
 
@@ -370,40 +370,40 @@ format: markdown
 
 ## Chapter 11
 
-**1** Let their eyes be darkened, that they may not see: and bow down their back always.  
-**2** dummy verses inserted by amos  
-**3** dummy verses inserted by amos  
-**4** dummy verses inserted by amos  
-**5** dummy verses inserted by amos  
-**6** dummy verses inserted by amos  
-**7** dummy verses inserted by amos  
-**8** dummy verses inserted by amos  
-**9** dummy verses inserted by amos  
-**10** dummy verses inserted by amos  
+**1** I say then: Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.  
+**2** God hath not cast away his people, which he foreknew. Know you not what the Scripture saith of Elias; how he calleth on God against Israel?  
+**3** *Lord, they have slain thy prophets, they have dug down thy altars: and I am left alone, and they seek my life.  
+**4** But what saith the divine answer to him? *I have reserved to myself seven thousand men, who have not bowed their knees to Baal.  
+**5** Even so then at this present time also, there is a remnant saved, according to the election of grace.  
+**6** And if by grace, it it not now by works: otherwise grace is no more grace.  
+**7** What then? that which Israel sought, he hath not obtained: but the election hath obtained it, and the rest have been blinded:  
+**8** As it is written: *God hath given them the spirit of insensibility: eyes, that they should not see, and ears, that they should not hear, until this present day.  
+**9** And David saith: *Let their table be made a snare, and a trap, and a stumbling-block, and a recompense to them.  
+**10** Let their eyes be darkened, that they may not see: and bow down their back always.  
 **11** I say then, have they so stumbled, that they should fall? God forbid. But by their offence, salvation is come to the Gentiles, that they may be emulous of them.  
-**12** Now if the offence of them be the riches of the world, and the diminution of them, the riches of the Gentiles; how much more the fulness of them?  
-**13** For I say to you, Gentiles: as long indeed as I am the apostle of the Gentiles, I will honour my ministry,  
-**14** If, by any means, I may provoke to emulation them who are my flesh, and may save some of them.  
-**15** For if the loss of them be the reconciliation of the world, what shall the receiving of them be, but life from the dead?  
-**16** For if the firstfruit be holy, so is the lump also: and if the root be holy, so are the branches.  
-**17** And if some of the branches be broken, and thou, being a wild olive, art ingrafted in them, and art made partaker of the root, and of the fatness of the olive tree,  
-**18** Boast not against the branches. But if thou boast, thou bearest not the root, but the root thee.  
-**19** Thou wilt say then: The branches were broken off, that I might be grafted in.  
-**20** Well: because of unbelief they were broken off. But thou standest by faith: be not highminded, but fear.  
-**21** For if God hath not spared the natural branches, fear lest perhaps he also spare not thee.  
-**22** See then the goodness and the severity of God: towards them indeed that are fallen, the severity; but towards thee, the goodness of God, if thou abide in goodness, otherwise thou also shalt be cut off.  
-**23** And they also, if they abide not still in unbelief, shall be grafted in: for God is able to graft them in again.  
-**24** For if thou wert cut out of the wild olive tree, which is natural to thee; and, contrary to nature, were grafted into the good olive tree; how much more shall they that are the natural branches, be grafted into their own olive tree?  
-**25** For I would not have you ignorant, brethren, of this mystery, (lest you should be wise in your own conceits), that blindness in part has happened in Israel, until the fulness of the Gentiles should come in.  
-**26** And so all Israel should be saved, as it is written: There shall come out of Sion, he that shall deliver, and shall turn away ungodliness from Jacob.  
+**12** Now if the offence of them be the riches of the world, and the diminishing of them, the riches of the Gentiles: how much more the fulness of them?  
+**13** For I say to you, Gentiles: *As long, indeed, as I am the apostle of the Gentiles, I will honour my ministry,  
+**14** If by any means I may provoke to emulation them who are my flesh, and may save some of them.  
+**15** For if the loss of them be the reconciliation of the world: what shall the receiving of them be, but life from the dead?  
+**16** For if the first-fruit be holy, so is the mass also: and if the root be holy, so are the branches.  
+**17** And if some of the branches be broken, and thou being a wild olive-tree, art ingrafted in them, and art made partaker of the root and of the fatness of the olive-tree,  
+**18** Boast not against the branches. But if thou boast: thou bearest not the root, but the root thee.  
+**19** Thou wilt say then: the branches were broken off that I might be grafted in.  
+**20** Well: because of unbelief they were broken off. But thou standest by faith: be not high-minded, but fear.  
+**21** For if God hath not spared the natural branches: he may not perhaps spare thee also.  
+**22** See, therefore, the goodness, and the severity of God: towards them, indeed, that are fallen, the severity: but towards thee, the goodness of God, if thou continue in goodness, otherwise thou also shalt be cut off.  
+**23** And they also, if they abide not still in unbelief, shall be ingrafted: for God is able to ingraft them again.  
+**24** For if thou wert cut out of the wild olive-tree, which is natural to thee, and, contrary to nature, wert grafted into the good olive-tree: how much more shall they, that are the natural branches, be grafted into their own olive-tree?  
+**25** For I would not have you ignorant, brethren, of this mystery, *(lest you should be wise in your own conceits) that blindness in part has happened in Israel, until the fulness of the Gentiles should come in,  
+**26** And so all Israel should be saved, as it is written: *There shall come out of Sion he that shall deliver, and shall turn away impiety from Jacob.  
 **27** And this is to them my covenant: when I shall take away their sins.  
-**28** As concerning the gospel, indeed, they are enemies for your sake: but as touching the election, they are most dear for the sake of the fathers.  
+**28** According to the gospel, indeed, they are enemies for your sake: but according to election, they are most dear for the sake of the fathers.  
 **29** For the gifts and the calling of God are without repentance.  
-**30** For as you also in times past did not believe God, but now have obtained mercy, through their unbelief;  
-**31** So these also now have not believed, for your mercy, that they also may obtain mercy.  
+**30** For as you also in times past did not believe God, but now have obtained mercy, through their unbelief:  
+**31** So these also now have not believed for your mercy, that they also may obtain mercy.  
 **32** For God hath concluded all in unbelief, that he may have mercy on all.  
-**33** O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways!  
-**34** For who hath known the mind of the Lord? Or who hath been his counsellor?  
+**33** O the depth of the riches, of the wisdom, and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways!  
+**34** *For who hath known the mind of the Lord? Or who hath been his counsellor?  
 **35** Or who hath first given to him, and recompense shall be made him?  
 **36** For of him, and by him, and in him, are all things: to him be glory for ever. Amen.  
 

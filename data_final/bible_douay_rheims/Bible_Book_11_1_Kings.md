@@ -251,45 +251,27 @@ format: markdown
 
 ## Chapter 6
 
-**1** And it came to pass in the four hundred and eightieth year after the children of Israel came out of the land of Egypt, in the fourth year of the reign of Solomon over Israel, in the month Zio (the same is the second month), he began to build a house to the Lord.  
-**2** And the house, which king Solomon built to the Lord, was threescore cubits in length, and twenty cubits in breadth, and thirty cubits in height.  
-**3** And there was a porch before the temple of twenty cubits in length, according to the measure of the breadth of the temple: and it was ten cubits in breadth before the face of the temple.  
-**4** And he made in the temple oblique windows.  
-**5** And upon the wall of the temple he built floors round about, in the walls of the house round about the temple and the oracle, and he made sides round about.  
-**6** The floor that was underneath, was five cubits in breadth, and the middle floor was six cubits in breadth, and the third door was seven cubits in breadth. And he put beams in the house round about on the outside, that they might not be fastened in the walls of the temple.  
-**7** And the house, when it was in building, was built of stones hewed and made ready: so that there was neither hammer nor axe nor any tool of iron heard in the house when it was in building.  
-**8** The door for the middle side was on the right hand of the house : and by winding stairs they went up to the middle room, and from the middle to the third.  
-**9** So he built the house, and finished it: end he covered the house with roofs of cedar.  
-**10** And he built a floor over all the house five cubits in height, and he covered the house with timber of cedar.  
-**11** And the word of the Lord came to Solomon, saying:  
-**12** This house, which thou buildest, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments, walking in them, I will fulfil my word to thee which I spoke to David thy father.  
-**13** And I will dwell in the midst of the children of Israel, and will not forsake my people Israel.  
-**14** So Solomon built the house and finished it.  
-**15** And he built the walls of the house on the inside, with boards of cedar, from the floor of the house to the top of the walls, and to the roots, he covered it with boards of cedar on the inside: and he covered the floor of the house with planks of fir.  
-**16** And he built up twenty cubits with boards of cedar at the hinder part of the temple, from the floor to the top: and made the inner house of the oracle to be the holy of holies.  
-**17** And the temple itself before the doors of the oracle was forty cubits long.  
-**18** And all the house was covered within with cedar, having the turnings, and the joints thereof artfully wrought and carvings projecting out: all was covered with boards of cedar: and no stone could be seen in the wall at all.  
-**19** And he made the oracle in the midst of the house, in the inner part, to set there the ark of the covenant of the Lord.  
-**20** Now the oracle was twenty cubits in length, and twenty cubits in breadth, and twenty cubits in height. And he covered and overlaid it with most pure gold. And the altar also he covered with cedar.  
-**21** And the house before the oracle he overlaid with most pure gold, and fastened on the plates with nails of gold.  
-**22** And there was nothing in the temple that was not covered with gold: the whole altar of the oracle he covered also with gold.  
-**23** And he made in the oracle two cherubims of olive tree, of ten cubits in height.  
-**24** One wing of the cherub was five cubits, and the other wing of the cherub was five cubits: that is, in all ten cubits, from the extremity of one wing to the extremity of the other wing.  
-**25** dummy verses inserted by amos  
-**26** The second cherub also was ten cubits: and the measure, and the work was the same in both the cherubims:  
-**28** That is to say, one cherub was ten cubits high, and in like manner the other cherub.  
-**29** And he set the cherubims in the midst of the inner temple: and the cherubims stretched forth their wings, and the wing of the one touched one wall, and the wing of the other cherub touched the other wall: and the other wings in the midst of the temple touched one another.  
-**30** And he overlaid the cherubims with gold.  
-**31** And all the walls of the temple round about he carved with divers figures and carvings: and he made in them cherubims and palm trees, and divers representations, as it were standing out, and coming forth from the wall.  
-**32** And the floor of the house he also overlaid with gold within and without.  
-**33** And in the entrance of the oracle he made little doors of olive tree, and posts of five corners,  
-**34** And two doors of olive tree: and he carved upon them figures of cherubims, and figures of palm trees, and carvings very much projecting: and he overlaid them with gold: and he covered both the cherubims and the palm trees, and the other things with gold.  
-**35** And he made in the entrance of the temple posts of olive tree foursquare:  
-**36** And two doors of fir tree, one of each side : and each door was double, and so opened with folding leaves.  
-**37** And he carved cherubims, and palm trees, and carved work standing very much out: and he overlaid all with golden plates in square work by rule.  
-**38** And he built the inner court with three rows of polished stones, and one row of beams of cedar.  
-**39** In the fourth year was the house of the Lord founded in the month Zio:  
-**40** And in the eleventh year in the month Bul (which is the eighth month) the house was finished in all the works thereof, and in all the appurtenances thereof: and he was seven years in building it.  
+**1** Now *the ark of God was in the land of the Philistines seven months.  
+**2** And the Philistines called for the priests and the diviners, saying: What shall we do with the ark of the Lord? tell us how we are to send it back to its place? And they said:  
+**3** If you send back the ark of the God of Israel, send it not away empty, but render unto him what you owe for sin, and then you shall be healed: and you shall know why his hand departeth not from you.  
+**4** They answered: What is it we ought to render unto him for sin? and they answered:  
+**5** According to the number of the provinces of the Philistines you shall make five golden emerods, and five golden mice: for the same plague hath been upon you all, and upon your lords. And you shall make the likeness of your emerods, and the likeness of the mice, that have destroyed the land, and you shall give glory to the God of Israel: to see if he will take off his hand from you, and from your gods, and from your land.  
+**6** Why do you harden your hearts, as Egypt and Pharao hardened their hearts? *did not he, after he was struck, then let them go, and they departed?  
+**7** Now, therefore, take and make a new cart: and two kine that have calved, on which there hath come no yoke, tie to the cart, and shut up their calves at home.  
+**8** And you shall take the ark of the Lord, and lay it on the cart, and the vessels of gold, which you have paid him for sin, you shall put into a little box at the side thereof: and send it away, that it may go.  
+**9** And you shall look: and if it go up by the way of his own coasts towards Bethsames, then he hath done us this great evil: but if not, we shall know that it is not his hand hath touched us, but it hath happened by chance.  
+**10** They did therefore in this manner: and taking two kine, that had suckling calves, they yoked them to the cart, and shut up their calves at home.  
+**11** And they laid the ark of God upon the cart, and the little box that had in it the golden mice, and the likeness of the emerods.  
+**12** And the kine took the straight way that leadeth to Bethsames, and they went along the way, lowing as they went: and turned not aside neither to the right hand nor to the left: and the lords of the Philistines followed them as far as the borders of Bethsames.  
+**13** Now the Bethsamites were reaping wheat in the valley: and lifting up their eyes, they saw the ark, and rejoiced to see it.  
+**14** And the cart came into the field of Josue, a Bethsamite, and stood there. And there was a great stone, and they cut in pieces the wood of the cart, and laid the kine upon it a holocaust to the Lord.  
+**15** And the Levites took down the ark of God, and the little box that was at the side of it, wherein were the vessels of gold, and they put them upon the great stone. The men also of Bethsames offered holocausts, and sacrificed victims that day to the Lord.  
+**16** And the five princes of the Philistines saw, and they returned to Accaron the same day.  
+**17** And these are the golden emerods, which the Philistines returned for sin to the Lord: For Azotus one, for Gaza one, for Ascalon one, for Geth one, for Accaron one:  
+**18** And the golden mice, according to the number of the cities of the Philistines, of the five provinces, from the fenced city to the village that was without wall, and to the great Abel (the stone) whereon they set down the ark of the Lord, which was till that day in the field of Josue the Bethsamite.  
+**19** But he slew of the men of Bethsames, because they had seen the ark of the Lord, and he slew of the people seventy men, and fifty thousand of the common people. And the people lamented, because the Lord had smitten the people with a great slaughter.  
+**20** And the men of Bethsames said: Who shall be able to stand before the Lord this holy God? and to whom shall he go up from us?  
+**21** And they sent messengers to the inhabitants of Cariathiarim, saying: The Philistines have brought back the ark of the Lord, come ye down and fetch it up to you.  
 
 ---
 

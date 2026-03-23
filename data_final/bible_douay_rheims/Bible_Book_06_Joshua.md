@@ -72,31 +72,30 @@ format: markdown
 
 ## Chapter 2
 
-**1** And Josue the son of Nun sent from Setim two men, to spy secretly: and said to them: Go, and view the land and the city of Jericho. n They went and entered into the house of a woman that was a harlot named Rahab, and lodged with her.  
-**2** And it was told the king of Jericho, and was said : Behold there are men come in hither, by night, of the children of Israel, to spy the land.  
+**1** And Josue, *the son of Nun, sent from Setim two men, to spy secretly: and said to them: Go, and view the land, and the city of Jericho.** They went, and entered into the house of a woman that was a harlot, named Rahab, and lodged with her.  
+**2** And it was told the king of Jericho, and was said: Behold there are men come in hither, by night, of the children of Israel, to spy the land.  
 **3** And the king of Jericho sent to Rahab, saying: Bring forth the men that came to thee, and are entered into thy house: for they are spies, and are come to view all the land.  
-**4** And the woman taking the men, hid them, and said: I confess they came to me, but I knew not whence they were:  
+**4** *And the woman taking the men, hid them, and said: I confess they came to me, but I knew not whence they were:  
 **5** And at the time of shutting the gate in the dark, they also went out together. I know not whither they are gone: pursue after them quickly, and you will overtake them.  
 **6** But she made the men go up to the top of her house, and covered them with the stalks of flax, which was there.  
 **7** Now they that were sent, pursued after them, by the way that leadeth to the fords of the Jordan: and as soon as they were gone out, the gate was presently shut.  
-**8** The men that were hidden were not yet asleep, when behold the woman went up to them, and said:  
-**10** the Lord dried up the water of the Red Sea at your going in, when you came out of Egypt: and what things you did to the two kings of the Amorrhites, that were beyond the Jordan: Sehon and Og whom you slew.  
-**11** I know that the Lord hath given this land to you: for the dread of you is fallen upon us, and all the inhabitants of the land have lost all strength.  
-**12** We have heard that  
-**13** And hearing these things we were affrighted, and our heart fainted away, neither did there remain any spirit in us at your coming in: for the Lord your God he is God in heaven above, and in the earth beneath.  
-**14** Now therefore swear ye to me by the Lord, that as I have shewn mercy to you, so you also will shew mercy to my father's house: and give me a true token,  
-**15** That you will save my father and mother, my brethren end sisters, and all things that are theirs, and deliver our souls from death.  
-**16** They answered her: Be our lives for you unto death, only if thou betray us not. And when the Lord shall have delivered us the land, we will shew thee mercy and truth.  
-**17** Then she let them down with a cord out of a window: for her house joined close to the wall.  
-**18** And she said to them: Get ye up to the mountains, lest perhaps they meet you as they return: and there lie ye hid three days, till they come back, and so you shall go on your way.  
-**19** And they said to her: We shall be blameless of this oath, which thou hast made us swear:  
-**20** If when we come into the land, this scarlet cord be a sign, and thou tie it in the window, by which thou hast let us down: and gather together thy father and mother, and brethren and all thy kindred into thy house.  
-**21** Whosoever shall go out of the door of thy house, his blood shall be upon his own head, and we shall be quit. But the blood of all that shall be with thee in the house, shall light upon our head, if any man touch them.  
-**22** But if thou wilt betray us, and utter this word abroad, we shall be quit of this oath which thou hast made us swear.  
-**23** And she answered: As you have spoken, so be it done. And sending them on their way, she hung the scarlet cord in the window.  
-**24** But they went and came to the mountains, and stayed there three days till they that pursued them were returned. For having sought them through all the way, they found them not.  
-**25** And when they were gone back into the city, the spies returned, and came down from the mountain: and passing over the Jordan, they came to Josue the son of Nun, and told him all that befel them.  
-**26** And said: The Lord hath delivered all this land into our hands, and all the inhabitants thereof are overthrown with fear.  
+**8** The men that were hid were not yet asleep, when behold the woman went up to them, and said:  
+**9** I know that the Lord hath given this land to you: for the dread of you is fallen upon us, and all the inhabitants of the land have lost all strength.  
+**10** We have heard that *the Lord dried up the water of the Red Sea, at your going in, when you came out of Egypt: **and what things you did to the two kings of the Amorrhites, that were beyond the Jordan: Sehon and Og, whom you slew.  
+**11** And at the hearing these things, we were affrighted, and our heart fainted away, neither did there remain any spirit in us, at your coming in: for the Lord your God he is God in heaven above, and in the earth beneath.  
+**12** *Now, therefore, swear ye to me by the Lord, that as I have shewed mercy to you, so you also will shew mercy to my father's house: and give me a true token,  
+**13** That you will save my father and mother, my brethren and sisters, and all things that are theirs, and deliver our souls from death.  
+**14** They answered her: Be our lives for you unto death, only if thou betray us not. And when the Lord shall have delivered us the land, we will shew thee mercy and truth.  
+**15** Then she let them down with a cord out of a window: for her house joined close to the wall.  
+**16** And she said to them: Get ye up to the mountains, lest perhaps they meet you as they return: and there lie ye hid three days, till they come back, and so you shall go on your way.  
+**17** And they said to her: We shall be blameless of this oath, which thou hast made us swear,  
+**18** If, when we come into the land, this scarlet cord be a sign, and thou tie it in the window, by which thou hast let us down: and gather together thy father and mother, and brethren, and all thy kindred into thy house.  
+**19** Whosoever shall go out of the door of thy house, his blood shall be upon his own head, and we shall be quit. But the blood of all that shall be with thee in the house, shall light upon our head, if any man touch them.  
+**20** But if thou wilt betray us, and utter this word abroad, we shall be quit of this oath, which thou hast made us swear.  
+**21** And she answered: As you have spoken, so be it done: and sending them on their way, she hung the scarlet cord in the window.  
+**22** But they went and came to the mountains, and stayed there three days, till they that pursued them were returned. For having sought them through all the way, they found them not.  
+**23** And when they were gone back into the city, the spies returned, and came down from the mountain: and passing over the Jordan, they came to Josue, the son of Nun, and told him all that befel them,  
+**24** And said: The Lord hath delivered all this land into our hands, and all the inhabitants thereof are overthrown with fear.  
 
 ---
 
@@ -579,34 +578,15 @@ format: markdown
 
 ## Chapter 18
 
-**1** And all the children of Israel assembled together in Silo, and there they set up the tabernacle of the testimony, and the land was subdued before them.  
-**2** But there remained seven tribes of the children of Israel, which as yet had not received their possessions.  
-**4** And Josue said to them: How long are you indolent and slack, and go not in to possess the land which the Lord the God of your fathers hath given you?  
-**5** Choose of every tribe three men, that I may send them, and they may go and compass the land, and mark it out according to the number of each multitude: and bring back to me what they have marked out.  
-**6** Divide to yourselves the land into seven parts: let Juda be in his bounds on the south side, and the house of Joseph on the north.  
-**7** The land in the midst between these mark ye out into seven parts; and you shall come hither to me, that I may cast lots for you before the Lord your God.  
-**8** For the Levites have no part among you, but the priesthood of the Lord is their inheritance. And Gad and Ruben, and the half tribe of Manasses have already received their possessions beyond the Jordan eastward: which Moses the servant of the Lord gave them.  
-**9** And when the men were risen up, to go to mark out the land, Josue commanded them, saying: Go round the land and mark it out, and return to me: that I may cast lots for you before the Lord in Silo.  
-**10** So they went: and surveying it divided it into seven parts, writing them down in a book. And they returned to Josue, to the camp in Silo.  
-**11** And he cast lots before the Lord in Silo, and divided the land to the children of Israel into seven parts.  
-**12** And first came up the lot of the children of Benjamin by their families, to possess the land between the children of Juda, and the children of Joseph.  
-**13** And their border northward was from the Jordan: going along by the side of Jericho on the north side, and thence going up westward to the mountains, and reaching to the wilderness of Bethaven,  
-**14** And passing along southward by Luza, the same is Bethel: and it goeth down into Ataroth-addar to the mountain, that is on the south of the nether Beth-horon.  
-**15** And it bendeth thence going round towards the sea, south of the mountain that looketh towards Beth-horon to the southwest: and the outgoings thereof are into Cariathbaal, which is called also Cariathiarim, a city of the children of Juda. This is their coast towards the sea, westward.  
-**16** But on the south side the border goeth out from part of Cariathiarim towards the sea, and cometh to the fountain of the waters of Nephtoa.  
-**17** And it goeth down to that part of the mountain that looketh on the valley of the children of Ennom: and is over against the north quarter in the furthermost part of the valley of Raphaim, and it goeth down into Geennom (that is the valley of Ennom) by the side of the Jebusite to the south: and cometh to the fountain of Rogel,  
-**18** Passing thence to the north, and going out to Ensemes, that is to say, the fountain of the sue:  
-**19** And it passeth along to the hills that are over against the ascent of Adommim: and it goeth down to Abenboen, that is, the stone of Been the son of Ruben: and it passeth on the north side to the champaign countries; and goeth down into the plain,  
-**20** And it passeth by Bethhagla northward: and the outgoings thereof are towards the north of the most salt sea at the south end of the Jordan:  
-**21** Which is the border of it on the east side. This is the possession of the children of Benjamin by their borders round about, and their families.  
-**22** dummy verses inserted by amos  
-**23** Betharaba and Samaraim and Bethel,  
-**24** And Avim and Aphara and Ophera,  
-**25** The town Emona and Ophni and Gabee: twelve cities, and their villages.  
-**26** Gabam and Rama and Beroth,  
-**27** ,26And Mesphe, and Caphara, and Amosa,  
-**28** And Recem, Jarephel and Tharela,  
-**29** And Sela, Eleph and Jebus, which is Jerusalem, Gabaath and Cariath: fourteen cities, and their villages. This is the possession of the children of Benjamin by their families.  
+**54** And *the Lord spoke to Josue, saying: Speak to the children of Israel, and say to them:  
+**55** Appoint cities of refuge, *of which I spoke to you by the hand of Moses:  
+**56** That whosoever shall kill a person unawares may flee to them: and may escape the wrath of the kinsman, who is the avenger of blood:  
+**57** And when he shall flee to one of these cities: he shall stand before the gate of the city, and shall speak to the ancients of that city, such things, as prove him innocent: and so shall they receive him, and give him a place to dwell in.  
+**58** And when the avenger of blood shall pursue him, they shall not deliver him into his hands, because he slew his neighbour unawares, and is not proved to have been his enemy two or three days before.  
+**59** And he shall dwell in that city, till he stand before judgment to give an account of his fact, and till the death of the high-priest, who shall be at that time: then shall the manslayer return, and go into his own city and house from whence he fled.  
+**60** And they appointed Cedes in Galilee, of Mount Nephthali, and Sichem in Mount Ephraim, and Cariath-arbe, the same is Hebron in the mountain of Juda.  
+**61** And beyond the Jordan to the east of Jericho, *they appointed Bosor, which is upon the plain of the wilderness of the tribe of Ruben, and Ramoth in Galaad of the tribe of Gad, and Gaulon in Basan of the tribe of Manasses.  
+**62** These cities were appointed for all the children of Israel, and for the strangers that dwelt among them: that whosoever had killed a person unawares might flee to them, and not die by the hand of the kinsman, coveting to revenge the blood that was shed, until he should stand before the people to lay open his cause.  
 
 ---
 
