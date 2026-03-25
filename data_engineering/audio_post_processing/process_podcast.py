@@ -75,7 +75,7 @@ TARGET_LUFS = -16.0
 
 # Outro is normalized quieter than main content (approx 10% perceived loudness per 1 dB).
 # This percent drives the LUFS offset: e.g. 20 -> 2 dB quieter -> outro at target_lufs - 2.
-OUTRO_VOLUME_REDUCTION_PERCENT = 30
+OUTRO_VOLUME_REDUCTION_PERCENT = 35
 
 # Default export quality settings (high quality to preserve audio)
 # For MP3: 256kbps VBR (Variable Bitrate) - better quality than CBR
