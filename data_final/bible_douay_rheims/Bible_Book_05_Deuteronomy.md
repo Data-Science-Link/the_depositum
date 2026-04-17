@@ -59,7 +59,7 @@ format: markdown
 
 ## Chapter 1
 
-**1** These are the words, which Moses spoke to all Israel beyond the Jordan, in the plain wilderness, over against the Red Sea, between Pharan and Thophel and Laban and Haseroth, where there is very much gold.  
+**1** These are the words, which Moses spoke to all Israel beyond the Jordan, in the plain wilderness, over against the Red Sea, beetween Pharan and Thophel and Laban and Haseroth, where there is very much gold.  
 **2** Eleven days' journey from Horeb by the way of mount Seir to Cadesbarne.  
 **3** In the fortieth year, the eleventh month, the first day of the month, Moses spoke to the children of Israel all that the Lord had commanded him to say to them:  
 **4** After that he had slain Sehon king of the Amorrhites, who dwelt in Hesebon: and Og king of Basan who abode in Astaroth, and in Edrai,  
@@ -86,7 +86,7 @@ format: markdown
 **25** Taking of the fruits thereof, to shew its fertility, they brought them to us, and said: The land is good, which the Lord our God will give us.  
 **26** And you would not go up, but being incredulous to the word of the Lord our God,  
 **27** You murmured in your tents, and said: The Lord hateth us, and therefore he hath brought us out of the land of Egypt, that he might deliver us into the hand of the Amorrhite, and destroy us.  
-**28** Whither shall we go up? the messengers have terrified our hearts, saying: The multitude is very great, and taller than we: the cities are great, and walled up to the sky, we have seen the sons of the Enacims there. be very high.  
+**28** Whither shall we go up? the messengers have terrified our hearts, saying: The multitude is very great, and taller than we: the cities are great, and walled up to the sky, we have seen the sons of the Enacims there.  
 **29** And I said to you: Fear not, neither be ye afraid of them:  
 **30** The Lord God, who is your leader, himself will fight for you, as he did in Egypt in the sight of all.  
 **31** And in the wilderness (as thou hast seen) the Lord thy God hath carried thee, as a man is wont to carry his little son, all the way that you have come, until you came to this place.  
@@ -139,7 +139,7 @@ format: markdown
 **27** We will pass through thy land, we will go along by the highway: we will not turn aside neither to the right hand nor to the left.  
 **28** Sell us meat for money, that we may eat: give us water for money and so we will drink. We only ask that thou wilt let us pass through,  
 **29** As the children of Esau have done, that dwell in Seir, and the Moabites, that abide in Ar: until we come to the Jordan, and pass to the land which the Lord our God will give us.  
-**30** And Sehon the king of Hesebon would not let us pass: because the Lord thy God had hardened his spirit, and fixed his heart, that he might be delivered into thy hands, as now thou seest. his own stubborn and perverse disposition, which drew him to his ruin.  
+**30** And Sehon the king of Hesebon would not let us pass: because the Lord thy God had hardened his spirit, and fixed his heart, that he might be delivered into thy hands, as now thou seest.  
 **31** And the Lord said to me: Behold I have begun to deliver unto thee Sehon and his land, begin to possess it.  
 **32** And Sehon came out to meet us with all his people to fight at Jasa.  
 **33** And the Lord our God delivered him to us: and we slew him with his sons and all his people.  
@@ -253,14 +253,14 @@ format: markdown
 **11** Thou shalt not take the name of the Lord thy God in vain: for he shall not be unpunished that taketh his name upon a vain thing.  
 **12** Observe the day of the sabbath, to sanctify it, as the Lord thy God hath commanded thee.  
 **13** Six days shalt thou labour, and shalt do all thy works.  
-**14** The seventh is the day of the sabbath, that is, the rest of the Lord thy God. Thou shalt not do any work therein, thou nor thy son nor thy daughter, nor thy man-servant nor thy maid-servant, nor thy ox, nor thy ass, nor any of thy beasts, nor the stranger that is within thy gates: that thy man-servant and thy maid-servant may rest, even as thyself.  
+**14** The seventh is the day of the sabbath, that is, the rest of the Lord thy God. Thou shalt not do any work therein, thou nor thy son nor thy daughter, nor thy manservant nor thy maidservant, nor thy ox, nor thy ass, nor any of thy beasts, nor the stranger that is within thy gates: that thy manservant and thy maidservant may rest, even as thyself.  
 **15** Remember that thou also didst serve in Egypt, and the Lord thy God brought thee out from thence with a strong hand, and a stretched out arm. Therefore hath he commanded thee that thou shouldst observe the sabbath day.  
 **16** Honour thy father and mother, as the Lord thy God hath commanded thee, that thou mayst live a long time, and it may be well with thee in the land, which the Lord thy God will give thee.  
 **17** Thou shalt not kill.  
 **18** Neither shalt thou commit adultery.  
 **19** And thou shalt not steal.  
 **20** Neither shalt thou bear false witness against thy neighbour.  
-**21** Thou shalt not covet thy neighbour's wife: nor his house, nor his field, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor any thing that is his.  
+**21** Thou shalt not covet thy neighbour's wife: nor his house, nor his field, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is his.  
 **22** These words the Lord spoke to all the multitude of you in the mountain, out of the midst of the fire and the cloud, and the darkness, with a loud voice, adding nothing more: and he wrote them in two tables of stone, which he delivered unto me.  
 **23** But you, after you heard the voice out of the midst of the darkness, and saw the mountain burn, came to me, all the princes of the tribes and the elders, and you said:  
 **24** Behold the Lord our God hath shewn us his majesty and his greatness, we have heard his voice out of the midst of the fire, and have proved this day that God speaking with man, man hath lived.  
@@ -290,7 +290,7 @@ format: markdown
 **10** And when the Lord thy God shall have brought thee into the land, for which he swore to thy fathers Abraham, Isaac, and Jacob: and shall have given thee great and goodly cities, which thou didst not build,  
 **11** Houses full of riches, which thou didst not set up, cisterns which thou didst not dig, vineyards and oliveyards, which thou didst not plant,  
 **12** And thou shalt have eaten and be full:  
-**13** Take heed diligently lest thou forget the Lord, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt fear the Lord thy God, and shalt serve him only, and thou shalt swear by his name.  
+**13** Take heed deligently lest thou forget the Lord, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt fear the Lord thy God, and shalt serve him only, and thou shalt swear by his name.  
 **14** You shall not go after the strange gods of all the nations, that are round about you:  
 **15** Because the Lord thy God is a jealous God in the midst of thee: lest at any time the wrath of the Lord thy God be kindled against thee, and take thee away from the face of the earth.  
 **16** Thou shalt not tempt the Lord thy God, as thou temptedst him in the place of temptation.  
@@ -341,7 +341,7 @@ format: markdown
 
 **1** All the commandments, that I command thee this day, take great care to observe: that you may live, and be multiplied, and going in may possess the land, for which the Lord swore to your fathers.  
 **2** And thou shalt remember all the way through which the Lord thy God hath brought thee for forty years through the desert, to afflict thee and to prove thee, and that the things that were known in thy heart might be made known, whether thou wouldst keep his commandments or no.  
-**3** He afflicted thee with want, and gave thee manna for thy food, which neither thou nor thy fathers knew: to shew that not in bread alone doth man live, but in every word that proceedeth from the mouth of God. what he pleases for the support of man.  
+**3** He afflicted thee with want, and gave thee manna for thy food, which neither thou nor thy fathers knew: to shew that not in bread alone doth man live, but in every word that proceedeth from the mouth of God.  
 **4** Thy raiment, with which thou wast covered, hath not decayed for age, and thy foot is not worn, lo this is the fortieth year,  
 **5** That thou mayst consider in thy heart, that as a man traineth up his son, so the Lord thy God hath trained thee up.  
 **6** That thou shouldst keep the commandments of the Lord thy God, and walk in his ways, and fear him.  
@@ -368,7 +368,7 @@ format: markdown
 **2** A people great and tall, the sons of the Enacims, whom thou hast seen, and heard of, against whom no man is able to stand.  
 **3** Thou shalt know therefore this day that the Lord thy God himself will pass over before thee, a devouring and consuming fire, to destroy and extirpate and bring them to nothing before thy face quickly, as he hath spoken to thee.  
 **4** Say not in thy heart, when the Lord thy God shall have destroyed them in thy sight: For my justice hath the Lord brought me in to possess this land, whereas these nations are destroyed for their wickedness.  
-**5** For it is not for thy justices, and the uprightness of thy heart that thou shalt go in to possess their lands: but because they have done wickedly, they are destroyed at thy coming in: and that the Lord might accomplish his word, which he promised by oath to thy fathers Abraham, Isaac, and Jacob.  
+**5** For it is not for thy justices, and the uprightness of thy heart that thou shalt go in to possess their lands: but because they have done wickedly, they are destroyed at thy coming in: and that the Lord might aaccomplish his word, which he promised by oath to thy fathers Abraham, Isaac, and Jacob.  
 **6** Know therefore that the Lord thy God giveth thee not this excellent land in possession for thy justices, for thou art a very stiffnecked people.  
 **7** Remember, and forget not how thou provokedst the Lord thy God to wrath in the wilderness. From the day that thou camest out of Egypt unto this place, thou hast always strove against the Lord.  
 **8** For in Horeb, also thou didst provoke him, and he was angry, and would have destroyed thee,  
@@ -403,7 +403,7 @@ format: markdown
 **3** And I made an ark of setim wood. And when I had hewn two tables of stone like the former, I went up into the mount, having them in my hands.  
 **4** And he wrote in the tables, according as he had written before, the ten words, which the Lord spoke to you in the mount from the midst of the fire, when the people were assembled: and he gave them to me.  
 **5** And returning from the mount, I came down, and put the tables into the ark, that I had made, and they are there till this present, as the Lord commanded me.  
-**6** And the children of Israel removed their camp from Beroth, of the children of Jacan into Mosera, where Aaron died and was buried, and Eleazar his son succeeded him in the priestly office. following verses seem to be inserted by way of parenthesis.  
+**6** And the children of Israel removed their camp from Beroth, of the children of Jacan into Mosera, where Aaron died and was buried, and Eleazar his son succeeded him in the priestly office.  
 **7** From thence they came to Gadgad, from which place they departed, and camped in Jetebatha, in a land of waters and torrents.  
 **8** At that time he separated the tribe of Levi, to carry the ark of the covenant of the Lord, and to stand before him in the ministry, and to bless in his name until this present day.  
 **9** Wherefore Levi hath no part nor possession with his brethren: because the Lord himself is his possession, as the Lord thy God promised him.  
@@ -425,7 +425,7 @@ format: markdown
 
 ## Chapter 11
 
-**1** Therefore love the Lord thy God and observe his precepts and ceremonies, his judgments and commandments at all times.  
+**1** Therefore love the Lord thy God and observe his precepts and ceremonies, his judgments and commmandments at all times.  
 **2** Know this day the things that your children know not, who saw not the chastisements of the Lord your God, his great doings and strong hand, and stretched out arm,  
 **3** The signs and works which he did in the midst of Egypt to king Pharao, and to all his land,  
 **4** And to all the host of the Egyptians, and to their horses and chariots: how the waters of the Red Sea covered them, when they pursued you, and how the Lord destroyed them until this present day:  
@@ -448,7 +448,7 @@ format: markdown
 **21** That thy days may be multiplied, and the days of thy children in the land which the Lord swore to thy fathers, that he would give them as long as the heaven hangeth over the earth.  
 **22** For if you keep the commandments which I command you, and do them, to love the Lord your God, and walk in all his ways, cleaving unto him,  
 **23** The Lord will destroy all these nations before your face, and you shall possess them, which are greater and stronger than you.  
-**24** Every place, that your foot shall tread upon, shall be yours. the western sea shall be your borders.  
+**24** Every place, that your foot shall tread upon, shall be yours. From the desert, and from Libanus, from the great river Euphrates unto the western sea shall be your borders.  
 **25** None shall stand against you: the Lord your God shall lay the dread and fear of you upon all the land that you shall tread upon, as he hath spoken to you.  
 **26** Behold I set forth in your sight this day a blessing and a curse:  
 **27** A blessing, if you obey the commandments of the Lord your God, which I command you this day:  
@@ -473,14 +473,14 @@ format: markdown
 **9** For until this present time you are not come to rest, and to the possession, which the Lord your God will give you.  
 **10** You shall pass over the Jordan, and shall dwell in the land which the Lord your God will give you, that you may have rest from all enemies round about: and may dwell without any fear,  
 **11** In the place, which the Lord your God shall choose, that his name may be therein. Thither shall you bring all the things that I command you, holocausts, and victims, and tithes, and the firstfruits of your hands: and whatsoever is the choicest in the gifts which you shall vow to the Lord.  
-**12** There shall you feast before the Lord your God, you and your sons and your daughters, your men-servants and maid-servants, and the Levite that dwelleth in your cities. For he hath no other part and possession among you.  
+**12** There shall you feast before the Lord your God, you and your sons and your daughters, your menservants and maidservants, and the Levite that dwelleth in your cities. For he hath no other part and possession among you.  
 **13** Beware lest thou offer thy holocausts in every place that thou shalt see:  
 **14** But in the place which the Lord shall choose in one of thy tribes shalt thou offer sacrifices, and shalt do all that I command thee.  
 **15** But if thou desirest to eat, and the eating of flesh delight thee, kill, and eat according to the blessing of the Lord thy God, which he hath given thee, in thy cities: whether it be unclean, that is to say, having blemish or defect: or clean, that is to say, sound and without blemish, such as may be offered, as the roe, and the hart, shalt thou eat it:  
 **16** Only the blood thou shalt not eat, but thou shalt pour it out upon the earth as water.  
 **17** Thou mayst not eat in thy towns the tithes of thy corn, and thy wine, and thy oil, the firstborn of thy herds and thy cattle, nor any thing that thou vowest, and that thou wilt offer voluntarily, and the firstfruits of thy hands:  
-**18** But thou shalt eat them before the Lord thy God in the place which the Lord thy God shall choose, thou and thy son and thy daughter, and thy man-servant, and maid-servant, and the Levite that dwelleth in thy cities: and thou shalt rejoice and be refreshed before the Lord thy God in all things, whereunto thou shalt put thy hand.  
-**19** Take heed thou forsake not the Levite all the time that thou livest in the land. spoken to thee, and thou wilt eat the flesh that thy soul desireth:  
+**18** But thou shalt eat them before the Lord thy God in the place which the Lord thy God shall choose, thou and thy son and thy daughter, and thy manservant, and maidservant, and the Levite that dwelleth in thy cities: and thou shalt rejoice and be refreshed before the Lord thy God in all things, whereunto thou shalt put thy hand.  
+**19** Take heed thou forsake not the Levite all the time that thou livest in the land.  
 **21** And if the place which the Lord thy God shall choose, that his name should be there, be far off, thou shalt kill of thy herds and of thy flocks, as I have commanded thee, and shalt eat in thy towns, as it pleaseth thee.  
 **22** Even as the roe and the hart is eaten, so shalt thou eat them: both the clean and unclean shall eat of them alike.  
 **23** Only beware of this, that thou eat not the blood, for the blood is for the soul: and therefore thou must not eat the soul with the flesh:  
@@ -492,7 +492,7 @@ format: markdown
 **29** When the Lord thy God shall have destroyed before thy face the nations, which thou shalt go in to possess, and when thou shalt possess them, and dwell in their land:  
 **30** Beware lest thou imitate them, after they are destroyed at thy coming in, and lest thou seek after their ceremonies, saying: As these nations have worshipped their gods, so will I also worship.  
 **31** Thou shalt not do in like manner to the Lord thy God. For they have done to their gods all the abominations which the Lord abhorreth, offering their sons and daughters, and burning them with fire.  
-**32** What I command thee, that only do thou to the Lord: neither add any thing, nor diminish. of the heathens; or to make any alterations in the divine ordinances.  
+**32** What I command thee, that only do thou to the Lord: neither add any thing, nor diminish.  
 
 ---
 
@@ -506,11 +506,11 @@ format: markdown
 **6** If thy brother the son of thy mother, or thy son, or daughter, or thy wife that is in thy bosom, or thy friend, whom thou lovest as thy own soul, would persuade thee secretly, saying: Let us go, and serve strange gods, which thou knowest not, nor thy fathers,  
 **7** Of all the nations round about, that are near or afar off, from one end of the earth to the other,  
 **8** Consent not to him, hear him not, neither let thy eye spare him to pity and conceal him,  
-**9** But thou shalt presently put him to death. Let thy hand be first upon him, and afterwards the hands of all the people. but by informing the magistrate, and proceeding by order of justice.  
+**9** But thou shalt presently put him to death. Let thy hand be first upon him, and afterwards the hands of all the people.  
 **10** With stones shall he be stoned to death: because he would have withdrawn thee from the Lord thy God, who brought thee out of the land of Egypt, from the house of bondage:  
 **11** That all Israel hearing may fear, and may do no more any thing like this.  
 **12** If in one of thy cities, which the Lord thy God shall give thee to dwell in, thou hear some say:  
-**13** Children of Belial are gone out of the midst of thee, and have withdrawn the inhabitants of their city, and have said: Let us go, and serve strange gods which you know not: subject to the divine law, are called in scripture the children of Belial.  
+**13** Children of Belial are gone out of the midst of thee, and have withdrawn the inhabitants of their city, and have said: Let us go, and serve strange gods which you know not:  
 **14** Inquire carefully and diligently, the truth of the thing by looking well into it, and if thou find that which is said to be certain, and that this abomination hath been really committed,  
 **15** Thou shalt forthwith kill the inhabitants of that city with the edge of the sword, and shalt destroy it and all things that are in it, even the cattle.  
 **16** And all the household goods that are there, thou shalt gather together in the midst of the streets thereof, and shall burn them with the city itself, so as to comsume all for the Lord thy God, and that it be a heap for ever: it shall be built no more.  
@@ -558,10 +558,10 @@ format: markdown
 **1** In the seventh year thou shalt make a remission,  
 **2** Which shall be celebrated in this order. He to whom any thing is owing from his friend or neighbour or brother, cannot demand it again, because it is the year of remission of the Lord.  
 **3** Of the foreigner or stranger thou mayst exact it: of thy countryman and neighbour thou shalt not have power to demand it again.  
-**4** And there shall be no poor nor beggar among you: that the Lord thy God may bless thee in the land which he will give thee in possession. that there should be no poor in Israel, as appears from ver. 11, where we learn that God's people would never be at a loss to find objects for their charity: but it is an ordinance that all should do their best endeavours to prevent any of their brethren from suffering the hardships of poverty and want.  
+**4** And there shall be no poor nor beggar among you: that the Lord thy God may bless thee in the land which he will give thee in possession.  
 **5** Yet so if thou hear the voice of the Lord thy God, and keep all things that he hath ordained, and which I command thee this day, he will bless thee, as he hath promised.  
-**6** Thou shalt lend to many nations, and thou shalt borrow of no man. dominion over thee.  
-**7** If one of thy brethren that dwelleth within thy gates of thy city in the land which the Lord thy God will give thee, come to poverty: thou shalt not harden thy heart, nor close thy hand,  
+**6** Thou shalt lend to many nations, and thou shalt borrow of no man. Thou shalt have dominion over very many nations, and no one shall have dominion over thee.  
+**7** If one of thy brethren that dewlleth within thy gates of thy city in the land which the Lord thy God will give thee, come to poverty: thou shalt not harden thy heart, nor close thy hand,  
 **8** But shalt open it to the poor man, thou shalt lend him, that which thou perceivest he hath need of.  
 **9** Beware lest perhaps a wicked thought steal in upon thee, and thou say in thy heart: The seventh year of remission draweth nigh; and thou turn away thy eyes from thy poor brother, denying to lend him that which he asketh: lest he cry against thee to the Lord, and it become a sin unto thee.  
 **10** But thou shalt give to him: neither shalt thou do any thing craftily in relieving his necessities: that the Lord thy God may bless thee at all times, and in all things to which thou shalt put thy hand.  
@@ -571,7 +571,7 @@ format: markdown
 **14** But shall give him for his way out of thy flocks, and out of thy barnfloor, and thy winepress, wherewith the Lord thy God shall bless thee.  
 **15** Remember that thou also wast a bondservant in the land of Egypt, and the Lord thy God made thee free, and therefore I now command thee this.  
 **16** But if he say: I will not depart: because he loveth thee, and thy house, and findeth that he is well with thee:  
-**17** Thou shalt take an awl, and bore through his ear in the door of thy house, and he shall serve thee for ever: thou shalt do in like manner to thy woman-servant also.  
+**17** Thou shalt take an awl, and bore through his ear in the door of thy house, and he shall serve thee for ever: thou shalt do in like manner to thy womanservant also.  
 **18** Turn not away thy eyes from them when thou makest them free: because he hath served thee six years according to the wages of a hireling: that the Lord thy God may bless thee in all the works that thou dost.  
 **19** Of the firstlings, that come of thy herds and thy sheep, thou shalt sanctify to the Lord thy God whatsoever is of the male sex. Thou shalt not work with the firstling of a bullock, and thou shalt not shear the firstlings of thy sheep.  
 **20** In the sight of the Lord thy God shalt thou eat them every year, in the place that the Lord shall choose, thou and thy house.  
@@ -593,11 +593,11 @@ format: markdown
 **8** Six days shalt thou eat unleavened bread: and on the seventh day, because it is the assembly of the Lord thy God, thou shalt do no work.  
 **9** Thou shalt number unto thee seven weeks from that day, wherein thou didst put the sickle to the corn.  
 **10** And thou shalt celebrate the festival of weeks to the Lord thy God, a voluntary oblation of thy hand, which thou shalt offer according to the blessing of the Lord thy God.  
-**11** And thou shalt feast before the Lord thy God, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite that is within thy gates, and the stranger and the fatherless, and the widow, who abide with you: in the place which the Lord thy God shall choose, that his name may dwell there:  
+**11** And thou shalt feast before the Lord thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates, and the stranger and the fatherless, and the widow, who abide with you: in the place which the Lord thy God shall choose, that his name may dwell there:  
 **12** And thou shalt remember that thou wast a servant in Egypt: and thou shalt keep and do the things that are commanded.  
 **13** Thou shalt celebrate the solemnity also of tabernacles seven days, when thou hast gathered in thy fruit of the barnfloor and of the winepress.  
-**14** And thou shalt make merry in thy festival time, thou, thy son, and thy daughter, thy man-servant, and thy maid-servant, the Levite also and the stranger, and the fatherless and the widow that are within thy gates.  
-**15** Seven days shalt thou celebrate feasts to the Lord thy God in the place which the Lord shall choose: and the Lord thy God will bless thee in all thy fruits, and in every work of thy hands, and thou shalt be in joy.  
+**14** And thou shalt make merry in thy festival time, thou, thy son, and thy daughter, thy manservant, and thy maidservant, the Levite also and the stranger, and the fatherless and the widow that are within thy gates.  
+**15** Seven days shalt thou celebrate feasts to the Lord thy God in the place which the Lord shall choose: and the Lord thy God will belss thee in all thy fruits, and in every work of thy hands, and thou shalt be in joy.  
 **16** Three times in a year shall all thy males appear before the Lord thy God in the place which he shall choose: in the feast of unleavened bread, in the feast of weeks, and in the feast of tabernacles. No one shall appear with his hands empty before the Lord:  
 **17** But every one shall offer according to what he hath, according to the blessing of the Lord his God, which he shall give him.  
 **18** Thou shalt appoint judges and magistrates in all thy gates, which the Lord thy God shall give thee, in all thy tribes: that they may judge the people with just judgment,  
@@ -617,7 +617,7 @@ format: markdown
 **5** Thou shalt bring forth the man or the woman, who have committed that most wicked thing, to the gates of thy city, and they shall be stoned.  
 **6** By the mouth of two or three witnesses shall he die that is to be slain. Let no man be put to death, when only one beareth witness against him.  
 **7** The hands of the witnesses shall be first upon him to kill him, and afterwards the hands of the rest of the people: that thou mayst take away the evil out of the midst of thee.  
-**8** If thou perceive that there be among you a hard and doubtful matter in judgment between blood and blood, cause and cause, leprosy and leprosy: and thou see that the words of the judges within thy gates do vary: arise, and go up to the place, which the Lord thy God shall choose. give to the church guides of the Old Testament, in deciding, without appeal, all controversies relating to the law; promising that they should not err therein; and surely he has not done less for the church guides of the New Testament.  
+**8** If thou perceive that there be among you a hard and doubtful matter in judgment between blood and blood, cause and cause, leprosy and leprosy: and thou see that the words of the judges within thy gates do vary: arise, and go up to the place, which the Lord thy God shall choose.  
 **9** And thou shalt come to the priests of the Levitical race, and to the judge, that shall be at that time: and thou shalt ask of them, and they shall shew thee the truth of the judgment.  
 **10** And thou shalt do whatsoever they shall say, that preside in the place, which the Lord shall choose, and what they shall teach thee,  
 **11** According to his law; and thou shalt follow their sentence: neither shalt thou decline to the right hand nor to the left hand.  
@@ -746,9 +746,9 @@ format: markdown
 **3** Thou shalt do in like manner with his ass, and with his raiment, and with every thing that is thy brother's, which is lost: if thou find it, neglect it not as pertaining to another.  
 **4** If thou see thy brother's ass or his ox to be fallen down in the way, thou shalt not slight it, but shalt lift it up with him.  
 **5** A woman shall not be clothed with man's apparel, neither shall a man use woman's apparel: for he that doth these things is abominable before God.  
-**6** If thou find as thou walkest by the way, a bird's nest in a tree, or on the ground, and the dam sitting upon the young or upon the eggs: thou shalt not take her with her young: mercy even to irrational creatures; and by that means to train them up to a horror of cruelty; and to the exercise of humanity and mutual charity one to another.  
+**6** If thou find as thou walkest by the way, a bird's nest in a tree, or on the ground, and the dam sitting upon the young or upon the eggs: thou shalt not take her with her young:  
 **7** But shalt let her go, keeping the young which thou hast caught: that it may be well with thee, and thou mayst live a long time.  
-**8** When thou buildest a new house, thou shalt make a battlement to the roof round about: lest blood be shed in thy house, and thou be guilty, if any one slip, and fall down headlong. had flat tops, and it was usual to walk and to converse together upon them.  
+**8** When thou buildest a new house, thou shalt make a battlement to the roof round about: lest blood be shed in thy house, and thou be guilty, if any one slip, and fall down headlong.  
 **9** Thou shalt not sow thy vineyard with divers seeds: lest both the seed which thou hast sown, and the fruit of the vineyard, be sanctified together.  
 **10** Thou shalt not plough with an ox and an ass together.  
 **11** Thou shalt not wear a garment that is woven of woollen and linen together.  
@@ -776,7 +776,7 @@ format: markdown
 
 ## Chapter 23
 
-**1** An eunuch, whose testicles are broken or cut away, or yard cut off, shall not enter into the church of the Lord. in good works. Ibid. Into the church... That is, into the assembly or congregation of Israel, so as to have the privilege of an Israelite, or to be capable of any place or office among the people of God.  
+**1** An eunuch, whose testicles are broken or cut away, or yard cut off, shall not enter into the church of the Lord.  
 **2** A mamzer, that is to say, one born of a prostitute, shall not enter into the church of the Lord, until the tenth generation.  
 **3** The Ammonite and the Moabite, even after the tenth generation shall not enter into the church of the Lord for ever:  
 **4** Because they would not meet you with bread and water in the way, when you came out of Egypt: and because they hired against thee Balaam, the son of Beor, from Mesopotamia in Syria, to curse thee.  
@@ -789,13 +789,13 @@ format: markdown
 **11** And shall not return, before he be washed with water in the evening: and after sunset he shall return into the camp.  
 **12** Thou shalt have a place without the camp, to which thou mayst go for the necessities of nature,  
 **13** Carrying a paddle at thy girdle. And when thou sittest down, thou shalt dig round about, and with the earth that is dug up thou shalt cover  
-**14** That which thou art eased of: (for the Lord thy God walketh in the midst of thy camp, to deliver thee, and to give up thy enemies to thee:) and let thy camp be holy, and let no uncleanness appear therein, lest he go away from thee. was to teach them to fly the filth of sin, which driveth God away from the soul.  
+**14** That which thou art eased of: (for the Lord thy God walketh in the midst of thy camp, to deliver thee, and to give up thy enemies to thee:) and let thy camp be holy, and let no uncleanness appear therein, lest he go away from thee.  
 **15** Thou shalt not deliver to his master the servant that is fled to thee.  
 **16** He shall dwell with thee in the place that shall please him, and shall rest in one of thy cities: give him no trouble.  
 **17** There shall be no whore among the daughters of Israel, nor whoremonger among the sons of Israel.  
 **18** Thou shalt not offer the hire of a strumpet, nor the price of a dog, in the house of the Lord thy God, whatsoever it be that thou hast vowed: because both these are an abomination to the Lord thy God.  
 **19** Thou shalt not lend to thy brother money to usury, nor corn, nor any other thing:  
-**20** But to the stranger. To thy brother thou shalt lend that which he wanteth, without usury: that the Lord thy God may bless thee in all thy works in the land, which thou shalt go in to possess. who being the Lord of all things, can give a right and title to one upon the goods of another. Otherwise the scripture everywhere condemns usury, as contrary to the law of God, and a crying sin. See Ex. 22.25; Lev.  
+**20** But to the stranger. To thy brother thou shalt lend that which he wanteth, without usury: that the Lord thy God may bless thee in all thy works in the land, which thou shalt go in to possess.  
 **21** When thou hast made a vow to the Lord thy God, thou shalt not delay to pay it: because the Lord thy God will require it. And if thou delay, it shall be imputed to thee for a sin.  
 **22** If thou wilt not promise, that shalt be without sin.  
 **23** But that which is once gone out of thy lips, thou shalt observe, and shalt do as thou hast promised to the Lord thy God, and hast spoken with thy own will and with thy own mouth.  
@@ -836,7 +836,7 @@ format: markdown
 **1** If there be a controversy between men, and they call upon the judges: they shall give the prize of justice to him whom they perceive to be just: and him whom they find to be wicked, they shall condemn of wickedness.  
 **2** And if they see that the offender be worthy of stripes: they shall lay him down, and shall cause him to be beaten before them. According to the measure of the sin shall the measure also of the stripes be:  
 **3** Yet so, that they exceed not the number of forty: lest thy brother depart shamefully torn before thy eyes.  
-**4** Thou shalt not muzzle the ox that treadeth out thy corn on the floor. in the church of God, who is not to be denied his maintenance. 1 Cor.  
+**4** Thou shalt not muzzle the ox that treadeth out thy corn on the floor.  
 **5** When brethren dwell together, and one of them dieth without children, the wife of the deceased shall not marry to another: but his brother shall take her, and raise up seed for his brother:  
 **6** And the first son he shall have of her he shall call by his name, that his name be not abolished out of Israel.  
 **7** But if he will not take his brother's wife, who by law belongeth to him, the woman shall go to the gate of the city, and call upon the ancients, and say: My husband's brother refuseth to raise up his brother's name in Israel: and will not take me to wife.  
@@ -849,7 +849,7 @@ format: markdown
 **14** Neither shall there be in thy house a greater bushel and a less.  
 **15** Thou shalt have a just and a true weight, and thy bushel shall be equal and true: that thou mayest live a long time upon the land which the Lord thy God shall give thee.  
 **16** For the Lord thy God abhorreth him that doth these things, and he hateth all injustice.  
-**17** Remember what Amalec did to thee in the way when thou camest out of Egypt: sense, sheweth how hateful they are to God, and what punishments they are to look for from his justice, who attack and discourage his servants when they are but just come out, as it were, of the Egypt of this wicked world and being yet weak and fainthearted, are but beginning their journey to the land of promise.  
+**17** Remember what Amalec did to thee in the way when thou camest out of Egypt:  
 **18** How he met thee: and slew the hindmost of the army, who sat down, being weary, when thou wast spent with hunger and labour, and he feared not God.  
 **19** Therefore when the Lord thy God shall give thee rest, and shall have subdued all the nations round about in the land which he hath promised thee: thou shalt blot out his name from under heaven. See thou forget it not.  
 
@@ -868,7 +868,7 @@ format: markdown
 **9** And brought us into this place, and gave us this land flowing with milk and honey.  
 **10** And therefore now I offer the firstfruits of the land which the Lord hath given me. And thou shalt leave them in the sight of the Lord thy God, adoring the Lord thy God.  
 **11** And thou shalt feast in all the good things which the Lord thy God hath given thee, and thy house, thou and the Levite, and the stranger that is with thee.  
-**12** When thou hast made an end of tithing all thy fruits, in the third year of tithes thou shalt give it to the Levite, and to the stranger, and to the fatherless, and to the widow, that they may eat within thy gates, and be filled:  
+**12** When thou hast made an end of tithing all thy fruits, in the third year of tithes thou shalt give it to the Levite, and to the stanger, and to the fatherless, and to the widow, that they may eat within thy gates, and be filled:  
 **13** And thou shalt speak thus in the sight of the Lord thy God: I have taken that which was sanctified out of my house, and I have given it to the Levite, and to the stranger, and to the fatherless, and to the widow, as thou hast commanded me: I have not transgressed thy commandments nor forgotten thy precepts.  
 **14** I have not eaten of them in my mourning, nor separated them for any uncleanness, nor spent any thing of them in funerals. I have obeyed the voice of the Lord my God, and have done all things as thou hast commanded me.  
 **15** Look from thy sanctuary, and thy high habitation of heaven, and bless thy people Israel, and the land which thou hast given us, as thou didst swear to our fathers, a land flowing with milk and honey.  
@@ -889,7 +889,7 @@ format: markdown
 **6** And of stones not fashioned nor polished: and thou shalt offer upon it holocausts to the Lord thy God:  
 **7** And shalt immolate peace victims, and eat there, and feast before the Lord thy God.  
 **8** And thou shalt write upon the stones all the words of this law plainly and clearly.  
-**9** And Moses and the priests of the race of Levi said to all Israel:  
+**9** And Moses and the priests of the race of Levi said to all Israel: Attend, and hear, O Israel: This day thou art made the people of the Lord thy God:  
 **10** Thou shalt hear his voice, and do the commandments and justices which I command thee.  
 **11** And Moses commanded the people in that day, saying:  
 **12** These shall stand upon mount Garizim to bless the people, when you are passed the Jordan: Simeon, Levi, Juda, Issachar, Joseph, and Benjamin.  
@@ -913,7 +913,7 @@ format: markdown
 ## Chapter 28
 
 **1** Now if thou wilt hear the voice of all his commandments, which I command thee this day, the Lord thy God will make thee higher than all the nations that are on the earth.  
-**2** And all these blessings shall come upon thee and overtake thee: yet so if thou hear his precepts. blessings to the keepers of his law, heaven not being opened as yet; and that gross and sensual people being more moved with present and sensible things. But in the New Testament the goods that are promised us are spiritual and eternal; and temporal evils are turned into blessings.  
+**2** And all these blessings shall come upon thee and overtake thee: yet so if thou hear his precepts.  
 **3** Blessed shalt thou be in the city, and blessed in the field.  
 **4** Blessed shall be the fruit of thy womb, and the fruit of thy ground, and the fruit of thy cattle, the droves of thy herds, and the folds of thy sheep.  
 **5** Blessed shall be thy barns and blessed thy stores.  
@@ -926,7 +926,7 @@ format: markdown
 **12** The Lord will open his excellent treasure, the heaven, that it may give rain in due season: and he will bless all the works of thy hands. And thou shalt lend to many nations, and shalt not borrow of any one.  
 **13** And the Lord shall make thee the head and not the tail: and thou shalt be always above, and not beneath: yet so if thou wilt hear the commandments of the Lord thy God which I command thee this day, and keep and do them,  
 **14** And turn not away from them neither to the right hand, nor to the left, nor follow strange gods, nor worship them.  
-**15** But if thou wilt not hear the voice of the Lord thy God, to keep and to do all his commandments and ceremonies, which I command thee this day, all these curses shall come upon thee, and overtake thee. law in the Old Testament: but now he often suffers sinners to prosper in this world, rewarding them for some little good they have done, and reserving their punishment for the other world.  
+**15** But if thou wilt not hear the voice of the Lord thy God, to keep and to do all his commandments and ceremonies, which I command thee this day, all these curses shall come upon thee, and overtake thee.  
 **16** Cursed shalt thou be in the city, cursed in the field.  
 **17** Cursed shall be thy barn, and cursed thy stores.  
 **18** Cursed shall be the fruit of thy womb, and the fruit of thy ground, the herds of thy oxen, and the flocks of thy sheep.  
@@ -988,7 +988,7 @@ format: markdown
 **1** These are the words of the covenant which the Lord commanded Moses to make with the children of Israel in the land of Moab: beside that covenant which he made with them in Horeb.  
 **2** And Moses called all Israel, and said to them: You have seen all the things that the Lord did before you in the land of Egypt to Pharao, and to all his servants, and to his whole land.  
 **3** The great temptations, which thy eyes have seen, those mighty signs and wonders,  
-**4** And the Lord hath not given you a heart to understand, and eyes to see, and ears that may hear, unto this present day. resisted his grace.  
+**4** And the Lord hath not given you a heart to understand, and eyes to see, and ears that may hear, unto this present day.  
 **5** He hath brought you forty years through the desert: your garments are not worn out, neither are the shoes of your feet consumed with age.  
 **6** You have not eaten bread, nor have you drunk wine or strong drink: that you might know that I am the Lord your God.  
 **7** And you came to this place: and Sehon king of Hesebon, and Og king of Basan, came out against us to fight. And we slew them.  
@@ -1013,7 +1013,7 @@ format: markdown
 **26** And they have served strange gods, and adored them, whom they knew not, and for whom they had not been assigned:  
 **27** Therefore the wrath of the Lord was kindled against this land, to bring upon it all the curses that are written in this volume:  
 **28** And he hath cast them out of their land, in anger and in wrath, and in very great indignation, and hath thrown them into a strange land, as it is seen this day.  
-**29** Secret things to the Lord our God: things that are manifest, to us and to our children for ever, that we may do all the words of this law. are known to, God alone; our business must be to observe what he has revealed and manifested to us, and to direct our lives accordingly.  
+**29** Secret things to the Lord our God: things that are manifest, to us and to our children for ever, that we may do all the words of this law.  
 
 ---
 
@@ -1048,7 +1048,7 @@ format: markdown
 **2** And he said to them: I am this day a hundred and twenty years old, I can no longer go out and come in, especially as the Lord also hath said to me: Thou shalt not pass over this Jordan.  
 **3** The Lord thy God then will pass over before thee: he will destroy all these nations in thy sight, and thou shalt possess them: and this Josue shall go over before thee, as the Lord hath spoken.  
 **4** And the Lord shall do to them as he did to Sehon and Og the kings of the Amorrhites, and to their land, and shall destroy them.  
-**5** Therefore when the Lord shall have delivered these also to you, you shall do in like manner to them as I have commanded you.  
+**5** Therefore when the Lord shall have delivered these also to you, you shall do in like manner to them as I have commmanded you.  
 **6** Do manfully and be of good heart: fear not, nor be ye dismayed at their sight: for the Lord thy God he himself is thy leader, and will not leave thee nor forsake thee.  
 **7** And Moses called Josue, and said to him before all Israel: Take courage, and be valiant: for thou shalt bring this people into the land which the Lord swore he would give to their fathers, and thou shalt divide it by lot.  
 **8** And the Lord who is your leader, he himself will be with thee: he will not leave thee, nor forsake thee: fear not, neither be dismayed.  
@@ -1144,10 +1144,10 @@ format: markdown
 **6** Let Ruben live, and not die, and be he small in number.  
 **7** This is the blessing of Juda. Hear, O Lord, the voice of Juda, and bring him in unto his people: his hands shall fight for him, and he shall be his helper against his enemies.  
 **8** To Levi also he said: Thy perfection, and thy doctrine be to thy holy man, whom thou hast proved in the temptation, and judged at the waters of contradiction:  
-**9** Who hath said to his father, and to his mother: I do not know you; and to his brethren: I know you not: and their own children they have not known. These have kept thy word, and observed thy covenant, Who hath said, etc... It is the duty of the priestly tribe to prefer God's honour and service before all considerations of flesh and blood: in such manner as to behave as strangers to their nearest akin, when these would withdraw them from the business of their calling.  
+**9** Who hath said to his father, and to his mother: I do not know you; and to his bretheren: I know you not: and their own children they have not known. These have kept thy word, and observed thy covenant, Who hath said, etc... It is the duty of the priestly tribe to prefer God's honour and service before all considerations of flesh and blood: in such manner as to behave as strangers to their nearest akin, when these would withdraw them from the business of their calling.  
 **10** Thy judgments, O Jacob, and thy law, O Israel: they shall put incense in thy wrath and holocaust upon thy altar.  
-**11** Bless, O Lord, his strength, and receive the works of his hands.  
-**12** And to Benjamin he said: The best beloved of the Lord shall dwell confidently in him: as in a bride chamber shall he abide all the day long, and between his shoulders shall be rest. the confines of the tribe of Benjamin.  
+**11** Bless, O Lord, his strength, and receive the works of his hands. Strike the backs of his enemies, and let not them that hate him rise.  
+**12** And to Benjamin he said: The best beloved of the Lord shall dwell confidently in him: as in a bride chamber shall he abide all the day long, and between his shoulders shall be rest.  
 **13** To Joseph also he said: Of the blessing of the Lord be his land, of the fruits of heaven, and of the dew, and of the deep that lieth beneath.  
 **14** Of the fruits brought forth by the sun and by the moon.  
 **15** Of the tops of the ancient mountains, of the fruits of the everlasting hills:  
@@ -1156,13 +1156,13 @@ format: markdown
 **18** And to Zabulon he said: Rejoice, O Zabulon, in thy going out; and Issachar in thy tabernacles.  
 **19** They shall call the people to the mountain: there shall they sacrifice the victims of justice. Who shall suck as milk the abundance of the sea, and the hidden treasures of the sands.  
 **20** And to Gad he said: Blessed be Gad in his breadth: he hath rested as a lion, and hath seized upon the arm and the top of the head.  
-**21** And he saw his pre-eminence, that in his portion the teacher was laid up: who was with the princes of the people, and did the justices of the Lord, and his judgment with Israel. alludeth, was their having the lawgiver Moses buried in their borders; though the particular place was not known.  
+**21** And he saw his pre-eminence, that in his portion the teacher was laid up: who was with the princes of the people, and did the justices of the Lord, and his judgment with Israel.  
 **22** To Dan also he said: Dan is a young lion, he shall flow plentifully from Basan.  
 **23** And To Nephtali he said: Nephtali shall enjoy abundance, and shall be full of the blessings of the Lord: he shall possess the sea and the south.  
 **24** To Aser also he said: Let Aser be blessed with children, let him be acceptable to his brethren, and let him dip his foot in oil.  
 **25** His shoe shall be iron and brass. As the days of thy youth, so also shall thy old age be.  
 **26** There is no other god like the God of the rightest: he that is mounted upon the heaven is thy helper. By his magnificence the clouds run hither and thither.  
-**27** His dwelling is above, and underneath are the everlasting arms: he shall cast out the enemy from before thee, and shall say: Be thou brought to nought. above in heaven, his arms are always stretched out to help us here below.  
+**27** His dwelling is above, and underneath are the everlasting arms: he shall cast out the enemy from before thee, and shall say: Be thou brought to nought.  
 **28** Israel shall dwell in safety, and alone. The eye of Jacob in a land of corn and wine, and the heavens shall be misty with dew.  
 **29** Blessed art thou, Israel: who is like to thee, O people, that art saved by the Lord? the shield of thy help, and the sword of thy glory: thy enemies shall deny thee, and thou shalt tread upon their necks.  
 
@@ -1175,10 +1175,10 @@ format: markdown
 **3** And the south part, and the breadth of the plain of Jericho the city of palm trees as far as Segor.  
 **4** And the Lord said to him: This is the land, for which I swore to Abraham, Isaac, and Jacob, saying: I will give it to thy seed. Thou hast seen it with thy eyes, and shalt not pass over to it.  
 **5** And Moses the servant of the Lord died there, in the land of Moab, by the commandment of the Lord:  
-**6** And he buried him in the valley of the land of Moab over against Phogor: and no man hath known of his sepulchre until this present day. place of his burial to be unknown, lest the Israelites, who were so prone to idolatry, might worship him with divine honours.  
+**6** And he buried him in the valley of the land of Moab over against Phogor: and no man hath known of his sepulchre until this present day.  
 **7** Moses was a hundred and twenty years old when he died: his eye was not dim, neither were his teeth moved.  
 **8** And the children of Israel mourned for him in the plains of Moab thirty days: and the days of their mourning in which they mourned Moses were ended.  
-**9** And Josue the son of Nun was filled with the spirit of wisdom, because Moses had laid his hands upon him. And the children of Israel obeyed him, and did as the Lord commanded Moses.  
+**9** And Josue the son of Nun was filled with the spirit of wisdom, because Moses had laid his hands upon him. And the children of Israel obeyed him, and did as the Lord comanded Moses.  
 **10** And there arose no more a prophet in Israel like unto Moses, whom the Lord knew face to face,  
 **11** In all the signs and wonders, which he sent by him, to do in the land of Egypt to Pharao, and to all his servants, and to his whole land,  
 **12** And all the mighty hand, and great miracles, which Moses did before all Israel.  

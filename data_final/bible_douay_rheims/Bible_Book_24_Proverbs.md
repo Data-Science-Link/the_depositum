@@ -250,7 +250,7 @@ format: markdown
 **27** Can a man hide fire in his bosom, and his garments not burn?  
 **28** Or can he walk upon hot coals, and his feet not be burnt?  
 **29** So he that goeth in to his neighbour's wife, shall not be clean when he shall touch her.  
-**30** The fault is not so great when a man hath stolen: for he stealeth to fill his hungry soul: to be compared with adultery: especially when a person pressed with hunger (which is the case here spoken of) steals to satisfy nature. the wrong done by adultery. But this does not hinder, but that theft also is a mortal sin, forbidden by one of the ten commandments.  
+**30** The fault is not so great when a man hath stolen: for he stealeth to fill his hungry soul:  
 **31** And if he be taken, he shall restore sevenfold, and shall give up all the substance of his house.  
 **32** But he that is an adulterer, for the folly of his heart shall destroy his own soul:  
 **33** He gathereth to himself shame and dishonour, and his reproach shall not be blotted out:  
@@ -342,7 +342,7 @@ format: markdown
 **6** Forsake childishness, and live, and walk by the ways of prudence.  
 **7** He that teacheth a scorner, doth an injury to himself; and he that rebuketh a wicked man, getteth himself a blot.  
 **8** Rebuke not a scorner, lest he hate thee. Rebuke a wise man, and he will love thee.  
-**9** Give an occasion to a wise man, and wisdom shall be added to him.  
+**9** Give an occasion to a wise man, and wisdom shall be added to him. Teach a just man, and he shall make haste to receive it.  
 **10** The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is prudence.  
 **11** For by me shall thy days be multiplied, and years of life shall be added to thee.  
 **12** If thou be wise, thou shalt be so to thyself: and if a scorner, thou alone shalt bear the evil.  
@@ -440,7 +440,8 @@ format: markdown
 **8** A man shall be known by his learning: but he that is vain and foolish, shall be exposed to contempt.  
 **9** Better is the poor man that provideth for himself, than he that is glorious and wanteth bread.  
 **10** The just regardeth the lives of his beasts: but the bowels of the wicked are cruel.  
-**11** He that tilleth his land shall be satisfied with bread: but he that pursueth idleness is very foolish. He that is delighted in passing his time over wine, leaveth a reproach in his strong holds.  
+**11** He that tilleth his land shall be satisfied with bread: but he that pursueth idleness is very foolish.  
+**12** He that is delighted in passing his time over wine, leaveth a reproach in his strong holds.  
 **12** The desire of the wicked is the fortification of evil men: but the root of the just shall prosper.  
 **13** For the sins of the lips ruin draweth nigh to the evil man: but the just shall escape out of distress.  
 **14** By the fruit of his own mouth shall a man be filled with good things, and according to the works of his hands it shall be repaid him.  
@@ -475,7 +476,7 @@ format: markdown
 **10** Among the proud there are always contentions: but they that do all things with counsel, are ruled by wisdom.  
 **11** Substance got in haste shall be diminished: but that which by little and little is gathered with the hand, shall increase.  
 **12** Hope that is deferred afflicteth the soul: desire when it cometh, is a tree of life.  
-**13** Whosoever speaketh ill of any thing, bindeth himself for the time to come: but he that feareth the commandment, shall dwell in peace. mercy.  
+**13** Whosoever speaketh ill of any thing, bindeth himself for the time to come: but he that feareth the commandment, shall dwell in peace. Deceitful souls go astray in sins: the just are merciful, and shew mercy.  
 **14** The law of the wise is a fountain of life, that he may decline from the ruin of death.  
 **15** Good instruction shall give grace: in the way of scorners is a deep pit.  
 **16** The prudent man doth all things with counsel: but he that is a fool, layeth open his folly.  
@@ -507,7 +508,7 @@ format: markdown
 **12** There is a way which seemeth just to a man: but the ends thereof lead to death.  
 **13** Laughter shall be mingled with sorrow, and mourning taketh hold of the ends of joy.  
 **14** A fool shall be filled with his own ways, and the good man shall be above him.  
-**15** The innocent believeth every word: the discreet man considereth his steps. No good shall come to the deceitful son: but the wise servant shall prosper in his dealings, and his way shall be made straight.  
+**15** The innocent believeth every word: the discreet man considereth his steps. No good shall come to the deceitfnl son: but the wise servant shall prosper in his dealings, and his way shall be made straight.  
 **16** A wise man feareth, and declineth from evil: the fool leapeth over, and is confident.  
 **17** The impatient man shall work folly: and the crafty man is hateful.  
 **18** The childish shall possess folly, and the prudent shall look for knowledge.  
@@ -571,7 +572,7 @@ format: markdown
 
 ## Chapter 16
 
-**1** It is the part of man to prepare the soul: and of the Lord to govern the tongue. and soul what he is to say: but after all, it must be the Lord that must govern his tongue, to speak to the purpose. Not that we can think any thing of good without God's grace; but that after we have (with God's grace) thought and prepared within our souls what we would speak, if God does not govern our tongue, we shall not succeed in what we speak.  
+**1** It is the part of man to prepare the soul: and of the Lord to govern the tongue.  
 **2** All the ways of a man are open to his eyes: the Lord is the weigher of spirits.  
 **3** Lay open thy works to the Lord: and thy thoughts shall be directed.  
 **4** The Lord hath made all things for himself: the wicked also for the evil day.  
@@ -817,7 +818,7 @@ format: markdown
 **5** Lift not up thy eyes to riches which thou canst not have: because they shall make themselves wings like those of an eagle, and shall fly towards heaven.  
 **6** Eat not with an envious man, and desire not his meats:  
 **7** Because, like a soothsayer, and diviner, he thinketh that which he knoweth not. Eat and drink, will he say to thee: and his mind is not with thee.  
-**8** The meats which thou hadst eaten, thou shalt vomit up: and shalt loose thy beautiful words.  
+**8** The meats which thou hadst eaten, thou shalt vomit up: and shalt lose thy beantiful words.  
 **9** Speak not in the ears of fools: because they will despise the instruction of thy speech.  
 **10** Touch not the bounds of little ones: and enter not into the field of the fatherless:  
 **11** For their near kinsman is strong: and he will judge their cause against thee.  
@@ -915,7 +916,7 @@ format: markdown
 **24** It is better to sit in a corner of the housetop: than with a brawling woman, and in a common house.  
 **25** As cold water to a thirsty soul, so are good tidings from a far country.  
 **26** A just man falling down before the wicked, is as a fountain troubled with the foot and a corrupted spring.  
-**27** As it is not good for a man to eat much honey, so he that is a searcher of majesty shall be overwhelmed by glory. exposing our weak understanding to be blinded with an excess of light and glory, which it cannot comprehend.  
+**27** As it is not good for a man to eat much honey, so he that is a searcher of majesty shall be overwhelmed by glory.  
 **28** As a city that lieth open and is not compassed with walls, so is a man that cannot refrain his own spirit in speaking.  
 
 ---
@@ -923,9 +924,9 @@ format: markdown
 ## Chapter 26
 
 **1** As snow in summer, and rain in harvest, so glory is not seemly for a fool.  
-**2** As a bird flying to other places, and a sparrow going here or there: so a curse uttered without cause shall come upon a man. shall do no harm to the person that is cursed, but will return upon him that curseth, as whithersoever a bird flies, it returns to its own nest.  
+**2** As a bird flying to other places, and a sparrow going here or there: so a curse uttered without cause shall come upon a man.  
 **3** A whip for a horse, and a snaffle for an ass, and a rod for the back of fools.  
-**4** Answer not a fool according to his folly, lest thou be made like him. reprove his folly.  
+**4** Answer not a fool according to his folly, lest thou be made like him.  
 **5** Answer a fool according to his folly, lest he imagine himself to be wise.  
 **6** He that sendeth words by a foolish messenger, is lame of feet and drinketh iniquity.  
 **7** As a lame man hath fair legs in vain: so a parable is unseemly in the mouth of fools.  
@@ -1011,9 +1012,9 @@ format: markdown
 **22** A man that maketh haste to be rich, and envieth others, is ignorant that poverty shall come upon him.  
 **23** He that rebuketh a man, shall afterward find favour with him, more than he that by a flattering tongue deceiveth him.  
 **24** He that stealeth any thing from his father, or from his mother: and saith, This is no sin, is the partner of a murderer.  
-**25** He that boasteth and puffeth up himself, stirreth up quarrels: but he that trusteth in the Lord, shall be healed.  
+**26** He that boasteth and puffeth up himself, stirreth up quarrels: but he that trusteth in the Lord, shall be healed.  
 **26** He that trusteth in his own heart, is a fool: but he that walketh wisely, he shall be saved.  
-**27** He that giveth to the poor shall not want: he that despiseth his entreaty, shall suffer indigence.  
+**27** He that giveth to the poor shall not want: he that despiseth his intreaty, shall suffer indigence.  
 **28** When the wicked rise up, men shall hide themselves: when they perish, the just shall be multiplied.  
 
 ---
@@ -1052,7 +1053,7 @@ format: markdown
 
 ## Chapter 30
 
-**1** The words of Gatherer the son of Vomiter. The vision which the man spoke, with whom God is, and who being strengthened by God, abiding with him, said: signification of the Hebrew names, instead of the names themselves, which are in the Hebrew, Agur the son of Jakeh. But whether this Agur be the same person as Solomon, as many think, or a different person, whose doctrine was adopted by Solomon, and inserted among his parables or proverbs, is uncertain.  
+**1** The words of Gatherer the son of Vomiter. The vision which the man spoke, with whom God is, and who being strengthened by God, abiding with him, said:  
 **2** I am the most foolish of men, and the wisdom of men is not with me.  
 **3** I have not learned wisdom, and have not known the science of saints.  
 **4** Who hath ascended up into heaven, and descended? who hath held the wind in his hands? who hath bound up the waters together as in a garment? who hath raised up all the borders of the earth? what is his name, and what is the name of his son, if thou knowest?  
@@ -1060,13 +1061,13 @@ format: markdown
 **6** Add not any thing to his words, lest thou be reproved and found a liar:  
 **7** Two things I have asked of thee, deny them not to me before I die.  
 **8** Remove far from me vanity, and lying words. Give me neither beggary, nor riches: give me only the necessaries of life:  
-**9** Lest perhaps being filled, I should be tempted to deny, and say: forswear the name of my God.  
+**9** Lest perhaps being filled, I should be tempted to deny, and say: Who is the Lord? or being compelled by poverty, I should steal, and forswear the name of my God.  
 **10** Accuse not a servant to his master, lest he curse thee, and thou fall.  
 **11** There is a generation that curseth their father, and doth not bless their mother.  
 **12** A generation that are pure in their own eyes, and yet are not washed from their filthiness.  
 **13** A generation, whose eyes are lofty, and their eyelids lifted up on high.  
 **14** A generation that for teeth hath swords, and grindeth with their jaw teeth, to devour the needy from off the earth, and the poor from among men.  
-**15** The horseleech hath two daughters that say: Bring, bring. There are three things that never are satisfied, and the fourth never saith: satisfied, viz., lust and avarice.  
+**15** The horseleech hath two daughters that say: Bring, bring. There are three things that never are satisfied, and the fourth never saith: It is enough.  
 **16** Hell and the mouth of the womb, and the earth which is not satisfied with water: and the fire never saith: It is enough.  
 **17** The eye that mocketh at his father, and that despiseth the labour of his mother in bearing him, let the ravens of the brooks pick it out, and the young eagles eat it.  
 **18** Three things are hard to me, and the fourth I am utterly ignorant of.  
@@ -1079,8 +1080,8 @@ format: markdown
 **25** The ants, a feeble people, which provide themselves food in the harvest:  
 **26** The rabbit, a weak people, which maketh its bed in the rock:  
 **27** The locust hath no king, yet they all go out by their bands:  
-**28** The stellio supporteth itself on hands, and dwelleth in kings' houses. whence it has its name.  
-**29** There are three things, which go well, and the fourth that walketh happily:  
+**28** The stellio supporteth itself on hands, and dwelleth in kings' houses.  
+**19** There are three things, which go well, and the fourth that walketh happily:  
 **30** A lion, the strongest of beasts, who hath no fear of any thing he meeteth:  
 **31** A cock girded about the loins: and a ram: and a king, whom none can resist.  
 **32** There is that hath appeared a fool after he was lifted up on high: for if he had understood, he would have laid his hand upon his mouth.  
@@ -1090,7 +1091,7 @@ format: markdown
 
 ## Chapter 31
 
-**1** The words of king Lamuel. The vision wherewith his mother instructed him. one of the names of Solomon.  
+**1** The words of king Lamuel. The vision wherewith his mother instructed him.  
 **2** What, O my beloved, what, O the beloved of my womb, what, O the beloved of my vows?  
 **3** Give not thy substance to women, and thy riches to destroy kings.  
 **4** Give not to kings, O Lamuel, give not wine to kings: because there is no secret where drunkenness reigneth:  
@@ -1113,7 +1114,7 @@ format: markdown
 **21** She shall not fear for her house in the cold of snow: for all her domestics are clothed with double garments.  
 **22** She hath made for herself clothing of tapestry: fine linen, and purple, is her covering.  
 **23** Her husband is honourable in the gates, when he sitteth among the senators of the land.  
-**24** She made fine linen, and sold it, and delivered a girdle to the Chanaanite. merchant.  
+**24** She made fine linen, and sold it, and delivered a girdle to the Chanaanite.  
 **25** Strength and beauty are her clothing, and she shall laugh in the latter day.  
 **26** She hath opened her mouth to wisdom, and the law of clemency is on her tongue.  
 **27** She hath looked well on the paths of her house, and hath not eaten her bread idle.  

@@ -53,18 +53,18 @@ format: markdown
 **5** And they found Adonibezec in Bezec, and fought against him, and they defeated the Chanaanite, and the Pherezite.  
 **6** And Adonibezec fled: and they pursued after him and took him, and cut off his fingers and toes.  
 **7** And Adonibezec said: Seventy kings, having their fingers and toes cut off, gathered up the leavings of the meat under my table: as I have done, so hath God requited me. And they brought him to Jerusalem, and he died there.  
-**8** And the children of Juda besieging Jerusalem, took it, and put it to the sword, and set the whole city on fire. the other Salem: the one was in the tribe of Juda, the other in the tribe of Benjamin. After it was taken and burnt by the men of Juda, it was quickly rebuilt again by the Jebusites, as we may gather from ver.  
+**8** And the children of Juda besieging Jerusalem, took it, and put it to the sword, and set the whole city on fire.  
 **9** And afterwards they went down and fought against the Chanaanite, who dwelt in the mountains, and in the south, and in the plains.  
-**10** And Juda going forward against the Chanaanite, that dwelt in Hebron, (the name whereof was in former times Cariath-Arbe) slew Sesai, and Ahiman, and Tholmai: related, Jos. 15.24. It is here repeated, to give the reader at once a short sketch of all the achievements of the tribe of Juda against the Chanaanites.  
-**11** And departing from thence, he went to the inhabitants of Dabir, the ancient name of which was Cariath-Sepher, that is, the city of letters. library, kept there.  
+**10** And Juda going forward against the Chanaanite, that dwelt in Hebron, (the name whereof was in former times Cariath-Arbe) slew Sesai, and Ahiman, and Tholmai:  
+**11** And departing from thence, he went to the inhabitants of Dabir, the ancient name of which was Cariath-Sepher, that is, the city of letters.  
 **12** And Caleb said: He that shall take Cariath-Sepher, and lay it waste, to him will I give my daughter Axa to wife.  
 **13** And Othoniel, the son of Cenez, the younger brother of Caleb, having taken it, he gave him Axa his daughter to wife.  
 **14** And as she was going on her way, her husband admonished her to ask a field of her father. And as she sighed sitting on her ass, Caleb said to her: What aileth thee?  
 **15** But she answered: Give me a blessing, for thou hast given me a dry land: give me also a watery land So Caleb gave her the upper and the nether watery ground.  
-**16** And the children of the Cinite, the kinsman of Moses, went up from the city of palms, with the children of Juda, into the wilderness of his lot, which is at the south side of Arad, and they dwelt with him. the Cinite; and his children who came along with the children of Israel settled themselves among them in the land of Chanaan, embracing their worship and religion. From these the Rechabites sprung, of whom see Jer. palm trees.  
+**16** And the children of the Cinite, the kinsman of Moses, went up from the city of palms, with the children of Juda, into the wilderness of his lot, which is at the south side of Arad, and they dwelt with him.  
 **17** And Juda went with Simeon, his brother, and they together defeated the Chanaanites that dwelt in Sephaath, and slew them. And the name of the city was called Horma, that is, Anathema.  
-**18** And Juda took Gaza, with its confines, and Ascalon, and Accaron, with their confines. at this time by the Israelites: but as they took no care to put garrisons in them, the Philistines soon recovered them.  
-**19** And the Lord was with Juda, and he possessed the hill country: but was not able to destroy the inhabitants of the valley, because they had many chariots armed with scythes. with hooks and scythes, and for want of confidence in God.  
+**18** And Juda took Gaza, with its confines, and Ascalon, and Accaron, with their confines.  
+**19** And the Lord was with Juda, and he possessed the hill country: but was not able to destroy the inhabitants of the valley, because they had many chariots armed with scythes.  
 **20** And they gave Hebron to Caleb, as Moses had said, who destroyed out of it the three sons of Enac.  
 **21** But the sons of Benjamin did not destroy the Jebusites that inhabited Jerusalem: and the Jebusite hath dwelt with the sons of Benjamin in Jerusalem until this present day.  
 **22** The house of Joseph also went up against Bethel, and the Lord was with them.  
@@ -92,7 +92,7 @@ format: markdown
 **3** Wherefore I would not destroy them from before your face; that you may have enemies, and their gods may be your ruin.  
 **4** And when the angel of the Lord spoke these words to all the children of Israel: they lifted up their voice, and wept.  
 **5** And the name of that place was called, The place of weepers, or of tears: and there they offered sacrifices to the Lord.  
-**6** And Josue sent away the people, and the children of Israel went every one to his own possession to hold it: recapitulation of what had happened before, and by way of an introduction to that which follows.  
+**6** And Josue sent away the people, and the children of Israel went every one to his own possession to hold it:  
 **7** And they served the Lord all his days, and the days of the ancients, that lived a long time after him, and who knew all the works of the Lord, which he had done for Israel.  
 **8** And Josue, the son of Nun, the servant of the Lord, died, being a hundred and ten years old;  
 **9** And they buried him in the borders of his possession in Thamnathsare, in Mount Ephraim, on the north side of Mount Gaas.  
@@ -106,7 +106,7 @@ format: markdown
 **17** Committing fornication with strange gods, and adoring them. They quickly forsook the way, in which their fathers had walked: and hearing the commandments of the Lord, they did all things contrary.  
 **18** And when the Lord raised them up judges, in their days, he was moved to mercy, and heard the groanings of the afflicted, and delivered them from the slaughter of the oppressors.  
 **19** But after the judge was dead, they returned, and did much worse things than their fathers had done, following strange gods, serving them, and adoring them. They left not their own inventions, and the stubborn way, by which they were accustomed to walk.  
-**20** And the wrath of the Lord was kindled against Israel, and he said: their fathers, and hath despised to hearken to my voice:  
+**20** And the wrath of the Lord was kindled against Israel, and he said: Behold this nation hath made void my covenant, which I had made with their fathers, and hath despised to hearken to my voice:  
 **21** I also will not destroy the nations which Josue left when he died:  
 **22** That through them I may try Israel, whether they will keep the way of the Lord, and walk in it, as their fathers kept it, or not.  
 **23** The Lord therefore left all these nations, and would not quickly destroy them, neither did he deliver them into the hands of Josue.  
@@ -122,7 +122,7 @@ format: markdown
 **5** So the children of Israel dwelt in the midst of the Chanaanite, and the Hethite, and the Amorrhite, and the Pherezite, and the Hevite, and the Jebusite:  
 **6** And they took their daughters to wives, and they gave their own daughters to their sons, and they served their gods.  
 **7** And they did evil in the sight of the Lord, and they forgot their God, and served Baalim and Astaroth.  
-**8** And the Lord being angry with Israel, delivered them into the hands of Chusan Rasathaim, king of Mesopotamia, and they served him eight years. because it lies between the Euphrates and the Tigris. It is absolutely called Syria, ver. 10.  
+**8** And the Lord being angry with Israel, delivered them into the hands of Chusan Rasathaim, king of Mesopotamia, and they served him eight years.  
 **9** And they cried to the Lord, who raised them up a saviour, and delivered them; to wit, Othoniel, the son of Cenez, the younger brother of Caleb:  
 **10** And the spirit of the Lord was in him, and he judged Israel. And he went out to fight, and the Lord delivered Chusan Rasathaim, king of Syria, and he overthrew him:  
 **11** And the land rested forty years, and Othoniel, the son of Cenez, died.  
@@ -134,7 +134,7 @@ format: markdown
 **17** And he presented the gifts to Eglon, king of Moab Now Eglon was exceeding fat.  
 **18** And when he had presented the gifts unto him he followed his companions that came along with him.  
 **19** Then returning from Galgal, where the idols were, he said to the king: I have a secret message to thee, O king. And he commanded silence: and all being gone out that were about him,  
-**20** Aod went in to him: now he was sitting in a summer parlour alone, and he said: I have a word from God to thee. And he forthwith rose up from his throne. such things are not to be imitated by private men.  
+**20** Aod went in to him: now he was sitting in a summer parlour alone, and he said: I have a word from God to thee. And he forthwith rose up from his throne.  
 **21** And Aod put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly,  
 **22** With such force that the haft went in after the blade into the wound, and was closed up with the abundance of fat. So that he did not draw out the dagger, but left it in the body as he had struck it in: and forthwith, by the secret parts of nature, the excrements of the belly came out.  
 **23** And Aod carefully shutting the doors of the parlour, and locking them,  
@@ -185,30 +185,30 @@ format: markdown
 **3** Hear, O ye kings, give ear, O ye princes: It is I, it is I, that will sing to the Lord, I will sing to the Lord, the God of Israel.  
 **4** O Lord, when thou wentest out of Seir, and passedst by the regions of Edom, the earth trembled, and the heavens and clouds dropped water.  
 **5** The mountains melted before the face of the Lord, and Sinai before the face of the Lord the God of Israel.  
-**6** In the days of Samgar, the son of Anath, in the days of Jahel, the paths rested: and they that went by them, walked through bye-ways. and men walked in the by-ways of error and sin.  
+**6** In the days of Samgar, the son of Anath, in the days of Jahel, the paths rested: and they that went by them, walked through bye-ways.  
 **7** The valiant men ceased, and rested in Israel: until Debbora arose, a mother arose in Israel.  
 **8** The Lord chose new wars, and he himself overthrew the gates of the enemies: a shield and spear was not seen among forty thousand of Israel.  
 **9** My heart loveth the princes of Israel: O you, that of your own good will offered yourselves to danger, bless the Lord.  
 **10** Speak, you that ride upon fair asses, and you that sit in judgment, and walk in the way.  
 **11** Where the chariots were dashed together, and the army of the enemies was choked, there let the justices of the Lord be rehearsed, and his clemency towards the brave men of Israel: then the people of the Lord went down to the gates, and obtained the sovereignty.  
-**12** Arise, arise, O Debbora, arise, arise, and utter a canticle.  
+**12** Arise, arise, O Debbora, arise, arise, and utter a canticle. Arise, Barac, and take hold of thy captives, O son of Abinoem.  
 **13** The remnants of the people are saved, the Lord hath fought among the valiant ones.  
-**14** Out of Ephraim he destroyed them into Amalec, and after him out of Benjamin into thy people, O Amalec: Out of Machir there came down princes, and out of Zabulon they that led the army to fight. destroyed, as they were running through the land of Ephraim, and of Benjamin, which lies after, that is beyond Ephraim: and so on to the very confines of Amalec. Or, it alludes to former victories of the people of God, particularly that which was freshest in memory, when the men of Ephraim and Benjamin, with Aod at their head, overthrew their enemies the Moabites with the Amalecites their allies. See chap. 3.  
-**15** The captains of Issachar were with Debbora, and followed the steps of Barac, who exposed himself to danger, as one going headlong, and into a pit. Ruben being divided against himself, there was found a strife of courageous men. the tribe of Ruben were divided in their sentiments, with relation to this war; which division kept them at home within their own borders, to hear the bleating of their flocks.  
+**14** Out of Ephraim he destroyed them into Amalec, and after him out of Benjamin into thy people, O Amalec: Out of Machir there came down princes, and out of Zabulon they that led the army to fight.  
+**15** The captains of Issachar were with Debbora, and followed the steps of Barac, who exposed himself to danger, as one going headlong, and into a pit. Ruben being divided against himself, there was found a strife of courageous men.  
 **16** Why dwellest thou between two borders, that thou mayst hear the bleatings of the flocks? Ruben being divided against himself, there was found a strife of courageous men.  
-**17** Galaad rested beyond the Jordan, and Dan applied himself to ships:  
+**17** Galaad rested beyond the Jordan, and Dan applied himself to ships: Aser dwelt on the sea shore, and abode in the havens.  
 **18** But Zabulon and Nephthali offered their lives to death in the region of Merome.  
 **19** The kings came and fought, the kings of Chanaan fought in Thanac, by the waters of Mageddo and yet they took no spoils.  
 **20** There was war made against them from heaven: the stars, remaining in their order and courses, fought against Sisara.  
 **21** The torrent of Cison dragged their carcasses, the torrent of Cadumim, the torrent of Cison: tread thou, my soul, upon the strong ones.  
 **22** The hoofs of the horses were broken whilst the stoutest of the enemies fled amain, and fell headlong down.  
-**23** Curse ye the land of Meroz, said the angel of the Lord: curse the inhabitants thereof, because they came not to the help of the Lord, to help his most valiant men. we cannot find: nor is there mention of it anywhere else in holy writ. of God in their warfare against their spiritual enemies.  
+**23** Curse ye the land of Meroz, said the angel of the Lord: curse the inhabitants thereof, because they came not to the help of the Lord, to help his most valiant men.  
 **24** Blessed among women be Jahel, the wife of Haber the Cinite, and blessed be she in her tent.  
 **25** He asked her water, and she gave him milk, and offered him butter in a dish fit for princes.  
 **26** She put her left hand to the nail, and her right hand to the workman's hammer, and she struck Sisara, seeking in his head a place for the wound, and strongly piercing through his temples.  
 **27** Between her feet he fell: he fainted, and he died: he rolled before her feet, and there he lay lifeless and wretched.  
 **28** His mother looked out at a window, and howled: and she spoke from the dining room: Why is his chariot so long in coming back? Why are the feet of his horses so slow?  
-**29** One that was wiser than the rest of his wives, returned this answer to her mother-in-law:  
+**29** One that was wiser than the rest of his wives, returned this answer to her mother in law:  
 **30** Perhaps he is now dividing the spoils, and the fairest of the women is chosen out for him: garments of divers colours are given to Sisara for his prey, and furniture of different kinds is heaped together to adorn necks.  
 **31** So let all thy enemies perish, O Lord: but let them that love thee shine, as the sun shineth in his rising.  
 **32** And the land rested for forty years.  
@@ -231,7 +231,7 @@ format: markdown
 **12** The angel of the Lord appeared to him, and said: The Lord is with thee, O most valiant of men.  
 **13** And Gedeon said to him: I beseech thee, my lord, if the Lord be with us, why have these evils fallen upon us? Where are his miracles, which our fathers have told us of, saying: The Lord brought us out of Egypt but now the Lord hath forsaken us, and delivered us into the hand of Madian.  
 **14** And the Lord looked upon him, and said: Go, in this thy strength, and thou shalt deliver Israel out of the hand of Madian: know that I have sent thee.  
-**15** He answered, and said: I beseech thee, my lord wherewith shall I deliver Israel? Behold, my family is the meanest in Manasses, and I am the least in my father's house. (who are mean and little in their own eyes) for the greatest enterprises.  
+**15** He answered, and said: I beseech thee, my lord wherewith shall I deliver Israel? Behold, my family is the meanest in Manasses, and I am the least in my father's house.  
 **16** And the Lord said to him: I will be with thee: and thou shalt cut off Madian as one man.  
 **17** And he said: If I have found grace before thee, give me a sign that it is thou that speakest to me:  
 **18** And depart not hence, till I return to thee, and bring a sacrifice, and offer it to thee. And he answered: I will wait thy coming.  
@@ -248,10 +248,10 @@ format: markdown
 **29** And they said one to another: Who hath done this? And when they inquired for the author of the fact, it was said: Gedeon, the son of Joas, did all this.  
 **30** And they said to Joas: Bring out thy son hither, that he may die: because he hath destroyed the altar of Baal, and hath cut down his grove.  
 **31** He answered them: Are you the avengers of Baal, that you fight for him? he that is his adversary, let him die before to morrow light appear: if he be a god, let him revenge himself on him that hath cast down his altar.  
-**32** From that day Gedeon was called Jerobaal, because Joas had said:  
+**32** From that day Gedeon was called Jerobaal, because Joas had said: Let Baal revenge himself on him that hath cast down his altar.  
 **33** Now all Madian, and Amalec, and the eastern people, were gathered together, and passing over the Jordan, camped in the valley of Jezrael.  
 **34** But the spirit of the Lord came upon Gedeon, and he sounded the trumpet, and called together the house of Abiezer, to follow him.  
-**35** And he sent messengers into all Manasses, and they also followed him: and other messengers into Aser and Zabulon, and Nephthali, and they came to meet him.  
+**35** And he sent messengers into all Manasses, and they also followed him and other messengers into Aser and Zabulon, and Nephthali, and they came to meet him.  
 **36** And Gedeon said to God: If thou wilt save Israel by my hand, as thou hast said,  
 **37** I will put this fleece of wool on the floor: if there be dew in the fleece only, and it be dry on all the ground beside, I shall know that by my hand, as thou hast said, thou wilt deliver Israel.  
 **38** And it was so. And rising before day, wringing the fleece, he filled a vessel with the dew.  
@@ -263,25 +263,25 @@ format: markdown
 ## Chapter 7
 
 **1** Then Jerobaal, who is the same as Gedeon, rising up early, and all the people with him, came to the fountain that is called Harad. Now the camp of Madian was in the valley, on the north side of the high hill.  
-**2** And the Lord said to Gedeon: The people that are with thee are many, and Madian shall not be delivered into their hands: lest Israel should glory against me, and say: I was delivered by my own strength. instruments in great achievements, which depend purely on his grace, such as, through pride and self conceit, will take the glory to themselves.  
+**2** And the Lord said to Gedeon: The people that are with thee are many, and Madian shall not be delivered into their hands: lest Israel should glory against me, and say: I was delivered by my own strength.  
 **3** Speak to the people, and proclaim in the hearing of all: Whosoever is fearful and timorous, let him return. So two and twenty thousand men went away from Mount Galaad and returned home, and only ten thousand remained.  
 **4** And the Lord said to Gedeon: The people are still too many, bring them to the waters, and there I will try them: and of whom I shall say to thee, This shall go with thee, let him go: whom I shall forbid to go, let him return.  
 **5** And when the people were come down to the waters, the Lord said to Gedeon: They that shall lap the water with their tongues, as dogs are wont to lap, thou shalt set apart by themselves: but they that shall drink bowing down their knees, shall be on the other side.  
 **6** And the number of them that had lapped water; casting it with the hand to their mouth, was three hundred men: and all the rest of the multitude had drunk kneeling.  
-**7** And the Lord said to Gedeon: By the three hundred men, that lapped water, I will save you, and deliver Madian into thy hand: but let all the rest of the people return to their place. their hands, and so lapped it, before them who laid themselves quite down to the waters to drink: which argued a more eager and sensual disposition.  
+**7** And the Lord said to Gedeon: By the three hundred men, that lapped water, I will save you, and deliver Madian into thy hand: but let all the rest of the people return to their place.  
 **8** So taking victuals and trumpets according to their number, he ordered all the rest of the multitude to depart to their tents: and he with the three hundred gave himself to the battle. Now the camp of Madia was beneath him in the valley.  
 **9** The same night the Lord said to him: Arise, and go down into the camp: because I have delivered them into thy hand.  
 **10** But if thou be afraid to go alone, let Phara, thy servant, go down with thee.  
 **11** And when thou shalt hear what they are saying, then shall thy hands be strengthened, and thou shalt go down more secure to the enemies' camp. And he went down with Phara his servant, into part of the camp, where was the watch of men in arms.  
 **12** But Madian and Amalec, and all the eastern people, lay scattered in the valley, as a multitude of locusts: their camels also were innumerable, as the sand that lieth on the sea shore.  
-**13** And when Gedeon was come, one told his neighbour a dream: and in this manner related what he had seen: I dreamt a dream, and it seemed to me as if a hearth cake of barley bread rolled and came down into the camp of Madian: and when it was come to a tent, it struck it, and beat it down flat to the ground. is condemned in the word of God: but in some extraordinary cases, as we here see, God is pleased by dreams to foretell what he is about to do.  
+**13** And when Gedeon was come, one told his neighbour a dream: and in this manner related what he had seen: I dreamt a dream, and it seemed to me as if a hearth cake of barley bread rolled and came down into the camp of Madian: and when it was come to a tent, it struck it, and beat it down flat to the ground.  
 **14** He to whom he spoke, answered: This is nothing else but the sword of Gedeon, the son of Joas, a man of Israel. For the Lord hath delivered Madian, and all their camp into his hand.  
 **15** And when Gedeon had heard the dream, and the interpretation thereof, he adored: and returned to the camp of Israel, and said: Arise, for the Lord hath delivered the camp of Madian into our hands.  
 **16** And he divided the three hundred men into three parts, and gave them trumpets in their hands, and empty pitchers, and lamps within the pitchers.  
 **17** And he said to them: What you shall see me do, do you the same: I will go into one part of the camp, and do you as I shall do.  
 **18** When the trumpet shall sound in my hand, do you also blow the trumpets on every side of the camp, and shout together to the Lord and to Gedeon.  
-**19** And Gedeon, and the three hundred men that were with him, went into part of the camp, at the beginning of the midnight watch, and the watchmen being alarmed, they began to sound their trumpets, and to clap the pitchers one against another. in order to spiritual conquests, must not only sound with the trumpet of the word of God, but must also break their earthen pitchers, by the mortification of the flesh and its passions, and carry lamps in their hands by the light of their virtues.  
-**20** And when they sounded their trumpets in three places round about the camp, and had broken their pitchers, they held their lamps in their left hands, and with their right hands the trumpets which they blew, and they cried out: The sword of the Lord and of Gedeon:  
+**19** And Gedeon, and the three hundred men that were with him, went into part of the camp, at the beginning of the midnight watch, and the watchmen being alarmed, they began to sound their trumpets, and to clap the pitchers one against another.  
+**20** And when they sounded their trurmpets in three places round about the camp, and had broken their pitchers, they held their lamps in their left hands, and with their right hands the trumpets which they blew, and they cried out: The sword of the Lord and of Gedeon:  
 **21** Standing every man in his place round about the enemies' camp. So all the camp was troubled, and crying out and howling, they fled away:  
 **22** And the three hundred men nevertheless persisted sounding the trumpets. And the Lord sent the sword into all the camp, and they killed one another,  
 **23** Fleeing as far as Bethsetta, and the border of Abelmahula, in Tebbath. But the men of Israel, shouting from Nephthali, and Aser, and from all Manasses, pursued after Madian.  
@@ -293,7 +293,7 @@ format: markdown
 ## Chapter 8
 
 **1** And the men of Ephraim said to him: What is this that thou meanest to do, that thou wouldst not call us, when thou wentest to fight against Madian? And they chid him sharply, and almost offered violence.  
-**2** And he answered them: What could I have done like to that which you have done? Is not one bunch of grapes of Ephraim better than the vintages of Abiezer? otherwise might have come to extremities. So great is the power of humility both with God and man.  
+**2** And he answered them: What could I have done like to that which you have done? Is not one bunch of grapes of Ephraim better than the vintages of Abiezer?  
 **3** The Lord hath delivered into your hands the princes of Madian, Oreb and Zeb: what could I have done like to what you have done? And when he had said this, their spirit was appeased, with which they swelled against him.  
 **4** And when Gedeon was come to the Jordan, he passed over it with the three hundred men that were with him: who were so weary that they could not pursue after them that fled.  
 **5** And he said to the men of Soccoth: Give, I beseech you, bread to the people that is with me, for they are faint: that we may pursue Zebee, and Salmana, the kings of Madian.  
@@ -310,7 +310,6 @@ format: markdown
 **16** So he took the ancients of the city, and thorns and briers of the desert, and tore them with the same, and cut in pieces the men of Soccoth.  
 **17** And he demolished the tower of Phanuel, and slew the men of the city.  
 **18** And he said to Zebee and Salmana: What manner of men were they, whom you slew in Thabor? They answered: They were like thee, and one of them as the son of a king.  
-**19** He answered them: They were my brethren, the sons of my mother. As the Lord liveth, if you had saved them, I would not kill you.  
 **20** And he said to Jether, his eldest son: Arise, and slay them. But he drew not his sword: for he was afraid, being but yet a boy.  
 **21** And Zebee and Salmana said: Do thou rise and run upon us: because the strength of a man is according to his age: Gedeon rose up, and slew Zebee and Salmana: and he took the ornaments and bosses, with which the necks of the camels of kings are wont to be adorned.  
 **22** And all the men of Israel said to Gedeon: Rule thou over us, and thy son, and thy son's son: because thou hast delivered us from the hand of Madian.  
@@ -318,11 +317,11 @@ format: markdown
 **24** And he said to them: I desire one request of you: Give me the earlets of your spoils. For the Ismaelites were accustomed to wear golden earlets.  
 **25** They answered: We will give them most willingly. And spreading a mantle on the ground, they cast upon it the earlets of the spoils.  
 **26** And the weight of the earlets that he requested, was a thousand seven hundred sicles of gold, besides the ornaments, and jewels, and purple raiment, which the kings of Madian were wont to use, and besides the golden chains that were about the camels necks.  
-**27** And Gedeon made an ephod thereof, and put it in his city Ephra. the Israelites, after his death, abused it by making it an instrument of their idolatrous worship.  
+**27** And Gedeon made an ephod thereof, and put it in his city Ephra. And all Israel committed fornication with it, and it became a ruin to Gedeon, and to all his house.  
 **28** But Madian was humbled before the children of Israel, neither could they any more lift up their heads: but the land rested for forty years, while Gedeon presided.  
 **29** So Jerobaal, the son of Joas, went and dwelt in his own house:  
 **30** And he had seventy sons, who came out of his thigh, for he had many wives.  
-**31** And his concubine, that he had in Sichem, bore him a son, whose name was Abimelech. his concubine, as wives of an inferior degree are commonly called in the Old Testament, though otherwise lawfully married.  
+**31** And his concubine, that he had in Sichem, bore him a son, whose name was Abimelech.  
 **32** And Gedeon, the son of Joas died in a good old age, and was buried in the sepulchre of his father, in Ephra, of the family of Ezri.  
 **33** But after Gedeon was dead, the children of Israel turned again, and committed fornication with Baalim. And they made a covenant with Baal, that he should be their god:  
 **34** And they remembered not the Lord their God, who delivered them out of the hands of all their enemies round about:  
@@ -334,17 +333,17 @@ format: markdown
 
 **1** And Abimelech, the son of Jerobaal, went to Sichem, to his mother's brethren, and spoke to them, and to all the kindred of his mother's father, saying:  
 **2** Speak to all the men of Sichem: whether is better for you that seventy men, all the sons of Jerobaal, should rule over you, or that one man should rule over you? And withal, consider that I am your bone, and your flesh.  
-**3** And his mother's brethren spoke of him to all the men of Sichem, all these words, and they inclined their hearts after Abimelech, saying:  
-**4** And they gave him seventy weight of silver out of the temple of Baalberith: wherewith he hired to himself men that were needy, and vagabonds, and they followed him. they had made with Baal, chap. 8.33.  
+**3** And his mother's brethren spoke of him to all the men of Sichem, all these words, and they inclined their hearts after Abimelech, saying: He is our brother:  
+**4** And they gave him seventy weight of silver out of the temple of Baalberith: wherewith he hired to himself men that were needy, and vagabonds, and they followed him.  
 **5** And he came to his father's house in Ephra, and slew his brethren, the sons of Jerobaal, seventy men, upon one stone: and there remained only Joatham, the youngest son of Jerobaal, who was hidden.  
 **6** And all the men of Sichem were gathered together, and all the families of the city of Mello: and they went and made Abimelech king, by the oak that stood in Sichem.  
 **7** This being told to Joatham, he went, and stood on the top of Mount Garizim: and lifting up his voice, he cried, and said: Hear me, ye men of Sichem, so may God hear you.  
 **8** The trees went to anoint a king over them: and they said to the olive tree: Reign thou over us.  
-**9** And it answered: Can I leave my fatness, which both gods and men make use of, to come to be promoted among the trees? in this manner, because oil was used both in the worship of the true God, and in that of the false gods, whom the Sichemites served.  
+**9** And it answered: Can I leave my fatness, which both gods and men make use of, to come to be promoted among the trees?  
 **10** And the trees said to the fig tree: Come thou and reign over us.  
 **11** And it answered them: Can I leave my sweetness, and my delicious fruits, and go to be promoted among the other trees?  
 **12** And the trees said to the vine: Come thou and reign over us.  
-**13** And it answered them: Can I forsake my wine, that cheereth God and men, and be promoted among the other trees? because he had appointed it to be offered up with his sacrifices. But we are not obliged to take these words, spoken by the trees, in Joatham's parable, according to the strict literal sense: but only in a sense accomodated to the design of the parable expressed in the conclusion of it.  
+**13** And it answered them: Can I forsake my wine, that cheereth God and men, and be promoted among the other trees?  
 **14** And all the trees said to the bramble: Come thou and reign over us.  
 **15** And it answered them: If, indeed, you mean to make me king, come ye, and rest under my shadow: but if you mean it not, let fire come out from the bramble, and devour the cedars of Libanus.  
 **16** Now, therefore, if you have done well, and without sin, in appointing Abimelech king over you, and have dealt well with Jerobaal, and with his house, and have made a suitable return for the benefits of him who fought for you,  
@@ -394,10 +393,10 @@ format: markdown
 
 ## Chapter 10
 
-**1** After Abimelech, there arose a ruler in Israel, Thola, son of Phua, the uncle of Abimelech, a man of Issachar, who dwelt in Samir of mount Ephraim: the same mother, but by a different father, and of a different tribe.  
+**1** After Abimelech, there arose a ruler in Israel, Thola, son of Phua, the uncle of Abimelech, a man of Issachar, who dwelt in Samir of mount Ephraim:  
 **2** And he judged Israel three and twenty years, and he died, and was buried in Samir.  
 **3** To him succeeded Jair, the Galaadite, who judged Israel for two and twenty years,  
-**4** Having thirty sons, that rode on thirty ass colts, and were princes of thirty cities, which from his name were called Havoth Jair, that is, the towns of Jair, until this present day, in the land of Galaad. had formerly received from another Jair. Num. 32.41.  
+**4** Having thirty sons, that rode on thirty ass colts, and were princes of thirty cities, which from his name were called Havoth Jair, that is, the towns of Jair, until this present day, in the land of Galaad.  
 **5** And Jair died, and was buried in the place which is called Camon.  
 **6** But the children of Israel, adding new sins to their old ones, did evil in the sight of the Lord, and served idols, Baalim and Astaroth, and the gods of Syria, and of Sidon, and of Moab, and of the children of Ammon, and of the Philistines: and they left the Lord, and did not serve him.  
 **7** And the Lord being angry with them, delivered them into the hands of the Philistines, and of the children of Ammon.  
@@ -440,20 +439,20 @@ format: markdown
 **21** And the Lord delivered him, with all his army, into the hands of Israel, and he slew him, and possessed all the land of the Amorrhite, the inhabitant of that country,  
 **22** And all the coasts thereof from the Arnon to the Jaboc, and from the wilderness to the Jordan.  
 **23** So the Lord, the God of Israel, destroyed the Amorrhite, his people of Israel fighting against him, and wilt thou now possess his land?  
-**24** Are not those things which thy god Chamos possesseth, due to thee by right? But what the Lord our God hath obtained by conquest, shall be our possession: opinion, who thought they had a just title to the countries which they imagined they had conquered by the help of their gods: how much more then had Israel in indisputable title to the countries which God, by visible miracles, had conquered for them.  
+**24** Are not those things which thy god Chamos possesseth, due to thee by right? But what the Lord our God hath obtained by conquest, shall be our possession:  
 **25** Unless, perhaps, thou art better than Balac, the son of Sephor, king of Moab: or canst shew that he strove against Israel, and fought against him,  
 **26** Whereas he hath dwelt in Hesebon, and the villages thereof, and in Aroer, and its villages, and in all the cities near the Jordan, for three hundred years. Why have you for so long a time attempted nothing about this claim?  
 **27** Therefore I do not trespass against thee, but thou wrongest me by declaring an unjust war against me. The Lord be judge, and decide this day, between Israel and the children of Ammon.  
 **28** And the king of the children of Ammon would not hearken to the words of Jephte, which he sent him by the messengers.  
 **29** Therefore the spirit of the Lord came upon Jephte, and going round Galaad, and Manasses, and Maspha of Galaad, and passing over from thence to the children of Ammon,  
 **30** He made a vow to the Lord, saying: If thou wilt deliver the children of Ammon into my hands,  
-**31** Whosoever shall first come forth out of the doors of my house, and shall meet me, when I return in peace from the children of Ammon, the same will I offer a holocaust to the Lord. according to the condition of the thing; so as to offer it up as a holocaust, if it were such a thing as might be offered by the law; or to devote it otherwise to God, if it were not such as the law allowed to be offered in sacrifice. And therefore they think the daughter of Jephte was not slain by her father, but only consecrated to perpetual virginity. But the common opinion followed by the generality of the holy fathers and divines is, that she was offered as a holocaust, in consequence of her father's vow: and that Jephte did not sin, at least not mortally, neither in making, nor in keeping, his vow: since he is no ways blamed for it in scripture; and was even inspired by God himself to make the vow (as appears from ver. 29, 30) in consequence of which he obtained the victory; and therefore he reasonably concluded that God, who is the master of life and death, was pleased on this occasion to dispense with his own law; and that it was the divine will he should fulfil his vow.  
+**31** Whosoever shall first come forth out of the doors of my house, and shall meet me, when I return in peace from the children of Ammon, the same will I offer a holocaust to the Lord.  
 **32** And Jephte passed over to the children of Ammon to fight against them: and the Lord delivered them into his hands.  
 **33** And he smote them from Aroer till you come to Mennith, twenty cities, and as far as Abel, which is set with vineyards, with a very great slaughter: and the children of Ammon were humbled by the children of Israel.  
 **34** And when Jephte returned into Maspha, to his house, his only daughter met him with timbrels and with dances: for he had no other children.  
 **35** And when he saw her, he rent his garments, and said: Alas! my daughter, thou hast deceived me, and thou thyself art deceived: for I have opened my mouth to the Lord, and I can do no other thing.  
 **36** And she answered him: My father, if thou hast opened thy mouth to the Lord, do unto me whatsoever thou hast promised, since the victory hath been granted to thee, and revenge of thy enemies.  
-**37** And she said to her father: Grant me only this, which I desire: bewail my virginity with my companions. the Old Testament, when women might hope that from some child of theirs, the Saviour of the world might one day spring. But under the New Testament virginity is preferred. 1 Cor. 7.35.  
+**37** And she said to her father: Grant me only this, which I desire: Let me go, that I may go about the mountains for two months, and may bewail my virginity with my companions.  
 **38** And he answered her: Go. And he sent her away for two months. And when she was gone with her comrades and companions, she mourned her virginity in the mountains.  
 **39** And the two months being expired, she returned to her father, and he did to her as he had vowed, and she knew no man. From thence came a fashion in Israel, and a custom has been kept:  
 **40** That, from year to year, the daughters of Israel assemble together, and lament the daughter of Jephte the Galaadite, for four days.  
@@ -465,7 +464,7 @@ format: markdown
 **1** But behold there arose a sedition in Ephraim. And passing towards the north, they said to Jephte: When thou wentest to fight against the children of Ammon, why wouldst thou not call us, that we might go with thee? Therefore we will burn thy house.  
 **2** And he answered them: I and my people were at great strife with the children of Ammon: and I called you to assist me, and you would not do it.  
 **3** And when I saw this, I put my life in my own hands, and passed over against the children of Ammon and the Lord delivered them into my hands. What have I deserved, that you should rise up to fight against me?  
-**4** Then calling to him all the men of Galaad, he fought against Ephraim: and the men of Galaad defeated Ephraim, because he had said: and Manasses.  
+**4** Then calling to him all the men of Galaad, he fought against Ephraim: and the men of Galaad defeated Ephraim, because he had said: Galaad is a fugitive of Ephraim, and dwelleth in the midst of Ephraim and Manasses.  
 **5** And the Galaadites secured the fords of the Jordan, by which Ephraim was to return. And when any one of the number of Ephraim came thither in the flight, and said: I beseech you let me pass: the Galaadites said to him: Art thou not an Ephraimite? If he said: I am not:  
 **6** They asked him: Say then, Scibboleth, which is interpreted, An ear of corn. But he answered, Sibboleth, not being able to express an ear of corn by the same letter. Then presently they took him and killed him in the very passage of the Jordan. And there fell at that time of Ephraim, two and forty thousand.  
 **7** And Jephte, the Galaadite, judged Israel six years: and he died, and was buried in his city of Galaad.  
@@ -486,15 +485,15 @@ format: markdown
 **2** Now there was a certain man of Saraa, and of the race of Dan, whose name was Manue, and his wife was barren.  
 **3** And an angel of the Lord appeared to her, and said: Thou art barren and without children: but thou shalt conceive and bear a son.  
 **4** Now therefore beware, and drink no wine nor strong drink, and eat not any unclean thing.  
-**5** Because thou shalt conceive, and bear a son, and no razor shall touch his head: for he shall be a Nazarite of God, from his infancy, and from his mother's womb, and he shall begin to deliver Israel from the hands of the Philistines.  
+**6** Because thou shalt conceive, and bear a son, and no razor shall touch his head: for he shall be a Nazarite of God, from his infancy, and from his mother's womb, and he shall begin to deliver Israel from the hands of the Philistines.  
 **6** And when she was come to her husband, she said to him: A man of God came to me, having the countenance of an angel, very awful. And when I asked him whence he came, and by what name he was called, he would not tell me:  
 **7** But he answered thus: Behold thou shalt conceive and bear a son: beware thou drink no wine, nor strong drink, nor eat any unclean thing: for the child shall be a Nazarite of God from his infancy, from his mother's womb until the day of his death.  
 **8** Then Manue prayed to the Lord, and said: I beseech thee, O Lord, that the man of God, whom thou didst send, may come again, and teach us what we ought to do concerning the child, that shall be born.  
 **9** And the Lord heard the prayer of Manue, and the angel of the Lord appeared again to his wife, as she was sitting in the field. But Manue her husband was not with her. And when she saw the angel,  
-**10** She made haste, and ran to her husband: and told him, saying:  
+**10** She made haste, and ran to her husband: and told him, saying: Behold the man hath appeared to me, whom I saw before.  
 **11** He rose up, and followed his wife: and coming to the man, said to him: Art thou he that spoke to the woman? And he answered: I am.  
 **12** And Manue said to him: When thy word shall come to pass, what wilt thou that the child should do? or from what shall he keep himself?  
-**13** And the angel of the Lord said to Manue: From all the things I have spoken of to thy wife, let her refrain herself: abstinence was prescribed to the mother, or to the child; but the Hebrew (in which the verbs relating thereto are of the feminine gender) determineth it to the mother. But then the child also was to refrain from the like things, because he was to be from his infancy a Nazarite of God, ver. 5, that is, one set aside, in a particular manner, and consecrated to God: now the Nazarites by the law were to abstain from all these things.  
+**13** And the angel of the Lord said to Manue: From all the things I have spoken of to thy wife, let her refrain herself:  
 **14** And let her eat nothing that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean thing: and whatsoever I have commanded her, let her fulfil and observe.  
 **15** And Manue said to the angel of the Lord: I beseech thee to consent to my request, and let us dress a kid for thee.  
 **16** And the angel answered him: If thou press me I will not eat of thy bread: but if thou wilt offer a holocaust, offer it to the Lord. And Manue knew not it was the angel of the Lord.  
@@ -503,7 +502,7 @@ format: markdown
 **19** Then Manue took a kid of the flocks, and the libations, and put them upon a rock, offering to the Lord, who doth wonderful things: and he and his wife looked on.  
 **20** And when the flame from the altar went up towards heaven, the angel of the Lord ascended also in the same. And when Manue and his wife saw this, they fell flat on the ground;  
 **21** And the angel of the Lord appeared to them no more. And forthwith Manue understood that it was an angel of the Lord,  
-**22** And he said to his wife: We shall certainly die, because we have seen God. angel, taking occasion perhaps from those words spoken by the Lord to Moses, Ex. 33.20, No man shall see me and live. But the event demonstrated that it was but a groundless imagination.  
+**22** And he said to his wife: We shall certainly die, because we have seen God.  
 **23** And his wife answered him: If the Lord had a mind to kill us, he would not have received a holocaust and libations at our hands; neither would he have shewed us all these things, nor have told us the things that are to come.  
 **24** And she bore a son, and called his name Samson. And the child grew, and the Lord blessed him.  
 **25** And the Spirit of the Lord began to be with him in the camp of Dan, between Saraa and Esthaol.  
@@ -513,8 +512,8 @@ format: markdown
 ## Chapter 14
 
 **1** Then Samson went down to Thamnatha, and seeing there a woman of the daughters of the Philistines,  
-**2** He came up, and told his father and his mother, saying: I saw a woman in Thamnatha of the daughters of the Philistines: I beseech you, take her for me to wife.  
-**3** And his father and mother said to him: Is there no woman among the daughters of thy brethren, or among all my people, that thou wilt take a wife of the Philistines, who are uncircumcised? And Samson said to his father: Take this woman for me; for she hath pleased my eyes. parents were at first against his marriage with a Gentile, it being prohibited, Deut. 7.3; but afterwards they consented, knowing it to be by the dispensation of God; which otherwise would have been sinful in acting contrary to the law.  
+**2** He came up, and told his father and his mother, saying: I saw a woman in Thamnatha of the daughters of the Philistines: I bescech you, take her for me to wife.  
+**3** And his father and mother said to him: Is there no woman among the daughters of thy brethren, or among all my people, that thou wilt take a wife of the Philistines, who are uncircumcised? And Samson said to his father: Take this woman for me; for she hath pleased my eyes.  
 **4** Now his parents knew not that the thing was done by the Lord, and that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel.  
 **5** Then Samson went down with his father and mother to Thamnatha. And when they were come to the vineyards of the town, behold a young lion met him, raging and roaring.  
 **6** And the Spirit of the Lord came upon Samson, and he tore the lion as he would have torn a kid in pieces, having nothing at all in his hand: and he would not tell this to his father and mother.  
@@ -526,7 +525,7 @@ format: markdown
 **12** And Samson said to them: I will propose to you a riddle, which if you declare unto me within the seven days of the feast, I will give you thirty shirts, and as many coats:  
 **13** But if you shall not be able to declare it, you shall give me thirty shirts and the same number of coats. They answered him: Put forth the riddle, that we may hear it.  
 **14** And he said to them: Out of the eater came forth meat, and out of the strong came forth sweetness. And they could not for three days expound the riddle.  
-**15** And when the seventh day came, they said to the wife of Samson: meaneth. But if thou wilt not do it, we will burn thee, and thy father's house. Have you called us to the wedding on purpose to strip us?  
+**15** And when the seventh day came, they said to the wife of Samson: Sooth thy husband, and persuade him to tell thee what the riddle meaneth. But if thou wilt not do it, we will burn thee, and thy father's house. Have you called us to the wedding on purpose to strip us?  
 **16** So she wept before Samson and complained, saying: Thou hatest me, and dost not love me: therefore thou wilt not expound to me the riddle, which thou hast proposed to the sons of my people. But he answered: I would not tell it to my father and mother: and how can I tell it to thee?  
 **17** So she wept before him the seven days of the feast: and, at length, on the seventh day, as she was troublesome to him, he expounded it. And she immediately told her countrymen.  
 **18** And they, on the seventh day before the sun went down, said to him: What is sweeter than honey? and what is stronger than a lion? And he said to them: If you had not ploughed with my heifer, you had not found out my riddle.  
@@ -540,9 +539,9 @@ format: markdown
 **1** And a while after, when the days of the wheat harvest were at hand, Samson came, meaning to visit his wife, and he brought her a kid of the flock. And when he would have gone into her chamber, as usual, her father would not suffer him, saying:  
 **2** I thought thou hadst hated her, and therefore I gave her to thy friend: but she hath a sister, who is younger and fairer than she, take her to wife instead of her.  
 **3** And Samson answered him: From this day I shall be blameless in what I do against the Philistines: for I will do you evils.  
-**4** And he went and caught three hundred foxes, and coupled them tail to tail, and fastened torches between the tails: catch with nets or otherwise a number of these animals; of which there were great numbers in that country.  
-**5** And setting them on fire he let the foxes go, that they might run about hither and thither. And they presently went into the standing corn of the Philistines. Which being set on fire, both the corn that was already carried together, and that which was yet standing, was all burnt, insomuch that the flame consumed also the vineyards and the oliveyards.  
-**6** Then the Philistines said: Who hath done this thing? And it was answered: Samson, the son-in-law of the Thamnathite, because he took away his wife, and gave her to another, hath done these things. And the Philistines went up and burnt both the woman and her father.  
+**4** And he went and caught three hundred foxes, and coupled them tail to tail, and fastened torches between the tails:  
+**6** And setting them on fire he let the foxes go, that they might run about hither and thither. And they presently went into the standing corn of the Philistines. Which being set on fire, both the corn that was already carried together, and that which was yet standing, was all burnt, insomuch that the flame consumed also the vineyards and the oliveyards.  
+**6** Then the Philistines said: Who hath done this thing? And it was answered: Samson, the son in law of the Thamnathite, because he took away his wife, and gave her to another, hath done these things. And the Philistines went up and burnt both the woman and her father.  
 **7** But Samson said to them: Although you have done this, yet will I be revenged of you, and then I will be quiet.  
 **8** And he made a great slaughter of them, so that in astonishment they laid the calf of the leg upon the thigh. And going down he dwelt in a cavern of the rock Etam.  
 **9** Then the Philistines going up into the land of Juda, camped in the place which afterwards was called Lechi, that is, the Jawbone, where their army was spread abroad.  
@@ -565,8 +564,8 @@ format: markdown
 **1** He went also into Gaza, and saw there a woman, a harlot, and went in unto her.  
 **2** And when the Philistines had heard this, and it was noised about among them, that Samson was come into the city, they surrounded him, setting guards at the gate of the city, and watching there all the night in silence, that in the morning they might kill him as he went out.  
 **3** But Samson slept till midnight, and then rising, he took both the doors of the gate, with the posts thereof and the bolt, and laying them on his shoulders, carried them up to the top of the hill, which looketh towards Hebron.  
-**4** After this he loved a woman, who dwelt in the valley of Sorec, and she was called Dalila. was his harlot. If the latter opinion be true, we cannot wonder that, in punishment of his lust, the Lord delivered him up, by her means, into the hands of his enemies. However if he was guilty, it is not to be doubted but that under his afflictions he heartily repented and returned to God, and so obtained forgiveness of his sins.  
-**5** And the princes of the Philistines came to her, and said: Deceive him, and learn of him wherein his great strength lieth, and how we may be able to overcome him, to bind and afflict him: which if thou shalt do, we will give thee every one of us eleven hundred pieces of silver.  
+**4** After this he loved a woman, who dwelt in the valley of Sorec, and she was called Dalila.  
+**5** And the princes of the Philistines came to her, and sald: Deceive him, and learn of him wherein his great strength lieth, and how we may be able to overcome him, to bind and afflict him: which if thou shalt do, we will give thee every one of us eleven hundred pieces of silver.  
 **6** And Dalila said to Samson: Tell me, I beseech thee, wherein thy greatest strength lieth, and what it is, wherewith if thou wert bound, thou couldst not break loose.  
 **7** And Samson answered her: If I shall be bound with seven cords, made of sinews not yet dry, but still moist, I shall be weak like other men.  
 **8** And the princes of the Philistines brought unto her seven cords, such as he spoke of, with which she bound him;  
@@ -589,9 +588,9 @@ format: markdown
 **25** And rejoicing in their feasts, when they had now taken their good cheer, they commanded that Samson should be called, and should play before them. And being brought out of prison, he played before them; and they made him stand between two pillars.  
 **26** And he said to the lad that guided his steps: Suffer me to touch the pillars which support the whole house, and let me lean upon them, and rest a little.  
 **27** Now the house was full of men and women, and all the princes of the Philistines were there. Moreover about three thousand persons of both sexes, from the roof and the higher part of the house, were beholding Samson's play.  
-**28** But he called upon the Lord, saying: O Lord God remember me, and restore to me now my former strength, O my God, that I may revenge myself on my enemies, and for the loss of my two eyes I may take one revenge. against the enemies of God and his people; and not out of private rancour and malice of heart.  
+**28** But he called upon the Lord, saying: O Lord God remember me, and restore to me now my former strength, O my God, that I may revenge myself on my enemies, and for the loss of my two eyes I may take one revenge.  
 **29** And laying hold on both the pillars on which the house rested, and holding the one with his right hand, and the other with his left,  
-**30** He said: Let me die with the Philistines. And when he had strongly shook the pillars, the house fell upon all the princes, and the rest of the multitude, that was there: and he killed many more at his death, than he had killed before in his life. occasion, though he was indirectly the cause of his own death. Because he was moved to what he did, by a particular inspiration of God, who also concurred with him by a miracle, in restoring his strength upon the spot, in consequence of his prayer. Samson, by dying in this manner, was a figure of Christ, who by his death overcame all his enemies.  
+**30** He said: Let me die with the Philistines. And when he had strongly shook the pillars, the house fell upon all the princes, and the rest of the multitude, that was there: and he killed many more at his death, than he had killed before in his life.  
 **31** And his brethren and all his kindred, going down took his body, and buried it between Saraa and Esthaol, in the buryingplace of his father Manue: and he judged Israel twenty years.  
 
 ---
@@ -599,10 +598,10 @@ format: markdown
 ## Chapter 17
 
 **1** There was at that time a man of mount Ephraim, whose name was Michas.  
-**2** Who said to his mother: The eleven hundred pieces of silver, which thou hadst put aside for thyself, and concerning which thou didst swear in my hearing, behold I have, and they are with me. And she said to him.  
+**2** Who said to his mother: The eleven hundred pieces of silver, which thou hadst put aside for thyself, and concerning which thou didst swear in my hearing, behold I have, and they are with me. And she said to him. Blessed be my son by the Lord.  
 **3** So he restored them to his mother, who said to him: I have consecrated and vowed this silver to the Lord, that my son may receive it at my hand, and make a graven and a molten god; so now I deliver it to thee.  
 **4** And he restored them to his mother: and she took two hundred pieces of silver and gave them to the silversmith, to make of them a graven and a molten God, which was in the house of Michas.  
-**5** And he separated also therein a little temple for the god, and made an ephod, and theraphim, that is to say, a priestly garment, and idols: and he filled the hand of one of his sons, and he became his priest. priestly office.  
+**5** And he separated also therein a little temple for the god, and made an ephod, and theraphim, that is to say, a priestly garment, and idols: and he filled the hand of one of his sons, and he became his priest.  
 **6** In those days there was no king in Israel, but every one did that which seemed right to himself.  
 **7** There was also another young man of Bethlehem Juda, of the kindred thereof: and he was a Levite, and dwelt there.  
 **8** Now he went out from the city of Bethlehem, and desired to sojourn wheresoever he should find it convenient for him. And when he was come to mount Ephraim, as he was on his journey, and had turned aside a little into the house of Michas,  
@@ -643,7 +642,7 @@ format: markdown
 **25** And the children of Dan said to him: See thou say no more to us, lest men enraged come upon thee, and thou perish with all thy house.  
 **26** And so they went on the journey they had begun. But Michas seeing that they were stronger than he, returned to his house.  
 **27** And the six hundred men took the priest, and the things we spoke of before, and came to Lais, to a people that was quiet and secure, and smote them with the edge of the sword: and the city they burnt with fire,  
-**28** There being no man at all who brought them any succour, because they dwelt far from Sidon, and had no society or business with any man. therein,  
+**28** There being no man at all who brought them any succour, because they dwelt far from Sidon, and had no society or business with any man. And the city was in the land of Rohob: and they rebuilt it, and dwelt therein,  
 **29** Calling the name of the city Dan, after the name of their father, who was the son of Israel, which before was called Lais.  
 **30** And they set up to themselves the graven idol, and Jonathan the son of Gersam, the son of Moses, he and his sons were priests in the tribe of Dan, until the day of their captivity.  
 **31** And the idol of Michas remained with them all the time that the house of God was in Silo. In those days there was no king in Israel.  
@@ -654,14 +653,14 @@ format: markdown
 
 **1** There was a certain Levite, who dwelt on the side of mount Ephraim, who took a wife of Bethlehem Juda:  
 **2** And she left him, and returned to her father's house in Bethlehem, and abode with him four months.  
-**3** And her husband followed her, willing to be reconciled with her, and to speak kindly to her, and to bring her back with him, having with him a servant and two asses: and she received him, and brought him into her father's house. And when his father-in-law had heard this, and had seen him, he met him with joy,  
-**4** And embraced the man. And the son-in-law tarried in the house of his father-in-law three days, eating with him and drinking familiarly.  
-**5** But on the fourth day, arising early in the morning, he desired to depart. But his father-in-law kept him, and said to him: Taste first a little bread, and strengthen thy stomach, and so thou shalt depart.  
-**6** And they sat down together, and ate and drank. And the father of the young woman said to his son-in-law: I beseech thee to stay here to day, and let us make merry together.  
-**7** But he rising up, began to be for departing. And nevertheless his father-in-law earnestly pressed him, and made him stay with him.  
-**8** But when morning was come, the Levite prepared to go on his journey. And his father-in-law said to him again: I beseech thee to take a little meat, and strengthening thyself, till the day be farther advanced, afterwards thou mayest depart. And they ate together.  
-**9** And the young man arose to set forward with his wife and servant. declining, and draweth toward evening: tarry with me to day also, and spend the day in mirth, and to morrow thou shalt depart, that thou mayest go into thy house.  
-**10** His son-in-law would not consent to his words: but forthwith went forward, and came over against Jebus, which by another name is called Jerusalem, leading with him two asses loaden, and his concubine. frequently in scripture called concubines. See above, chap. 8. ver.  
+**3** And her husband followed her, willing to be reconciled with her, and to speak kindly to her, and to bring her back with him, having with him a servant and two asses: and she received him, and brought him into her father's house. And when his father in law had heard this, and had seen him, he met him with joy,  
+**4** And embraced the man. And the son in law tarried in the house of his father in law three days, eating with him and drinking familiarly.  
+**5** But on the fourth day, arising early in the morning, he desired to depart. But his father in law kept him, and said to him: Taste first a little bread, and strengthen thy stomach, and so thou shalt depart.  
+**6** And they sat down together, and ate and drank. And the father of the young woman said to his son in law: I beseech thee to stay here to day, and let us make merry together.  
+**7** But he rising up, began to be for departing. And nevertheless his father in law earnestly pressed him, and made him stay with him.  
+**8** But when morning was come, the Levite prepared to go on his journey. And his father in law said to him again: I beseech thee to take a little meat, and strengthening thyself, till the day be farther advanced, afterwards thou mayest depart. And they ate together.  
+**9** And the young man arose to set forward with his wife and servant. And his father in law spoke to him again: Consider that the day is declining, and draweth toward evening: tarry with me to day also, and spend the day in mirth, and to morrow thou shalt depart, that thou mayest go into thy house.  
+**10** His son in law would not consent to his words: but forthwith went forward, and came over against Jebus, which by another name is called Jerusalem, leading with him two asses loaden, and his concubine.  
 **11** And now they were come near Jebus, and the day was far spent: and the servant said to his master: Come, I beseech thee, let us turn into the city of the Jebusites, and lodge there.  
 **12** His master answered him: I will not go into the town of another nation, who are not of the children of Israel, but I will pass over to Gabaa:  
 **13** And when I shall come thither, we will lodge there, or at least in the city of Rama.  
@@ -694,12 +693,12 @@ format: markdown
 **5** And behold the men of that city, in the night beset the house wherein I was, intending to kill me, and abused my wife with an incredible fury of lust, so that at last she died.  
 **6** And I took her and cut her in pieces, and sent the parts into all the borders of your possession: because there never was so heinous a crime, and so great an abomination committed in Israel.  
 **7** You are all here, O children of Israel, determine what you ought to do.  
-**8** And all the people standing, answered as by the voice of one man: own house:  
+**8** And all the people standing, answered as by the voice of one man: We will not return to our tents, neither shall any one of us go into his own house:  
 **9** But this we will do in common against Gabaa:  
 **10** We will take ten men of a hundred out of all the tribes of Israel, and a hundred out of a thousand, and a thousand out of ten thousand, to bring victuals for the army, that we may fight against Gabaa of Benjamin, and render to it for its wickedness, what it deserveth.  
 **11** And all Israel were gathered together against the city, as one man, with one mind, and one counsel:  
 **12** And they sent messengers to all the tribe of Benjamin, to say to them: Why hath so great an abomination been found among you?  
-**13** Deliver up the men of Gabaa, that have committed this heinous crime, that they may die, and the evil may be taken away out of Israel. children of Israel:  
+**13** Deliver up the men of Gabaa, that have committed this heinous crime, that they may die, and the evil may be taken away out of Israel. But they would not hearken to the proposition of their brethren the children of Israel:  
 **14** But out of all the cities which were of their lot, they gathered themselves together into Gabaa, to aid them, and to fight against the whole people of Israel.  
 **15** And there were found of Benjamin five and twenty thousand men that drew the sword, besides the inhabitants of Gabaa,  
 **16** Who were seven hundred most valiant men, fighting with the left hand as well as with the right: and slinging stones so sure that they could hit even a hair, and not miss by the stone's going on either side.  
@@ -708,13 +707,13 @@ format: markdown
 **19** And forthwith the children of Israel rising in the morning, camped by Gabaa:  
 **20** And going out from thence to fight against Benjamin, began to assault the city.  
 **21** And the children of Benjamin coming out of Gabaa slew of the children of Israel that day two and twenty thousand men.  
-**22** Again Israel, trusting in their strength and their number, set their army in array in the same place, where they had fought before: and many of them to be slain, though their cause was just; partly in punishment of the idolatry which they exercised or tolerated in the tribe of Dan, and elsewhere; and partly because they trusted in their own strength; and therefore, though he bid them fight, he would not give them the victory, till they were thoroughly humbled and had learned to trust in him alone.  
+**22** Again Israel, trusting in their strength and their number, set their army in array in the same place, where they had fought before:  
 **23** Yet so that they first went up and wept before the Lord until night: and consulted him and said: Shall I go out any more to fight against the children of Benjamin my brethren or not? And he answered them: Go up against them, and join battle.  
 **24** And when the children of Israel went out the next day to fight against the children of Benjamin,  
 **25** The children of Benjamin sallied forth out of the gates of Gabaa: and meeting them, made so great a slaughter of them, as to kill eighteen thousand men that drew the sword.  
 **26** Wherefore all the children of Israel came to the house of God, and sat and wept before the Lord: and they fasted that day till the evening, and offered to him holocausts, and victims of peace offerings,  
 **27** And inquired of him concerning their state. At that time the ark of the covenant of the Lord was there,  
-**28** And Phinees, the son of Eleazar, the son of Aaron, was over the house. So they consulted the Lord, and said: Shall we go out any more to fight against the children of Benjamin, our brethren, or shall we cease? your hands.  
+**28** And Phinees, the son of Eleazar, the son of Aaron, was over the house. So they consulted the Lord, and said: Shall we go out any more to fight against the children of Benjamin, our brethren, or shall we cease? And the Lord said to them: Go up, for to morrow I will deliver them into your hands.  
 **29** And the children of Israel set ambushes round about the city of Gabaa:  
 **30** And they drew up their army against Benjamin the third time, as they had done the first and second.  
 **31** And the children of Benjamin boldly issued out of the city, and seeing their enemies flee, pursued them a long way, so as to wound and kill some of them, as they had done the first and second day, whilst they fled by two highways, whereof one goeth up to Bethel and the other to Gabaa, and they slew about thirty men:  

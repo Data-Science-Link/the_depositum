@@ -114,8 +114,8 @@ format: markdown
 **61** And of the children of the priests: the children of Hobia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai, the Galaadite, and was called by their name:  
 **62** These sought the writing of their genealogy, and found it not, and they were cast out of the priesthood.  
 **63** And Athersatha said to them, that they should not eat of the holy of holies, till there arose a priest learned and perfect.  
-**64** All the multitudes as one man, were forty-two thousand three hundred and sixty: of Juda, Benjamin, and Levi, fall short of this number. The rest, who must be taken in to make up the whole sum, were of the other tribes.  
-**65** Besides their men-servants, and women-servants, of whom there were seven thousand three hundred and thirty-seven: and among them singing men, and singing women two hundred.  
+**64** All the multitudes as one man, were forty-two thousand three hundred and sixty:  
+**65** Besides their menservants, and womenservants, of whom there were seven thousand three hundred and thirty-seven: and among them singing men, and singing women two hundred.  
 **66** Their horses seven hundred thirty-six, their mules two hundred forty-five,  
 **67** Their camels four hundred thirty-five, their asses six thousand seven hundred and twenty.  
 **68** And some of the chief of the fathers, when they came to the temple of the Lord, which is in Jerusalem, offered freely to the house of the Lord to build it in its place.  
@@ -127,7 +127,7 @@ format: markdown
 ## Chapter 3
 
 **1** And now the seventh month was come, and the children of Israel were in their cities: and the people gathered themselves together as one man to Jerusalem.  
-**2** And Josue the son of Josedec rose up, and his brethren the priests, and Zorobabel the son of Salathiel, and his brethren, and they built the altar of the God of Israel that they might offer holocausts upon it, as it is written in the law of Moses the man of God. at that time.  
+**2** And Josue the son of Josedec rose up, and his brethren the priests, and Zorobabel the son of Salathiel, and his brethren, and they built the altar of the God of Israel that they might offer holocausts upon it, as it is written in the law of Moses the man of God.  
 **3** And they set the altar of God upon its bases, while the people of the lands round about put them in fear, and they offered upon it a holocaust to the Lord morning and evening.  
 **4** And they kept the feast of tabernacles, as it is written, and offered the holocaust every day orderly according to the commandment, the duty of the day in its day.  
 **5** And afterwards the continual holocaust, both on the new moons, and on all the solemnities of the Lord, that were consecrated, and on all in which a freewill offering was made to the Lord.  
@@ -149,7 +149,7 @@ format: markdown
 **3** But Zorobabel, and Josue, and the rest of the chief of the fathers of Israel said to them: You have nothing to do with us to build a house to our God, but we ourselves alone will build to the Lord our God, as Cyrus king of the Persians hath commanded us.  
 **4** Then the people of the land hindered the hands of the people of Juda, and troubled them in building.  
 **5** And they hired counsellors against them, to frustrate their design all the days of Cyrus king of Persia, even until the reign of Darius king of the Persians.  
-**6** And in the reign of Assuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Juda and Jerusalem. is also in the following verse named Artaxerxes, a name common to almost all the kings of Persia.  
+**6** And in the reign of Assuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Juda and Jerusalem.  
 **7** And in the days of Artaxerxes, Beselam, Mithridates, and Thabeel, and the rest that were in the council wrote to Artaxerxes king of the Persians: and the letter of accusation was written in Syrian, and was read in the Syrian tongue.  
 **8** Reum Beelteem, and Samsai the scribe wrote a letter from Jerusalem to king Artaxerxes, in this manner:  
 **9** Reum Beelteem, and Samsai the scribe and the rest of their counsellors, the Dinites, and the Apharsathacites, the Therphalites, the Apharsites, the Erchuites, the Babylonians, the Susanechites, the Dievites, and the Elamites,  
@@ -211,7 +211,7 @@ format: markdown
 **14** And the ancients of the Jews built, and prospered according to the prophecy of Aggeus the prophet, and of Zacharias the son of Addo: and they built and finished, by the commandment of the God of Israel, and by the commandment of Cyrus, and Darius, and Artaxerxes kings of the Persians.  
 **15** And they were finishing this house of God, until the third day of the month of Adar, which was in the sixth year of the reign of king Darius.  
 **16** And the children of Israel, the priests and the Levites, and the rest of the children of the captivity kept the dedication of the house of God with joy.  
-**17** And they offered at the dedication of the house of God, a hundred calves, two hundred rams, four hundred lambs, and for a sin offering for all Israel twelve he-goats, according to the number of the tribes of Israel.  
+**17** And they offered at the dedication of the house of God, a hundred calves, two hundred rams, four hundred lambs, and for a sin offering for all Israel twelve he goats, according to the number of the tribes of Israel.  
 **18** And they set the priests in their divisions, and the Levites in their courses over the works of God in Jerusalem, as it is written in the book of Moses.  
 **19** And the children of Israel of the captivity kept the phase, on the fourteenth day of the first month.  
 **20** For all the priests and the Levites were purified as one man: all were clean to kill the phase for all the children of the captivity, and for their brethren the priests, and themselves.  
@@ -275,8 +275,8 @@ format: markdown
 **18** And by the good hand of our God upon us, they brought us a most learned man of the sons of Moholi the son of Levi the son of Israel, and Sarabias and his sons, and his brethren eighteen,  
 **19** And Hasabias, and with him Isaias of the sons of Merari, and his brethren, and his sons twenty.  
 **20** And of the Nathinites, whom David, and the princes gave for the service of the Levites, Nathinites two hundred and twenty: all these were called by their names.  
-**21** And I proclaimed there a fast by the river Ahava, that we might afflict ourselves before the Lord our God, and might ask of him a right way for us and for our children, and for all our substance. is, figuratively from sin, but we must also do works of penance; and therefore Esdras here proclaimed an extraordinary fast to those that were come from captivity. This shews that fasting was commanded and practised from the earliest times.  
-**22** For I was ashamed to ask the king for aid and for horsemen, to defend us from the enemy in the way: because we had said to the king: power and strength, and wrath upon all them that forsake him.  
+**21** And I proclaimed there a fast by the river Ahava, that we might afflict ourselves before the Lord our God, and might ask of him a right way for us and for our children, and for all our substance.  
+**22** For I was ashamed to ask the king for aid and for horsemen, to defend us from the enemy in the way: because we had said to the king: The hand of our God is upon all them that seek him in goodness: and his power and strength, and wrath upon all them that forsake him.  
 **23** And we fasted, and besought our God for this: and it fell out prosperously unto us.  
 **24** And I separated twelve of the chief of the priests, Sarabias, and Hasabias, and with them ten of their brethren,  
 **25** And I weighed unto them the silver and gold, and the vessels consecrated for the house of our God, which the king and his counsellors, and his princes, and all Israel, that were found had offered.  
@@ -289,21 +289,21 @@ format: markdown
 **32** And we came to Jerusalem, and we stayed there three days.  
 **33** And on the fourth day the silver and the gold, and the vessels were weighed in the house of our God by the hand of Meremoth the son of Urias the priest, and with him was Eleazar the son of Phinees, and with them Jozabad the son of Josue, and Noadaia the son of Benoi, Levites.  
 **34** According to the number and weight of everything: and all the weight was written at that time.  
-**35** Moreover the children of them that had been carried away that were come out of the captivity, offered holocausts to the God of Israel, twelve calves for all the people of Israel, ninety-six rams, seventy- seven lambs, and twelve he-goats for sin: all for a holocaust to the Lord.  
+**35** Moreover the children of them that had been carried away that were come out of the captivity, offered holocausts to the God of Israel, twelve calves for all the people of Israel, ninety-six rams, seventy- seven lambs, and twelve he goats for sin: all for a holocaust to the Lord.  
 **36** And they gave the king's edicts to the lords that were from the king's court, and the governors beyond the river, and they furthered the people and the house of God.  
 
 ---
 
 ## Chapter 9
 
-**1** And after these things were accomplished, the princes came to me, saying: The people of Israel, and the priests and Levites have not separated themselves from the people of the lands, and from their abominations, namely, of the Chanaanites, and the Hethites, and the Pherezites, and the Jebusites, and the Ammonites, and the Moabites, and the Egyptians, and the Amorrhites. forbids us, on account of the danger of perversion and falling off from the true faith.  
-**2** For they have taken of their daughters for themselves and for their sons, and they have mingled the holy seed with the people of the lands. transgression.  
+**1** And after these things were accomplished, the princes came to me, saying: The people of Israel, and the priests and Levites have not separated themselves from the people of the lands, and from their abominations, namely, of the Chanaanites, and the Hethites, and the Pherezites, and the Jebusites, and the Ammonites, and the Moabites, and the Egyptians, and the Amorrhites.  
+**2** For they have taken of their daughters for themselves and for their sons, and they have mingled the holy seed with the people of the lands. And the hand of the princes and magistrates hath been first in this transgression.  
 **3** And when I had heard this word, I rent my mantle and my coat, and plucked off the hairs of my head and my beard, and I sat down mourning.  
 **4** And there were assembled to me all that feared the God of Israel, because of the transgression of those that were come from the captivity, and I sat sorrowful, until the evening sacrifice.  
 **5** And at the evening sacrifice I rose up from my affliction, and having rent my mantle and my garment, I fell upon my knees, and spread out my hands to the Lord my God,  
 **6** And said: My God I am confounded and ashamed to lift up my face to thee: for our iniquities are multiplied over our heads, and our sins are grown up even unto heaven,  
 **7** From the days of our fathers: and we ourselves also have sinned grievously unto this day, and for our iniquities we and our kings, and our priests have been delivered into the hands of the kings of the lands, and to the sword, and to captivity, and to spoil, and to confusion of face, as it is at this day.  
-**8** And now as a little, and for a moment has our prayer been made before the Lord our God, to leave us a remnant, and give us a pin in his holy place, and that our God would enlighten our eyes, and would give us a little life in our bondage. great iniquity had incurred the anger of God.  
+**8** And now as a little, and for a moment has our prayer been made before the Lord our God, to leave us a remnant, and give us a pin in his holy place, and that our God would enlighten our eyes, and would give us a little life in our bondage.  
 **9** For we are bondmen, and in our bondage our God hath not forsaken us, but hath extended mercy upon us before the king of the Persians, to give us life, and to set up the house of our God, and to rebuild the desolations thereof, and to give us a fence in Juda and Jerusalem.  
 **10** And now, O our God, what shall we say after this? for we have forsaken thy commandments,  
 **11** Which thou hast commanded by the hand of thy servants the prophets, saying: The land which you go to possess, is an unclean land, according to the uncleanness of the people, and of other lands, with their abominations, who have filled it from mouth to mouth with their filth.  
@@ -327,7 +327,7 @@ format: markdown
 **9** Then all the men of Juda, and Benjamin gathered themselves together to Jerusalem within three days, in the ninth month, the twentieth day of the month: and all the people sat in the street of the house of God, trembling because of the sin, and the rain.  
 **10** And Esdras the priest stood up, and said to them: You have transgressed, and taken strange wives, to add to the sins of Israel.  
 **11** And now make confession to the Lord the God of your fathers, and do his pleasure, and separate yourselves from the people of the land, and from your strange wives.  
-**12** And all the multitude answered and said with a loud voice:  
+**12** And all the multitude answered and said with a loud voice: According to thy word unto us, so be it done.  
 **13** But as the people are many, and it is time of rain, and we are not able to stand without, and it is not a work of one day or two, (for we have exceedingly sinned in this matter,)  
 **14** Let rulers be appointed in all the multitude: and in all our cities, let them that have taken strange wives come at the times appointed, and with them the ancients and the judges of every city, until the wrath of our God be turned away from us for this sin.  
 **15** Then Jonathan the son of Azahel, and Jaasia the son of Thecua were appointed over this, and Mesollam and Sebethai, Levites, helped them:  

@@ -40,25 +40,25 @@ format: markdown
 ## Chapter 1
 
 **1** The word of the Lord, that came to Osee, the son of Beeri, in the days of Ozias, Joathan, Achaz, and Ezechias, kings of Juda, and in the days of Jeroboam, the son of Joas, king of Israel.  
-**2** The beginning of the Lord's speaking by Osee: and the Lord said to Osee: Go, take thee a wife of fornications, and have of her children of fornications: for the land by fornication shall depart from the Lord. fornication. This was to represent the Lord's proceedings with his people Israel, who, by spiritual fornication, were continually offending him.-Ibid. Children of fornications... So called from the character of their mother, if not also from their own wicked dispositions.  
+**2** The beginning of the Lord's speaking by Osee: and the Lord said to Osee: Go, take thee a wife of fornications, and have of her children of fornications: for the land by fornication shall depart from the Lord.  
 **3** So he went and took Gomer, the daughter of Debelaim: and she conceived, and bore him a son.  
 **4** And the Lord said to him: Call his name Jezrahel: for yet a little while, and I will visit the blood of Jezrahel upon the house of Jehu, and I will cause to cease the kingdom of the house of Israel.  
 **5** And in that day I will break in pieces the bow of Israel in the valley of Jezrahel.  
-**6** And she conceived again, and bore a daughter, and he said to him: on the house of Israel, but I will utterly forget them.  
+**6** And she conceived again, and bore a daughter, and he said to him: Call her name, Without mercy: for I will not add any more to have mercy on the house of Israel, but I will utterly forget them.  
 **7** And I will have mercy on the house of Juda, and I will save them by the Lord, their God: and I will not save them by bow, nor by sword, nor by battle, nor by horses, nor by horsemen.  
 **8** And she weaned her that was called Without mercy. And she conceived, and bore a son.  
 **9** And he said: Call his name, Not my people: for you are not my people, and I will not be yours.  
-**10** And the number of the children of Israel shall be as the sand of the sea, that is without measure, and shall not be numbered. And it shall be in the place where it shall be said to them: You are not my people: it shall be said to them: Ye are the sons of the living God. church of Christ.  
-**11** And the children of Juda, and the children of Israel, shall be gathered together: and they shall appoint themselves one head, and shall come up out of the land: for great is the day of Jezrahel. of the seed of God; for Jezrahel signifies the seed of God.  
+**10** And the number of the children of Israel shall be as the sand of the sea, that is without measure, and shall not be numbered. And it shall be in the place where it shall be said to them: You are not my people: it shall be said to them: Ye are the sons of the living God.  
+**11** And the children of Juda, and the children of Israel, shall be gathered together: and they shall appoint themselves one head, and shall come up out of the land: for great is the day of Jezrahel.  
 
 ---
 
 ## Chapter 2
 
-**1** Say ye to your brethren: You are my people: and to your sister: sister, Her that hath obtained mercy. This is connected with the latter end of the foregoing chapter, and relates to the converts of Israel.  
+**1** Say ye to your brethren: You are my people: and to your sister: Thou hast obtained mercy.  
 **2** Judge your mother, judge her: because she is not my wife, and I am not her husband. Let her put away her fornications from her face, and her adulteries from between her breasts.  
 **3** Lest I strip her naked, and set her as in the day that she was born: and I will make her as a wilderness, and will set her as a land that none can pass through and will kill her with drought.  
-**4** And I will not have mercy on her children, for they are the children of fornications.  
+**4** And I will not have mercy on her children for they are the children of fornications.  
 **5** For their mother hath committed fornication, she that conceived them is covered with shame: for she said: I will go after my lovers, that give me my bread, and my water, my wool, and my flax, my oil, and my drink.  
 **6** Wherefore, behold, I will hedge up thy way with thorns, and I will stop it up with a wall, and she shall not find her paths.  
 **7** And she shall follow after her lovers, and shall not overtake them: and she shall seek them, and shall not find, and she shall say: I will go, and return to my first husband: because it was better with me then than now.  
@@ -68,17 +68,17 @@ format: markdown
 **11** And I will cause all her mirth to cease, her solemnities, her new moons, her sabbaths, and all her festival times.  
 **12** And I will destroy her vines, and her fig trees, of which she said: These are my rewards, which my lovers have given me: and I will make her as a forest and the beasts of the field shall devour her.  
 **13** And I will visit upon her the days of Baalim, to whom she burnt incense, and decked herself out with her earrings, and with her jewels, and went after her lovers, and forgot me, saith the Lord.  
-**14** Therefore, behold I will allure her, and will lead her into the wilderness: and I will speak to her heart. allure her by my grace etc., and send her vinedressers, viz., the apostles: originally her own children, who shall open to her the gates of hope; as heretofore at her coming into the land of promise, she had all good success after she had satisfied the divine justice by the execution of Achan in the valley of Achor. Jos. 7.  
+**14** Therefore, behold I will allure her, and will lead her into the wilderness: and I will speak to her heart.  
 **15** And I will give her vinedressers out of the same place, and the valley of Achor for an opening of hope: and she shall sing there according to the days of her youth, and according to the days of her coming up out of the land of Egypt.  
-**16** And it shall be in that day, saith the Lord: That she shall call me: My husband, and she shall call me no more Banli. is: that whereas Ishi and Baali were used indifferently in those days by wives speaking to their husbands; the synagogue, whom God was pleased to consider as his spouse, should call him only Ishi, and abstain from the name of Baali, because of its affinity with the idol Baal.  
-**17** And I will take away the names of Baalim out of her mouth, and she shall no more remember their name. of Baal.  
+**16** And it shall be in that day, saith the Lord: That she shall call me: My husband, and she shall call me no more Banli.  
+**17** And I will take away the names of Baalim out of her mouth, and she shall no more remember their name.  
 **18** And in that day I will make a covenant with them, with the beasts of the field, and with the fowls of the air, and with the creeping things of the earth: and I will destroy the bow, and the sword, and war out of the land: and I will make them sleep secure.  
 **19** And I will espouse thee to me for ever: and I will espouse thee to me in justice, and judgment, and in mercy, and in commiserations.  
 **20** And I will espouse thee to me in faith: and thou shalt know that I am the Lord.  
-**21** And it shall come to pass in that day: I will hear, saith the Lord, I will hear the heavens, and they shall hear the earth. which in the following verse is called Jezrahel, that is, the seed of God.  
+**21** And it shall come to pass in that day: I will hear, saith the Lord, I will hear the heavens, and they shall hear the earth.  
 **22** And the earth shall hear the corn, and the wine, and the oil, and these shall hear Jezrahel.  
 **23** And I will sow her unto me in the earth, and I will have mercy on her that was without mercy.  
-**24** And I will say to that which is not my people: Thou art my people: and they shall say: Thou art my God. the Gentiles.  
+**24** And I will say to that which is not my people: Thou art my people: and they shall say: Thou art my God.  
 
 ---
 
@@ -97,10 +97,10 @@ format: markdown
 **1** Hear the word of the Lord, ye children of Israel, for the Lord shall enter into judgment with the inhabitants of the land: for there is no truth, and there is no mercy, and there is no knowledge of God in the land.  
 **2** Cursing, and lying, and killing, and theft, and adultery, have overflowed, and blood hath touched blood.  
 **3** Therefore shall the land mourn, and every one that dwelleth in it shall languish with the heat of the field, and with the fowls of the air: yea, the fishes of the sea also shall be gathered together.  
-**4** But yet let not any man judge: and let not a man be rebuked: for thy people are as they that contradict the priest. strive with them, or reprove them, they are so obstinate in evil.  
+**4** But yet let not any man judge: and let not a man be rebuked: for thy people are as they that contradict the priest.  
 **5** And thou shalt fall today, and the prophet also shall fall with thee: in the night I have made thy mother to be silent.  
 **6** My people have been silent, because they had no knowledge: because thou hast rejected knowledge, I will reject thee, that thou shalt not do the office of priesthood to me: and thou hast forgotten the law of thy God, I also will forget thy children.  
-**7** According to the multitude of them, so have they sinned against me:  
+**7** According to the multitude of them, so have they sinned against me: I will change their glory into shame.  
 **8** They shall eat the sins of my people, and shall lift up their souls to their iniquity.  
 **9** And there shall be like people like priest: and I will visit their ways upon them, and I will repay them their devices.  
 **10** And they shall eat and shall not be filled: they have committed fornication, and have not ceased: because they have forsaken the Lord in not observing the law.  
@@ -108,7 +108,7 @@ format: markdown
 **12** My people have consulted their stocks, and their staff hath declared unto them: for the spirit of fornication hath deceived them, and they have committed fornication against their God.  
 **13** They offered sacrifice upon the tops of the mountains, and burnt incense upon the hills: under the oak, and the poplar, and the turpentine tree, because the shadow thereof was good: therefore shall your daughters commit fornication, and your spouses shall be adulteresses.  
 **14** I will not visit upon your daughters, when they shall commit fornication, and upon your spouses when they shall commit adultery: because themselves conversed with harlots, and offered sacrifice with the effeminate, and the people that doth not understand shall be beaten.  
-**15** If thou play the harlot, O Israel, at least let not Juda offend: and go ye not into Galgal, and come not up into Bethaven, and do not swear: The Lord liveth. signifies the house of God, is called by the prophet, Bethaven, that is, the house of vanity, from Jeroboam's golden calf that was worshipped there.  
+**15** If thou play the harlot, O Israel, at least let not Juda offend: and go ye not into Galgal, and come not up into Bethaven, and do not swear: The Lord liveth.  
 **16** For Israel hath gone astray like a wanton heifer now will the Lord feed them, as a lamb in a spacious place.  
 **17** Ephraim is a partaker with idols, let him alone.  
 **18** Their banquet is separated, they have gone astray by fornication: they that should have protected them have loved to bring shame upon them.  
@@ -118,16 +118,16 @@ format: markdown
 
 ## Chapter 5
 
-**1** Hear ye this, O priests, and hearken, O ye house of Israel, and give ear, O house of the king: for there is a judgment against you, because you have been a snare to them whom you should have watched over and a net spread upon Thabor. understood of the priests of the kingdom of Israel; who were not true priests of the race of Aaron; but served the calves at Bethel and Dan.  
+**1** Hear ye this, O priests, and hearken, O ye house of Israel, and give ear, O house of the king: for there is a judgment against you, because you have been a snare to them whom you should have watched over and a net spread upon Thabor.  
 **2** And you have turned aside victims into the depth and I am the teacher of them all.  
 **3** I know Ephraim, and Israel is not hid from me for now Ephraim hath committed fornication, Israel is defiled.  
 **4** They will not set their thoughts to return to their God: for the spirit of fornication is in the midst of them, and they have not known the Lord.  
 **5** And the pride of Israel shall answer in his face: and Israel, and Ephraim shall fall in their iniquity, Juda also shall fall with them.  
 **6** With their flocks and with their herds, they shall go to seek the Lord, and shall not find him: he is withdrawn from them.  
-**7** They have transgressed against the Lord: for they have begotten children that are strangers: now shall a month devour them with their portions. they are threatened with speedy destruction.  
+**7** They have transgressed against the Lord: for they have begotten children that are strangers: now shall a month devour them with their portions.  
 **8** Blow ye the cornet in Gabaa, the trumpet in Rama: howl ye in Bethaven, behind thy back, O Benjamin.  
 **9** Ephraim shall be in desolation in the day of rebuke: among the tribes of Israel I have shewn that which shall surely be.  
-**10** The princes of Juda are become as they that take up the bound: I will pour out my wrath upon them like water. boundary, encroaching on the property of their neighbors: figuratively: going beyond the boundary of the laws of God.  
+**10** The princes of Juda are become as they that take up the bound: I will pour out my wrath upon them like water.  
 **11** Ephraim is under oppression, and broken in judgment: because he began to go after filthiness.  
 **12** And I will be like a moth to Ephraim: and like rottenness to the house of Juda.  
 **13** And Ephraim saw his sickness, and Juda his band: and Ephraim went to the Assyrian, and sent to the avenging king: and he shall not be able to heal you, neither shall he be able to take off the band from you.  
@@ -145,7 +145,7 @@ format: markdown
 **5** For this reason have I hewed them by the prophets, I have slain them by the words of my mouth: and thy judgments shall go forth as the light.  
 **6** For I desired mercy, and not sacrifice: and the knowledge of God more than holocausts.  
 **7** But they, like Adam, have transgressed the covenant, there have they dealt treacherously against me.  
-**8** Galaad is a city of workers of idols, supplanted with blood. shedding of blood: and, as it is signified in the following verse, for conspiring with the priests (of Bethel) like robbers, to murder in the way such as passed out of Sichem to go towards the temple of Jerusalem. with blood, as to suffer none to walk there without imbruing the soles of their feet in blood.  
+**8** Galaad is a city of workers of idols, supplanted with blood.  
 **9** And like the jaws of highway robbers, they conspire with the priests who murder in the way those that pass out of Sichem: for they have wrought wickedness.  
 **10** I have seen a horrible thing in the house of Israel: the fornications of Ephraim there: Israel is defiled.  
 **11** And thou also, O Juda, set thee a harvest, when I shall bring back the captivity of my people.  
@@ -156,7 +156,7 @@ format: markdown
 
 **1** When I would have healed Israel, the iniquity of Ephraim was discovered, and the wickedness of Samaria, for they have committed falsehood, and the thief is come in to steal, the robber is without.  
 **2** And lest they may say in their hearts, that I remember all their wickedness: their own devices now have beset them about, they have been done before my face.  
-**3** They have made the king glad with their wickedness: and the princes with their lies. they have given themselves up to the wicked worship of idols, which are mere falsehood and lies.  
+**3** They have made the king glad with their wickedness: and the princes with their lies.  
 **4** They are all adulterers, like an oven heated by the baker: the city rested a little from the mingling of the leaven, till the whole was leavened.  
 **5** The day of our king, the princes began to be mad with wine: he stretched out his hand with scorners.  
 **6** Because they have applied their heart like an oven, when he laid snares for them: he slept all the night baking them, in the morning he himself was heated as a flaming fire.  
@@ -177,13 +177,13 @@ format: markdown
 
 **1** Let there be a trumpet in thy throat like an eagle upon the house of the Lord: because they have transgressed my covenant, and have violated my law.  
 **2** They shall call upon me: O my God, we, Israel, know thee.  
-**3** Israel hath cast off the thing that is good, the enemy shall pursue him.  
+**3** lsrael hath cast off the thing that is good, the enemy shall pursue him.  
 **4** They have reigned, but not by me: they have been princes, and I knew not: of their silver and their gold they have made idols to themselves, that they might perish.  
-**5** Thy calf, O Samaria, is cast off, my wrath is kindled against them.  
+**5** Thy calf, O Samaria, is cast off, my wrath is kindled against them. How long will they be incapable of being cleansed?  
 **6** For itself also is the invention of Israel: a workman made it, and it is no god: for the calf of Samaria shall be turned to spiders' webs.  
 **7** For they shall sow wind, and reap a whirlwind, there is no standing stalk in it, the bud shall yield no meal; and if it should yield, strangers shall eat it.  
 **8** Israel is swallowed up: now is he become among the nations like an unclean vessel.  
-**9** For they are gone up to Assyria, a wild ass alone by himself:  
+**9** For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath given gifts to his lovers.  
 **10** But even though they shall have hired the nations, now will I gather them together: and they shall rest a while from the burden of the king, and the princes.  
 **11** Because Ephraim hath made many altars to sin: altars are become to him unto sin.  
 **12** I shall write to him my manifold laws, which have been accounted as foreign.  
@@ -221,7 +221,7 @@ format: markdown
 **3** For now they shall say: We have no king: because we fear not the Lord: and what shall a king do to us?  
 **4** You speak words of an unprofitable vision, and you shall make a covenant: and judgment shall spring up as bitterness in the furrows of the field.  
 **5** The inhabitants of Samaria have worshipped the kine of Bethaven: for the people thereof have mourned over it, and the wardens of its temple that rejoiced over it in its glory because it is departed from it.  
-**6** For itself also is carried into Assyria, a present to the avenging king: shame shall fall upon Ephraim, and Israel shall be confounded in his own will. king Manahem, to Phul, king of the Assyrians, to engage him to stand by him.  
+**6** For itself also is carried into Assyria, a present to the avenging king: shame shall fall upon Ephraim, and Israel shall be confounded in his own will.  
 **7** Samaria hath made her king to pass as froth upon the face of the water.  
 **8** And the high places of the idol, the sin of Israel shall be destroyed: the bur and the thistle shall grow up over their altars: and they shall say to the mountains Cover us; and to the hills: Fall upon us.  
 **9** From the days of Gabaa, Israel hath sinned, there they stood: the battle in Gabaa against the children of iniquity shall not overtake them.  
@@ -229,15 +229,15 @@ format: markdown
 **11** Ephraim is a heifer taught to love to tread out corn, but I passed over upon the beauty of her neck: I will ride upon Ephraim, Juda shall plough, Jacob shall break the furrows for himself.  
 **12** Sow for yourselves in justice, and reap in the mouth of mercy, break up your fallow ground: but the time to seek the Lord is, when he shall come that shall teach you justice.  
 **13** You have ploughed wickedness, you have reaped iniquity, you have eaten the fruit of lying: because thou hast trusted in thy ways, in the multitude of thy strong ones.  
-**14** A tumult shall arise among thy people: and all thy fortresses shall be destroyed as Salmana was destroyed, by the house of him that judged Baal in the day of battle, the mother being dashed in pieces upon her children. by the followers of him that judged Baal; that is, of Gideon, who threw down the altar of Baal; and was therefore called Jerubaal. See Judges 6 and 8.  
+**14** A tumult shall arise among thy people: and all thy fortresses shall be destroyed as Salmana was destroyed, by the house of him that judged Baal in the day of battle, the mother being dashed in pieces upon her children.  
 **15** So hath Bethel done to you, because of the evil of your iniquities.  
 
 ---
 
 ## Chapter 11
 
-**1** As the morning passeth, so hath the king of Israel passed away. text is also applicable to Christ, as we learn from Matthew 2.15.  
-**2** As they called them, they went away from before their face: they offered victims to Baalim, and sacrificed to idols. other gods and would not hear.  
+**1** As the morning passeth, so hath the king of Israel passed away. Because Israel was a child, and I loved him: and I called my son out of Egypt.  
+**2** As they called them, they went away from before their face: they offered victims to Baalim, and sacrificed to idols.  
 **3** And I was like a foster father to Ephraim, I carried them in my arms: and they knew not that I healed them.  
 **4** I will draw them with the cords of Adam, with the bands of love: and I will be to them as one that taketh off the yoke on their jaws: and I put his meat to him that he might eat.  
 **5** He shall not return into the land of Egypt, but the Assyrian shall be his king: because they would not be converted.  
@@ -263,7 +263,7 @@ format: markdown
 **8** And Ephraim said: But yet I am become rich, I have found me an idol: all my labours shall not find me the iniquity that I have committed.  
 **9** And I that am the Lord thy God from the land of Egypt, will yet cause thee to dwell in tabernacles, as in the days of the feast.  
 **10** And I have spoken by the prophets, and I have multiplied visions, and I have used similitudes by the ministry of the prophets.  
-**11** If Galaad be an idol, then in vain were they in Galgal offering sacrifices with bullocks: for their altars also are as heaps in the furrows of the field. sacrifices be like a mere idol itself, being brought to nothing by Theglathphalasar: how vain is it to expect, that the idols worshipped in Galgal shall be of any service to the tribes that remain.  
+**11** If Galaad be an idol, then in vain were they in Galgal offering sacrifices with bullocks: for their altars also are as heaps in the furrows of the field.  
 **12** Jacob fled into the country of Syria, and Israel served for a wife, and was a keeper for a wife.  
 **13** But the Lord by a prophet brought Israel out of Egypt: and he was preserved by a prophet.  
 **14** Ephraim hath provoked me to wrath with his bitterness, and his blood shall come upon him, and his Lord will render his reproach unto him.  
@@ -292,7 +292,7 @@ format: markdown
 
 ## Chapter 14
 
-**1** Let Samaria perish, because she hath stirred up her God to bitterness: let them perish by the sword, let their little ones be dashed, and let the women with child be ripped up. curse or imprecation, but a prophecy of what should come to pass.  
+**1** Let Samaria perish, becsuse she hath stirred up her God to bitterness: let them perish by the sword, let their little ones be dashed, and let the women with child be ripped up.  
 **2** Return, O Israel, to the Lord thy God: for thou hast fallen down by thy iniquity.  
 **3** Take with you words, and return to the Lord, and say to him: Take away all iniquity, and receive the good: and we will render the calves of our lips.  
 **4** Assyria shall not save us, we will not ride upon horses, neither will we say any more: The works of our hands are our gods: for thou wilt have mercy on the fatherless that is in thee.  

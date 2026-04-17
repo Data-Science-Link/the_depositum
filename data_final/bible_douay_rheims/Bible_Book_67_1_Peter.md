@@ -108,9 +108,9 @@ format: markdown
 **16** But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.  
 **17** For it is better doing well (if such be the will of God) to suffer than doing ill.  
 **18** Because Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit,  
-**19** In which also coming he preached to those spirits that were in prison: middle state of souls: for these spirits in prison, to whom Christ went to preach, after his death, were not in heaven; nor yet in the hell of the damned: because heaven is no prison: and Christ did not go to preach to the damned.  
+**19** In which also coming he preached to those spirits that were in prison:  
 **20** Which had been some time incredulous, when they waited for the patience of God in the days of Noe, when the ark was a building: wherein a few, that is, eight souls, were saved by water.  
-**21** Whereunto baptism, being of the like form, now saveth you also: not the putting away of the filth of the flesh, but, the examination of a good conscience towards God by the resurrection of Jesus Christ. the water by which Noe was saved, because the one was a figure of the other. Not the putting away, etc... As much as to say, that baptism has not its efficacy, in order to salvation, from its washing away any bodily filth or dirt; but from its purging the conscience from sin, when accompanied with suitable dispositions in the party, to answer the interrogations made at that time, with relation to faith, the renouncing of Satan with all his works; and the obedience to God's commandments.  
+**21** Whereunto baptism, being of the like form, now saveth you also: not the putting away of the filth of the flesh, but, the examination of a good conscience towards God by the resurrection of Jesus Christ.  
 **22** Who is on the right hand of God, swallowing down death that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him.  
 
 ---
@@ -133,8 +133,8 @@ format: markdown
 **14** If you be reproached for the name of Christ, you shall be blessed: for that which is of the honour, glory and power of God, and that which is his Spirit resteth upon you.  
 **15** But let none of you suffer as a murderer or a thief or a railer or coveter of other men's things.  
 **16** But, if as a Christian, let him not be ashamed: but let him glorify God in that name.  
-**17** For the time is, that judgment should begin at the house of God. the gospel of God?  
-**18** And if the just man shall scarcely be saved, where shall the ungodly and the sinner appear? of the dangers which constantly surround, the temptations of the world, of the devil, and of our own corrupt nature.  
+**17** For the time is, that judgment should begin at the house of God. And if at first at us, what shall be the end of them that believe not the gospel of God?  
+**18** And if the just man shall scarcely be saved, where shall the ungodly and the sinner appear?  
 **19** Wherefore let them also that suffer according to the will of God commend their souls in good deeds to the faithful Creator.  
 
 ---

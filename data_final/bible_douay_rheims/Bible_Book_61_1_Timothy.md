@@ -60,8 +60,8 @@ format: markdown
 **2** For kings and for all that are in high station: that we may lead a quiet and a peaceable life in all piety and chastity.  
 **3** For this is good and acceptable in the sight of God our Saviour,  
 **4** Who will have all men to be saved and to come to the knowledge of the truth.  
-**5** For there is one God: and one mediator of God and men, the man Christ Jesus: gave himself, as the apostle writes in the following verse.  
-**6** Who gave himself a redemption for all, a testimony in due times. a redemption for all.... He is also the only mediator, who stands in need of no other to recommend his petitions to the Father. But this is not against our seeking the prayers and intercession, as well of the faithful upon earth, as of the saints and angels in heaven, for obtaining mercy, grace, and salvation, through Jesus Christ. As St. Paul himself often desired the help of the prayers of the faithful, without any injury to the mediatorship of Jesus Christ.  
+**5** For there is one God: and one mediator of God and men, the man Christ Jesus:  
+**6** Who gave himself a redemption for all, a testimony in due times, a redemption for all.... He is also the only mediator, who stands in need of no other to recommend his petitions to the Father. But this is not against our seeking the prayers and intercession, as well of the faithful upon earth, as of the saints and angels in heaven, for obtaining mercy, grace, and salvation, through Jesus Christ. As St. Paul himself often desired the help of the prayers of the faithful, without any injury to the mediatorship of Jesus Christ.  
 **7** Whereunto I am appointed a preacher and an apostle (I say the truth, I lie not), a doctor of the Gentiles in faith and truth.  
 **8** I will therefore that men pray in every place, lifting up pure hands, without anger and contention.  
 **9** In like manner, women also in decent apparel: adorning themselves with modesty and sobriety, not with plaited hair, or gold, or pearls, or costly attire:  
@@ -90,7 +90,7 @@ format: markdown
 **12** Let deacons be the husbands of one wife: who rule well their children and their own houses.  
 **13** For they that have ministered well shall purchase to themselves a good degree and much confidence in the faith which is in Christ Jesus.  
 **14** These things I write to thee, hoping that I shall come to thee shortly.  
-**15** But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth. living God can never uphold error, nor bring in corruptions, superstition, or idolatry.  
+**15** But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.  
 **16** And evidently great is the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory.  
 
 ---
@@ -99,7 +99,7 @@ format: markdown
 
 **1** Now the Spirit manifestly saith that in the last times some shall depart from the faith, giving heed to spirits of error and doctrines of devils,  
 **2** Speaking lies in hypocrisy and having their conscience seared,  
-**3** Forbidding to marry, to abstain from meats, which God hath created to be received with thanksgiving by the faithful and by them that have known the truth. ancient heretics, who absolutely condemned marriage, and the use of all kind of meat; because they pretended that all flesh was from an evil principle. Whereas the church of God, so far from condemning marriage, holds it a holy sacrament; and forbids it to none but such as by vow have chosen the better part: and prohibits not the use of any meats whatsoever in proper times and seasons; though she does not judge all kind of diet proper for days of fasting and penance.  
+**3** Forbidding to marry, to abstain from meats, which God hath created to be received with thanksgiving by the faithful and by them that have known the truth.  
 **4** For every creature of God is good, and nothing to be rejected that is received with thanksgiving:  
 **5** For it is sanctified by the word of God and prayer.  
 **6** These things proposing to the brethren, thou shalt be a good minister of Christ Jesus, nourished up in the words of faith and of the good doctrine which thou hast attained unto.  
@@ -127,7 +127,6 @@ format: markdown
 **7** And this give in charge, that they may be blameless.  
 **8** But if any man have not care of his own and especially of those of his house, he hath denied the faith and is worse than an infidel.  
 **9** Let a widow be chosen of no less than threescore years of age, who hath been the wife of one husband.  
-**10** Having testimony for her good works, if she have brought up children, if she have received to harbour, if she have washed the saints' feet, if she have ministered to them that suffer tribulation, if she have diligently followed every good work.  
 **11** But the younger widows avoid. For when they have grown wanton in Christ, they will marry:  
 **12** Having damnation, because they have made void their first faith.  
 **13** And withal being idle they learn to go about from house to house: and are not only idle, but tattlers also and busy bodies, speaking things which they ought not.  
@@ -163,7 +162,7 @@ format: markdown
 **13** I charge thee before God who quickeneth all things, and before Christ Jesus who gave testimony under Pontius Pilate, a good confession:  
 **14** That thou keep the commandment without spot, blameless, unto the coming of our Lord Jesus Christ,  
 **15** Which in his times he shall shew, who is the Blessed and only Mighty, the King of kings and Lord of lords:  
-**16** Who only hath immortality and inhabiteth light inaccessible: whom no man hath seen, nor can see: to whom be honour and empire everlasting.  
+**16** Who only hath immortality and inhabiteth light inaccessible: whom no man hath seen, nor can see: to whom be honour and empire everlasting. Amen.  
 **17** Charge the rich of this world not to be highminded nor to trust in the uncertainty of riches, but in the living God (who giveth us abundantly all things to enjoy)  
 **18** To do good, to be rich in good work, to give easily, to communicate to others,  
 **19** To lay up in store for themselves a good foundation against the time to come, that they may lay hold on the true life.  

@@ -44,10 +44,10 @@ format: markdown
 **1** Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God.  
 **2** Which he had promised before, by his prophets, in the holy scriptures,  
 **3** Concerning his Son, who was made to him of the seed of David, according to the flesh,  
-**4** Who was predestinated the Son of God in power, according to the spirit of sanctification, by the resurrection of our Lord Jesus Christ from the dead: power, that is, by his working stupendous miracles; secondly, by the spirit of sanctification, that is, by his infinite sanctity; thirdly, by his ressurection, or raising himself from the dead.  
+**4** Who was predestinated the Son of God in power, according to the spirit of sanctification, by the resurrection of our Lord Jesus Christ from the dead:  
 **5** By whom we have received grace and apostleship for obedience to the faith, in all nations, for his name:  
 **6** Among whom are you also the called of Jesus Christ:  
-**7** To all that are at Rome, the beloved of God, called to be saints.  
+**7** To all that are at Rome, the beloved of God, called to be saints. Grace to you and peace, from God our Father and from the Lord Jesus Christ.  
 **8** First, I give thanks to my God, through Jesus Christ, for you all: because your faith is spoken of in the whole world.  
 **9** For God is my witness, whom I serve in my spirit in the gospel of his Son, that without ceasing I make a commemoration of you:  
 **10** Always in my prayers making request, if by any means now at length I may have a prosperous journey, by the will of God, to come unto you.  
@@ -66,7 +66,7 @@ format: markdown
 **23** And they changed the glory of the incorruptible God into the likeness of the image of a corruptible man and of birds, and of fourfooted beasts and of creeping things.  
 **24** Wherefore, God gave them up to the desires of their heart, unto uncleanness: to dishonour their own bodies among themselves.  
 **25** Who changed the truth of God into a lie and worshipped and served the creature rather than the Creator, who is blessed for ever. Amen.  
-**26** For this cause, God delivered them up to shameful affections. For their women have changed the natural use into that use which is against nature. withdrawing his grace, and so permitting them, in punishment of their pride, to fall into those shameful sins.  
+**26** For this cause, God delivered them up to shameful affections. For their women have changed the natural use into that use which is against nature.  
 **27** And, in like manner, the men also, leaving the natural use of the women, have burned in their lusts, one towards another: men with men, working that which is filthy and receiving in themselves the recompense which was due to their error.  
 **28** And as they liked not to have God in their knowledge, God delivered them up to a reprobate sense, to do those things which are not convenient.  
 **29** Being filled with all iniquity, malice, fornication, avarice, wickedness: full of envy, murder, contention, deceit, malignity: whisperers,  
@@ -115,13 +115,13 @@ format: markdown
 **1** What advantage then hath the Jew: or what is the profit of circumcision?  
 **2** Much every way. First indeed, because the words of God were committed to them.  
 **3** For what if some of them have not believed? Shall their unbelief make the faith of God without effect? God forbid!  
-**4** But God is true and every man a liar, as it is written: That thou mayest be justified in thy words and mayest overcome when thou art judged. to lies and errors: nevertheless God, who is the truth, will make good his promise of keeping his church in all truth. See St. John 16.13.  
-**5** But if our injustice commend the justice of God, what shall we say?  
+**4** But God is true and every man a liar, as it is written: That thou mayest be justified in thy words and mayest overcome when thou art judged.  
+**5** But if our injustice commend the justice of God, what shall we say? Is God unjust, who executeth wrath?  
 **6** (I speak according to man.) God forbid! Otherwise how shall God judge this world?  
 **7** For if the truth of God hath more abounded through my lie, unto his glory, why am I also yet judged as a sinner?  
 **8** And not rather (as we are slandered and as some affirm that we say) let us do evil that there may come good? Whose damnation is just.  
 **9** What then? Do we excel them? No, not so. For we have charged both Jews and Greeks, that they are all under sin.  
-**10** As it is written: There is not any man just. nature, or of the law of Moses; but only by faith and grace.  
+**10** As it is written: There is not any man just.  
 **11** There is none that understandeth: there is none that seeketh after God.  
 **12** All have turned out of the way: they are become unprofitable together: there is none that doth good, there is not so much as one.  
 **13** Their throat is an open sepulchre: with their tongues they have dealt deceitfully. The venom of asps is under their lips.  
@@ -139,7 +139,7 @@ format: markdown
 **25** Whom God hath proposed to be a propitiation, through faith in his blood, to the shewing of his justice, for the remission of former sins,  
 **26** Through the forbearance of God, for the shewing of his justice in this time: that he himself may be just and the justifier of him who is of the faith of Jesus Christ.  
 **27** Where is then thy boasting? It is excluded. By what law? Of works? No, but by the law of faith.  
-**28** For we account a man to be justified by faith, without the works of the law. justification, is not a presumptuous assurance of our being justified; but a firm and lively belief of all that God has revealed or promised. short, a faith which takes in hope, love, repentance, and the use of the sacraments. And the works which he here excludes, are only the works of the law: that is, such as are done by the law of nature, or that of Moses, antecedent to the faith of Christ: but by no means, such as follow faith, and proceed from it.  
+**28** For we account a man to be justified by faith, without the works of the law.  
 **29** Is he the God of the Jews only? Is he not also of the Gentiles? yes, of the Gentiles also.  
 **30** For it is one God that justifieth circumcision by faith and uncircumcision through faith.  
 **31** Do we then, destroy the law through faith? God forbid! But we establish the law.  
@@ -149,20 +149,20 @@ format: markdown
 ## Chapter 4
 
 **1** What shall we say then that Abraham hath found, who is our father according to the flesh?  
-**2** For if Abraham were justified by works, he hath whereof to glory, but not before God. faith in him. Not before God... Whatever glory or applause such works might procure from men, they would be of no value in the sight of God.  
-**3** For what saith the scripture? Abraham believed God: and it was reputed to him unto justice. justification proceedeth from God's free grace and bounty; and not from any efficacy which any act of ours could have of its own nature, abstracting from God's grace.  
-**4** Now to him that worketh, the reward is not reckoned according to grace but according to debt. own performances; whereas he who worketh not, that is, who presumeth not upon any works done by his own strength, but seeketh justice through faith and grace, is freely justified by God's grace.  
+**2** For if Abraham were justified by works, he hath whereof to glory, but not before God.  
+**3** For what saith the scripture? Abraham believed God: and it was reputed to him unto justice.  
+**4** Now to him that worketh, the reward is not reckoned according to grace but according to debt.  
 **5** But to him that worketh not, yet believeth in him that justifieth the ungodly, his faith is reputed to justice, according to the purpose of the grace of God.  
 **6** As David also termeth the blessedness of a man to whom God reputeth justice without works:  
-**7** Blessed are they whose iniquities are forgiven: and whose sins are covered. covered... That is, blessed are those who, by doing penance, have obtained pardon and remission of their sins, and also are covered; that is, newly clothed with the habit of grace, and vested with the stole of charity.  
-**8** Blessed is the man to whom the Lord hath not imputed sin. blessed is the man who hath retained his baptismal innocence, that no grievous sin can be imputed to him. And, likewise, blessed is the man, who after fall into sin, hath done penance and leads a virtuous life, by frequenting the sacraments necessary for obtaining the grace to prevent a relapse, that sin is no more imputed to him.  
-**9** This blessedness then, doth it remain in the circumcision only or in the uncircumcision also? For we say that unto Abraham faith was reputed to justice. circumcised? No, says the apostle, but also for the uncircumcised Gentiles: who, by faith and grace, may come to justice; as Abraham did before he was circumcised.  
+**7** Blessed are they whose iniquities are forgiven: and whose sins are covered.  
+**8** Blessed is the man to whom the Lord hath not imputed sin.  
+**9** This blessedness then, doth it remain in the circumcision only or in the uncircumcision also? For we say that unto Abraham faith was reputed to justice.  
 **10** How then was it reputed? When he was in circumcision or in uncircumcision? Not in circumcision, but in uncircumcision.  
 **11** And he received the sign of circumcision, a seal of the justice of the faith which he had, being uncircumcised: that he might be the father of all them that believe, being uncircumcised: that unto them also it may be reputed to justice:  
 **12** And he might be the father of circumcision; not to them only that are of the circumcision, but to them also that follow the steps of the faith that is in the uncircumcision of our father Abraham.  
 **13** For not through the law was the promise to Abraham or to his seed, that he should be heir of the world: but through the justice of faith.  
-**14** For if they who are of the law be heirs, faith is made void: the promise is made of no effect. be heirs of the blessings promised to Abraham; then that faith which was so much praised in him, will be found to be of little value. And the very promise will be made void, by which he was promised to be the father, not of the Jews only, but of all nations of believers.  
-**15** For the law worketh wrath. For where there is no law, neither is there transgression. worketh wrath occasionally, by being an occasion of many transgressions, which provoke God's wrath.  
+**14** For if they who are of the law be heirs, faith is made void: the promise is made of no effect.  
+**15** For the law worketh wrath. For where there is no law, neither is there transgression.  
 **16** Therefore is it of faith, that according to grace the promise might be firm to all the seed: not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all,  
 **17** (As it is written: I have made thee a father of many nations), before God, whom he believed: who quickeneth the dead and calleth those things that are not, as those that are.  
 **18** Who against hope believed in hope; that he might be made the father of many nations, according to that which was said to him: So shall thy seed be.  
@@ -190,14 +190,14 @@ format: markdown
 **10** For if, when we were enemies, we were reconciled to God by the death of his Son: much more, being reconciled, shall we be saved by his life.  
 **11** And not only so: but also we glory in God, through our Lord Jesus Christ, by whom we have now received reconciliation.  
 **12** Wherefore as by one man sin entered into this world and by sin death: and so death passed upon all men, in whom all have sinned.  
-**13** For until the law sin was in the world: but sin was not imputed, when the law was not. was it imputed to them, in the manner it was afterwards, when they transgressed the known written law of God.  
+**13** For until the law sin was in the world: but sin was not imputed, when the law was not.  
 **14** But death reigned from Adam unto Moses, even over them also who have not sinned, after the similitude of the transgression of Adam, who is a figure of him who was to come.  
 **15** But not as the offence, so also the gift. For if by the offence of one, many died: much more the grace of God and the gift, by the grace of one man, Jesus Christ, hath abounded unto many.  
 **16** And not as it was by one sin, so also is the gift. For judgment indeed was by one unto condemnation: but grace is of many offences unto justification.  
 **17** For if by one man's offence death reigned through one; much more they who receive abundance of grace and of the gift and of justice shall reign in life through one, Jesus Christ.  
 **18** Therefore, as by the offence of one, unto all men to condemnation: so also by the justice of one, unto all men to justification of life.  
 **19** For as by the disobedience of one man, many were made sinners: so also by the obedience of one, many shall be made just.  
-**20** Now the law entered in that sin might abound. And where sin abounded, grace did more abound. to abound: but that it so happened through man's perversity, taking occasion of sinning more, from the prohibition of sin.  
+**20** Now the law entered in that sin might abound. And where sin abounded, grace did more abound.  
 **21** That as sin hath reigned to death: so also grace might reign by justice unto life everlasting, through Jesus Christ our Lord.  
 
 ---
@@ -209,10 +209,10 @@ format: markdown
 **3** Know you not that all we who are baptized in Christ Jesus are baptized in his death?  
 **4** For we are buried together with him by baptism into death: that, as Christ is risen from the dead by the glory of the Father, so we also may walk in newness of life.  
 **5** For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection.  
-**6** Knowing this, that our old man is crucified with him, that the body of sin may be destroyed, to the end that we may serve sin no longer. concupiscence, coming to us from Adam, is called our old man, as our state, reformed in and by Christ, is called the new man. And the vices and sins, which then ruled in us are named the body of sin.  
+**6** Knowing this, that our old man is crucified with him, that the body of sin may be destroyed, to the end that we may serve sin no longer.  
 **7** For he that is dead is justified from sin.  
 **8** Now, if we be dead with Christ, we believe that we shall live also together with Christ.  
-**9** Knowing that Christ, rising again from the dead, dieth now no more.  
+**9** Knowing that Christ, rising again from the dead, dieth now no more. Death shall no more have dominion over him.  
 **10** For in that he died to sin, he died once: but in that he liveth, he liveth unto God.  
 **11** So do you also reckon that you are dead to sin, but alive unto God, in Christ Jesus our Lord.  
 **12** Let not sin therefore reign in your mortal body, so as to obey the lusts thereof.  
@@ -222,7 +222,7 @@ format: markdown
 **16** Know you not that to whom you yield yourselves servants to obey, his servants you are whom you obey, whether it be of sin unto death or of obedience unto justice.  
 **17** But thanks be to God, that you were the servants of sin but have obeyed from the heart unto that form of doctrine into which you have been delivered.  
 **18** Being then freed from sin, we have been made servants of justice.  
-**19** I speak an human thing, because of the infirmity of your flesh. unto iniquity: so now yield your members to serve justice, unto sanctification.  
+**19** I speak an human thing, because of the infirmity of your flesh. For as you have yielded your members to serve uncleanness and iniquity, unto iniquity: so now yield your members to serve justice, unto sanctification.  
 **20** For when you were the servants of sin, you were free men to justice.  
 **21** What fruit therefore had you then in those things of which you are now ashamed? For the end of them is death.  
 **22** But now being made free from sin and become servants to God, you have your fruit unto sanctification, and the end life everlasting.  
@@ -239,14 +239,14 @@ format: markdown
 **5** For when we were in the flesh, the passions of sins, which were by the law, did work in our members, to bring forth fruit unto death.  
 **6** But now we are loosed from the law of death wherein we were detained; so that we should serve in newness of spirit, and not in the oldness of the letter.  
 **7** What shall we say, then? Is the law sin? God forbid! But I do not know sin, but by the law. For I had not known concupiscence, if the law did not say: Thou shalt not covet.  
-**8** But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead. because it is from sin, and leads to sin, which was asleep before, was weakened by the prohibition: the law not being the cause thereof, nor properly giving occasion to it: but occasion being taken by our corrupt nature to resist the commandment laid upon us.  
+**8** But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.  
 **9** And I lived some time without the law. But when the commandment came, sin revived,  
 **10** And I died. And the commandment that was ordained to life, the same was found to be unto death to me.  
 **11** For sin, taking occasion by the commandment, seduced me: and by it killed me.  
 **12** Wherefore the law indeed is holy: and the commandment holy and just and good.  
-**13** Was that then which is good made death unto me? God forbid! But sin, that it may appear sin, by that which is good, wrought death in me: that sin, by the commandment, might become sinful above measure. it is, which is even capable to take occasion from that which is good, to work death.  
+**13** Was that then which is good made death unto me? God forbid! But sin, that it may appear sin, by that which is good, wrought death in me: that sin, by the commandment, might become sinful above measure.  
 **14** For we know that the law is spiritual. But I am carnal, sold under sin.  
-**15** For that which I work, I understand not. For I do not that good which I will: but the evil which I hate, that I do. disorderly motions of passion and concupiscence; which oftentimes in us get the start of reason: and by means of which even good men suffer in the inferior appetite what their will abhors: and are much hindered in the accomplishment of the desires of their spirit and mind. But these evil motions, (though they are called the law of sin, because they come from original sin, and violently tempt and incline to sin,) as long as the will does not consent to them, are not sins, because they are not voluntary.  
+**15** For that which I work, I understand not. For I do not that good which I will: but the evil which I hate, that I do.  
 **16** If then I do that which I will not, I consent to the law, that it is good.  
 **17** Now then it is no more I that do it: but sin that dwelleth in me.  
 **18** For I know that there dwelleth not in me, that is to say, in my flesh, that which is good. For to will is present with me: but to accomplish that which is good, I find not.  
@@ -277,10 +277,10 @@ format: markdown
 **13** For if you live according to the flesh, you shall die: but if by the Spirit you mortify the deeds of the flesh, you shall live.  
 **14** For whosoever are led by the Spirit of God, they are the sons of God.  
 **15** For you have not received the spirit of bondage again in fear: but you have received the spirit of adoption of sons, whereby we cry: Abba (Father).  
-**16** For the Spirit himself giveth testimony to our spirit that we are the sons of God. peace of conscience, which the children of God experience, they have a kind of testimony of God's favour; by which they are much strengthened in their hope of their justification and salvation; but yet not so as to pretend to an absolute assurance: which is not usually granted in this mortal life: during which we are taught to work out our salvation with fear and trembling. Phil. 2.12. And that he that thinketh himself to stand, must take heed lest he fall. 1 Cor. 10.12. See also, Rom. 11.20, 21, 22.  
+**16** For the Spirit himself giveth testimony to our spirit that we are the sons of God.  
 **17** And if sons, heirs also; heirs indeed of God and joint heirs with Christ: yet so, if we suffer with him, that we may be also glorified with him.  
 **18** For I reckon that the sufferings of this time are not worthy to be compared with the glory to come that shall be revealed in us.  
-**19** For the expectation of the creature waiteth for the revelation of the sons of God. creation, made for the use and service of man; and, by occasion of his sin, made subject to vanity, that is, to a perpetual instability, tending to corruption and other defects; so that by a figure of speech it is here said to groan and be in labour, and to long for its deliverance, which is then to come, when sin shall reign no more; and God shall raise the bodies and unite them to their souls never more to separate, and to be in everlasting happiness in heaven.  
+**19** For the expectation of the creature waiteth for the revelation of the sons of God.  
 **20** For the creature was made subject to vanity: not willingly, but by reason of him that made it subject, in hope.  
 **21** Because the creature also itself shall be delivered from the servitude of corruption, into the liberty of the glory of the children of God.  
 **22** For we know that every creature groaneth and travaileth in pain, even till now.  
@@ -290,7 +290,7 @@ format: markdown
 **26** Likewise, the Spirit also helpeth our infirmity. For, we know not what we should pray for as we ought: but the Spirit himself asketh for us with unspeakable groanings, Asketh for us... The Spirit is said to ask, and desire for the saints, and to pray in us; inasmuch as he inspireth prayer, and teacheth us to pray.  
 **27** And he that searcheth the hearts knoweth what the Spirit desireth: because he asketh for the saints according to God.  
 **28** And we know that to them that love God all things work together unto good: to such as, according to his purpose, are called to be saints.  
-**29** For whom he foreknew, he also predestinated to be made conformable to the image of his Son: that he might be the Firstborn amongst many brethren. elect should be conformable to the image of his Son. We must not here offer to pry into the secrets of God's eternal election; only firmly believe that all our good, in time and eternity, flows originally from God's free goodness; and all our evil from man's free will.  
+**29** For whom he foreknew, he also predestinated to be made conformable to the image of his Son: that he might be the Firstborn amongst many brethren.  
 **30** And whom he predestinated, them he also called. And whom he called, them he also justified. And whom he justified, them he also glorified.  
 **31** What shall we then say to these things? If God be for us, who is against us?  
 **32** He that spared not even his own Son, but delivered him up for us all, how hath he not also, with him, given us all things?  
@@ -308,31 +308,31 @@ format: markdown
 
 **1** I speak the truth in Christ: I lie not, my conscience bearing me witness in the Holy Ghost:  
 **2** That I have great sadness and continual sorrow in my heart.  
-**3** For I wished myself to be an anathema from Christ, for my brethren: who are my kinsmen according to the flesh: the Jews was so great, that he was willing to suffer even an anathema, or curse, for their sake; or any evil that could come upon him, without his offending God.  
+**3** For I wished myself to be an anathema from Christ, for my brethren: who are my kinsmen according to the flesh:  
 **4** Who are Israelites: to whom belongeth the adoption as of children and the glory and the testament and the giving of the law and the service of God and the promises:  
 **5** Whose are the fathers and of whom is Christ, according to the flesh, who is over all things, God blessed for ever. Amen.  
-**6** Not as though the word of God hath miscarried. For all are not Israelites that are of Israel. he heretofore preferred Isaac before Ismael, and Jacob before Esau, so he could, and did by the like free grace, election and mercy, raise up spiritual children by faith to Abraham and Israel, from among the Gentiles, and prefer them before the carnal Jews.  
+**6** Not as though the word of God hath miscarried. For all are not Israelites that are of Israel.  
 **7** Neither are all they that are the seed of Abraham, children: but in Isaac shall thy seed be called.  
 **8** That is to say, not they that are the children of the flesh are the children of God: but they that are the children of the promise are accounted for the seed.  
 **9** For this is the word of promise: According to this time will I come. And Sara shall have a son.  
 **10** And not only she. But when Rebecca also had conceived at once of Isaac our father.  
-**11** For when the children were not yet born, nor had done any good or evil (that the purpose of God according to election might stand): of the younger to the elder, the drift of the apostle is, to shew that God, in his election, mercy and grace, is not tied to any particular nation, as the Jews imagined; nor to any prerogative of birth, or any forgoing merits. For as, antecedently to his grace, he sees no merits in any, but finds all involved in sin, in the common mass of condemnation; and all children of wrath: there is no one whom he might not justly leave in that mass; so that whomsoever he delivers from it, he delivers in his mercy: and whomsoever he leaves in it, he leaves in his justice. to pardon one, whilst he suffers justice to take place in the execution of the other.  
+**11** For when the children were not yet born, nor had done any good or evil (that the purpose of God according to election might stand):  
 **12** Not of works, but of him that calleth, it was said to her: The elder shall serve the younger.  
 **13** As it is written: Jacob I have loved: but Esau I have hated.  
 **14** What shall we say then? Is there injustice with God? God forbid!  
 **15** For he saith to Moses: I will have mercy on whom I will have mercy. And I will shew mercy to whom I will shew mercy.  
-**16** So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy. own, abstracting from the grace of God.  
-**17** For the scripture saith to Pharao: To this purpose have I raised thee, that I may shew my power in thee and that my name may be declared throughout all the earth. sin, and so be damned; but foreseeing his obstinacy in sin, and the abuse of his own free will, he raised him up to be a mighty king, to make a more remarkable example of him: and that his power might be better known, and his justice in punishing him, published throughout the earth.  
-**18** Therefore he hath mercy on whom he will. And whom he will, he hardeneth. withholding his grace, and so leaving him in his sin, in punishment of his past demerits.  
+**16** So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.  
+**17** For the scripture saith to Pharao: To this purpose have I raised thee, that I may shew my power in thee and that my name may be declared throughout all the earth.  
+**18** Therefore he hath mercy on whom he will. And whom he will, he hardeneth.  
 **19** Thou wilt say therefore to me: Why doth he then find fault? For who resisteth his will?  
 **20** O man, who art thou that repliest against God? Shall the thing formed say to him that formed it: Why hast thou made me thus?  
-**21** Or hath not the potter power over the clay, of the same lump, to make one vessel unto honour and another unto dishonour? dispute with our Maker, nor to reason with him why he does not give as uch grace to one as to another; for since the whole lump of our clay is vitiated by sin, it is owing to his goodness and mercy, that he makes out of it so many vessels of honor; and it is no more than just, that others, in punishment of their unrepented sins, should be given up to be vessels of dishonor.  
+**21** Or hath not the potter power over the clay, of the same lump, to make one vessel unto honour and another unto dishonour?  
 **22** What if God, willing to shew his wrath and to make his power known, endured with much patience vessels of wrath, fitted for destruction,  
 **23** That he might shew the riches of his glory on the vessels of mercy which he hath prepared unto glory?  
 **24** Even us, whom also he hath called, not only of the Jews but also of the Gentiles.  
 **25** As in Osee he saith: I will call that which was not my people, my people; and her that was not beloved, beloved; and her that had not obtained mercy; one that hath obtained mercy.  
 **26** And it shalt be in the place where it was said unto them: you are not my people; there they shall be called the sons of the living God.  
-**27** And Isaias cried out concerning Israel: If the number of the children of Israel be as the sand of the sea, a remnant shall be saved. shall be converted and saved. How perversely is this text quoted for the salvation of men of all religions, when it speaks only of the converts of the children of Israel!  
+**27** And Isaias cried out concerning Israel: If the number of the children of Israel be as the sand of the sea, a remnant shall be saved.  
 **28** For he shall finish his word and cut it short in justice: because a short word shall the Lord make upon the earth.  
 **29** And Isaias foretold: Unless the Lord of Sabbath had left us a seed, we had been made as Sodom and we had been like unto Gomorrha.  
 **30** What then shall we say? That the Gentiles who followed not after justice have attained to justice, even the justice that is of faith.  
@@ -346,19 +346,19 @@ format: markdown
 
 **1** Brethren, the will of my heart, indeed and my prayer to God is for them unto salvation.  
 **2** For I bear them witness that they have a zeal of God, but not according to knowledge.  
-**3** For they, not knowing the justice of God and seeking to establish their own, have not submitted themselves to the justice of God. pretended to by their own strength, or by the observance of the law, without faith in Christ.  
+**3** For they, not knowing the justice of God and seeking to establish their own, have not submitted themselves to the justice of God.  
 **4** For the end of the law is Christ: unto justice to everyone that believeth.  
 **5** For Moses wrote that the justice which is of the law: The man that shall do it shall live by it.  
 **6** But the justice which is of faith, speaketh thus: Say not in thy heart: Who shall ascend into heaven? That is to bring Christ down;  
 **7** Or who shall descend into the deep? That is, to bring up Christ again from the dead.  
 **8** But what saith the scripture? The word is nigh thee; even in thy mouth and in thy heart. This is the word of faith, which we preach.  
-**9** For if thou confess with thy mouth the Lord Jesus and believe in thy heart that God hath raised him up from the dead, thou shalt be saved. name of the Lord (ver. 13) is not barely the professing a belief in the person of Christ; but moreover, implies a belief of his whole doctrine, and an obedience to his law; without which, the calling him Lord will save no man. St. Matt. 7.21.  
+**9** For if thou confess with thy mouth the Lord Jesus and believe in thy heart that God hath raised him up from the dead, thou shalt be saved.  
 **10** For, with the heart, we believe unto justice: but, with the mouth, confession is made unto salvation.  
 **11** For the scripture saith: Whosoever believeth in him shall not be confounded.  
 **12** For there is no distinction of the Jew and the Greek: for the same is Lord over all, rich unto all that call upon him.  
 **13** For whosoever shall call upon the name of the Lord shall be saved.  
-**14** How then shall they call on him in whom they have not believed? they hear without a preacher?  
-**15** And how shall they preach unless they be sent, as it is written: them that bring glad tidings of good things? teachers, who have all usurped to themselves the ministry without any lawful mission, derived by succession from the apostles, to whom Christ said, John 20.21, As my Father hath sent me, I also send you.  
+**14** How then shall they call on him in whom they have not believed? Or how shall they believe him of whom they have not heard? And how shall they hear without a preacher?  
+**15** And how shall they preach unless they be sent, as it is written: How beautiful are the feet of them that preach the gospel of peace, of them that bring glad tidings of good things?  
 **16** But all do not obey the gospel. For Isaias saith: Lord, who hath believed our report?  
 **17** Faith then cometh by hearing; and hearing by the word of Christ.  
 **18** But I say: Have they not heard? Yes, verily: Their sound hath gone forth into all the earth: and their words unto the ends of the whole world.  
@@ -372,15 +372,15 @@ format: markdown
 
 **1** I say then: Hath God cast away his people? God forbid! For I also am an Israelite of the seed of Abraham, of the tribe of Benjamin.  
 **2** God hath not cast away his people which he foreknew. Know you not what the scripture saith of Elias, how he calleth on God against Israel?  
-**3** Lord, they have slain thy prophets, they have dug down thy altars.  
-**4** But what saith the divine answer to him? I have left me seven thousand men that have not bowed their knees to Baal. perpetual visibility of the church of Christ; the more, because however the number of the faithful might be abridged by the persecution of Jezabel in the kingdom of the ten tribes, the church was at the same time in a most flourishing condition (under Asa and Josaphat) in the kingdom of Judah.  
+**3** Lord, they have slain thy prophets, they have dug down thy altars. And I am left alone: and they seek my life.  
+**4** But what saith the divine answer to him? I have left me seven thousand men that have not bowed their knees to Baal.  
 **5** Even so then, at this present time also, there is a remnant saved according to the election of grace.  
-**6** And if by grace, it is not now by works: otherwise grace is no more grace. by nature, without faith and grace, salvation would not be a grace or favour, but a debt; but such dead works are indeed of no value in the sight of God towards salvation. It is not the same with regard to works done with, and by, God's grace; for to such works as these, he has promised eternal salvation.  
+**6** And if by grace, it is not now by works: otherwise grace is no more grace.  
 **7** What then? That which Israel sought, he hath not obtained: but the election hath obtained it. And the rest have been blinded.  
-**8** As it is written: God hath given them the spirit of insensibility; eyes that they should not see and ears that they should not hear, until this present day. his permission, and by withdrawing his grace in punishment of their obstinacy.  
+**8** As it is written: God hath given them the spirit of insensibility; eyes that they should not see and ears that they should not hear, until this present day.  
 **9** And David saith: Let their table be made a snare and a trap and a stumbling block and a recompense unto them.  
 **10** Let their eyes be darkened, that they may not see: and bow down their back always.  
-**11** I say then: Have they so stumbled, that they should fall? God forbid! But by their offence salvation is come to the Gentiles, that they may be emulous of them. without remedy cast off for ever; but in part only, (many thousands of them having been at first converted,) and for a time; which fall of theirs, God has been pleased to turn to the good of the Gentiles.  
+**11** I say then: Have they so stumbled, that they should fall? God forbid! But by their offence salvation is come to the Gentiles, that they may be emulous of them.  
 **12** Now if the offence of them be the riches of the world and the diminution of them the riches of the Gentiles: how much more the fulness of them?  
 **13** For I say to you, Gentiles: As long indeed as I am the apostle of the Gentiles, I will honour my ministry,  
 **14** If, by any means, I may provoke to emulation them who are my flesh and may save some of them.  
@@ -389,19 +389,19 @@ format: markdown
 **17** And if some of the branches be broken and thou, being a wild olive, art ingrafted in them and art made partaker of the root and of the fatness of the olive tree:  
 **18** Boast not against the branches. But if thou boast, thou bearest not the root: but the root thee.  
 **19** Thou wilt say then: The branches were broken off that I might be grafted in.  
-**20** Well: because of unbelief they were broken off. But thou standest by faith. Be not highminded, but fear. he who standeth by faith may fall from it; and therefore must live in fear, and not in the vain presumption and security of modern sectaries.  
+**20** Well: because of unbelief they were broken off. But thou standest by faith. Be not highminded, but fear.  
 **21** For if God hath not spared the natural branches, fear lest perhaps also he spare not thee.  
-**22** See then the goodness and the severity of God: towards them indeed that are fallen, the severity; but towards thee, the goodness of God, if thou abide in goodness. Otherwise thou also shalt be cut off. not to be proud, nor to glory against the Jews: but to take occasion rather from their fall to fear and to be humble, lest they be cast off. secured by so many divine promises in holy writ; but that each one in particular may fall; and therefore all in general are to be admonished to beware of that, which may happen to any one in particular.  
+**22** See then the goodness and the severity of God: towards them indeed that are fallen, the severity; but towards thee, the goodness of God, if thou abide in goodness. Otherwise thou also shalt be cut off.  
 **23** And they also, if they abide not still in unbelief, shall be grafted in: for God is able to graft them in again.  
 **24** For if thou were cut out of the wild olive tree, which is natural to thee; and, contrary to nature, wert grafted into the good olive tree: how much more shall they that are the natural branches be grafted into their own olive tree?  
 **25** For I would not have you ignorant, brethren, of this mystery (lest you should be wise in your own conceits) that blindness in part has happened in Israel, until the fulness of the Gentiles should come in.  
 **26** And so all Israel should be saved, as it is written: There shall come out of Sion, he that shall deliver and shall turn away ungodliness from Jacob.  
 **27** And this is to them my covenant: when I shall take away their sins.  
 **28** As concerning the gospel, indeed, they are enemies for your sake: but as touching the election, they are most dear for the sake of the fathers.  
-**29** For the gifts and the calling of God are without repentance. himself of them; for the promises of God are unchangeable, nor can he repent of conferring his gifts.  
+**29** For the gifts and the calling of God are without repentance.  
 **30** For as you also in times past did not believe God, but now have obtained mercy, through their unbelief:  
 **31** So these also now have not believed, for your mercy, that they also may obtain mercy.  
-**32** For God hath concluded all in unbelief, that he may have mercy on all. their own free will; so that their calling and election is purely owing to his mercy.  
+**32** For God hath concluded all in unbelief, that he may have mercy on all.  
 **33** O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways!  
 **34** For who hath known the mind of the Lord? Or who hath been his counsellor?  
 **35** Or who hath first given to him, and recompense shall be made him?  
@@ -439,7 +439,7 @@ format: markdown
 
 **1** Let every soul be subject to higher powers. For there is no power but from God: and those that are ordained of God.  
 **2** Therefore, he that resisteth the power resisteth the ordinance of God. And they that resist purchase to themselves damnation.  
-**3** For princes are not a terror to the good work, but to the evil. thou shalt have praise from the same.  
+**3** For princes are not a terror to the good work, but to the evil. Wilt thou then not be afraid of the power? Do that which is good: and thou shalt have praise from the same.  
 **4** For he is God's minister to thee, for good. But if thou do that which is evil, fear: for he beareth not the sword in vain. For he is God's minister: an avenger to execute wrath upon him that doth evil.  
 **5** Wherefore be subject of necessity: not only for wrath, but also for conscience' sake.  
 **6** For therefore also you pay tribute. For they are the ministers of God, serving unto this purpose.  
@@ -457,10 +457,10 @@ format: markdown
 ## Chapter 14
 
 **1** Now him that is weak in faith, take unto you: not in disputes about thoughts.  
-**2** For one believeth that he may eat all things: but he that is weak, let him eat herbs. unclean meats, prescribed by the law of Moses: which was now no longer obligatory. Some weak Christians, converted from among the Jews, as we here gather from the apostle, made a scruple of eating such meats as were deemed unclean by the law; such as swine's flesh, etc., which the stronger sort of Christians did eat without scruple. Now the apostle, to reconcile them together, exhorts the former not to judge or condemn the latter, using their Christian liberty; and the latter, to take care not to despise or scandalize their weaker brethren, either by bringing them to eat what in their conscience they think they should not, or by giving them such offence, as to endanger the driving them thereby from the Christian religion.  
+**2** For one believeth that he may eat all things: but he that is weak, let him eat herbs.  
 **3** Let not him that eateth despise him that eateth not: and he that eateth not, let him not judge him that eateth. For God hath taken him to him.  
 **4** Who art thou that judgest another man's servant? To his own lord he standeth or falleth. And he shall stand: for God is able to make him stand.  
-**5** For one judgeth between day and day: and another judgeth every day. Let every man abound in his own sense. law.  
+**5** For one judgeth between day and day: and another judgeth every day. Let every man abound in his own sense.  
 **6** He that regardeth the day regardeth it unto the Lord. And he that eateth eateth to the Lord: for he giveth thanks to God. And he that eateth not, to the Lord he eateth not and giveth thanks to God.  
 **7** For none of us liveth to himself: and no man dieth to himself.  
 **8** For whether we live, we live unto the Lord: or whether we die, we die unto the Lord. Therefore, whether we live or whether we die, we are the Lord's.  
@@ -478,7 +478,7 @@ format: markdown
 **20** Destroy not the work of God for meat. All things indeed are clean: but it is evil for that man who eateth with offence.  
 **21** It is good not to eat flesh and not to drink wine: nor any thing whereby thy brother is offended or scandalized or made weak.  
 **22** Hast thou faith? Have it to thyself before God. Blessed is he that condemneth not himself in that which he alloweth.  
-**23** But he that discerneth, if he eat, is condemned; because not of faith. For all that is not of faith is sin. his conscience, what he deems unclean. Of faith... By faith is here understood judgment and conscience: to act against which is always a sin.  
+**23** But he that discerneth, if he eat, is condemned; because not of faith. For all that is not of faith is sin.  
 
 ---
 
@@ -491,7 +491,7 @@ format: markdown
 **5** Now the God of patience and of comfort grant you to be of one mind, one towards another, according to Jesus Christ:  
 **6** That with one mind and with one mouth you may glorify God and the Father of our Lord Jesus Christ.  
 **7** Wherefore, receive one another, as Christ also hath received you, unto the honour of God.  
-**8** For I say that Christ Jesus was minister of the circumcision for the truth of God, to confirm the promises made unto the fathers: ministry towards the Jews, the people of the circumcision.  
+**8** For I say that Christ Jesus was minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:  
 **9** But that the Gentiles are to glorify God for his mercy, as it is written: Therefore will I confess to thee, O Lord, among the Gentiles and will sing to thy name.  
 **10** And again he saith: rejoice ye Gentiles, with his people.  
 **11** And again: praise the Lord, all ye Gentiles: and magnify him, all ye people.  

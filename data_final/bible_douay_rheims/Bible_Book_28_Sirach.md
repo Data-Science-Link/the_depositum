@@ -205,7 +205,7 @@ format: markdown
 **15** They that serve her, shall be servants to the holy one: and God loveth them that love her.  
 **16** He that hearkeneth to her, shall judge nations: and he that looketh upon her, shall remain secure.  
 **17** If he trust to her, he shall inherit her, and his generation shall be in assurance.  
-**18** For she walketh with him in temptation, and at the first she chooseth him. for her favourite, she will try them by leading them through contradictions, afflictions, and temptations, the usual noviceship of the children of God.  
+**18** For she walketh with him in temptation, and at the first she chooseth him.  
 **19** She will bring upon him fear and dread and trial: and she will scourge him with the affliction of her discipline, till she try him by her laws, and trust his soul.  
 **20** Then she will strengthen him, and make a straight way to him, and give him joy,  
 **21** And will disclose her secrets to him, and will heap upon him treasures of knowledge and understanding of justice.  
@@ -308,7 +308,7 @@ format: markdown
 **12** Laugh no man to scorn in the bitterness of his soul: for there is one that humbleth and exalteth, God who seeth all.  
 **13** Devise not a lie against thy brother: neither do the like against thy friend.  
 **14** Be not willing to make any manner of lie: for the custom thereof is not good.  
-**15** Be not full of words in a multitude of ancients, and repeat not the word in thy prayer. aim more at fervour of heart.  
+**15** Be not full of words in a multitude of ancients, and repeat not the word in thy prayer.  
 **16** Hate not laborious works, nor husbandry ordained by the most High.  
 **17** Number not thyself among the multitude of the disorderly.  
 **18** Remember wrath, for it will not tarry long.  
@@ -326,11 +326,11 @@ format: markdown
 **30** Remember that thou hadst not been born but through them: and make a return to them as they have done for thee.  
 **31** With all thy soul fear the Lord, and reverence his priests.  
 **32** With all thy strength love him that made thee: and forsake not his ministers.  
-**33** Honour God with all thy soul and give honour to the priests, and purify thyself with thy arms. here signified the right shoulders of the victims, which by the law fell to the priests. See ver. 35.  
+**33** Honour God with all thy soul and give honour to the priests, and purify thyself with thy arms.  
 **34** Give them their portion, as it is commanded thee, of the firstfruits and of purifications: and for thy negligences purify thyself with a few.  
 **35** Offer to the Lord the gift of thy shoulders, and the sacrifice of sanctification, and the firstfruits of the holy things:  
 **36** And stretch out thy hand to the poor, that thy expiation and thy blessing may be perfected.  
-**37** A gift hath grace in the sight of all the living, and restrain not grace from the dead. the benefit of alms, prayers, and sacrifices. Such was the doctrine and practice of the church of God even in the time of the Old Testament. And the same has always been continued from the days of the apostles in the church of the New Testament.  
+**37** A gift hath grace in the sight of all the living, and restrain not grace from the dead.  
 **38** Be not wanting in comforting them that weep, and walk with them that mourn.  
 **39** Be not slow to visit the sick: for by these things thou shalt be confirmed in love.  
 **40** In all thy works remember thy last end, and thou shalt never sin.  
@@ -449,7 +449,7 @@ format: markdown
 **12** Again, there is an inactive man that wanteth help, is very weak in ability, and full of poverty:  
 **13** Yet the eye of God hath looked upon him for good, and hath lifted him up from his low estate, and hath exalted his head: and many have wondered at him, and have glorified God.  
 **14** Good things and evil, life and death, poverty and riches, are from God.  
-**15** Wisdom and discipline, and the knowledge of the law are with God.  
+**15** Wisdom and discipline, and the knowledge of the law are with God. Love and the ways of good things are with him.  
 **16** Error and darkness are created with sinners: and they that glory in evil things, grow old in evil.  
 **17** The gift of God abideth with the just, and his advancement shall have success for ever.  
 **18** There is one that is enriched by living sparingly, and this is the portion of his reward.  
@@ -548,7 +548,7 @@ format: markdown
 **9** The eye of the covetous man is insatiable in his portion of iniquity: he will not be satisfied till he consume his own soul, drying it up.  
 **10** An evil eye is towards evil things: and he shall not have his fill of bread, but shall be needy and pensive at his own table.  
 **11** My son, if thou have any thing, do good to thyself, and offer to God worthy offerings.  
-**12** Remember that death is not slow, and that the covenant of hell hath been shewn to thee: for the covenant of this world shall surely die. regions of death.  
+**12** Remember that death is not slow, and that the covenant of hell hath been shewn to thee: for the covenant of this world shall surely die.  
 **13** Do good to thy friend before thou die, and according to thy ability, stretching out thy hand give to the poor.  
 **14** Defraud not thyself of the good day, and let not the part of a good gift overpass thee.  
 **15** Shalt thou not leave to others to divide by lot thy sorrows and labours?  
@@ -606,7 +606,7 @@ format: markdown
 **8** The ancient giants did not obtain pardon for their sins, who were destroyed trusting to their own strength:  
 **9** And he spared not the place where Lot sojourned, but abhorred them for the pride of their word.  
 **10** He had not pity on them, destroying the whole nation that extolled themselves in their sins.  
-**11** So did he with the six hundred thousand footmen, who were gathered together in the hardness of their heart: and if one had been stiffnecked, it is a wonder if he had escaped unpunished: he sentenced to die in the wilderness. Num. 14.  
+**11** So did he with the six hundred thousand footmen, who were gathered together in the hardness of their heart: and if one had been stiffnecked, it is a wonder if he had escaped unpunished:  
 **12** For mercy and wrath are with him. He is mighty to forgive, and to pour out indignation:  
 **13** According as his mercy is, so his correction judgeth a man according to his works.  
 **14** The sinner shall not escape in his rapines, and the patience of him that sheweth mercy shall not be put off.  
@@ -653,11 +653,11 @@ format: markdown
 **19** And afterward he shall rise up, and shall render them their reward, to every one upon their own head, and shall turn them down into the bowels of the earth.  
 **20** But to the penitent he hath given the way of justice, and he hath strengthened them that were fainting in patience, and hath appointed to them the lot of truth.  
 **21** Turn to the Lord, and forsake thy sins:  
-**22** Make thy prayer before the face of the Lord, and offend less. of sins.  
+**22** Make thy prayer before the face of the Lord, and offend less.  
 **23** Return to the Lord, and turn away from thy injustice, and greatly hate abomination.  
 **24** And know the justices and judgments of God, and stand firm in the lot set before thee, and in prayer to the most high God.  
-**25** Go to the side of the holy age, with them that live and give praise to God. the holy ones, that follow God and godliness.  
-**26** Tarry not in the error of the ungodly, give glory before death.  
+**25** Go to the side of the holy age, with them that live and give praise to God.  
+**26** Tarry not in the error of the ungodly, give glory before death. Praise perisheth from the dead as nothing.  
 **27** Give thanks whilst thou art living, whilst thou art alive and in health thou shalt give thanks, and shalt praise God, and shalt glory in his mercies.  
 **28** How great is the mercy of the Lord, and his forgiveness to them that turn to him!  
 **29** For all things cannot be in men, because the son of man is not immortal, and they are delighted with the vanity of evil.  
@@ -673,7 +673,7 @@ format: markdown
 **3** For who shall search out his glorious acts?  
 **4** And who shall show forth the power of his majesty? or who shall be able to declare his mercy?  
 **5** Nothing may be taken away, nor added, neither is it possible to find out the glorious works of God.  
-**6** When a man hath done, then shall he begin: and when he leaveth off, he shall be at a loss. man has done all that he can to find out his greatness and boundless perfections, he is still to begin: for what he has found out, is but a mere nothing in comparison with his infinity.  
+**6** When a man hath done, then shall he begin: and when he leaveth off, he shall be at a loss.  
 **7** What is man, and what is his grace? and what is his good, or what is his evil?  
 **8** The number of the days of men at the most are a hundred years, as a drop of water of the sea are they esteemed: and as a pebble of the sand, so are a few years compared to eternity.  
 **9** Therefore God is patient in them, and poureth forth his mercy upon them.  
@@ -708,7 +708,7 @@ format: markdown
 
 **1** A workman that is a drunkard shall not be rich: and he that contemneth small things, shall fall by little and little.  
 **2** Wine and women make wise men fall off, and shall rebuke the prudent:  
-**3** And he that joineth himself to harlots, will be wicked. greater example, and his soul shall be taken away out of the number.  
+**3** And he that joineth himself to harlots, will be wicked. Rottenness and worms shall inherit him, and he shall be lifted up for a greater example, and his soul shall be taken away out of the number.  
 **4** He that is hasty to give credit, is light of heart, and shall be lessened: and he that sinneth against his own soul, shall be despised.  
 **5** He that rejoiceth in iniquity, shall be censured, and he that hateth chastisement, shall have less life: and he that hateth babbling, extinguisheth evil.  
 **6** He that sinneth against his own soul, shall repent: and he that is delighted with wickedness, shall be condemned.  
@@ -722,13 +722,13 @@ format: markdown
 **14** Reprove thy neighbour, for it may be he hath not said it: and if he hath said it, that he may not say it again.  
 **15** Admonish thy friend: for there is often a fault committed.  
 **16** And believe not every word. There is one, that slippeth with the tongue, but not from his heart.  
-**17** For who is there that hath not offended with his tongue?  
+**17** For who is there that hath not offended with his tongue? Admonish thy neighbour before thou threaten him.  
 **18** And give place to the fear of the most High: for the fear of God is all wisdom, and therein is to fear God, and the disposition of the law is in all wisdom.  
 **19** But the learning of wickedness is not wisdom: and the device of sinners is not prudence.  
 **20** There is a subtle wickedness, and the same is detestable: and there is a man that is foolish, wanting in wisdom.  
 **21** Better is a man that hath less wisdom, and wanteth understanding, with the fear of God, than he that aboundeth in understanding, and transgresseth the law of the most High.  
 **22** There is an exquisite subtilty, and the same is unjust.  
-**23** And there is one that uttereth an exact word telling the truth. deceit:  
+**23** And there is one that uttereth an exact word telling the truth. There is one that humbleth himself wickedly, and his interior is full of deceit:  
 **24** And there is one that submitteth himself exceedingly with a great lowliness: and there is one that casteth down his countenance, and maketh as if he did not see that which is unknown:  
 **25** And if he be hindered from sinning for want of power, if he shall find opportunity to do evil, he will do it.  
 **26** A man is known by his look, and a wise man, when thou meetest him, is known by his countenance.  
@@ -806,7 +806,7 @@ format: markdown
 **27** It is the folly of a man to hearken at the door: and a wise man will be grieved with the disgrace.  
 **28** The lips of the unwise will be telling foolish things: but the words of the wise shall be weighed in a balance.  
 **29** The heart of fools is in their mouth: and the mouth of wise men is in their heart.  
-**30** While the ungodly curseth the devil, he curseth his own soul. by sin he takes part with the devil, and is, as it were, his member and subject.  
+**30** While the ungodly curseth the devil, he curseth his own soul.  
 **31** The talebearer shall defile his own soul, and shall be hated by all: and he that shall abide with him shall be hateful: the silent and wise man shall be honoured.  
 
 ---
@@ -822,7 +822,7 @@ format: markdown
 **7** He that teacheth a fool, is like one that glueth a potsherd together.  
 **8** He that telleth a word to him that heareth not, is like one that waketh a man out of a deep sleep.  
 **9** He speaketh with one that is asleep, who uttereth wisdom to a fool: and in the end of the discourse he saith: Who is this?  
-**10** Weep for the dead, for his light hath failed: and weep for the fool, for his understanding faileth. that turns away from God to follow vanity and sin. And what is said by the wise man against fools is meant of such fools as these.  
+**10** Weep for the dead, for his light hath failed: and weep for the fool, for his understanding faileth.  
 **11** Weep but a little for the dead, for he is at rest.  
 **12** For the wicked life of a wicked fool is worse than death.  
 **13** The mourning for the dead is seven days: but for a fool and an ungodly man all the days of their life.  
@@ -851,8 +851,8 @@ format: markdown
 
 ## Chapter 23
 
-**1** O Lord, father, and sovereign ruler of my life, leave me not to their counsel: nor suffer me to fall by them. the foregoing chapter.  
-**2** Who will set scourges over my thoughts, and the discipline of wisdom over my heart, that they spare me not in their ignorances, and that their sins may not appear: scourges and discipline of wisdom may restrain the ignorances, that is, the slips and offences which are usually committed by the tongue and the lips.  
+**1** O Lord, father, and sovereign ruler of my life, leave me not to their counsel: nor suffer me to fall by them.  
+**2** Who will set scourges over my thoughts, and the discipline of wisdom over my heart, that they spare me not in their ignorances, and that their sins may not appear:  
 **3** Lest my ignorances increase, and my offences be multiplied, and my sins abound, and I fall before my adversaries, and my enemy rejoice over me?  
 **4** O Lord, father, and God of my life, leave me not to their devices.  
 **5** Give me not haughtiness of my eyes, and turn away from me all coveting.  
@@ -912,7 +912,7 @@ format: markdown
 **16** And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.  
 **17** I was exalted like a cedar in Libanus, and as a cypress tree on mount Sion.  
 **18** I was exalted like a palm tree in Cades, and as a rose plant in Jericho:  
-**19** As a fair olive tree in the plains, and as a plane-tree by the water in the streets, was I exalted.  
+**19** As a fair olive tree in the plains, and as a plane tree by the water in the streets, was I exalted.  
 **20** I gave a sweet smell like cinnamon, and aromatical balm: I yielded a sweet odour like the best myrrh:  
 **21** And I perfumed my dwelling as storax, and galbanum, and onyx, and aloes, and as the frankincense not cut, and my odour is as the purest balm.  
 **22** I have stretched out my branches as the turpentine tree, and my branches are of honour and grace.  
@@ -927,11 +927,11 @@ format: markdown
 **31** They that explain me shall have life everlasting.  
 **32** All these things are the book of life, and the covenant of the most High, and the knowledge of truth.  
 **33** Moses commanded a law in the precepts of justices, and an inheritance to the house of Jacob, and the promises to Israel.  
-**34** He appointed to David his servant to raise up of him a most mighty king, and sitting on the throne of glory for ever. overflowing river, has enriched the earth with heavenly wisdom.  
+**34** He appointed to David his servant to raise up of him a most mighty king, and sitting on the throne of glory for ever.  
 **35** Who filleth up wisdom as the Phison, and as the Tigris in the days of the new fruits.  
 **36** Who maketh understanding to abound as the Euphrates, who multiplieth it as the Jordan in the time of harvest.  
 **37** Who sendeth knowledge as the light, and riseth up as Gehon in the time of the vintage.  
-**38** Who first hath perfect knowledge of her, and a weaker shall not search her out. perfect knowledge of heavenly wisdom.  
+**38** Who first hath perfect knowledge of her, and a weaker shall not search her out.  
 **39** For her thoughts are more vast than the sea, and her counsels more deep than the great ocean.  
 **40** I, wisdom, have poured out rivers.  
 **41** I, like a brook out of a river of a mighty water; I, like a channel of a river, and like an aqueduct, came out of paradise.  
@@ -1014,7 +1014,7 @@ format: markdown
 **25** At two things my heart is grieved, and the third bringeth anger upon me.  
 **26** A man of war fainting through poverty, and a man of sense despised:  
 **27** And he that passeth over from justice to sin, God hath prepared such an one for the sword.  
-**28** Two sorts of callings have appeared to me hard and dangerous: a merchant is hardly free from negligence: and a huckster shall not be justified from the sins of the lips. because the eager pursuit of the mammon of this world, is apt to make men of that calling forget the great duties of loving God above all things, and their neighbours as themselves.-Ibid. A huckster... Or, a retailer of wine. Men of that profession are both greatly exposed to danger of sin themselves, and are too often accessary to the sins of others.  
+**28** Two sorts of callings have appeared to me hard and dangerous: a merchant is hardly free from negligence: and a huckster shall not be justified from the sins of the lips.  
 
 ---
 
@@ -1042,7 +1042,7 @@ format: markdown
 **20** For as a man that destroyeth his friend, so is he that destroyeth the friendship of his neighbour.  
 **21** And as one that letteth a bird go out of his hand, so hast thou let thy neighbour go, and thou shalt not get him again.  
 **22** Follow after him no more, for he is gone afar off, he is fled, as a roe escaped out of the snare because his soul is wounded.  
-**23** Thou canst no more bind him up. And of a curse there is reconciliation: obtain a reconciliation after a curse, than after disclosing a secret.  
+**23** Thou canst no more bind him up. And of a curse there is reconciliation:  
 **24** But to disclose the secrets of a friend, leaveth no hope to an unhappy soul.  
 **25** He that winketh with the eye forgeth wicked things, and no man will cast him off:  
 **26** In the sight of thy eyes he will sweeten his mouth, and will admire thy words: but at the last he will writhe his mouth, and on thy words he will lay a stumblingblock.  
@@ -1093,7 +1093,7 @@ format: markdown
 
 ## Chapter 29
 
-**1** He that sheweth mercy, lendeth to his neighbour: and he that is stronger in hand, keepeth the commandments. bountiful in lending to his neighbour in his necessity.  
+**1** He that sheweth mercy, lendeth to his neighbour: and he that is stronger in hand, keepeth the commandments.  
 **2** Lend to thy neighbour in the time of his need, and pay thou thy neighbour again in due time.  
 **3** Keep thy word, and deal faithfully with him: and thou shalt always find that which is necessary for thee.  
 **4** Many have looked upon a thing lent as a thing found, and have given trouble to them that helped them.  
@@ -1237,7 +1237,7 @@ format: markdown
 **24** My son, do thou nothing without counsel, and thou shalt not repent when thou hast done.  
 **25** Go not in the way of ruin, and thou shalt not stumble against the stones: trust not thyself to a rugged way, lest thou set a stumblingblock to thy soul.  
 **26** And beware of thy own children, and take heed of them of thy household.  
-**27** In every work of thine regard thy soul in faith: for this is the keeping of the commandments. conscience.  
+**27** In every work of thine regard thy soul in faith: for this is the keeping of the commandments.  
 **28** He that believeth God, taketh heed to the commandments: and he that trusteth in him, shall fare never the worse.  
 
 ---
@@ -1266,7 +1266,7 @@ format: markdown
 **20** Give not to son or wife, brother or friend, power over thee while thou livest; and give not thy estate to another, lest thou repent, and thou entreat for the same.  
 **21** As long as thou livest, and hast breath in thee, let no man change thee.  
 **22** For it is better that thy children should ask of thee, than that thou look toward the hands of thy children.  
-**23** In all thy works keep the pre-eminence. with thy authority.  
+**23** In all thy works keep the pre-eminence.  
 **24** Let no stain sully thy glory. In the time when thou shalt end the days of thy life, and in the time of thy decease, distribute thy inheritance.  
 **25** Fodder, and a wand, and a burden are for an ass: bread, and correction, and work for a slave.  
 **26** He worketh under correction, and seeketh to rest: let his hands be idle, and he seeketh liberty.  
@@ -1371,7 +1371,7 @@ format: markdown
 **20** The belly will devour all meat, yet one is better than another.  
 **21** The palate tasteth venison and the wise heart false speeches.  
 **22** A perverse heart will cause grief, and a man of experience will resist it.  
-**23** A woman will receive every man: yet one daughter is better than another. propose to her to marry, though she does not like him, but marries in obedience to her parents, who make the choice for her.  
+**23** A woman will receive every man: yet one daughter is better than another.  
 **24** The beauty of a woman cheereth the countenance of her husband, and a man desireth nothing more.  
 **25** If she have a tongue that can cure, and likewise mitigate and shew mercy: her husband is not like other men.  
 **26** He that possesseth a good wife, beginneth a possession: she is a help like to himself, and a pillar of rest.  
@@ -1481,7 +1481,7 @@ format: markdown
 **14** Nations shall declare his wisdom, and the church shall shew forth his praise.  
 **15** If he continue, he shall leave a name above a thousand: and if he rest, it shall be to his advantage.  
 **16** I will yet meditate that I may declare: for I am filled as with a holy transport.  
-**17** By a voice he saith: Hear me, ye divine offspring, and bud forth as the rose planted by the brooks of waters. of God: whom he exhorts to bud forth and flourish with virtue.  
+**17** By a voice he saith: Hear me, ye divine offspring, and bud forth as the rose planted by the brooks of waters.  
 **18** Give ye a sweet odour as frankincense.  
 **19** Send forth flowers, as the lily, and yield a smell, and bring forth leaves in grace, and praise with canticles, and bless the Lord in his works.  
 **20** Magnify his name, and give glory to him with the voice of your lips, and with the canticles of your mouths, and with harps, and in praising him, you shall say in this manner:  
@@ -1566,7 +1566,7 @@ format: markdown
 **16** A good life hath its number of days: but a good name shall continue for ever.  
 **17** My children, keep discipline in peace: for wisdom that is hid, and a treasure that is not seen, what profit is there in them both?  
 **18** Better is the man that hideth his folly, than the man that hideth his wisdom.  
-**19** Wherefore have a shame of these things I am now going to speak of. things, which I am now going to mention; for though sometimes shamefacedness is not to be indulged: yet it is often good and necessary: as in the following cases.  
+**19** Wherefore have a shame of these things I am now going to speak of.  
 **20** For it is not good to keep all shamefacedness: and all things do not please all men in opinion.  
 **21** Be ashamed of fornication before father and mother: and of a lie before a governor and a man in power:  
 **22** Of an offence before a prince, and a judge: of iniquity before a congregation and a people:  
@@ -1594,7 +1594,7 @@ format: markdown
 **11** Keep a sure watch over a shameless daughter: lest at anytime she make thee become a laughingstock to thy enemies, and a byword in the city, and a reproach among the people, and she make thee ashamed before all the multitude.  
 **12** Behold not everybody's beauty: and tarry not among women.  
 **13** For from garments cometh a moth, and from a woman the iniquity of a man.  
-**14** For better is the iniquity of a man, than a woman doing a good turn, and a woman bringing shame and reproach. less danger to be apprehended to the soul from the churlishness, or injuries we receive from men, than from the flattering favours and familiarity of women.  
+**14** For better is the iniquity of a man, than a woman doing a good turn, and a woman bringing shame and reproach.  
 **15** I will now remember the works of the Lord, and I will declare the things I have seen. By the words of the Lord are his works.  
 **16** The sun giving light hath looked upon all things, and full of the glory of the Lord is his work.  
 **17** Hath not the Lord made the saints to declare all his wonderful works, which the Lord Almighty hath firmly settled to be established for his glory?  
@@ -1614,7 +1614,7 @@ format: markdown
 
 **1** The firmament on high is his beauty, the beauty of heaven with its glorious shew.  
 **2** The sun when he appeareth shewing forth at his rising, an admirable instrument, the work of the most High.  
-**3** At noon he burneth the earth, and who can abide his burning heat?  
+**3** At noon he burneth the earth, and who can abide his burning heat? As one keeping a furnace in the works of heat:  
 **4** The sun three times as much, burneth the mountains, breathing out fiery vapours, and shining with his beams, he blindeth the eyes.  
 **5** Great is the Lord that made him, and at his words he hath hastened his course.  
 **6** And the moon in all in her season, is for a declaration of times and a sign of the world.  
@@ -1836,7 +1836,7 @@ format: markdown
 **15** And let Nehemias be a long time remembered, who raised up for us our walls that were cast down, and set up the gates and the bars, who rebuilt our houses.  
 **16** No man was born upon earth like Henoch: for he also was taken up from the earth.  
 **17** Nor as Joseph, who was a man born prince of his brethren, the support of his family, the ruler of his brethren, the stay of the people:  
-**18** And his bones were visited, and after death they prophesied. verified the prophetic prediction of Joseph. Gen. 50.  
+**18** And his bones were visited, and after death they prophesied.  
 **19** Seth and Sem obtained glory among men: and above every soul Adam in the beginning,  
 
 ---
@@ -1853,7 +1853,7 @@ format: markdown
 **8** And as the rainbow giving light in bright clouds, and as the flower of roses in the days of the spring, and as the lilies that are on the brink of the water, and as the sweet smelling frankincense in the time of summer.  
 **9** As a bright fire, and frankincense burning in the fire.  
 **10** As a massy vessel of gold, adorned with every precious stone.  
-**11** As an olive tree budding forth, and a cypress tree rearing itself on high, when he put on the robe of glory, and was clothed with the perfection of power. denoting his dignity and authority.  
+**11** As an olive tree budding forth, and a cypress tree rearing itself on high, when he put on the robe of glory, and was clothed with the perfection of power.  
 **12** When he went up to the holy altar, he honoured the vesture of holiness.  
 **13** And when he took the portions out of the hands of the priests, he himself stood by the altar. And about him was the ring of his brethren: and as the cedar planted in mount Libanus,  
 **14** And as branches of palm trees, they stood round about him, and all the sons of Aaron in their glory.  
@@ -1869,7 +1869,7 @@ format: markdown
 **24** And now pray ye to the God of all, who hath done great things in all the earth, who hath increased our days from our mother's womb, and hath done with us according to his mercy.  
 **25** May he grant us joyfulness of heart, and that there be peace in our days in Israel for ever:  
 **26** That Israel may believe that the mercy of God is with us, to deliver us in his days.  
-**27** There are two nations which my soul abhorreth: and the third is no nation: which I hate: persecutors of his people. Such were then the Edomites who abode in mount Seir, the Philistines, and the Samaritans who dwelt in Sichem, and had their schismatical temple in that neighbourhood.  
+**27** There are two nations which my soul abhorreth: and the third is no nation: which I hate:  
 **28** They that sit on mount Seir, and the Philistines, and the foolish people that dwell in Sichem.  
 **29** Jesus the son of Sirach, of Jerusalem, hath written in this book the doctrine of wisdom and instruction, who renewed wisdom from his heart.  
 **30** Blessed is he that is conversant in these good things and he that layeth them up in his heart, shall be wise always.  

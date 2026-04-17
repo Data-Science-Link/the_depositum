@@ -38,9 +38,9 @@ format: markdown
 **7** For God hath not given us the spirit of fear: but of power and of love and of sobriety.  
 **8** Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but labour with the gospel, according to the power of God.  
 **9** Who hath delivered us and called us by his holy calling, not according to our own works, but according to his own purpose and grace, which was given us in Christ Jesus before the times of the world:  
-**10** But is now made manifest by the illumination of our Saviour Jesus Christ, who hath destroyed death and hath brought to light life and incorruption by the gospel. our Saviour.  
+**10** But is now made manifest by the illumination of our Saviour Jesus Christ, who hath destroyed death and hath brought to light life and incorruption by the gospel.  
 **11** Wherein I am appointed a preacher and an apostle and teacher of the Gentiles.  
-**12** For which cause, I also suffer these things: but I am not ashamed. that which I have committed unto him, against that day.  
+**12** For which cause, I also suffer these things: but I am not ashamed. For I know whom I have believed and I am certain that he is able to keep that which I have committed unto him, against that day.  
 **13** Hold the form of sound words which thou hast heard of me: in faith and in the love which is in Christ Jesus.  
 **14** Keep the good thing committed to thy trust by the Holy Ghost who dwelleth in us.  
 **15** Thou knowest this, that all they who are in Asia are turned away from me: of whom are Phigellus and Hermogenes.  
@@ -65,7 +65,7 @@ format: markdown
 **11** A faithful saying: for if we be dead with him, we shall live also with him.  
 **12** If we suffer, we shall also reign with him. If we deny him, he will also deny us.  
 **13** If we believe not, he continueth faithful, he cannot deny himself.  
-**14** Of these things put them in mind, charging them before the Lord. the hearers.  
+**14** Of these things put them in mind, charging them before the Lord. Contend not in words: for it is to no profit, but to the subverting of the hearers.  
 **15** Carefully study to present thyself approved unto God, a workman that needeth not to be ashamed, rightly handling the word of truth.  
 **16** But shun profane and vain babblings: for they grow much towards ungodliness.  
 **17** And their speech spreadeth like a canker: of whom are Hymeneus and Philetus:  
@@ -98,7 +98,7 @@ format: markdown
 **13** But evil men and seducers shall grow worse and worse: erring, and driving into error,  
 **14** But continue thou in those things which thou hast learned and which have been committed to thee. Knowing of whom thou hast learned them:  
 **15** And because from thy infancy thou hast known the holy scriptures which can instruct thee to salvation by the faith which is in Christ Jesus.  
-**16** All scripture, inspired of God, is profitable to teach, to reprove, to correct, to instruct in justice: for all these ends. But, if we would have the whole rule of Christian faith and practice, we must not be content with those Scriptures, which Timothy knew from his infancy, that is, with the Old Testament alone: nor yet with the New Testament, without taking along with it the traditions of the apostles, and the interpretation of the church, to which the apostles delivered both the book, and the true meaning of it.  
+**16** All scripture, inspired of God, is profitable to teach, to reprove, to correct, to instruct in justice:  
 **17** That the man of God may be perfect, furnished to every good work.  
 
 ---
@@ -126,7 +126,7 @@ format: markdown
 **19** Salute Prisca, and Aquila and the household of Onesiphorus.  
 **20** Erastus remained at Corinth. And Trophimus I left sick at Miletus.  
 **21** Make haste to come before winter. Eubulus and Pudens and Linus and Claudia and all the brethren, salute thee.  
-**22** The Lord Jesus Christ be with thy spirit. Grace be with you.  
+**22** The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.  
 
 ---
 

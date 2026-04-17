@@ -48,9 +48,9 @@ format: markdown
 **6** And now here we are praying for you.  
 **7** When Demetrius reigned, in the year one hundred and sixty-nine, we Jews wrote to you in the trouble and violence that came upon us in those years, after Jason withdrew himself from the holy land, and from the kingdom.  
 **8** They burnt the gate, and shed innocent blood: then we prayed to the Lord, and were heard, and we offered sacrifices, and fine flour, and lighted the lamps, and set forth the loaves.  
-**9** And now celebrate ye the days of Scenopegia in the month of Casleu. altar, called here Scenopegia, or feast of tabernacles, from being celebrated with the like solemnity.  
+**9** And now celebrate ye the days of Scenopegia in the month of Casleu.  
 **10** In the year one hundred and eighty-eight, the people that is at Jerusalem, and in Judea, and the senate, and Judas, to Aristobolus, the preceptor of king Ptolemee, who is of the stock of the anointed priests, and to the Jews that are in Egypt, health and welfare.  
-**11** Having been delivered by God out of great dangers, we give him great thanks, forasmuch as we have been in war with such a king. kingdom of the Greeks, for he died in the year 146 of that epoch, (see above 1 Mac. chap. 2., ver. 70, also the note on chap. 1, ver. 2,) but either Judas the eldest son of John Hircanus, or Judas the Essene, renowned for the gift of prophecy, who flourished about that time.  
+**11** Having been delivered by God out of great dangers, we give him great thanks, forasmuch as we have been in war with such a king.  
 **12** For he made numbers of men swarm out of Persia, that have fought against us, and the holy city.  
 **13** For when the leader himself was in Persia, and with him a very great army, he fell in the temple of Nanea, being deceived by the counsel of the priests of Nanea.  
 **14** For Antiochus, with his friends, came to the place as though he would marry her, and that he might receive great sums of money under the title of a dowry.  
@@ -58,7 +58,7 @@ format: markdown
 **16** When Antiochus was come in: and opening a secret entrance of the temple, they cast stones and slew the leader, and them that were with him, and hewed them in pieces; and cutting off their heads, they threw them forth.  
 **17** Blessed be God in all things, who hath delivered up the wicked.  
 **18** Therefore, whereas we purpose to keep the purification of the temple on the five and twentieth day of the month of Casleu, we thought it necessary to signify it to you: that you also may keep the day of Scenopegia, and the day of the fire, that was given when Nehemias offered sacrifice, after the temple and the altar was built.  
-**19** For when our fathers were led into Persia, the priests that then were worshippers of God, took privately the fire from the altar, and hid it in a valley where there was a deep pit without water, and there they kept it safe, so that the place was unknown to all men. the Persian empire.  
+**19** For when our fathers were led into Persia, the priests that then were worshippers of God, took privately the fire from the altar, and hid it in a valley where there was a deep pit without water, and there they kept it safe, so that the place was unknown to all men.  
 **20** But when many years had passed, and it pleased God that Nehemias should be sent by the king of Persia, he sent some of the posterity of those priests that had hid it, to seek for the fire: and as they told us, they found no fire, but thick water.  
 **21** Then he bade them draw it up, and bring it to him: and the priest, Nehemias, commanded the sacrifices that were laid on, to be sprinkled with the same water, both the wood, and the things that were laid upon it.  
 **22** And when this was done, and the time came that the sun shone out, which before was in a cloud, there was a great fire kindled, so that all wondered.  
@@ -70,10 +70,9 @@ format: markdown
 **28** Punish them that oppress us, and that treat us injuriously with pride.  
 **29** Establish thy people in thy holy place, as Moses hath spoken.  
 **30** And the priests sung hymns till the sacrifice was consumed.  
-**31** And when the sacrifice was consumed, Nehemias commanded the water that was left to be poured out upon the great stones.  
 **32** Which being done, there was kindled a flame from them: but it was consumed by the light that shined from the altar.  
 **33** And when this matter became public, it was told to the king of Persia, that in the place where the priests that were led away, had hid the fire, there appeared water, with which Nehemias and they that were with him had purified the sacrifices.  
-**34** And the king considering, and diligently examining the matter, made a temple for it, that he might prove what had happened. the fire was hid, to separate it from profane uses, to the end that it might be respected as a holy place.  
+**34** And the king considering, and diligently examining the matter, made a temple for it, that he might prove what had happened.  
 **35** And when he had proved it, he gave the priests many goods, and divers presents, and he took and distributed them to them with his own hand.  
 **36** And Nehemias called this place Nephthar, which is interpreted purification. But many call it Nephi.  
 
@@ -81,12 +80,11 @@ format: markdown
 
 ## Chapter 2
 
-**1** Now it is found in the descriptions of Jeremias, the prophet, that he commanded them that went into captivity, to take the fire, as it hath been signified, and how he gave charge to them that were carried away into captivity. that is now lost.  
+**1** Now it is found in the descriptions of Jeremias, the prophet, that he commanded them that went into captivity, to take the fire, as it hath been signified, and how he gave charge to them that were carried away into captivity.  
 **2** And how he gave them the law, that they should not forget the commandments of the Lord, and that they should not err in their minds, seeing the idols of gold, and silver, and the ornaments of them.  
 **3** And with other such like speeches, he exhorted them that they would not remove the law from their heart.  
 **4** It was also contained in the same writing, how the prophet, being warned by God, commanded that the tabernacle and the ark should accompany him, till he came forth to the mountain where Moses went up, and saw the inheritance of God.  
 **5** And when Jeremias came thither he found a hollow cave: and he carried in thither the tabernacle, and the ark, and the altar of incense, and so stopped the door.  
-**6** Then some of them that followed him, came up to mark the place: but they could not find it.  
 **7** And when Jeremias perceived it, he blamed them, saying: The place shall be unknown, till God gather together the congregation of the people, and receive them to mercy.  
 **8** And then the Lord will shew these things, and the majesty of the Lord shall appear, and there shall be a cloud as it was also shewed to Moses, and he shewed it when Solomon prayed that the place might be sanctified to the great God.  
 **9** For he treated wisdom in a magnificent manner: and like a wise man, he offered the sacrifice of the dedication, and of the finishing of the temple.  
@@ -96,7 +94,7 @@ format: markdown
 **13** And these same things were set down in the memoirs, and commentaries of Nehemias: and how he made a library, and gathered together out of the countries, the books both of the prophets, and of David, and the epistles of the kings, and concerning the holy gifts.  
 **14** And in like manner Judas also gathered together all such things as were lost by the war we had, and they are in our possession.  
 **15** Wherefore, if you want these things, send some that may fetch them to you.  
-**16** As we are then about to celebrate the purification, we have written unto you: and you shall do well, if you keep the same days. the temple.  
+**16** As we are then about to celebrate the purification, we have written unto you: and you shall do well, if you keep the same days.  
 **17** And we hope that God, who hath delivered his people, and hath rendered to all the inheritance, and the kingdom, and the priesthood, and the sanctuary,  
 **18** As he promised in the law, will shortly have mercy upon us, and will gather us together from every land under heaven into the holy place.  
 **19** For he hath delivered us out of great perils, and hath cleansed the place.  
@@ -107,7 +105,7 @@ format: markdown
 **24** And all such things as have been comprised in five books by Jason, of Cyrene, we have attempted to abridge in one book.  
 **25** For considering the multitude of books, and the difficulty that they find that desire to undertake the narrations of histories, because of the multitude of the matter,  
 **26** We have taken care for those indeed that are willing to read, that it might be a pleasure of mind: and for the studious, that they may more easily commit to memory: and that all that read might receive profit.  
-**27** And as to ourselves indeed, in undertaking this work of abridging, we have taken in hand no easy task; yea, rather a business full of watching and sweat. does not exempt them from labour in seeking out the matter which they are to treat of, and the order and manner in which they are to deliver it. So St. Luke writ the gospel having diligently attained to all things. Luke 1. ver. 3.  
+**27** And as to ourselves indeed, in undertaking this work of abridging, we have taken in hand no easy task; yea, rather a business full of watching and sweat.  
 **28** But as they that prepare a feast, and seek to satisfy the will of others: for the sake of many, we willingly undergo the labour.  
 **29** Leaving to the authors the exact handling of every particular, and as for ourselves, according to the plan proposed, studying to be brief.  
 **30** For as the master builder of a new house must have care of the whole building: but he that taketh care to paint it, must seek out fit things for the adorning of it: so must it be judged of us.  
@@ -157,7 +155,7 @@ format: markdown
 **36** And he testified to all men the works of the great God, which he had seen with his own eyes.  
 **37** And when the king asked Heliodorus, who might be a fit man to be sent yet once more to Jerusalem, he said:  
 **38** If thou hast any enemy, or traitor to thy king dom, send him thither, and thou shalt receive him again scourged, if so be he escape: for there is undoubtedly in that place a certain power of God.  
-**39** For he that hath his dwelling in the heavens, is the visitor and protector of that place, and he striketh and destroyeth them that come to do evil to it.  
+**39** For he that hath his dwelling in the heavens, is the visiter and protector of that place, and he striketh and destroyeth them that come to do evil to it.  
 **40** And the things concerning Heliodorus, and the keeping of the treasury, fell out in this manner.  
 
 ---
@@ -252,7 +250,7 @@ format: markdown
 ## Chapter 6
 
 **1** But not long after the king sent a certain old man of Antioch, to compel the Jews to depart from the laws of their fathers and of God:  
-**2** And to defile the temple that was in Jerusalem, and to call it the temple of Jupiter Olympius: and that in Garazim of Jupiter Hospitalis, according as they were that inhabited the place. originally strangers, the name of Hospitalis (which signifies of or belonging to strangers) was applicable to the idol set up in their temple.  
+**2** And to defile the temple that was in Jerusalem, and to call it the temple of Jupiter Olympius: and that in Garazim of Jupiter Hospitalis, according as they were that inhabited the place.  
 **3** And very bad was this invasion of evils, and grievous to all.  
 **4** For the temple was full of the riot and revellings of the Gentiles: and of men lying with lewd women. And women thrust themselves of their accord into the holy places, and brought in things that were not lawful.  
 **5** The altar also was filled with unlawful things, which were forbidden by the laws.  
@@ -267,11 +265,11 @@ format: markdown
 **14** For, not as with other nations, (whom the Lord patiently expecteth, that when the day of judgment shall come, he may punish them in the fulness of their sins:)  
 **15** Doth he also deal with us, so as to suffer our sins to come to their height, and then take vengeance on us.  
 **16** And therefore he never withdraweth his mercy from us: but though he chastise his people with adversity he forsaketh them not.  
-**17** But let this suffice in a few words for a warning to the readers.  
+**17** But let this suffice in a few words for a warning to the readers. And now we must come to the narration.  
 **18** Eleazar one of the chief of the scribes, a man advanced in years, and of a comely countenance, was pressed to open his mouth to eat swine's flesh.  
 **19** But he, choosing rather a most glorious death than a hateful life, went forward voluntarily to the torment.  
 **20** And considering in what manner he was to come to it, patiently bearing, he determined not to do any unlawful things for the love of life.  
-**21** But they that stood by, being moved with wicked pity, for the old friendship they had with the man, taking him aside, desired that flesh might be brought which it was lawful for him to eat, that he might make as if he had eaten, as the king had commanded, of the flesh of the sacrifice: wicked proposal of saving his life by dissimulation.  
+**21** But they that stood by, being moved with wicked pity, for the old friendship they had with the man, taking him aside, desired that flesh might be brought which it was lawful for him to eat, that he might make as if he had eaten, as the king had commanded, of the flesh of the sacrifice:  
 **22** That by so doing he might be delivered from death; and for the sake of their old friendship with the man, they did him this courtesy.  
 **23** But he began to consider the dignity of his age, and his ancient years, and the inbred honour of his grey head, and his good life and conversation from a child; and he answered without delay, according to the ordinances of the holy law made by God, saying, that he would rather be sent into the other world.  
 **24** For it doth not become our age, said he, to dissemble: whereby many young persons might think that Eleazar, at the age of fourscore and ten years, was gone over to the life of the heathens:  
@@ -291,7 +289,7 @@ format: markdown
 **2** But one of them, who was the eldest, said thus: What wouldst thou ask, or learn of us? we are ready to die, rather than to transgress the laws of God, received from our fathers.  
 **3** Then the king being angry, commanded fryingpans and brazen caldrons to be made hot: which forthwith being heated,  
 **4** He commanded to cut out the tongue of him that had spoken first: and the skin of his head being drawn off, to chop off also the extremities of his hands and feet, the rest of his brethren and his mother looking on.  
-**5** And when he was now maimed in all parts, he commanded him, being yet alive, to be brought to the fire, and to be fried in the fryingpan: and while he was suffering therein long torments, the rest, together with the mother, exhorted one another to die manfully,  
+**6** And when he was now maimed in all parts, he commanded him, being yet alive, to be brought to the fire, and to be fried in the fryingpan: and while he was suffering therein long torments, the rest, together with the mother, exhorted one another to die manfully,  
 **6** Saying: The Lord God will look upon the truth, and will take pleasure in us, as Moses declared in the profession of the canticle; And in his servants he will take pleasure.  
 **7** So when the first was dead after this manner, they brought the next to make him a mocking stock: and when they had pulled off the skin of his head with the hair, they asked him if he would eat, before he were punished throughout the whole body in every limb.  
 **8** But he answered in his own language, and said: I will not do it. Wherefore he also, in the next place, received the torments of the first:  
@@ -341,23 +339,23 @@ format: markdown
 **5** Now when Machabeus had gathered a multitude, he could not be withstood by the heathens: for the wrath of the Lord was turned into mercy.  
 **6** So coming unawares upon the towns and cities, he set them on fire, and taking possession of the most commodious places, he made no small slaughter of the enemies:  
 **7** And especially in the nights he went upon these expeditions, and the fame of his valour was spread abroad every where.  
-**8** Then Philip seeing that the man gained ground by little and little, and that things for the most part succeeded prosperously with him, wrote to Ptolemee, the governor of Celesyria and Phenicia, to send aid to the king's affairs. contend with Judas, especially after the victories he had obtained over Apollonius and Seron. 1 Mac. 3.  
-**9** And he with all speed sent Nicanor, the son of Patroclus, one of his special friends, giving him no fewer than twenty thousand armed men of different nations, to root out the whole race of the Jews, joining also with him Gorgias, a good soldier, and of great experience in matters of war. at the time of the battle.  
+**8** Then Philip seeing that the man gained ground by little and little, and that things for the most part succeeded prosperously with him, wrote to Ptolemee, the governor of Celesyria and Phenicia, to send aid to the king's affairs.  
+**9** And he with all speed sent Nicanor, the son of Patroclus, one of his special friends, giving him no fewer than twenty thousand armed men of different nations, to root out the whole race of the Jews, joining also with him Gorgias, a good soldier, and of great experience in matters of war.  
 **10** And Nicanor purposed to raise for the king the tribute of two thousand talents, that was to be given to the Romans, by making so much money of the captive Jews:  
 **11** Wherefore he sent immediately to the cities upon the sea coast, to invite men together to buy up the Jewish slaves, promising that they should have ninety slaves for one talent, not reflecting on the vengeance which was to follow him from the Almighty.  
 **12** Now when Judas found that Nicanor was coming, he imparted to the Jews that were with him, that the enemy was at hand.  
 **13** And some of them being afraid, and distrusting the justice of God, fled away.  
 **14** Others sold all that they had left, and withal besought the Lord, that he would deliver them from the wicked Nicanor, who had sold them before he came near them:  
 **15** And if not for their sakes, yet for the covenant that he had made with their fathers, and for the sake of his holy and glorious name that was invoked upon them.  
-**16** But Machabeus calling together seven thousand that were with him, exhorted them not to be reconciled to the enemies, nor to fear the multitude of the enemies who came wrongfully against them, but to fight manfully: thousand of them had no arms. 1 Mac. 4.6.  
+**16** But Machabeus calling together seven thousand that were with him, exhorted them not to be reconciled to the enemies, nor to fear the multitude of the enemies who came wrongfully against them, but to fight manfully:  
 **17** Setting before their eyes the injury they had unjustly done the holy place, and also the injury they had done to the city, which had been shamefully abused, besides their destroying the ordinances of the fathers.  
 **18** For, said he, they trust in their weapons, and in their boldness: but we trust in the Almighty Lord, who at a beck can utterly destroy both them that come against us, and the whole world.  
 **19** Moreover, he put them in mind also of the helps their fathers had received from God: and how, under Sennacherib, a hundred and eighty-five thousand had been destroyed.  
-**20** And of the battle that they had fought against the Galatians, in Babylonia; how they, being in all but six thousand, when it came to the point, and the Macedonians, their companions, were at a stand, slew a hundred and twenty thousand, because of the help they had from heaven, and for this they received many favours. poured themselves in upon Asia, in immense multitudes, where also they founded the kingdom of Galatia or Gallo Graecia.  
+**20** And of the battle that they had fought against the Galatians, in Babylonia; how they, being in all but six thousand, when it came to the point, and the Macedonians, their companions, were at a stand, slew a hundred and twenty thousand, because of the help they had from heaven, and for this they received many favours.  
 **21** With these words they were greatly encouraged and disposed even to die for the laws and their country.  
 **22** So he appointed his brethren captains over each division of his army; Simon, and Joseph, and Jonathan, giving to each one fifteen hundred men.  
 **23** And after the holy book had been read to them by Esdras, and he had given them for a watchword, The help of God: himself leading the first band, he joined battle with Nicanor:  
-**24** And the Almighty being their helper, they slew above nine thousand men: and having wounded and disabled the greater part of Nicanor's army, they obliged them to fly. pursuit.  
+**24** And the Almighty being their helper, they slew above nine thousand men: and having wounded and disabled the greater part of Nicanor's army, they obliged them to fly.  
 **25** And they took the money of them that came to buy them, and they pursued them on every side.  
 **26** But they came back for want of time: for it was the day before the sabbath: and therefore they did not continue the pursuit.  
 **27** But when they had gathered together their arms and their spoils, they kept the sabbath: blessing the Lord who had delivered them that day, distilling the beginning of mercy upon them.  
@@ -368,7 +366,7 @@ format: markdown
 **32** They slew also Philarches, who was with Timotheus, a wicked man, who had many ways afflicted the Jews.  
 **33** And when they kept the feast of the victory at Jerusalem, they burnt Callisthenes, that had set fire to the holy gates, who had taken refuge in a certain house, rendering to him a worthy reward for his impieties:  
 **34** But as for that most wicked man, Nicanor, who had brought a thousand merchants to the sale of the Jews,  
-**35** Being, through the help of the Lord, brought down by them, of whom he had made no account, laying aside his garment of glory, fleeing through the midland country, he came alone to Antioch, being rendered very unhappy by the destruction of his army. which he wore through ostentation; he now throws it off, lest he should be known on his flight.  
+**35** Being, through the help of the Lord, brought down by them, of whom he had made no account, laying aside his garment of glory, fleeing through the midland country, he came alone to Antioch, being rendered very unhappy by the destruction of his army.  
 **36** And he that had promised to levy the tribute for the Romans, by the means of the captives of Jerusalem, now professed that the Jews had God for their protector, and therefore they could not be hurt, because they followed the laws appointed by him.  
 
 ---
@@ -387,7 +385,7 @@ format: markdown
 **10** And the man that thought a little before he could reach to the stars of heaven, no man could endure to carry, for the intolerable stench.  
 **11** And by this means, being brought from his great pride, he began to come to the knowledge of himself, being admonished by the scourge of God, his pains increasing every moment.  
 **12** And when he himself could not now abide his own stench, he spoke thus: It is just to be subject to God, and that a mortal man should not equal himself to God.  
-**13** Then this wicked man prayed to the Lord, of whom he was not like to obtain mercy. not for the offence committed against God: but barely on account of his present sufferings.  
+**13** Then this wicked man prayed to the Lord, of whom he was not like to obtain mercy.  
 **14** And the city, to which he was going in haste to lay it even with the ground, and to make it a common burying place, he now desireth to make free:  
 **15** And the Jews, whom he said he would not account worthy to be so much as buried, but would give them up to be devoured by the birds and wild beasts, and would utterly destroy them with their children, he now promiseth to make equal with the Athenians.  
 **16** The holy temple also, which before he had spoiled, he promised to adorn with goodly gifts, and to multiply the holy vessels, and to allow out of his revenues the charges pertaining to the sacrifices.  
@@ -423,7 +421,7 @@ format: markdown
 **12** For Ptolemee, that was called Macer, was determined to be strictly just to the Jews and especially by reason of the wrong that had been done them, and to deal peaceably with them.  
 **13** But being accused for this to Eupator by his friends, and being oftentimes called traitor, because he had left Cyprus, which Philometor had committed to him, and coming over to Antiochus the Illustrious, had revolted also from him, he put an end to his life by poison.  
 **14** But Gorgias, who was governor of the holds, taking with him the strangers, often fought against the Jews.  
-**15** And the Jews that occupied the most commodious holds, received those that were driven out of Jerusalem, and attempted to make war. and were enemies of their country, who joining with the Idumeans or Edomites, kept possession of the strong holds, and from thence annoyed their countrymen.  
+**15** And the Jews that occupied the most commodious holds, received those that were driven out of Jerusalem, and attempted to make war.  
 **16** Then they that were with Machabeus, beseeching the Lord by prayers to be their helper, made a strong attack upon the strong holds of the Idumeans:  
 **17** And assaulting them with great force, won the holds, killed them that came in the way, and slew altogether no fewer than twenty thousand.  
 **18** And whereas some were fled into very strong towers, having all manner of provision to sustain a siege,  
@@ -433,7 +431,7 @@ format: markdown
 **22** So he put these traitors to death, and forthwith took the two towers.  
 **23** And having good success in arms, and all things he took in hand, he slew more than twenty thousand in the two holds.  
 **24** But Timotheus, who before had been overcome by the Jews, having called together a multitude of foreign troops, and assembled horsemen out of Asia, came as though he would take Judea by force of arms.  
-**25** But Machabeus, and they that were with him, when he drew near, prayed to the Lord, sprinkling earth upon their heads, and girding their loins with haircloth,  
+**26** But Machabeus, and they that were with him, when he drew near, prayed to the Lord, sprinkling earth upon their heads, and girding their loins with haircloth,  
 **26** And lying prostrate at the foot of the altar, besought him to be merciful to them, and to be an enemy to their enemies, and an adversary to their adversaries, as the law saith.  
 **27** And so after prayer taking their arms, they went forth further from the city, and when they were come very near the enemies they rested.  
 **28** But as soon as the sun was risen both sides joined battle: the one part having, with their valour, the Lord for a surety of victory, and success: but the other side making their rage their leader in battle.  
@@ -445,7 +443,7 @@ format: markdown
 **34** But they that were within, trusting to the strength of the place, blasphemed exceedingly, and cast forth abominable words.  
 **35** But when the fifth day appeared, twenty young men of them that were with Machabeus, inflamed in their minds, because of the blasphemy, approached manfully to the wall, and pushing forward with fierce courage, got up upon it:  
 **36** Moreover, others also getting up after them, went to set fire to the towers and the gates, and to burn the blasphemers alive.  
-**37** And having for two days together pillaged and sacked the fortress, they killed Timotheus, who was found hid in a certain place: they slew also his brother Chereas, and Apollophanes. different from that Timotheus who is mentioned in the fifth chapter of the first book of Machabees, and of whom there is mention in the following chapter.  
+**37** And having for two days together pillaged and sacked the fortress, they killed Timotheus, who was found hid in a certain place: they slew also his brother Chereas, and Apollophanes.  
 **38** And when this was done, they blessed the Lord with hymns and thanksgiving, who had done great things in Israel, and given them the victory.  
 
 ---
@@ -472,7 +470,7 @@ format: markdown
 **18** Therefore whatsoever things could be reported to the king, I have represented to him: and he hath granted as much as the matter permitted.  
 **19** If, therefore, you will keep yourselves loyal in affairs, hereafter also I will endeavour to be a means of your good.  
 **20** But as concerning other particulars, I have given orders by word both to these, and to them that are sent by me, to commune with you.  
-**21** Fare ye well. In the year one hundred and forty-eight, the four and twentieth day of the month of Dioscorus. writer of the first book of Machabees. However, by this date, as well as by other circumstances, it appears that the expedition of Lysias, mentioned in this chapter, is different from that which is recorded, 1 Mac. 6.  
+**21** Fare ye well. In the year one hundred and forty-eight, the four and twentieth day of the month of Dioscorus.  
 **22** But the king's letter contained these words King Antiochus to Lysias, his brother, greeting.  
 **23** Our father being translated amongst the gods we are desirous that they that are in our realm should live quietly, and apply themselves diligently to their own concerns.  
 **24** And we have heard that the Jews would not consent to my father to turn to the rites of the Greeks but that they would keep to their own manner of living and therefore that they request us to allow them to live after their own laws.  
@@ -509,12 +507,12 @@ format: markdown
 **12** And Judas thinking that they might be profitable indeed in many things, promised them peace, and after having joined hands, they departed to their tents.  
 **13** He also laid siege to a certain strong city, encompassed with bridges and walls, and inhabited by multitudes of different nations, the name of which is Casphin.  
 **14** But they that were within it, trusting in the strength of the walls, and the provision of victuals, behaved in a more negligent manner, and provoked Judas with railing and blaspheming, and uttering such words as were not to be spoken.  
-**15** But Machabeus calling upon the great Lord of the world, who without any rams or engines of war threw down the walls of Jericho, in the time of Josue, fiercely assaulted the walls. sieges in those times.  
+**15** But Machabeus calling upon the great Lord of the world, who without any rams or engines of war threw down the walls of Jericho, in the time of Josue, fiercely assaulted the walls.  
 **16** And having taken the city by the will of the Lord, he made an unspeakable slaughter, so that a pool adjoining, of two furlongs broad, seemed to run with the blood of the slain.  
 **17** From thence they departed seven hundred and fifty furlongs, and came to Characa, to the Jews that are called Tubianites.  
 **18** But as for Timotheus, they found him not in those places, for before he had dispatched any thing he went back, having left a very strong garrison in a certain hold:  
 **19** But Dositheus, and Sosipater, who were captains with Machabeus, slew them that were left by Timotheus in the hold, to the number of ten thousand men.  
-**20** And Machabeus having set in order about him six thousand men, and divided them by bands, went forth against Timotheus, who had with him a hundred and twenty thousand footmen, and two thousand five hundred horsemen.  
+**20** And Machabeus having set in order about him six thousand men, and divided them by bands, went forth against Timotheus, who had with him a hundred and twenty thousand footmen, aad two thousand five hundred horsemen.  
 **21** Now when Timotheus had knowledge of the coming of Judas, he sent the women and children, and the other baggage, before him into a fortress, called Carnion: for it was impregnable, and hard to come at, by reason of the straitness of the places.  
 **22** But when the first band of Judas came in sight, the enemies were struck with fear, by the presence of God, who seeth all things, and they were put to flight one from another, so that they were often thrown down by their own companions, and wounded with the strokes of their own swords.  
 **23** But Judas pursued them close, punishing the profane, of whom he slew thirty thousand men.  
@@ -534,20 +532,20 @@ format: markdown
 **37** Then beginning in his own language, and singing hymns with a loud voice, he put Gorgias's soldiers to flight.  
 **38** So Judas having gathered together his army, came into the city Odollam: and when the seventh day came, they purified themselves according to the custom, and kept the sabbath in the same place.  
 **39** And the day following Judas came with his company, to take away the bodies of them that were slain, and to bury them with their kinsmen, in the sepulchres of their fathers.  
-**40** And they found under the coats of the slain, some of the donaries of the idols of Jamnia, which the law forbiddeth to the Jews: so that all plainly saw, that for this cause they were slain. hung up in the temples of the idols, which they had taken away when they burnt the port of Jamnia, ver. 9., contrary to the prohibition of the law, Deut. 7.25.  
+**40** And they found under the coats of the slain, some of the donaries of the idols of Jamnia, which the law forbiddeth to the Jews: so that all plainly saw, that for this cause they were slain.  
 **41** Then they all blessed the just judgment of the Lord, who had discovered the things that were hidden.  
 **42** And so betaking themselves to prayers, they besought him, that the sin which had been committed might be forgotten. But the most valiant Judas exhorted the people to keep themselves from sin, forasmuch as they saw before their eyes what had happened, because of the sins of those that were slain.  
 **43** And making a gathering, he sent twelve thousand drachms of silver to Jerusalem for sacrifice to be offered for the sins of the dead, thinking well and religiously concerning the resurrection.  
 **44** (For if he had not hoped that they that were slain should rise again, it would have seemed superfluous and vain to pray for the dead,)  
-**45** And because he considered that they who had fallen asleep with godliness, had great grace laid up for them. cause of God and religion, might find mercy: either because they might be excused from mortal sin by ignorance; or might have repented of their sin, at least at their death.  
-**46** It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins. the dead under the old law, which was then strictly observed by the Jews, and consequently could not be introduced at that time by Judas, their chief and high priest, if it had not been always their custom.  
+**45** And because he considered that they who had fallen asleep with godliness, had great grace laid up for them.  
+**46** It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins.  
 
 ---
 
 ## Chapter 13
 
 **1** In the year one hundred and forty-nine, Judas understood that Antiochus Eupator was coming with a multitude against Judea,  
-**2** And with him Lysias, the regent, who had charge over the affairs of the realm, having with him a hundred and ten thousand footmen, five thousand horsemen, twenty-two elephants, and three hundred chariots. here set down, and those recorded, 1 Mac. 4, is easily accounted for; if we consider that such armies as these are liable to be at one time more numerous than at another; either by sending away large detachments, or being diminished by sickness; or increased by receiving fresh supplies of troops, according to different exigencies or occurrences.  
+**2** And with him Lysias, the regent, who had charge over the affairs of the realm, having with him a hundred and ten thousand footmen, five thousand horsemen, twenty-two elephants, and three hundred chariots.  
 **3** Menelaus also joined himself with them: and with great deceitfulness besought Antiochus, not for the welfare of his country, but in hopes that he should be appointed chief ruler.  
 **4** But the King of kings stirred up the mind of Antiochus against the sinner, and upon Lysias suggesting that he was the cause of all the evils, he commanded (as the custom is with them) that he should be apprehended and put to death in the same place.  
 **5** Now there was in that place a tower fifty cubits high, having a heap of ashes on every side: this had a prospect steep down.  
@@ -568,7 +566,7 @@ format: markdown
 **20** Now Judas sent necessaries to them that were within  
 **21** But Rhodocus, one of the Jews' army, disclosed the secrets to the enemies, so he was sought out, and taken up, and put in prison.  
 **22** Again the king treated with them that were in Bethsura: gave his right hand: took theirs: and went away.  
-**23** He fought with Judas: and was overcome. And when he understood that Philip, who had been left over the affairs, had rebelled at Antioch, he was in a consternation of mind, and entreating the Jews, and yielding to them, he swore to all things that seemed reasonable, and, being reconciled, offered sacrifice, honoured the temple, and left gifts.  
+**23** He fought with Judas: and was overcome. And when he understood that Philip, who had been left over the affairs, had rebelled at Antioch, he was in a consternation of mind, and intreating the Jews, and yielding to them, he swore to all things that seemed reasonable, and, being reconciled, offered sacrifice, honoured the temple, and left gifts.  
 **24** He embraced Machabeus, and made him governor and prince from Ptolemais unto the Gerrenians.  
 **25** But when he was come to Ptolemais, the men of that city were much displeased with the conditions of the peace, being angry for fear they should break the covenant.  
 **26** Then Lysias went up to the judgment seat, and set forth the reason, and appeased the people, and returned to Antioch: and thus matters went with regard to the king's coming and his return.  
@@ -597,7 +595,7 @@ format: markdown
 **18** Nevertheless Nicanor hearing of the valour of Judas's companions, and the greatness of courage, with which they fought for their country, was afraid to try the matter by the sword.  
 **19** Wherefore he sent Posidonius, and Theodotius and Matthias before to present and receive the right hands.  
 **20** And when there had been a consultation thereupon, and the captain had acquainted the multitude with it, they were all of one mind to consent to covenants.  
-**21** So they appointed a day upon which they might come together by themselves: and seats were brought out, and set for each one.  
+**21** So they appointed a day upon which they might comne together by themselves: and seats were brought out, and set for each one.  
 **22** But Judas ordered armed men to be ready in convenient places, lest some mischief might be suddenly practised by the enemies: so they made an agreeable conference.  
 **23** And Nicanor abode in Jerusalem, and did no wrong, but sent away the flocks of the multitudes that had been gathered together.  
 **24** And Judas was always dear to him from the heart, and he was well affected to the man.  
@@ -617,10 +615,10 @@ format: markdown
 **38** This man, for a long time, had held fast his purpose of keeping himself pure in the Jews' religion, and was ready to expose his body and life, that he might persevere therein.  
 **39** So Nicanor being willing to declare the hatred that he bore the Jews, sent five hundred soldiers to take him.  
 **40** For he thought by ensnaring him to hurt the Jews very much.  
-**41** Now as the multitude sought to rush into his house, and to break open the door, and to set fire to it, when he was ready to be taken, he struck himself with his sword: lib. 2, cap. 23, ad Epist. 2, Gaud.) discussing this fact of Razias, says, that the holy scripture relates it, but doth not praise it, as to be admired or imitated, and that either it was not well done by him, or at least not proper in this time of grace.  
+**41** Now as the multitude sought to rush into his house, and to break open the door, and to set fire to it, when he was ready to be taken, he struck himself with his sword:  
 **42** Choosing to die nobly rather than to fall into the hands of the wicked, and to suffer abuses unbecoming his noble birth.  
 **43** But whereas through haste he missed of giving a sure wound, and the crowd was breaking into the doors, he ran boldly to the wall, and manfully threw himself down to the crowd:  
-**44** But they quickly making room for his fall, he came upon the midst of the neck. building.  
+**44** But they quickly making room for his fall, he came upon the midst of the neck.  
 **45** And as he had yet breath in him, being inflamed in mind, he arose: and while his blood ran down with a great stream, and he was grievously wounded, he ran through the crowd:  
 **46** And standing upon a steep rock, when he was now almost without blood, grasping his bowels, with both hands he cast them upon the throng, calling upon the Lord of life and spirit, to restore these to him again: and so he departed this life.  
 
@@ -666,8 +664,8 @@ format: markdown
 **36** And they all ordained by a common decree, by no means to let this day pass without solemnity:  
 **37** But to celebrate the thirteenth day of the month of Adar, called in the Syrian language, the day before Mardochias' day.  
 **38** So these things being done with relation to Nicanor, and from that time the city being possessed by the Hebrews, I also will here make an end of my narration.  
-**39** Which if I have done well, and as it becometh the history, it is what I desired: but if not so perfectly, it must be pardoned me. the narration; but with regard to the style and manner of writing: which in the sacred penmen is not always the most accurate. See St. Paul, 2 Cor. 11.6.  
-**40** For as it is hurtful to drink always wine, or always water, but pleasant to use sometimes the one, and sometimes the other: so if the speech be always nicely framed, it will not be grateful to the readers.  
+**39** Which if I have done well, and as it becometh the history, it is what I desired: but if not so perfectly, it must be pardoned me.  
+**40** For as it is hurtful to drink always wine, or always water, but pleasant to use sometimes the one, and sometimes the other: so if the speech be always nicely framed, it will not be grateful to the readers. But here it shall be ended. and THE NEW TESTAMENT First Published by the English College at Rheims A.D. 1582 With Annotations The Whole Revised and Diligently Compared with the Latin Vulgate by Bishop Richard Challoner A.D. 1749-1752  
 
 ---
 

@@ -56,7 +56,7 @@ This document provides a complete listing of all files in The Depositum reposito
 | File | Description |
 |------|-------------|
 | `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` | Parses Project Gutenberg #8300 UTF-8 text into Markdown books |
-| `data_engineering/data_sources/bible_douay_rheims/raw/pg8300.txt` | Source text (Gutenberg #8300); tracked via `.gitignore` exception |
+| `data_engineering/data_sources/bible_douay_rheims/raw/pg8300.html` | Source text (Gutenberg #8300); tracked via `.gitignore` exception |
 | `data_engineering/data_sources/bible_douay_rheims/README.md` | Extraction guide and usage |
 
 #### Haydock Commentary

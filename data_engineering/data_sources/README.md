@@ -7,7 +7,7 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 ### 1. Douay-Rheims Bible (`bible_douay_rheims/`)
 **Status**: ✅ Complete — 73 books (Project Gutenberg #8300, Challoner revision)
 
-**Overview**: Parses committed UTF-8 text `raw/pg8300.txt` into `data_final/bible_douay_rheims/`.
+**Overview**: Parses committed UTF-8 text `raw/pg8300.html` into `data_final/bible_douay_rheims/`.
 
 **Extraction script**: `extract_bible.py` (single script, no network).
 
@@ -47,7 +47,7 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 Each source has its own extraction script:
 
 ```bash
-# Bible (requires raw/pg8300.txt)
+# Bible (requires raw/pg8300.html)
 cd bible_douay_rheims
 python extract_bible.py
 
@@ -95,14 +95,14 @@ Raw Sources → Extraction Scripts → Processed / Final Output
   Gutenberg/EPUB/PDF   Python Scripts    Markdown in data_final/
 ```
 
-**Bible:** `raw/pg8300.txt` → `extract_bible.py` → `data_final/bible_douay_rheims/`
+**Bible:** `raw/pg8300.html` → `extract_bible.py` → `data_final/bible_douay_rheims/`
 
 ## Troubleshooting
 
 ### Common Issues
 
 1. **Missing source files**: Ensure EPUB/PDF files are in the correct directories
-2. **Bible source missing**: Ensure `bible_douay_rheims/raw/pg8300.txt` exists
+2. **Bible source missing**: Ensure `bible_douay_rheims/raw/pg8300.html` exists
 3. **Parsing errors**: Check EPUB/PDF structure and adjust parsing logic
 4. **Encoding issues**: Scripts handle UTF-8 and latin-1 automatically
 5. **Italic detection**: Catechism script uses font analysis; some italicized sections may use pattern-based fallback

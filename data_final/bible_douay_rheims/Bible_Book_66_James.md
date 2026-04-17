@@ -31,7 +31,7 @@ format: markdown
 ## Chapter 1
 
 **1** James, the servant of God and of our Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.  
-**2** My brethren, count it all joy, when you shall fall into divers temptations: sometimes taken for trials by afflictions or persecutions, as in this place: at other times, it is to be understood, tempting, enticing, or drawing others into sin.  
+**2** My brethren, count it all joy, when you shall fall into divers temptations:  
 **3** Knowing that the trying of your faith worketh patience  
 **4** And patience hath a perfect work: that you may be perfect and entire, failing in nothing.  
 **5** But if any of you want wisdom, let him ask of God who giveth to all men abundantly and upbraideth not. And it shall be given him.  
@@ -44,7 +44,7 @@ format: markdown
 **12** Blessed is the man that endureth temptation: for, when he hath been proved, he shall receive the crown of life which God hath promised to them that love him.  
 **13** Let no man, when he is tempted, say that he is tempted by God. For God is not a tempter of evils: and he tempteth no man.  
 **14** But every man is tempted by his own concupiscence, being drawn away and allured.  
-**15** Then, when concupiscence hath conceived, it bringeth forth sin.  
+**15** Then, when concupiscence hath conceived, it bringeth forth sin. But sin, when it is completed, begetteth death.  
 **16** Do not err, therefore, my dearest brethren.  
 **17** Every best gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no change nor shadow of alteration.  
 **18** For of his own will hath he begotten us by the word of truth, that we might be some beginning of his creature.  
@@ -62,7 +62,7 @@ format: markdown
 
 ## Chapter 2
 
-**1** My brethren, have not the faith of our Lord Jesus Christ of glory, with respect of persons. faith, the administering of the sacraments, and other spiritual functions in God's church, there should be no respect of persons; but that the souls of the poor should be as much regarded as those of the rich. See Deut. 1.17.  
+**1** My brethren, have not the faith of our Lord Jesus Christ of glory, with respect of persons.  
 **2** For if there shall come into your assembly a man having a golden ring, in fine apparel; and there shall come in also a poor man in mean attire:  
 **3** And you have respect to him that is clothed with the fine apparel and shall say to him: Sit thou here well: but say to the poor man: Stand thou there, or: Sit under my footstool:  
 **4** Do you not judge within yourselves, and are become judges of unjust thoughts?  
@@ -71,7 +71,7 @@ format: markdown
 **7** Do not they blaspheme the good name that is invoked upon you?  
 **8** If then you fulfil the royal law, according to the scriptures: Thou shalt love thy neighbour as thyself; you do well.  
 **9** But if you have respect to persons, you commit sin, being reproved by the law as transgressors.  
-**10** And whosoever shall keep the whole law, but offend in one point, is become guilty of all. manner, that the observing of all other points will not avail him to salvation; for he despises the lawgiver, and breaks through the great and general commandment of charity, even by one mortal sin. For all the precepts of the law are to be considered as one total and entire law, and as it were a chain of precepts, where, by breaking one link of this chain, the whole chain is broken, or the integrity of the law consisting of a collection of precepts. A sinner, therefore, by a grievous offence against any one precept, incurs eternal punishment; yet the punishment in hell shall be greater for those who have been greater sinners, as a greater reward shall be for those in heaven who have lived with greater sanctity and perfection.  
+**10** And whosoever shall keep the whole law, but offend in one point, is become guilty of all.  
 **11** For he that said: Thou shalt not commit adultery, said also: Thou shalt not kill. Now if thou do not commit adultery, but shalt kill, thou art become a transgressor of the law.  
 **12** So speak ye and so do, as being to be judged by the law of liberty.  
 **13** For judgment without mercy to him that hath not done mercy. And mercy exalteth itself above judgment.  
@@ -144,16 +144,16 @@ format: markdown
 **4** Behold the hire of the labourers who have reaped down your fields, which by fraud has been kept back by you, crieth: and the cry of them hath entered into the ears of the Lord of Sabaoth.  
 **5** You have feasted upon earth: and in riotousness you have nourished your hearts, in the day of slaughter.  
 **6** You have condemned and put to death the Just One: and he resisted you not.  
-**7** Be patient therefore, brethren, until the coming of the Lord. patiently bearing till he receive the early and latter rain.  
+**7** Be patient therefore, brethren, until the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth: patiently bearing till he receive the early and latter rain.  
 **8** Be you therefore also patient and strengthen your hearts: for the coming of the Lord is at hand.  
 **9** Grudge not, brethren, one against another, that you may not be judged. Behold the judge standeth before the door.  
 **10** Take, my brethren, for example of suffering evil, of labour and patience, the prophets who spoke in the name of the Lord.  
 **11** Behold, we account them blessed who have endured. You have heard of the patience of Job and you have seen the end of the Lord, that the Lord is merciful and compassionate.  
 **12** But above all things, my brethren, swear not, neither by heaven, nor by the earth, nor by any other oath. But let your speech be: Yea, Yea: No, No: that you fall not under judgment.  
 **13** Is any of you sad? Let him pray: Is he cheerful in mind? Let him sing.  
-**14** Is any man sick among you? Let him bring in the priests of the church and let them pray over him, anointing him with oil in the name of the Lord. sacrament of extreme unction, that any controversy against its institution would be against the express words of the sacred text in the plainest terms.  
+**14** Is any man sick among you? Let him bring in the priests of the church and let them pray over him, anointing him with oil in the name of the Lord.  
 **15** And the prayer of faith shall save the sick man. And the Lord shall raise him up: and if he be in sins, they shall be forgiven him.  
-**16** Confess therefore your sins one to another: and pray one for another, that you may be saved. For the continual prayer of a just man availeth much. church, whom (ver.14) he had ordered to be called for, and brought in to the sick; moreover, to confess to persons who had no power to forgive sins, would be useless. Hence the precept here means, that we must confess to men whom Gkod hath appointed, and who, by their ordination and jurisdiction, have received the power of remitting sins in his name.  
+**16** Confess therefore your sins one to another: and pray one for another, that you may be saved. For the continual prayer of a just man availeth much.  
 **17** Elias was a man passible like unto us: and with prayer he prayed that it might not rain upon the earth. And it rained not for three years and six months.  
 **18** And he prayed again. And the heaven gave rain: and the earth brought forth her fruit.  
 **19** My brethren, if any of you err from the truth and one convert him:  

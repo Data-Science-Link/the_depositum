@@ -17,7 +17,7 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 
 ### Data Sources
 - `data_sources/bible_douay_rheims/` - Douay-Rheims Bible (Project Gutenberg #8300)
-  - `extract_bible.py` - Parses `raw/pg8300.txt` into 73 Markdown books
+  - `extract_bible.py` - Parses `raw/pg8300.html` into 73 Markdown books
   - `README.md` - Extraction guide and usage
 - `data_sources/bible_commentary_haydock/` - Haydock Commentary extraction from EPUB
   - `extract_commentary.py` - Main extraction script
@@ -113,7 +113,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
      - Place in `data_sources/bible_commentary_haydock/`
      - See [bible_commentary_haydock/README.md](data_sources/bible_commentary_haydock/README.md) for detailed instructions
    - **Douay-Rheims Bible**:
-     - Use the UTF-8 plain text of [Gutenberg #8300](https://www.gutenberg.org/ebooks/8300) as `data_sources/bible_douay_rheims/raw/pg8300.txt` (tracked in git).
+     - Use the HTML source of [Gutenberg #8300](https://www.gutenberg.org/ebooks/8300) as `data_sources/bible_douay_rheims/raw/pg8300.html` (tracked in git).
      - See [bible_douay_rheims/README.md](data_sources/bible_douay_rheims/README.md).
    - **Catechism**:
      - **Direct Download**: [The Roman Catechism.pdf](https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf) (~1.6MB)
@@ -126,7 +126,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ### Douay-Rheims Bible
 
-Single source: **Project Gutenberg #8300** (`raw/pg8300.txt`). Produces **73** Markdown files in `data_final/bible_douay_rheims/`.
+Single source: **Project Gutenberg #8300** (`raw/pg8300.html`). Produces **73** Markdown files in `data_final/bible_douay_rheims/`.
 
 ```bash
 # From project root
@@ -208,7 +208,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 python -m pytest tests/
 
 # Run specific test suite
-python -m pytest tests/test_gutenberg_bible_extract.py
+python -m pytest data_engineering/tests/test_gutenberg_bible_extract.py
 python -m pytest tests/test_commentary_extraction.py
 python -m pytest tests/test_catechism_extraction.py
 ```
@@ -254,10 +254,10 @@ LOG_DIR=logs
 
 ### Bible Extraction Issues
 
-- **Missing `pg8300.txt`**: Download UTF-8 text from [Gutenberg #8300](https://www.gutenberg.org/ebooks/8300) into `data_sources/bible_douay_rheims/raw/pg8300.txt`
+- **Missing `pg8300.html`**: Download UTF-8 text from [Gutenberg #8300](https://www.gutenberg.org/ebooks/8300) into `data_sources/bible_douay_rheims/raw/pg8300.html`
 - **Wrong chapter counts**: Ensure the source file matches #8300 and is not truncated
 - **Encoding Errors**: Ensure UTF-8 encoding throughout
-- **Verse ordering**: If verses appear out of order, re-run `extract_bible.py` with an intact `pg8300.txt`
+- **Verse ordering**: If verses appear out of order, re-run `extract_bible.py` with an intact `pg8300.html`
 
 ### Commentary Extraction Issues
 
@@ -286,7 +286,7 @@ Raw Sources → Extraction Scripts → Validation → Final Markdown
   Gutenberg/EPUB/PDF   Python Scripts    Quality Checks  data_final/
 ```
 
-**Bible extraction:** `raw/pg8300.txt` → `extract_bible.py` → `data_final/bible_douay_rheims/`
+**Bible extraction:** `raw/pg8300.html` → `extract_bible.py` → `data_final/bible_douay_rheims/`
 
 ## 🔒 Security & Privacy
 

@@ -59,7 +59,7 @@ format: markdown
 **11** In the four and twentieth day of the ninth month, in the second year of Darius the king, the word of the Lord came to Aggeus the prophet, saying:  
 **12** Thus saith the Lord of hosts: Ask the priests the law, saying:  
 **13** If a man carry sanctified flesh in the skirt of his garment, and touch with his skirt, bread, or pottage, or wine, or oil, or any meat: shall it be sanctified? And the priests answered, and said: No.  
-**14** And Aggeus said: If one that is unclean by occasion of a soul touch any of all these things, shall it be defiled? And the priests answered, and said: It shall be defiled. case, according to the prescription of the law, Num. 19.13, 22, a person not only became unclean himself, but made every thing that he touched unclean. The prophet applies all this to the people, whose souls remained unclean by neglecting the temple of God; and therefore were not sanctified by the flesh they offered in sacrifice: but rather defiled their sacrifices by approaching to them in the state of uncleanness.  
+**14** And Aggeus said: If one that is unclean by occasion of a soul touch any of all these things, shall it be defiled? And the priests answered, and said: It shall be defiled.  
 **15** And Aggeus answered, and said: So is this people, and so is this nation before my face, saith the Lord, and so is all the work of their hands: and all that they have offered there, shall be defiled.  
 **16** And now consider in your hearts, from this day and upward, before there was a stone laid upon a stone in the temple of the Lord.  
 **17** When you went to a heap of twenty bushels, and they became ten: and you went into the press, to press out fifty vessels, and they became twenty.  
@@ -68,8 +68,8 @@ format: markdown
 **20** Is the seed as yet sprung up? or hath the vine, and the fig tree, and the pomegranate, and the olive tree as yet flourished? from this day I will bless you.  
 **21** And the word of the Lord came a second time to Aggeus in the four and twentieth day of the month, saying:  
 **22** Speak to Zorobabel the governor of Juda, saying: I will move both heaven and earth.  
-**23** And I will overthrow the throne of kingdoms, and will destroy the strength of the kingdom of the Gentiles: and I will overthrow the chariot, and him that rideth therein: and the horses and their riders shall come down, every one by the sword of his brother.  
-**24** In that day, saith the Lord of hosts, I will take thee, O Zorobabel the son of Salathiel, my servant, saith the Lord, and will make thee as a signet, for I have chosen thee, saith the Lord of hosts. the race of Zorobabel.  
+**23** And I will overthrow the throne of kingdoms, and will destroy the strength of the kingdom of the Gentiles: and I will overthrow the chariot, and him that rideth therin: and the horses and their riders shall come down, every one by the sword of his brother.  
+**24** In that day, saith the Lord of hosts, I will take thee, O Zorobabel the son of Salathiel, my servant, saith the Lord, and will make thee as a signet, for I have chosen thee, saith the Lord of hosts.  
 
 ---
 

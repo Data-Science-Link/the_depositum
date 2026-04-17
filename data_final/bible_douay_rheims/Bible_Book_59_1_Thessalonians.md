@@ -57,10 +57,9 @@ format: markdown
 **10** You are witnesses, and God also, how holily and justly and without blame we have been to you that have believed:  
 **11** As you know in what manner, entreating and comforting you (as a father doth his children),  
 **12** We testified to every one of you that you would walk worthy of God, who hath called you unto his kingdom and glory.  
-**13** Therefore, we also give thanks to God without ceasing: because, that when you had received of us the word of the hearing of God, you received it not as the word of men, but (as it is indeed) the word of God, who worketh in you that have believed.  
 **14** For you, brethren, are become followers of the churches of God which are in Judea, in Christ Jesus: for you also have suffered the same things from your own countrymen, even as they have from the Jews:  
 **15** Who both killed the Lord Jesus, and the prophets, and have persecuted us, and please not God, and are adversaries to all men;  
-**16** Prohibiting us to speak to the Gentiles, that they may be saved, to fill up their sins always: for the wrath of God is come upon them to the end. after which God's justice would punish them. For the wrath of God is come upon them to the end... That is, to continue on them to the end.  
+**16** Prohibiting us to speak to the Gentiles, that they may be saved, to fill up their sins always: for the wrath of God is come upon them to the end.  
 **17** But we, brethren, being taken away from you for a short time, in sight, not in heart, have hastened the more abundantly to see your face with great desire.  
 **18** For we would have come unto you, I Paul indeed, once and again: but Satan hath hindered us.  
 **19** For what is our hope or joy or crown of glory? Are not you, in the presence of our Lord Jesus Christ at his coming?  
@@ -82,7 +81,7 @@ format: markdown
 **10** Night and day more abundantly praying that we may see your face and may accomplish those things that are wanting to your faith?  
 **11** Now God himself and our Father and our Lord Jesus Christ, direct our way unto you.  
 **12** And may the Lord multiply you and make you abound in charity towards one another and towards all men: as we do also towards you,  
-**13** To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints.  
+**13** To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen.  
 
 ---
 
@@ -97,7 +96,7 @@ format: markdown
 **7** For God hath not called us unto uncleanness, but unto sanctification.  
 **8** Therefore, he that despiseth these things, despiseth not man, but God, who also hath given his holy Spirit in us.  
 **9** But as touching the charity of brotherhood, we have no need to write to you: for yourselves have learned of God to love one another.  
-**10** For indeed you do it towards all the brethren in all Macedonia.  
+**10** For indeed you do it towards all the brethren in all Macedonia. But we entreat you, brethren, that you abound more:  
 **11** And that you use your endeavour to be quiet: and that you do your own business and work with your own hands, as we commanded you: and that you walk honestly towards them that are without: and that you want nothing of any man's.  
 **12** And we will not have you ignorant brethren, concerning them that are asleep, that you be not sorrowful, even as others who have no hope.  
 **13** For if we believe that Jesus died and rose again: even so them who have slept through Jesus, will God bring with him.  

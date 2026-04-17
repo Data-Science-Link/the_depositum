@@ -82,8 +82,6 @@ format: markdown
 **1** Then Eliasib the high priest arose, and his brethren the priests, and they built the flock gate: they sanctified it, and set up the doors thereof, even unto the tower of a hundred cubits they sanctified it unto the tower of Hananeel.  
 **2** And next to him the men of Jericho built: and next to them built Zachur the son of Amri.  
 **3** But the fish gate the sons of Asnaa built: they covered it, and set up the doors thereof, and the locks, and the bars. And next to them built Marimuth the son of Urias the son of Accus.  
-**4** And next to him built Mosollam the son of Barachias, the son of Merezebel, and next to them built Sadoc the son of Baana.  
-**5** And next to them the Thecuites built: but their great men did not put their necks to the work of their Lord.  
 **6** And Joiada the son of Phasea, and Mosollam the son of Besodia built the old gate: they covered it and set up the doors thereof, and the locks, and the bars.  
 **7** And next to them built Meltias the Gabaonite, and Jadon the Meronathite, the men of Gabaon and Maspha, for the governor that was in the country beyond the river.  
 **8** And next to him built Eziel the son of Araia the goldsmith: and next to him built Ananias the son of the perfumer: and they left Jerusalem unto the wall of the broad street.  
@@ -107,7 +105,7 @@ format: markdown
 **26** And the Nathinites dwelt in Ophel, as far as over against the water gate toward the east, and the tower that stood out.  
 **27** After him the Thecuites built another measure over against, from the great tower that standeth out unto the wall of the temple.  
 **28** And upward from the horse gate the priests built, every man over against his house.  
-**29** After them built Sadoc the son of Emmer over against his house. gate.  
+**29** After them built Sadoc the son of Emmer over against his house. And after him built Semaia the son of Sechenias, keeper of the east gate.  
 **30** After him built Hanania the son of Selemia, and Hanun the sixth son of Seleph, another measure: after him built Mosollam the son of Barachias over against his treasury. After him Melcias the goldsmith's son built unto the house of the Nathinites, and of the sellers of small wares, over against the judgment gate, and unto the chamber of the corner.  
 **31** And within the chamber of the corner of the flock gate, the goldsmiths and the merchants built.  
 
@@ -116,7 +114,7 @@ format: markdown
 ## Chapter 4
 
 **1** And it came to pass, that when Sanaballat heard that we were building the wall he was angry: and being moved exceedingly he scoffed at the Jews.  
-**2** And said before his brethren, and the multitude of the Samaritans: they sacrifice and make an end in a day? are they able to raise stones out of the heaps of the rubbish, which are burnt?  
+**2** And said before his brethren, and the multitude of the Samaritans: What are the silly Jews doing? Will the Gentiles let them alone? will they sacrifice and make an end in a day? are they able to raise stones out of the heaps of the rubbish, which are burnt?  
 **3** Tobias also the Ammonite who was by him said: Let them build: if a fox go up, he will leap over their stone wall.  
 **4** Hear thou our God, for we are despised: turn their reproach upon their own head, and give them to be despised in a land of captivity.  
 **5** Cover not their iniquity, and let not their sin be blotted out from before thy face, because they have mocked thy builders.  
@@ -184,7 +182,7 @@ format: markdown
 **15** But the wall was finished the five and twentieth day of the month of Elul, in two and fifty days.  
 **16** And it came to pass when all our enemies heard of it, that all nations which were round about us, were afraid, and were cast down within themselves, for they perceived that this work was the work of God.  
 **17** Moreover in those days many letters were sent by the principal men of the Jews to Tobias, and from Tobias there came letters to them.  
-**18** For there were many in Judea sworn to him, because he was the son- in-law of Sechenias the son of Area, and Johanan his son had taken to wife the daughter of Mosollam the son of Barachias.  
+**18** For there were many in Judea sworn to him, because he was the son in law of Sechenias the son of Area, and Johanan his son had taken to wife the daughter of Mosollam the son of Barachias.  
 **19** And they praised him also before me, and they related my words to him: And Tobias sent letters to put me in fear.  
 
 ---
@@ -257,10 +255,10 @@ format: markdown
 **64** These sought their writing in the record, and found it not: and they were cast out of the priesthood.  
 **65** And Athersatha said to them, that they should not eat of the holies of holies, until there stood up a priest learned and skilful.  
 **66** All the multitude as it were one man, forty-two thousand three hundred sixty,  
-**67** Beside their men-servants and women-servants, who were seven thousand three hundred thirty-seven: and among them singing men, and singing women, two hundred forty-five.  
+**67** Beside their menservants and womenservants, who were seven thousand three hundred thirty-seven: and among them singing men, and singing women, two hundred forty-five.  
 **68** Their horses, seven hundred thirty-six: their mules two hundred forty-five.  
 **69** Their camels, four hundred thirty-five, their asses, six thousand seven hundred and twenty. (Hitherto is related what was written in the record. From this place forward goeth on the history of Nehemias.)  
-**70** And some of the heads of the families gave unto the work. and five hundred and thirty garments for priests. he was so called at the court of the king of Persia, where he was cupbearer: or that, as some think, this name signifies governor; and he was at that time governor of Judea.  
+**70** And some of the heads of the families gave unto the work. Athersatha gave into the treasure a thousand drams of gold, fifty bowls, and five hundred and thirty garments for priests.  
 **71** And some of the heads of families gave to the treasure of the work, twenty thousand drams of gold, and two thousand two hundred pounds of silver.  
 **72** And that which the rest of the people gave, was twenty thousand drams of gold, and two thousand pounds of silver, and sixty-seven garments for priests.  
 **73** And the priests, and the Levites, and the porters, and the singing men, and the rest of the common people, and the Nathinites, and all Israel dwelt in their cities.  
@@ -298,7 +296,7 @@ format: markdown
 **4** And there stood up upon the step of the Levites, Josue, and Bani, and Cedmihel, Sabania, Bonni, Sarebias, Bani, and Chanani: and they cried with a loud voice to the Lord their God.  
 **5** And the Levites Josue and Cedmihel, Bonni, Hasebnia, Serebia, Oduia, Sebnia, and Phathahia, said: Arise, bless the Lord your God from eternity to eternity: and blessed be the high name of thy glory with all blessing and praise.  
 **6** Thou thyself, O Lord alone, thou hast made heaven, and the heaven of heavens, and all the host thereof: the earth and all things that are in it: the seas and all that are therein: and thou givest life to all these things, and the host of heaven adoreth thee.  
-**7** Thou O Lord God, art he who chosest Abram, and broughtest him forth out of the fire of the Chaldeans, and gavest him the name of Abraham. which signifies fire. Or out of the fire of the tribulations and temptations, to which he was there exposed.-The ancient Rabbins understood this literally, affirming that Abram was cast into the fire by the idolaters, and brought out by a miracle without any hurt.  
+**7** Thou O Lord God, art he who chosest Abram, and broughtest him forth out of the fire of the Chaldeans, and gavest him the name of Abraham.  
 **8** And thou didst find his heart faithful before thee: and thou madest a covenant with him, to give him the land of the Chanaanite, of the Hethite, and of the Amorrhite, and of the Pherezite, and of the Jebusite, and of the Gergezite, to give it to his seed: and thou hast fulfilled thy words, because thou art just.  
 **9** And thou sawest the affliction of our fathers in Egypt: and thou didst hear their cry by the Red Sea.  
 **10** And thou shewedst signs and wonders upon Pharao, and upon all his servants, and upon the people of his land: for thou knewest that they dealt proudly against them: and thou madest thyself a name, as it is at this day.  
@@ -308,7 +306,7 @@ format: markdown
 **14** Thou madest known to them thy holy sabbath, and didst prescribe to them commandments, and ceremonies, and the law by the hand of Moses thy servant.  
 **15** And thou gavest them bread from heaven in their hunger, and broughtest forth water for them out of the rock in their thirst, and thou saidst to them that they should go in, and possess the land, upon which thou hadst lifted up thy hand to give it them.  
 **16** But they and our fathers dealt proudly, and hardened their necks and hearkened not to thy commandments.  
-**17** And they would not hear, and they remembered not thy wonders which thou hadst done for them. And they hardened their necks, and gave the head to return to their bondage, as it were by contention. But thou, a forgiving God, gracious, and merciful, longsuffering, and full of compassion, didst not forsake them. return to Egypt.  
+**17** And they would not hear, and they remembered not thy wonders which thou hadst done for them. And they hardened their necks, and gave the head to return to their bondage, as it were by contention. But thou, a forgiving God, gracious, and merciful, longsuffering, and full of compassion, didst not forsake them.  
 **18** Yea when they had made also to themselves a molten calf, and had said: This is thy God, that brought thee out of Egypt: and had committed great blasphemies:  
 **19** Yet thou, in thy many mercies, didst not leave them in the desert: the pillar of the cloud departed not from them by day to lead them in the way, and the pillar of fire by night to shew them the way by which they should go.  
 **20** And thou gavest them thy good Spirit to teach them, and thy manna thou didst not withhold from their mouth, and thou gavest them water for their thirst.  
@@ -465,7 +463,7 @@ format: markdown
 **43** They appointed also in that day men over the storehouses of the treasure, for the libations, and for the firstfruits, and for the tithes, that the rulers of the city might bring them in by them in honour of thanksgiving, for the priests and Levites: for Juda was joyful in the priests and Levites that assisted.  
 **44** And they kept the watch of their God, and the observance of expiation, and the singing men, and the porters, according to the commandment of David, and of Solomon his son.  
 **45** For in the days of David and Asaph from the beginning there were chief singers appointed, to praise with canticles, and give thanks to God.  
-**46** And all Israel, in the days of Zorobabel, and in the days of Nehemias gave portions to the singing men, and to the porters, day by day, and they sanctified the Levites, and the Levites sanctified the sons of Aaron. aside, and sanctified for their use.  
+**46** And all Israel, in the days of Zorobabel, and in the days of Nehemias gave portions to the singing men, and to the porters, day by day, and they sanctified the Levites, and the Levites sanctified the sons of Aaron.  
 
 ---
 
@@ -474,7 +472,7 @@ format: markdown
 **1** And on that day they read in the book of Moses in the hearing of the people: and therein was found written, that the Ammonites and the Moabites should not come in to the church of God for ever:  
 **2** Because they met not the children of Israel with bread and water: and they hired against them Balaam, to curse them, and our God turned the curse into blessing.  
 **3** And it came to pass, when they had heard the law, that they separated every stranger from Israel.  
-**4** And over this thing was Eliasib the priest, who was set over the treasury of the house of our God, and was near akin to Tobias. kind.  
+**4** And over this thing was Eliasib the priest, who was set over the treasury of the house of our God, and was near akin to Tobias.  
 **5** And he made him a great storeroom, where before him they laid up gifts, and frankincense, and vessels, and the tithes of the corn, of the wine, and of the oil, the portions of the Levites, and of the singing men, and of the porters, and the firstfruits of the priests.  
 **6** But in all this time I was not in Jerusalem, because in the two and thirtieth year of Artaxerxes king of Babylon, I went to the king, and after certain days I asked the king:  
 **7** And I came to Jerusalem, and I understood the evil that Eliasib had done for Tobias, to make him a storehouse in the courts of the house of God.  
@@ -498,7 +496,7 @@ format: markdown
 **25** And I chid them, and laid my curse upon them. And I beat some of them, and shaved off their hair, and made them swear by God that they would not give their daughters to their sons, nor take their daughters for their sons, nor for themselves, saying:  
 **26** Did not Solomon king of Israel sin in this kind of thing: and surely among many nations, there was not a king like him, and he was beloved of his God, and God made him king over all Israel: and yet women of other countries brought even him to sin.  
 **27** And shall we also be disobedient and do all this great evil to transgress against our God, and marry strange women:  
-**28** And one of the sons of Joiada the son of Eliasib the high priest, was son-in-law to Sanaballat the Horonite, and I drove him from me.  
+**28** And one of the sons of Joiada the son of Eliasib the high priest, was son in law to Sanaballat the Horonite, and I drove him from me.  
 **29** Remember them, O Lord my God, that defile the priesthood, and the law of priests and Levites.  
 **30** So I separated from them all strangers, and I appointed the courses of the priests and the Levites, every man in his ministry:  
 **31** And for the offering of wood at times appointed, and for the firstfruits: remember me, O my God, unto good. Amen.  

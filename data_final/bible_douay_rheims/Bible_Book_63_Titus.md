@@ -33,7 +33,7 @@ format: markdown
 **3** But hath in due times manifested his word in preaching, which is committed to me according to the commandment of God our Saviour:  
 **4** To Titus, my beloved son according to the common faith, grace and peace, from God the Father and from Christ Jesus our Saviour.  
 **5** For this cause I left thee in Crete: that thou shouldest set in order the things that are wanting and shouldest ordain priests in every city, as I also appointed thee:  
-**6** If any be without crime, the husband of one wife, having faithful children, not accused of riot or unruly.  
+**6** If any be without crime, the husband of one wife having faithful children, not accused of riot or unruly.  
 **7** For a bishop must be without crime, as the steward of God: not proud, not subject to anger, nor given to wine, no striker, not greedy of filthy lucre:  
 **8** But given to hospitality, gentle, sober, just, holy, continent:  
 **9** Embracing that faithful word which is according to doctrine, that he may be able to exhort in sound doctrine and to convince the gainsayers.  
@@ -79,7 +79,7 @@ format: markdown
 **8** It is a faithful saying. And these things I will have thee affirm constantly, that they who believe in God may be careful to excel in good works. These things are good and profitable unto men.  
 **9** But avoid foolish questions and genealogies and contentions and strivings about the law. For they are unprofitable and vain.  
 **10** A man that is a heretic, after the first and second admonition, avoid:  
-**11** Knowing that he that is such an one is subverted and sinneth, being condemned by his own judgment. church, by the sentence of the pastors of the same church. Heretics, more unhappy, run out of the church of their own accord, and by doing so, give judgment and sentence against their own souls.  
+**11** Knowing that he that is such an one is subverted and sinneth, being condemned by his own judgment.  
 **12** When I shall send to thee Artemas or Tychicus, make haste to come unto me to Nicopolis. For there I have determined to winter.  
 **13** Send forward Zenas the lawyer and Apollo, with care that nothing be wanting to them.  
 **14** And let our men also learn to excel in good works for necessary uses: that they be not unfruitful.  

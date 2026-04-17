@@ -66,11 +66,11 @@ format: markdown
 **4** But because of false brethren unawares brought in, who came in privately to spy our liberty which we have in Christ Jesus, that they might bring us into servitude.  
 **5** To whom we yielded not by subjection: no, not for an hour: that the truth of the gospel might continue with you.  
 **6** But of them who seemed to be some thing, (what they were some time it is nothing to me, God accepteth not the person of man): for to me they that seemed to be some thing added nothing.  
-**7** But contrariwise, when they had seen that to me was committed the gospel of the uncircumcision, as to Peter was that of the circumcision. uncircumcised, that is, to the Gentiles. St. Paul was called in an extraordinary manner to be the apostle of the Gentiles; St. Peter, besides his general commission over the whole flock, (John 21. 15, etc.,) had a peculiar charge of the people of the circumscision, that is, of the Jews.  
+**7** But contrariwise, when they had seen that to me was committed the gospel of the uncircumcision, as to Peter was that of the circumcision.  
 **8** (For he who wrought in Peter to the apostleship of the circumcision wrought in me also among the Gentiles.)  
 **9** And when they had known the grace that was given to me, James and Cephas and John, who seemed to be pillars, gave to me and Barnabas the right hands of fellowship: that we should go unto the Gentiles, and they unto the circumcision:  
 **10** Only that we should be mindful of the poor: which same thing also I was careful to do.  
-**11** But when Cephas was come to Antioch, I withstood him to the face, because he was to be blamed. table of the Gentiles, for fear of giving offence to the Jewish converts; but this, in such circumstances, when his so doing might be of ill consequence to the Gentiles, who might be induced thereby to think themselves obliged to conform to the Jewish way of living, to the prejudice of their Christian liberty. Neither was St. Paul's reprehending him any argument against his supremacy; for in such cases an inferior may, and sometimes ought, with respect, to admonish his superior.  
+**11** But when Cephas was come to Antioch, I withstood him to the face, because he was to be blamed.  
 **12** For before that some came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them who were of the circumcision.  
 **13** And to his dissimulation the rest of the Jews consented: so that Barnabas also was led by them into that dissimulation.  
 **14** But when I saw that they walked not uprightly unto the truth of the gospel, I said to Cephas before them all: If thou, being a Jew, livest after the manner of the Gentiles and not as the Jews do, how dost thou compel the Gentiles to live as do the Jews?  
@@ -101,13 +101,13 @@ format: markdown
 **13** Christ hath redeemed us from the curse of the law, being made a curse for us (for it is written: Cursed is every one that hangeth on a tree).  
 **14** That the blessing of Abraham might come on the Gentiles through Christ Jesus: that we may receive the promise of the Spirit by faith.  
 **15** Brethren (I speak after the manner of man), yet a man's testament, if it be confirmed, no man despiseth nor addeth to it.  
-**16** To Abraham were the promises made and to his seed. He saith not:  
+**16** To Abraham were the promises made and to his seed. He saith not: And to his seeds as of many. But as of one: And to thy seed, which is Christ.  
 **17** Now this I say: that the testament which was confirmed by God, the law which was made after four hundred and thirty years doth not disannul, to make the promise of no effect.  
-**18** For if the inheritance be of the law, it is no more of promise.  
-**19** Why then was the law? It was set because of transgressions, until the seed should come to whom he made the promise, being ordained by angels in the hand of a mediator. threats. Ordained by angels... The law was delivered by angels, speaking in the name and person of God to Moses, who was the mediator, on this occasion, between God and the people.  
+**18** For if the inheritance be of the law, it is no more of promise. But God gave it to Abraham by promise.  
+**19** Why then was the law? It was set because of transgressions, until the seed should come to whom he made the promise, being ordained by angels in the hand of a mediator.  
 **20** Now a mediator is not of one: but God is one.  
 **21** Was the law then against the promises of God: God forbid! For if there had been a law given which could give life, verily justice should have been by the law.  
-**22** But the scripture hath concluded all under sin, that the promise, by the faith of Jesus Christ, might be given to them that believe. sin, from which they could not be delivered but by faith in Jesus Christ, the promised seed.  
+**22** But the scripture hath concluded all under sin, that the promise, by the faith of Jesus Christ, might be given to them that believe.  
 **23** But before the faith came, we were kept under the law shut up, unto that faith which was to be revealed.  
 **24** Wherefore the law was our pedagogue in Christ: that we might be justified by faith.  
 **25** But after the faith is come, we are no longer under a pedagogue.  
@@ -122,14 +122,14 @@ format: markdown
 
 **1** As long as the heir is a child, he differeth nothing from a servant, though he be lord of all,  
 **2** But is under tutors and governors until the time appointed by the father.  
-**3** So we also, when we were children, were serving under the elements of the world. religion, in which the carnal Jews were trained up; or under those corporeal creatures, used in their manifold rites, sacrifices, and sacraments.  
+**3** So we also, when we were children, were serving under the elements of the world.  
 **4** But when the fulness of the time was come, God sent his Son, made of a woman, made under the law:  
 **5** That he might redeem them who were under the law: that we might receive the adoption of sons.  
 **6** And because you are sons, God hath sent the Spirit of his Son into your hearts, crying: Abba, Father.  
 **7** Therefore, now he is not a servant, but a son. And if a son, an heir also through God.  
 **8** But then indeed, not knowing God, you served them who, by nature, are not gods.  
 **9** But now, after that you have known God, or rather are known by God: how turn you again to the weak and needy elements which you desire to serve again?  
-**10** You observe days and months and times, and years. day, or other Christian festivals; but either of the superstitious observation of days lucky and unlucky; or else of the Jewish festivals, to the observance of which, certain Jewish teachers sought to induce the Galatians.  
+**10** You observe days and months and times, and years.  
 **11** I am afraid of you, lest perhaps I have laboured in vain among you.  
 **12** Be ye as I, because I also am as you brethren, I beseech you. You have not injured me at all.  
 **13** And you know how, through infirmity of the flesh, I preached the gospel to you heretofore: and your temptation in my flesh.  
@@ -204,7 +204,7 @@ format: markdown
 **15** For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision: but a new creature.  
 **16** And whosoever shall follow this rule, peace on them and mercy: and upon the Israel of God.  
 **17** From henceforth let no man be troublesome to me: for I bear the marks of the Lord Jesus in my body.  
-**18** The grace of our Lord Jesus Christ be with your spirit, brethren.  
+**18** The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.  
 
 ---
 

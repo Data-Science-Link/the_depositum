@@ -68,10 +68,10 @@ format: markdown
 
 **1** There was a man in the land of Hus, whose name was Job, and that man was simple and upright, and fearing God, and avoiding evil.  
 **2** And there were born to him seven sons and three daughters.  
-**3** And his possession was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she-asses, and a family exceedingly great: and this man was great among all the people of the east.  
-**4** And his sons went, and made a feast by houses, every one in his day. And sending, they called their three sisters, to eat and drink with them. house and had his day, inviting the others, and their sisters.  
-**5** And when the days of their feasting were gone about, Job sent to them, and sanctified them: and rising up early, offered holocausts for every one of them. For he said: Lest perhaps my sons have sinned, and have blessed God in their hearts. So did Job all days. scripture both here and ver. 11, and in the following chapter, ver. 5 and 9, uses the word bless to signify its contrary.  
-**6** Now on a certain day, when the sons of God came to stand before the Lord, Satan also was present among them. represents to us in a figure, accommodated to the ways and understandings of men, 1. The restless endeavours of Satan against the servants of God; 2. That he can do nothing without God's permission; 3. assists them by his divine grace in such manner, that the vain efforts of the enemy only serve to illustrate their virtue and increase their merit.  
+**3** And his possession was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a family exceedingly great: and this man was great among all the people of the east.  
+**4** And his sons went, and made a feast by houses, every one in his day. And sending, they called their three sisters, to eat and drink with them.  
+**5** And when the days of their feasting were gone about, Job sent to them, and sanctified them: and rising up early, offered holocausts for every one of them. For he said: Lest perhaps my sons have sinned, and have blessed God in their hearts. So did Job all days.  
+**6** Now on a certain day, when the sons of God came to stand before the Lord, Satan also was present among them.  
 **7** And the Lord said to him: Whence comest thou? And he answered and said: I have gone round about the earth, and walked through it.  
 **8** And the Lord said to him: Hast thou considered my servant, Job, that there is none like him in the earth, a simple and upright man, and fearing God, and avoiding evil?  
 **9** And Satan answering, said: Doth Job fear God in vain?  
@@ -82,7 +82,7 @@ format: markdown
 **14** There came a messenger to Job, and said: The oxen were ploughing, and the asses feeding beside them,  
 **15** And the Sabeans rushed in, and took all away, and slew the servants with the sword; and I alone have escaped to tell thee.  
 **16** And while he was yet speaking, another came, and said: The fire of God fell from heaven, and striking the sheep and the servants, hath consumed them; and I alone have escaped to tell thee.  
-**17** And while he also was yet speaking, there came another, and said: taken them; moreover, they have slain the servants with the sword: and I alone have escaped to tell thee.  
+**17** And while he also was yet speaking, there came another, and said: The Chaldeans made three troops, and have fallen upon the camels, and taken them; moreover, they have slain the servants with the sword: and I alone have escaped to tell thee.  
 **18** He was yet speaking, and behold another came in, and said: Thy sons and daughters were eating and drinking wine in the house of their eldest brother,  
 **19** A violent wind came on a sudden from the side of the desert, and shook the four corners of the house, and it fell upon thy children, and they are dead: and I alone have escaped to tell thee.  
 **20** Then Job rose up, and rent his garments, and having shaven his head, fell down upon the ground, and worshipped,  
@@ -158,7 +158,7 @@ format: markdown
 **14** Fear seized upon me, and trembling, and all my bones were affrighted:  
 **15** And when a spirit passed before me, the hair of my flesh stood up.  
 **16** There stood one whose countenance I knew not, an image before my eyes, and I heard the voice, as it were, of a gentle wind.  
-**17** Shall man be justified in comparison of God, or shall a man be more pure than his maker? which Eliphaz had heard from an angel, which, ver. 15, he calls a spirit.  
+**17** Shall man be justified in comparison of God, or shall a man be more pure than his maker?  
 **18** Behold, they that serve him are not steadfast, and in his angels he found wickedness:  
 **19** How much more shall they that dwell in houses of clay, who have an earthly foundation, be consumed as with the moth?  
 **20** From morning till evening they shall be cut down: and because no one understandeth, they shall perish for ever.  
@@ -193,7 +193,7 @@ format: markdown
 **23** But thou shalt have a covenant with the stones of the lands, and the beasts of the earth shall be at peace with thee.  
 **24** And thou shalt know that thy tabernacle is in peace, and visiting thy beauty, thou shalt not sin.  
 **25** Thou shalt know also that thy seed shall be multiplied, and thy offspring like the grass of the earth.  
-**26** Thou shalt enter into the grave in abundance, as a heap of wheat is brought in its season.  
+**26** Thou shalt enter into the grave in abundance, as a heap of wheat is brought in in its season.  
 **27** Behold, this is even so, as we have searched out: which thou having heard, consider it thoroughly in thy mind.  
 
 ---
@@ -201,7 +201,7 @@ format: markdown
 ## Chapter 6
 
 **1** But Job answered, and said:  
-**2** O that my sins, whereby I have deserved wrath, and the calamity that I suffer, were weighed in a balance. sins: but with the imaginary crimes which his friends imputed to him: and especially with his wrath, or grief, expressed in the third chapter, which they so much accused. Though, as he tells them here, it bore no proportion with the greatness of his calamity.  
+**2** O that my sins, whereby I have deserved wrath, and the calamity that I suffer, were weighed in a balance.  
 **3** As the sand of the sea, this would appear heavier: therefore, my words are full of sorrow:  
 **4** For the arrows of the Lord are in me, the rage whereof drinketh up my spirit, and the terrors of the Lord war against me.  
 **5** Will the wild ass bray when he hath grass? or will the ox low when he standeth before a full manger?  
@@ -213,7 +213,7 @@ format: markdown
 **11** For what is my strength, that I can hold out? or what is my end, that I should keep patience?  
 **12** My strength is not the strength of stones, nor is my flesh of brass.  
 **13** Behold there is no help for me in myself, and my familiar friends also are departed from me.  
-**14** He that taketh away mercy from his friend, forsaketh the fear of the Lord.  
+**14** He that taketh away mercy from his friend, for saketh the fear of the Lord.  
 **15** My brethren have passed by me, as the torrent that passeth swiftly in the valleys.  
 **16** They that fear the hoary frost, the snow shall fall upon them.  
 **17** At the time when they shall be scattered they shall perish: and after it groweth hot, they shall be melted out of their place.  
@@ -254,7 +254,7 @@ format: markdown
 **17** What is a man, that thou shouldst magnify him or why dost thou set thy heart upon him?  
 **18** Thou visitest him early in the morning, and thou provest him suddenly.  
 **19** How long wilt thou not spare me, nor suffer me to swallow down my spittle?  
-**20** I have sinned: what shall I do to thee, O keeper of men? why hast thou set me opposite to thee, and am I become burdensome to myself?  
+**20** I have sinned: what shall I do to thee, O keeper of men? why hast thou set me opposite to thee and am I become burdensome to myself?  
 **21** Why dost thou not remove my sin, and why dost thou not take away my iniquity? Behold now I shall sleep in the dust: and if thou seek me in the morning, I shall not be.  
 
 ---
@@ -299,12 +299,12 @@ format: markdown
 **9** Who maketh Arcturus, and Orion, and Hyades, and the inner parts of the south.  
 **10** Who doth things great and incomprehensible, and wonderful, of which there is no number.  
 **11** If he come to me, I shall not see him: if he depart, I shall not understand.  
-**12** If he examine on a sudden, who shall answer him? or who can say:  
+**12** If he examine on a sudden, who shall answer him? or who can say: Why dost thou so?  
 **13** God, whose wrath no man can resist, and under whom they stoop that bear up the world.  
 **14** What am I then, that I should answer him, and have words with him?  
 **15** I, who although I should have any just thing, would not answer, but would make supplication to my judge.  
 **16** And if he should hear me when I call, I should not believe that he had heard my voice.  
-**17** For he shall crush me in a whirlwind, and multiply my wounds even without cause. crime of mine.  
+**17** For he shall crush me in a whirlwind, and multiply my wounds even without cause.  
 **18** He alloweth not my spirit to rest, and he filleth me with bitterness.  
 **19** If strength be demanded, he is most strong: if equity of judgment, no man dare bear witness for me.  
 **20** If I would justify myself, my own mouth shall condemn me: if I would shew myself innocent, he shall prove me wicked.  
@@ -317,7 +317,7 @@ format: markdown
 **27** If I say: I will not speak so: I change my face, and am tormented with sorrow.  
 **28** I feared all my works, knowing that thou didst not spare the offender.  
 **29** But if so also I am wicked, why have I laboured in vain?  
-**30** If I be washed, as it were, with snow waters, and my hands shall shine ever so clean:  
+**30** If I be washed, as it were, with snow waters, and my hands shall shine ever 80. clean:  
 **31** Yet thou shalt plunge me in filth, and my garments shall abhor me.  
 **32** For I shall not answer a man that is like myself: nor one that may be heard with me equally in judgment.  
 **33** There is none that may be able to reprove both, and to put his hand between both.  
@@ -455,7 +455,7 @@ format: markdown
 **10** But man when he shall be dead, and stripped and consumed, I pray you where is he?  
 **11** As if the waters should depart out of the sea, and an emptied river should be dried up;  
 **12** So man when he is fallen asleep shall not rise again; till the heavens be broken, he shall not awake, nor rise up out of his sleep.  
-**13** Who will grant me this, that thou mayst protect me in hell, and hide me till thy wrath pass, and appoint me a time when thou wilt remember me? and in the place where the souls are kept waiting for their Redeemer.  
+**13** Who will grant me this, that thou mayst protect me in hell, and hide me till thy wrath pass, and appoint me a time when thou wilt remember me?  
 **14** Shall man that is dead, thinkest thou, live again? all the days in which I am now in warfare, I expect until my change come.  
 **15** Thou shalt call me, and I will answer thee: to the work of thy hands thou shalt reach out thy right hand.  
 **16** Thou indeed hast numbered my steps, but spare my sins.  
@@ -487,7 +487,7 @@ format: markdown
 **15** Behold among his saints none is unchangeable, and the heavens are not pure in his sight.  
 **16** How much more is man abominable, and unprofitable, who drinketh iniquity like water?  
 **17** I will shew thee, hear me: and I will tell thee what I have seen.  
-**18** Wise men confess and hide not their fathers. and documents they have received from their fathers they are not ashamed to own.  
+**18** Wise men confess and hide not their fathers.  
 **19** To whom alone the earth was given, and no stranger hath passed among them.  
 **20** The wicked man is proud all his days, and the number of the years of his tyranny is uncertain.  
 **21** The sound of dread is always in his ears: and when there is peace, he always suspecteth treason.  
@@ -539,7 +539,7 @@ format: markdown
 ## Chapter 17
 
 **1** My spirit shall be wasted, my days shall be shortened and only the grave remaineth for me.  
-**2** I have not sinned, and my eye abideth in bitterness. with.  
+**2** I have not sinned, and my eye abideth in bitterness.  
 **3** Deliver me, O Lord, and set me beside thee, and let any man's hand fight against me.  
 **4** Thou hast set their heart far from understanding, therefore they shall not be exalted.  
 **5** He promiseth a prey to his companions, and the eyes of his children shall fail.  
@@ -590,7 +590,7 @@ format: markdown
 **3** Behold, these ten times you confound me, and are not ashamed to oppress me.  
 **4** For if I have been ignorant, my ignorance shall be with me.  
 **5** But you set yourselves up against me, and reprove me with my reproaches.  
-**6** At least now understand, that God hath not afflicted me with an equal judgment, and compassed me with his scourges. being a just man, and truly considering his own life, thought that his affliction was greater than his sins deserved: and in that respect, that the punishment was not equal, yet it was just, as coming from God, who gives a crown of justice to those who suffer for righteousness' sake, and proves the just with tribulations, as gold is tried by fire.  
+**6** At least now understand, that God hath not afflicted me with an equal judgment, and compassed me with his scourges.  
 **7** Behold I shall cry suffering violence, and no one will hear: I shall cry aloud, and there is none to judge.  
 **8** He hath hedged in my path round about, and I cannot pass, and in my way he hath set darkness.  
 **9** He hath stripped me of my glory, and hath taken the crown from my head.  
@@ -599,7 +599,7 @@ format: markdown
 **12** His troops have come together, and have made themselves a way by me, and have besieged my tabernacle round about.  
 **13** He hath put my brethren far from me, and my acquaintance like strangers have departed from me.  
 **14** My kinsmen have forsaken me, and they that knew me, have forgotten me.  
-**15** They that dwell in my house, and my maid-servants have counted me as a stranger, and I have been like an alien in their eyes.  
+**15** They that dwell in my house, and my maidservants have counted me as a stranger, and I have been like an alien in their eyes.  
 **16** I called my servant, and he gave me no answer, I entreated him with my own mouth.  
 **17** My wife hath abhorred my breath, and I entreated the children of my womb.  
 **18** Even fools despised me, and when I was gone from them, they spoke against me.  
@@ -609,7 +609,7 @@ format: markdown
 **22** Why do you persecute me as God, and glut yourselves with my flesh?  
 **23** Who will grant me that my words may be written? who will grant me that they may be marked down in a book?  
 **24** With an iron pen and in a plate of lead, or else be graven with an instrument in flint stone?  
-**25** For I know that my Redeemer liveth, and in the last day I shall rise out of the earth. of the resurrection of the flesh, not as one tree riseth in place of another, but that the selfsame flesh shall rise at the last day, by the power of God, changed in quality but not in substance, every one to receive sentence according to his works in this life.  
+**25** For I know that my Redeemer liveth, and in the last day I shall rise out of the earth.  
 **26** And I shall be clothed again with my skin, and in my flesh I shall see my God.  
 **27** Whom I myself shall see, and my eyes shall behold, and not another: this my hope is laid up in my bosom.  
 **28** Why then do you say now: Let us persecute him, and let us find occasion of word against him?  
@@ -636,7 +636,7 @@ format: markdown
 **15** The riches which he hath swallowed, he shall vomit up, and God shall draw them out of his belly.  
 **16** He shall suck the head of asps, and the viper's tongue shall kill him.  
 **17** Let him not see the streams of the river, the brooks of honey and of butter.  
-**18** He shall be punished for all that he did, and yet shall not be consumed: according to the multitude of his devices so also shall he suffer. gratify his passions and to oppress and destroy the poor.  
+**18** He shall be punished for all that he did, and yet shall not be consumed: according to the multitude of his devices so also shall he suffer.  
 **19** Because he broke in and stripped the poor: he hath violently taken away a house which he did not build.  
 **20** And yet his belly was not filled: and when he hath the things he coveted, he shall not be able to possess them.  
 **21** There was nothing left of his meat, and therefore nothing shall continue of his goods:  
@@ -685,7 +685,7 @@ format: markdown
 **30** Because the wicked man is reserved to the day of destruction, and he shall be brought to the day of wrath.  
 **31** Who shall reprove his way to his face? and who shall repay him what he hath done?  
 **32** He shall be brought to the graves, and shall watch in the heap of the dead.  
-**33** He hath been acceptable to the gravel of Cocytus, and he shall draw every man after him, and there are innumerable before him. has here rendered by the name Cocytus, (which the poets represent as a river in hell,) signifies a valley or a torrent: and in this place, is taken for the low region of death and hell: which willingly, as it were, receives the wicked at their death: who are ushered in by innumerable others that have gone before them; and are followed by multitudes above number.  
+**33** He hath been acceptable to the gravel of Cocytus, and he shall draw every man after him, and there are innumerable before him.  
 **34** How then do ye comfort me in vain, whereas your answer is shewn to be repugnant to truth?  
 
 ---
@@ -704,7 +704,7 @@ format: markdown
 **10** Therefore art thou surrounded with shares, and sudden fear troubleth thee.  
 **11** And didst thou think that thou shouldst not see darkness, and that thou shouldst not be covered with the violence of overflowing waters?  
 **12** Dost not thou think that God is higher than heaven, and is elevated above the height of the stars?  
-**13** And thou sayest: What doth God know? and he judgeth as it were through a mist.  
+**13** And thou sayst: What doth God know? and he judgeth as it were through a mist.  
 **14** The clouds are his covert, and he doth not consider our things, and he walketh about the poles of heaven.  
 **15** Dost thou desire to keep the path of ages, which wicked men have trodden?  
 **16** Who were taken away before their time, and a flood hath overthrown their foundation.  
@@ -802,7 +802,7 @@ format: markdown
 **10** He hath set bounds about the waters, till light and darkness come to an end.  
 **11** The pillars of heaven tremble, and dread at his beck.  
 **12** By his power the seas are suddenly gathered together, and his wisdom has struck the proud one.  
-**13** His spirit hath adorned the heavens, and his obstetric hand brought forth the winding serpent. omnipotent power of God: which brought forth all things created in time, but conceived in the Divine mind from all eternity. The winding serpent, a constellation of fixed stars winding round the north pole, called Draco. This appears from the foregoing part of the same verse, His spirit hath adorned the heavens.  
+**13** His spirit hath adorned the heavens, and his obstetric hand brought forth the winding serpent.  
 **14** Lo, these things are said in part of his ways: and seeing we have heard scarce a little drop of his word, who shall be able to behold the thunder of his greatness?  
 
 ---
@@ -900,7 +900,7 @@ format: markdown
 
 ## Chapter 30
 
-**1** But now the younger in time scorn me, whose fathers I would not have set with the dogs of my flock: were obscure, when I was conspicuous and in magnificence; they now look down on me.  
+**1** But now the younger in time scorn me, whose fathers I would not have set with the dogs of my flock:  
 **2** The strength of whose hands was to me as nothing, and they were thought unworthy of life itself.  
 **3** Barren with want and hunger, who gnawed in the wilderness, disfigured with calamity and misery.  
 **4** And they ate grass, and barks of trees, and the root of junipers was their food.  
@@ -928,7 +928,7 @@ format: markdown
 **26** I expected good things, and evils are come upon me: I waited for light, and darkness broke out.  
 **27** My inner parts have boiled without any rest, the days of affliction have prevented me.  
 **28** I went mourning without indignation; I rose up, and cried in the crowd.  
-**29** I was the brother of dragons, and companion of ostriches. noise.  
+**29** I was the brother of dragons, and companion of ostriches.  
 **30** My skin is become black upon me, and my bones are dried up with heat.  
 **31** My harp is turned to mourning, and my organ into the voice of those that weep.  
 
@@ -948,7 +948,7 @@ format: markdown
 **10** Let my wife be the harlot of another, and let other men lie with her.  
 **11** For this is a heinous crime, and a most grievous iniquity.  
 **12** It is a fire that devoureth even to destruction, and rooteth up all things that spring.  
-**13** If I have despised to abide judgment with my man-servant, or my maid-servant, when they had any controversy against me:  
+**13** If I have despised to abide judgment with my manservant, or my maidservant, when they had any controversy against me:  
 **14** For what shall I do when God shall rise to judge? and when he shall examine, what shall I answer him?  
 **15** Did not he that made me in the womb make him also: and did not one and the same form me in the womb?  
 **16** If I have denied to the poor what they desired, and have made the eyes of the widow wait:  
@@ -959,9 +959,9 @@ format: markdown
 **21** If I have lifted up my hand against the fatherless, even when I saw myself superior in the gate:  
 **22** Let my shoulder fall from its joint, and let my arm with its bones be broken.  
 **23** For I have always feared God as waves swelling over me, and his weight I was unable to bear.  
-**24** If I have thought gold my strength, and have said to fine gold:  
+**24** If I have thought gold my strength, and have said to fine gold: My confidence:  
 **25** If I have rejoiced over my great riches, and because my hand had gotten much.  
-**26** If I beheld the sun when it shined and the moon going in brightness: admiration, knowing them to be created and governed by the power of God, I call on my adversaries to produce any thing against me, whereby I could be charged with worshipping the sun or moon.  
+**26** If I beheld the sun when it shined and the moon going in brightness:  
 **27** And my heart in secret hath rejoiced, and I have kissed my hand with, my mouth:  
 **28** Which is a very great iniquity, and a denial against the most high God.  
 **29** If I have been glad at the downfall of him that hated me, and have rejoiced that evil had found him.  
@@ -1001,7 +1001,7 @@ format: markdown
 **18** For I am full of matter to speak of, and the spirit of my bowels straiteneth me.  
 **19** Behold, my belly is as new wine which wanteth vent, which bursteth the new vessels.  
 **20** I will speak and take breath a little: I will open my lips, and will answer.  
-**21** I will not accept the person of man, and I will not level God with man. himself on a level with God, by the manner he assumed to justify his own life in speaking to God as if he spoke to an equal: Eliu expresses in the following ver. 22 his fear of punishment hereafter for such an attempt.  
+**21** I will not accept the person of man, and I will not level God with man.  
 **22** For I know not how long I shall continue, and whether after a while my Maker may take me away.  
 
 ---
@@ -1124,12 +1124,12 @@ format: markdown
 **13** Dissemblers and crafty men prove the wrath of God, neither shall they cry when they are bound.  
 **14** Their soul shall die in a storm, and their life among the effeminate.  
 **15** He shall deliver the poor out of his distress, and shall open his ear in affliction.  
-**16** Therefore he shall set thee at large out of the narrow mouth, and which hath no foundation under it: and the rest of thy table shall be full of fatness. narrow, and its depth bottomless; but figuratively meant here, that is, from his miseries and calamity to be restored to his former state of happiness.  
+**16** Therefore he shall set thee at large out of the narrow mouth, and which hath no foundation under it: and the rest of thy table shall be full of fatness.  
 **17** Thy cause hath been judged as that of the wicked, cause and judgment thou shalt recover.  
 **18** Therefore let not anger overcome thee to oppress any man: neither let multitude of gifts turn thee aside.  
 **19** Lay down thy greatness without tribulation, and all the mighty of strength.  
 **20** Prolong not the night that people may come up for them.  
-**21** Beware thou turn not aside to iniquity: for this thou hast begun to follow after misery. that notwithstanding his misery, he does not fear God as he ought: but in his judgment, falls into iniquity.  
+**21** Beware thou turn not aside to iniquity: for this thou hast begun to follow after misery.  
 **22** Behold, God is high in his strength, and none is like him among the lawgivers.  
 **23** Who can search out his ways? or who can say to him: Thou hast wrought iniquity?  
 **24** Remember that thou knowest not his work, concerning which men have sung.  
@@ -1153,7 +1153,7 @@ format: markdown
 **4** After it a noise shall roar, he shall thunder with the voice of his majesty, and shall not be found out, when his voice shall be heard.  
 **5** God shall thunder wonderfully with his voice, he that doth great and unsearchable things.  
 **6** He commandeth the snow to go down upon the earth, and the winter rain, and the shower of his strength.  
-**7** He sealeth up the hand of all men, that every one may know his works. is, those storms of rain, he seals up, that is, he shuts up the hands of men from their usual works abroad, and confines them within doors, to consider his works; or to forecast their works, that is, what they themselves are to do.  
+**7** He sealeth up the hand of all men, that every one may know his works.  
 **8** Then the beast shall go into his covert, and shall abide in his den.  
 **9** Out of the inner parts shall a tempest come, and cold out of the north.  
 **10** When God bloweth there cometh frost, and again the waters are poured out abundantly.  
@@ -1166,7 +1166,7 @@ format: markdown
 **17** Are not thy garments hot, when the south wind blows upon the earth?  
 **18** Thou perhaps hast made the heavens with him, which are most strong, as if they were of molten brass.  
 **19** Shew us what we may say to him: or we are wrapped up in darkness.  
-**20** Who shall tell him the things I speak? even if a man shall speak, he shall be swallowed up. is so little and inconsiderable in comparison with the subject, that man is lost, and as it were swallowed up in so immense an ocean.  
+**20** Who shall tell him the things I speak? even if a man shall speak, he shall be swallowed up.  
 **21** But now they see not the light: the air on a sudden shall be thickened into clouds, and the wind shall pass and drive them away.  
 **22** Cold cometh out of the north, and to God praise with fear.  
 **23** We cannot find him worthily: he is great in strength, and in judgment, and in justice, and he is ineffable.  
@@ -1206,17 +1206,17 @@ format: markdown
 **28** Who is the father of rain? or who begot the drops of dew?  
 **29** Out of whose womb came the ice? and the frost from heaven who hath gendered it?  
 **30** The waters are hardened like a stone, and the surface of the deep is congealed.  
-**31** Shalt thou be able to join together the shining stars the Pleiades, or canst thou stop the turning about of Arcturus? others, the Great Bear is understood.  
+**31** Shalt thou be able to join together the shining stars the Pleiades, or canst thou stop the turning about of Arcturus?  
 **32** Canst thou bring forth the day star in its time, and make the evening star to rise upon the children of the earth?  
 **33** Dost thou know the order of heaven, and canst thou set down the reason thereof on the earth?  
 **34** Canst thou lift up thy voice to the clouds, that an abundance of waters may cover thee?  
 **35** Canst thou send lightnings, and will they go, and will they return and say to thee: Here we are?  
-**36** Who hath put wisdom in the heart of man? or who gave the cock understanding? crowing in the night.  
+**36** Who hath put wisdom in the heart of man? or who gave the cock understanding?  
 **37** Who can declare the order of the heavens, or who can make the harmony of heaven to sleep?  
 **38** When was the dust poured on the earth, and the clods fastened together?  
 **39** Wilt thou take the prey for the lioness, and satisfy the appetite of her whelps,  
 **40** When they couch in the dens and lie in wait in holes?  
-**41** Who provideth food for the raven, when her young ones cry to God, wandering about, because they have no meat? his creatures.  
+**41** Who provideth food for the raven, when her young ones cry to God, wandering about, because they have no meat?  
 **1** Knowest thou the time when the wild goats bring forth among the rocks, or hast thou observed the hinds when they fawn?  
 **2** Hast thou numbered the months of their conceiving, or knowest thou the time when they bring forth?  
 **3** They bow themselves to bring forth young, and they cast them, and send forth roarings.  
@@ -1250,7 +1250,7 @@ format: markdown
 **31** And the Lord went on, and said to Job:  
 **32** Shall he that contendeth with God be so easily silenced? surely he that reproveth God, ought to answer him.  
 **33** Then Job answered the Lord, and said:  
-**34** What can I answer, who hath spoken inconsiderately? I will lay my hand upon my mouth. from the words of the Lord himself, chap. 42, ver. 7, 8; but what was reprehensible in him, was the manner of expressing himself at times, speaking too much of his own affliction, and too little of God's goodness towards him, which here he acknowledges as inconsiderate.  
+**34** What can I answer, who hath spoken inconsiderately? I will lay my hand upon my mouth.  
 **35** One thing I have spoken, which I wish I had not said: and another, to which I will add no more.  
 
 ---
@@ -1266,11 +1266,11 @@ format: markdown
 **7** Look on all that are proud, and confound them, and crush the wicked in their place,  
 **8** Hide them in the dust together, and plunge their faces into the pit.  
 **9** Then I will confess that thy right hand is able to save thee.  
-**10** Behold behemoth whom I made with thee, he eateth grass like an ox. many authors explain, that here it is put for the elephant.  
+**10** Behold behemoth whom I made with thee, he eateth grass like an ox.  
 **11** His strength is in his loins, and his force in the navel of his belly.  
 **12** He setteth up his tail like a cedar, the sinews of his testicles are wrapped together.  
 **13** His bones are like pipes of brass, his gristle like plates of iron.  
-**14** He is the beginning of the ways of God, who made him, he will apply his sword. explain the sword, the horn given to the animal for his defence: others, the power that God hath given to the animal for his defence: others, the power that God hath given to man to slay him, notwithstanding his great size and strength.  
+**14** He is the beginning of the ways of God, who made him, he will apply his sword.  
 **15** To him the mountains bring forth grass: there all the beasts of the field shall play.  
 **16** He sleepeth under the shadow, in the covert of the reed, and in moist places.  
 **17** The shades cover his shadow, the willows of the brook shall compass him about.  
@@ -1305,16 +1305,16 @@ format: markdown
 **13** In his neck strength shall dwell, and want goeth before his face.  
 **14** The members of his flesh cleave one to another: he shall send lightnings against him, and they shall not be carried to another place.  
 **15** His heart shall be as hard as a stone, and as firm as a smith's anvil,  
-**16** When he shall raise him up, the angels shall fear, and being affrighted shall purify themselves. valiant, shall fear this monstrous fish, and in their fear shall seek to be purified.  
+**16** When he shall raise him up, the angels shall fear, and being affrighted shall purify themselves.  
 **17** When a sword shall lay at him, it shall not be able to hold, nor a spear, nor a breastplate.  
 **18** For he shall esteem iron as straw, and brass as rotten wood.  
 **19** The archer shall not put him to flight, the stones of the sling are to him like stubble.  
 **20** As stubble will he esteem the hammer, and he will laugh him to scorn who shaketh the spear.  
-**21** The beams of the sun shall be under him, and he shall strew gold under him like mire. shall be like mire.  
+**21** The beams of the sun shall be under him, and he shall strew gold under him like mire.  
 **22** He shall make the deep sea to boil like a pot, and shall make it as when ointments boil.  
-**23** A path shall shine after him, he shall esteem the deep as growing old. which he leaves behind him.  
+**23** A path shall shine after him, he shall esteem the deep as growing old.  
 **24** There is no power upon earth that can be compared with him who was made to fear no one,  
-**25** He beholdeth every high thing, he is king over all the children of pride. strong amongst living creatures: mystically it is understood of the devil, who is king over all the proud.  
+**25** He beholdeth every high thing, he is king over all the children of pride.  
 
 ---
 
@@ -1331,7 +1331,7 @@ format: markdown
 **9** So Eliphaz the Themanite, and Baldad the Suhite, and Sophar the Naamathite went, and did as the Lord had spoken to them, and the Lord accepted the face of Job.  
 **10** The Lord also was turned at the penance of Job, when he prayed for his friends. And the Lord gave Job twice as much as he had before.  
 **11** And all his brethren came to him, and all his sisters, and all that knew him before, and they ate bread with him in his house: and bemoaned him, and comforted him upon all the evil that God had brought upon him. And every man gave him one ewe, and one earring of gold.  
-**12** And the Lord blessed the latter end of Job more than his beginning. And he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she-asses.  
+**12** And the Lord blessed the latter end of Job more than his beginning. And he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.  
 **13** And he had seven sons, and three daughters.  
 **14** And he called the name of one Dies, and the name of the second Cassia, and the name of the third Cornustibii.  
 **15** And there were not found in all the earth women so beautiful as the daughters of Job: and their father gave them inheritance among their brethren.  

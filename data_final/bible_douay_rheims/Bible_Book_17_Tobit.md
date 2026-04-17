@@ -83,7 +83,7 @@ format: markdown
 **12** Now this trial the Lord therefore permitted to happen to him, that an example might be given to posterity of his patience, as also of holy Job.  
 **13** For whereas he had always feared God from his infancy, and kept his commandments, he repined not against God because the evil of blindness had befallen him,  
 **14** But continued immoveable in the fear of God, giving thanks to God all the days of his life.  
-**15** For as the kings insulted over holy Job: so his relations and kinsmen mocked at his life, saying: princes in their respective territories.  
+**15** For as the kings insulted over holy Job: so his relations and kinsmen mocked at his life, saying:  
 **16** Where is thy hope, for which thou gavest alms, and buriedst the dead?  
 **17** But Tobias rebuked them, saying: Speak not so:  
 **18** For we are the children of saints, and look for that life which God will give to those that never change their faith from him.  
@@ -161,7 +161,7 @@ format: markdown
 **4** But go now, and seek thee out some faithful man, to go with thee for his hire: that thou mayst receive it, while I yet live.  
 **5** Then Tobias going forth, found a beautiful young man, standing girded, and as it were ready to walk.  
 **6** And not knowing that he was an angel of God, he saluted him, and said: From whence art thou, good young man?  
-**7** But he answered: Of the children of Israel. And Tobias said to him:  
+**7** But he answered: Of the children of Israel. And Tobias said to him: Knowest thou the way that leadeth to the country of the Medes?  
 **8** And he answered: I know it: and I have often walked through all the ways thereof, and I have abode with Gabelus our brother, who dwelleth at Rages a city of the Medes, which is situate in the mount of Ecbatana.  
 **9** And Tobias said to him: Stay for me, I beseech thee, till I tell these same things to my father.  
 **10** Then Tobias going in told all these things to his father. Upon which his father being in admiration, desired that he would come in unto him.  
@@ -172,12 +172,12 @@ format: markdown
 **15** And the angel said to him: I will conduct him thither, and bring him back to thee.  
 **16** And Tobias said to him: I pray thee, tell me, of what family, or what tribe art thou?  
 **17** And Raphael the angel answered: Dost thou seek the family of him thou hirest, or the hired servant himself to go with thy son?  
-**18** But lest I should make thee uneasy, I am Azarias the son of the great Ananias. himself by the name of the man whom he personated. Azarias, in Hebrew, signifies the help of God, and Ananias the grace of God.  
+**18** But lest I should make thee uneasy, I am Azarias the son of the great Ananias.  
 **19** And Tobias answered: Thou art of a great family. But I pray thee be not angry that I desired to know thy family.  
 **20** And the angel said to him: I will lead thy son safe, and bring him to thee again safe.  
 **21** And Tobias answering, said: May you have a good journey, and God be with you in your way, and his angel accompany you.  
 **22** Then all things being ready, that were to be carried in their journey, Tobias bade his father and his mother farewell, and they set out both together.  
-**23** And when they were departed, his mother began to weep, and to say:  
+**23** And when they were departed, his mother began to weep, and to say: Thou hast taken the staff of our old age, and sent him away from us.  
 **24** I wish the money for which thou hast sent him, had never been.  
 **25** For our poverty was sufficient for us, that we might account it as riches, that we saw our son.  
 **26** And Tobias said to her: Weep not, our son will arrive thither safe, and will return safe to us, and thy eyes shall see him.  
@@ -195,14 +195,14 @@ format: markdown
 **5** Then the angel said to him: Take out the entrails of this fish, and lay up his heart, and his gall, and his liver for thee: for these are necessary for useful medicines.  
 **6** And when he had done so, he roasted the flesh thereof, and they took it with them in the way: the rest they salted as much as might serve them, till they came to Rages the city of the Medes.  
 **7** Then Tobias asked the angel, and said to him: I beseech thee, brother Azarias, tell me what remedies are these things good for, which thou hast bid me keep of the fish?  
-**8** And the angel, answering, said to him: If thou put a little piece of its heart upon coals, the smoke thereof driveth away all kind of devils, either from man or from woman, so that they come no more to them. things a virtue against those proud spirits, to make them, who affected to be like the Most High, subject to such mean corporeal creatures as instruments of his power.  
+**8** And the angel, answering, said to him: If thou put a little piece of its heart upon coals, the smoke thereof driveth away all kind of devils, either from man or from woman, so that they come no more to them.  
 **9** And the gall is good for anointing the eyes, in which there is a white speck, and they shall be cured.  
 **10** And Tobias said to him: Where wilt thou that we lodge?  
 **11** And the angel answering, said: Here is one whose name is Raguel, a near kinsman of thy tribe, and he hath a daughter named Sara, but he hath no son nor any other daughter beside her.  
 **12** All his substance is due to thee, and thou must take her to wife.  
 **13** Ask her therefore of her father, and he will give her thee to wife.  
 **14** Then Tobias answered, and said: I hear that she hath been given to seven husbands, and they all died: moreover I have heard, that a devil killed them.  
-**15** Now I am afraid, lest the same thing should happen to me also: and whereas I am the only child of my parents, I should bring down their old age with sorrow to hell. before the coming of Christ.  
+**15** Now I am afraid, lest the same thing should happen to me also: and whereas I am the only child of my parents, I should bring down their old age with sorrow to hell.  
 **16** Then the angel Raphael said to him: Hear me, and I will shew thee who they are, over whom the devil can prevail.  
 **17** For they who in such manner receive matrimony, as to shut out God from themselves, and from their mind, and to give themselves to their lust, as the horse and mule, which have not understanding, over them the devil hath power.  
 **18** But thou when thou shalt take her, go into the chamber, and for three days keep thyself continent from her, and give thyself to nothing else but to prayers with her.  
@@ -254,7 +254,7 @@ format: markdown
 **12** For he said: Lest perhaps it may have happened to him, in like manner as it did to the other seven husbands, that went in unto her.  
 **13** And when they had prepared the pit, Raguel went back to his wife, and said to her:  
 **14** Send one of thy maids, and let her see if he be dead, that I may bury him before it be day.  
-**15** So she sent one of her maid-servants, who went into the chamber, and found them safe and sound, sleeping both together.  
+**15** So she sent one of her maidservants, who went into the chamber, and found them safe and sound, sleeping both together.  
 **16** And returning she brought the good news: and Raguel and Anna his wife blessed the Lord,  
 **17** And said: We bless thee, O Lord God of Israel, because it hath not happened as we suspected.  
 **18** For thou hast shewn thy mercy to us, and hast shut out from us the enemy that persecuted us.  
@@ -293,12 +293,12 @@ format: markdown
 **5** We having all things together in thee alone, ought not to have let thee go from us.  
 **6** And Tobias said to her: Hold thy peace, and be not troubled, our son is safe: that man with whom we sent him is very trusty.  
 **7** But she could by no means be comforted, but daily running out looked round about, and went into all the ways by which there seemed any hope he might return, that she might if possible see him coming afar off.  
-**8** But Raguel said to his son-in-law: Stay here, and I will send a messenger to Tobias thy father, that thou art in health.  
+**8** But Raguel said to his son in law: Stay here, and I will send a messenger to Tobias thy father, that thou art in health.  
 **9** And Tobias said to him: I know that my father and mother now count the days, and their spirit is grievously afflicted within them.  
-**10** And when Raguel had pressed Tobias with many words, and he by no means would hearken to him, he delivered Sara unto him, and half of all his substance in men-servants, and women-servants, in cattle, in camels, and in kine, and in much money, and sent him away safe and joyful from him,  
+**10** And when Raguel had pressed Tobias with many words, and he by no means would hearken to him, he delivered Sara unto him, and half of all his substance in menservants, and womenservants, in cattle, in camels, and in kine, and in much money, and sent him away safe and joyful from him,  
 **11** Saying: The holy angel of the Lord be with you in your journey, and bring you through safe, and that you may find all things well about your parents, and my eyes may see your children before I die.  
 **12** And the parents taking their daughter kissed her, and let her go:  
-**13** Admonishing her to honour her father and mother-in-law, to love her husband, to take care of the family, to govern the house, and to behave herself irreprehensibly.  
+**13** Admonishing her to honour her father and mother in law, to love her husband, to take care of the family, to govern the house, and to behave herself irreprehensibly.  
 
 ---
 
@@ -312,7 +312,7 @@ format: markdown
 **6** And while she watched his coming from that place, she saw him afar off, and presently perceived it was her son coming: and returning she told her husband, saying: Behold thy son cometh.  
 **7** And Raphael said to Tobias: As soon as thou shalt come into thy house, forthwith adore the Lord thy God: and giving thanks to him, go to thy father, and kiss him.  
 **8** And immediately anoint his eyes with this gall of the fish, which thou carriest with thee. For be assured that his eyes shall be presently opened, and thy father shall see the light of heaven, and shall rejoice in the sight of thee.  
-**9** Then the dog, which had been with them in the way, ran before, and coming as if he had brought the news, shewed his joy by his fawning and wagging his tail. in sacred history: but as we learn from our Saviour, St. Matt. 5.18, there are iotas and tittles in the word of God: that is to say, things that appear minute, but which have indeed a deep and mysterious meaning in them.  
+**9** Then the dog, which had been with them in the way, ran before, and coming as if he had brought the news, shewed his joy by his fawning and wagging his tail.  
 **10** And his father that was blind, rising up, began to run stumbling with his feet: and giving a servant his hand, went to meet his son.  
 **11** And receiving him kissed him, as did also his wife, and they began to weep for joy.  
 **12** And when they had adored God, and given him thanks, they sat down together.  
@@ -367,7 +367,7 @@ format: markdown
 **8** Be converted therefore, ye sinners, and do justice before God, believing that he will shew his mercy to you.  
 **9** And I and my soul will rejoice in him.  
 **10** Bless ye the Lord, all his elect, keep days of joy, and give glory to him.  
-**11** Jerusalem, city of God, the Lord hath chastised thee for the works of thy hands. chapter, with relation to Jerusalem, is partly to be understood of the rebuilding of the city after the captivity: and partly of the spiritual Jerusalem, which is the church of Christ, and the eternal Jerusalem in heaven.  
+**11** Jerusalem, city of God, the Lord hath chastised thee for the works of thy hands.  
 **12** Give glory to the Lord for thy good things, and bless the God eternal that he may rebuild his tabernacle in thee, and may call back all the captives to thee, and thou mayst rejoice for ever and ever.  
 **13** Thou shalt shine with a glorious light: and all the ends of the earth shall worship thee,  
 **14** Nations from afar shall come to thee: and shall bring gifts, and shall adore the Lord in thee, and shall esteem thy land as holy.  
@@ -398,7 +398,7 @@ format: markdown
 **11** And command your children that they do justice and almsdeeds, and that they be mindful of God, and bless him at all times in truth, and with all their power.  
 **12** And now, children, hear me, and do not stay here: but as soon as you shall bury your mother by me in one sepulchre, without delay direct your steps to depart hence:  
 **13** For I see that its iniquity will bring it to destruction.  
-**14** And it came to pass that after the death of his mother, Tobias departed out of Ninive with his wife, and children, and children's children, and returned to his father and mother-in-law.  
+**14** And it came to pass that after the death of his mother, Tobias departed out of Ninive with his wife, and children, and children's children, and returned to his father and mother in law.  
 **15** And he found them in health in a good old age: and he took care of them, and he closed their eyes: and all the inheritance of Raguel's house came to him: and he saw his children's children to the fifth generation.  
 **16** And after he had lived ninety-nine years in the fear of the Lord, with joy they buried him.  
 **17** And all his kindred, and all his generation continued in good life, and in holy conversation, so that they were acceptable both to God, and to men, and to all that dwelt in the land.  

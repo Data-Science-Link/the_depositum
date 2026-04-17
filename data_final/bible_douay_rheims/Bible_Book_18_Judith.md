@@ -126,7 +126,7 @@ format: markdown
 **2** And he was transported with exceeding great fury and indignation, and he called all the princes of Moab and the leaders of Ammon.  
 **3** And he said to them: Tell me what is this people that besetteth the mountains: or what are their cities, and of what sort, and how great: also what is their power, or what is their multitude: or who is the king over their warfare:  
 **4** And why they above all that dwell in the east, have despised us, and have not come out to meet us, that they might receive us with peace?  
-**5** Then Achior captain of all the children of Ammon answering, said; concerning this people, that dwelleth in the mountains, and there shall not a false word come out of my mouth.  
+**5** Then Achior captain of all the children of Ammon answering, said; If thou vouchsafe, my lord, to hear, I will tell the truth in thy sight concerning this people, that dwelleth in the mountains, and there shall not a false word come out of my mouth.  
 **6** This people is of the offspring of the Chaldeans.  
 **7** They dwelt first in Mesopotamia, because they would not follow the gods of their fathers, who were in the land of the Chaldeans.  
 **8** Wherefore forsaking the ceremonies of their fathers, which consisted in the worship of many gods,  
@@ -212,7 +212,7 @@ format: markdown
 
 ## Chapter 8
 
-**1** Now it came to pass, when Judith a widow had heard these words, who was the daughter of Merari, the son of Idox, the son of Joseph, the son of Ozias, the son of Elai, the son of Jamnor, the son of Gedeon, the son of Raphaim, the son of Achitob, the son of Melchias, the son of Enan, the son of Nathanias, the son of Salathiel, the son of Simeon, the son of Ruben: the brother of Ruben. It seems more probable that the Simeon and the Ruben here mentioned are not the patriarchs: but two of the descendants of the patriarch Simeon: and that the genealogy of Judith, recorded in this place, is not carried up so high as the patriarchs. No more than that of Elcana the father of Samuel, 1 Kings 1.1, and that of king Saul, 1 Kings 9.1.  
+**1** Now it came to pass, when Judith a widow had heard these words, who was the daughter of Merari, the son of Idox, the son of Joseph, the son of Ozias, the son of Elai, the son of Jamnor, the son of Gedeon, the son of Raphaim, the son of Achitob, the son of Melchias, the son of Enan, the son of Nathanias, the son of Salathiel, the son of Simeon, the son of Ruben:  
 **2** And her husband was Manasses, who died in the time of the barley harvest:  
 **3** For he was standing over them that bound sheaves in the field; and the heat came upon his head, and he died in Bethulia his own city, and was buried there with his fathers.  
 **4** And Judith his relict was a widow now three years and six months.  
@@ -243,7 +243,7 @@ format: markdown
 **29** Now therefore pray for us, for thou art a holy woman, and one fearing God.  
 **30** And Judith said to them: As you know that what I have been able to say is of God:  
 **31** So that which I intend to do prove ye if it be of God, and pray that God may strengthen my design.  
-**32** You shall stand at the gate this night, and I will go out with my maid-servant: and pray ye, that as you have said, in five days the Lord may look down upon his people Israel.  
+**32** You shall stand at the gate this night, and I will go out with my maidservant: and pray ye, that as you have said, in five days the Lord may look down upon his people Israel.  
 **33** But I desire that you search not into what I am doing, and till I bring you word let nothing else be done but to pray for me to the Lord our God.  
 **34** And Ozias the prince of Juda said to her: Go in peace, and the Lord be with thee to take revenge of our enemies. So returning they departed.  
 
@@ -252,7 +252,7 @@ format: markdown
 ## Chapter 9
 
 **1** And when they were gone, Judith went into her oratory: and putting on haircloth, laid ashes on her head: and falling down prostrate before the Lord, she cried to the Lord, saying:  
-**2** Lord God of my father Simeon, who gavest him a sword to execute vengeance against strangers, who had defiled by their uncleanness, and uncovered the virgin unto confusion: punishing by the sword of Simeon the crime of the Sichemites: and not the act of Simeon, which was justly condemned by his father, Gen. 49.5. against the crime committed by the ravishers of his sister, which zeal may be considered just: and the manner of his punishing that crime, which was irregular and excessive.  
+**2** Lord God of my father Simeon, who gavest him a sword to execute vengeance against strangers, who had defiled by their uncleanness, and uncovered the virgin unto confusion:  
 **3** And who gavest their wives to be made a prey, and their daughters into captivity: and all their spoils to be divided to the servants, who were zealous with thy zeal: assist, I beseech thee, O Lord God, me a widow.  
 **4** For thou hast done the things of old, and hast devised one thing after another: and what thou hast designed hath been done.  
 **5** For all thy ways are prepared, and in thy providence thou hast placed thy judgments.  
@@ -282,11 +282,11 @@ format: markdown
 **5** And she gave to her maid a bottle of wine to carry, and a vessel of oil, and parched corn, and dry figs, and bread and cheese, and went out.  
 **6** And when they came to the gate of the city, they found Ozias, and the ancients of the city waiting.  
 **7** And when they saw her they were astonished, and admired her beauty exceedingly.  
-**8** But they asked her no question, only they let her pass, saying: counsel of thy heart with his power, that Jerusalem may glory in thee, and thy name may be in the number of the holy and just.  
+**8** But they asked her no question, only they let her pass, saying: The God of our fathers give thee grace, and may he strengthen all the counsel of thy heart with his power, that Jerusalem may glory in thee, and thy name may be in the number of the holy and just.  
 **9** And they that were there said, all with one voice: So be it, so be it.  
 **10** But Judith praying to the Lord, passed through the gates, she and her maid.  
 **11** And it came to pass, when she went down the hill, about break of day, that the watchmen of the Assyrians met her, and stopped her, saying: Whence comest thou or whither goest thou?  
-**12** And she answered: I am a daughter of the Hebrews, and I am fled from them, because I knew they would be made a prey to you, because they despised you, and would not of their own accord yield themselves, that they might find mercy in your sight. are related to have been said by Judith, which seem hard to reconcile with truth. But all that is related in scripture of the servants of God is not approved by the scripture; and even the saints in their good enterprises may sometimes slip into venial sins.  
+**12** And she answered: I am a daughter of the Hebrews, and I am fled from them, because I knew they would be made a prey to you, because they despised you, and would not of their own accord yield themselves, that they might find mercy in your sight.  
 **13** For this reason I thought with myself, saying: I will go to the presence of the prince Holofernes, that I may tell him their secrets, and shew him by what way he may take them, without the loss of one man of his army.  
 **14** And when the men had heard her words, they beheld her face, and their eyes were amazed, for they wondered exceedingly at her beauty.  
 **15** And they said to her: Thou hast saved thy life by taking this resolution, to come down to our lord.  
@@ -363,7 +363,7 @@ format: markdown
 **10** And she struck twice upon his neck, and cut off his head, and took off his canopy from the pillars, and rolled away his headless body.  
 **11** And after a while she went out, and delivered the head of Holofernes to her maid, and bade her put it into her wallet.  
 **12** And they two went out according to their custom, as it were to prayer, and they passed the camp, and having compassed the valley, they came to the gate of the city.  
-**13** And Judith from afar off cried to the watchmen upon the walls:  
+**13** And Judith from afar off cried to the watchmen upon the walls: Open the gates for God is with us, who hath shewn his power in Israel.  
 **14** And it came to pass, when the men had heard her voice, that they called the ancients of the city.  
 **15** And all ran to meet her from the least to the greatest: for they now had no hopes that she would come.  
 **16** And lighting up lights they all gathered round about her: and she went up to a higher place, and commanded silence to be made. And when all had held their peace,  
@@ -373,7 +373,7 @@ format: markdown
 **20** But as the same Lord liveth, his angel hath been my keeper both going hence, and abiding there, and returning from thence hither: and the Lord hath not suffered me his handmaid to be defiled, but hath brought me back to you without pollution of sin, rejoicing for his victory, for my escape, and for your deliverance.  
 **21** Give all of you glory to him, because he is good, because his mercy endureth for ever.  
 **22** And they all adored the Lord, and said to her: The Lord hath blessed thee by his power, because by thee he hath brought our enemies to nought.  
-**23** And Ozias the prince of the people of Israel, said to her: women upon the earth.  
+**23** And Ozias the prince of the people of Israel, said to her: Blessed art thou, O daughter, by the Lord the most high God, above all women upon the earth.  
 **24** Blessed be the Lord who made heaven and earth, who hath directed thee to the cutting off the head of the prince of our enemies.  
 **25** Because he hath so magnified thy name this day, that thy praise shall not depart out of the mouth of men who shall be mindful of the power of the Lord for ever, for that thou hast not spared thy life, by reason of the distress and tribulation of thy people, but hast prevented our ruin in the presence of our God.  
 **26** And all the people said: So be it, so be it.  
@@ -452,7 +452,7 @@ format: markdown
 **20** Woe be to the nation that riseth up against my people: for the Lord almighty will take revenge on them, in the day of judgment he will visit them.  
 **21** For he will give fire, and worms into their flesh, that they may burn, and may feel for ever.  
 **22** And it came to pass after these things, that all the people, after the victory, came to Jerusalem to adore the Lord: and as soon as they were purified, they all offered holocausts, and vows, and their promises.  
-**23** And Judith offered for an anathema of oblivion all the arms of Holofernes, which the people gave her, and the canopy that she had taken away out of his chamber. way of an everlasting monument, to prevent the oblivion or forgetting so great a benefit.  
+**23** And Judith offered for an anathema of oblivion all the arms of Holofernes, which the people gave her, and the canopy that she had taken away out of his chamber.  
 **24** And the people were joyful in the sight of the sanctuary, and for three months the joy of this victory was celebrated with Judith.  
 **25** And after those days every man returned to his house, and Judith was made great in Bethulia, and she was most renowned in all the land of Israel.  
 **26** And chastity was joined to her virtue, so that she knew no man all the days of her life, after the death of Manasses her husband.  

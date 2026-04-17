@@ -46,19 +46,19 @@ format: markdown
 **5** Your fathers, where are they? and the prophets, shall they live always?  
 **6** But yet my words, and my ordinances, which I gave in charge to my servants the prophets, did they not take hold of your fathers, and they returned, and said: As the Lord of hosts thought to do to us according to our ways, and according to our devices, so he hath done to us.  
 **7** In the four and twentieth day of the eleventh month which is called Sabath, in the second year of Darius, the word of the Lord came to Zacharias the son of Barachias, the son of Addo, the prophet, saying:  
-**8** I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees, that were in the bottom: and behind him were horses, red, speckled, and white. guardian angel of the church of God.  
-**9** And I said: What are these, my Lord? and the angel that spoke in me, said to me: I will shew thee what these are:  
-**10** And the man that stood among the myrtle trees answered, and said:  
+**8** I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees, that were in the bottom: and behind him were horses, red, speckled, and white.  
+**9** And I said: What are these, my lord? and the angel that spoke in me, said to me: I will shew thee what these are:  
+**10** And the man that stood among the myrtle trees answered, and said: These are they, whom the Lord hath sent to walk through the earth.  
 **11** And they answered the angel of the Lord, that stood among the myrtle trees, and said: We have walked through the earth, and behold all the earth is inhabited, and is at rest.  
-**12** And the angel of the Lord answered, and said: O Lord of hosts, how long wilt thou not have mercy on Jerusalem, and on the cities of Juda, with which thou hast been angry? this is now the seventieth year. king Darius. These seventy years of the desolation of Jerusalem and the cities of Juda, are different from the seventy years of captivity foretold by Jeremias; which began in the fourth year of Joakim, and ended in the first year of king Cyrus.  
+**12** And the angel of the Lord answered, and said: O Lord of hosts, how long wilt thou not have mercy on Jerusalem, and on the cities of Juda, with which thou hast been angry? this is now the seventieth year.  
 **13** And the Lord answered the angel, that spoke in me, good words, comfortable words.  
 **14** And the angel that spoke in me, said to me: Cry thou, saying: Thus saith the Lord of hosts: I am zealous for Jerusalem, and Sion with a great zeal.  
 **15** And I am angry with a great anger with the wealthy nations: for I was angry a little, but they helped forward the evil.  
 **16** Therefore thus saith the Lord: I will return to Jerusalem in mercies: my house shall be built in it, saith the Lord of hosts: and the building line shall be stretched forth upon Jerusalem.  
 **17** Cry yet, saying: Thus saith the Lord of hosts: My cities shall yet flow with good things: and the Lord will yet comfort Sion, and he will yet choose Jerusalem.  
-**18** And I lifted up my eyes, and saw: and behold four horns. persecute and oppress the kingdom of God.  
+**18** And I lifted up my eyes, and saw: and behold four horns.  
 **19** And I said to the angel that spoke in me: What are these? And he said to me: These are the horns that have scattered Juda, and Israel, and Jerusalem.  
-**20** And the Lord shewed me four smiths. either) represent those whom God makes his instruments in bringing to nothing the power of persecutors.  
+**20** And the Lord shewed me four smiths.  
 **21** And I said: What come these to do? and he spoke, saying: These are the horns which have scattered Juda every man apart, and none of them lifted up his head: and these are come to fray them, to cast down the horns of the nations, that have lifted up the horn upon the land of Juda to scatter it.  
 
 ---
@@ -68,7 +68,7 @@ format: markdown
 **1** And I lifted up my eyes, and saw, and behold a man, with a measuring line in his hand.  
 **2** And I said: Whither goest thou? and he said to me: To measure Jerusalem, and to see how great is the breadth thereof, and how great the length thereof.  
 **3** And behold the angel that spoke in me went forth, and another angel went out to meet him.  
-**4** And he said to him: Run, speak to this young man, saying: Jerusalem shall be inhabited without walls, by reason of the multitude of men, and of the beasts in the midst thereof. the spiritual Jerusalem, the church of Christ.  
+**4** And he said to him: Run, speak to this young man, saying: Jerusalem shall be inhabited without walls, by reason of the multitude of men, and of the beasts in the midst thereof.  
 **5** And I will be to it, saith the Lord, a wall of fire round about: and I will be in glory in the midst thereof.  
 **6** O, O flee ye out of the land of the north, saith the Lord, for I have scattered you into the four winds of heaven, saith the Lord.  
 **7** O Sion, flee, thou that dwellest with the daughter of Babylon:  
@@ -90,8 +90,8 @@ format: markdown
 **5** And he said: Put a clean mitre upon his head: and they put a clean mitre upon his head, and clothed him with garments, and the angel of the Lord stood.  
 **6** And the angel of the Lord protested to Jesus, saying:  
 **7** Thus saith the Lord of hosts: If thou wilt walk in my ways, and keep my charge, thou also shalt judge my house, and shalt keep my courts, and I will give thee some of them that are now present here to walk with thee.  
-**8** Hear, O Jesus thou high priest, thou and thy friends that dwell before thee, for they are portending men: for behold, I WILL BRING MY SERVANT THE ORIENT. wonders that are to come.-Ibid. My servant the Orient... Christ, who according to his humanity is the servant of God, is called the Orient from his rising like the sun in the east to enlighten the world.  
-**9** For behold the stone that I have laid before Jesus: upon one stone there are seven eyes: behold I will grave the graving thereof, saith the Lord of hosts: and I will take away the iniquity of that land in one day. stone of his church.-Ibid. Seven eyes... The manifold providence of Christ over his church, or the seven gifts of the spirit of God.-Ibid. good: when this precious stone shall be graved, that is, cut and pierced, with whips, thorns, nails, and spear.  
+**8** Hear, O Jesus thou high priest, thou and thy friends that dwell before thee, for they are portending men: for behold, I WILL BRING MY SERVANT THE ORIENT.  
+**9** For behold the stone that I have laid before Jesus: upon one stone there are seven eyes: behold I will grave the graving thereof, saith the Lord of hosts: and I will take away the iniquity of that land in one day.  
 **10** In that day, saith the Lord of hosts, every man shall call his friend under the vine and under the fig tree.  
 
 ---
@@ -99,15 +99,15 @@ format: markdown
 ## Chapter 4
 
 **1** And the angel that spoke in me came again: and he waked me, as a man that is wakened out of his sleep.  
-**2** And he said to me: What seest thou? And I said: I have looked, and behold a candlestick all of gold, and its lamp upon the top of it: and the seven lights thereof upon it: and seven funnels for the lights that were upon the top thereof. in a more sublime sense, the church of Christ.  
+**2** And he said to me: What seest thou? And I said: I have looked, and behold a candlestick all of gold, and its lamp upon the top of it: and the seven lights thereof upon it: and seven funnels for the lights that were upon the top thereof.  
 **3** And two olive trees over it: one upon the right side of the lamp, and the other upon the left side thereof.  
-**4** And I answered, and said to the angel that spoke in me, saying:  
+**4** And I answered, and said to the angel that spoke in me, saying: What are these things, my lord?  
 **5** And the angel that spoke in me answered, and said to me: Knowest thou not what these things are? And I said: No, my lord.  
-**6** And he answered, and spoke to me, saying: This is the word of the Lord to Zorobabel, saying: Not with an army, nor by might, but by my spirit, saith the Lord of hosts. success in the building of the temple, which he had begun, signified by the candlestick; the lamp of which, without any other industry, was supplied with oil, dropping from the two olive trees, and distributed by the seven funnels or pipes, to maintain the seven lights.  
-**7** Who art thou, O great mountain, before Zorobabel? thou shalt become a plain: and he shall bring out the chief stone, and shall give equal grace to the grace thereof. side, was quashed by divine providence.-Ibid. Shall give equal grace, etc... Shall add grace to grace, or beauty to beauty.  
+**6** And he answered, and spoke to me, saying: This is the word of the Lord to Zorobabel, saying: Not with an army, nor by might, but by my spirit, saith the Lord of hosts.  
+**7** Who art thou, O great mountain, before Zorobabel? thou shalt become a plain: and he shall bring out the chief stone, and shall give equal grace to the grace thereof.  
 **8** And the word of the Lord came to me, saying:  
 **9** The hands of Zorobabel have laid the foundations of this house, and his hands shall finish it: and you shall know that the Lord of hosts hath sent me to you.  
-**10** For who hath despised little days? and they shall rejoice, and shall see the tin plummet in the hand of Zorobabel. These are the seven eyes of the Lord, that run to and fro through the whole earth. of God.-Ibid. The tin plummet... Literally, the stone of tin. He means the builder's plummet, which Zorobabel shall hold in his hand for the finishing the building.-Ibid. The seven eyes... The providence of God, that oversees and orders all things.  
+**10** For who hath despised little days? and they shall rejoice, and shall see the tin plummet in the hand of Zorobabel. These are the seven eyes of the Lord, that run to and fro through the whole earth.  
 **11** And I answered, and said to him: What are these two olive trees upon the right side of the candlestick, and upon the left side thereof?  
 **12** And I answered again, and said to him: What are the two olive branches, that are by the two golden beaks, in which are the funnels of gold?  
 **13** And he spoke to me, saying: Knowest thou not what these are? And I said: No, my lord.  
@@ -117,35 +117,35 @@ format: markdown
 
 ## Chapter 5
 
-**1** And I turned and lifted up my eyes: and I saw, and behold a volume flying. books, which, from being rolled up, were called volumes.  
+**1** And I turned and lifted up my eyes: and I saw, and behold a volume flying.  
 **2** And he said to me: What seest thou? And I said: I see a volume flying: the length thereof is twenty cubits, and the breadth thereof ten cubits.  
 **3** And he said to me: This is the curse that goeth forth over the face of the earth: for every thief shall be judged as is there written: and every one that sweareth in like manner shall be judged by it.  
 **4** I will bring it forth, saith the Lord of hosts: and it shall come to the house of the thief, and to the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it, with the timber thereof, and the stones thereof.  
 **5** And the angel went forth that spoke in me, and he said to me: Lift up thy eyes, and see what this is, that goeth forth.  
-**6** And I said: What is it? And he said: This is a vessel going forth. resemblance and figure of them, viz., of sinners.  
+**6** And I said: What is it? And he said: This is a vessel going forth. And he said: This is their eye in all the earth.  
 **7** And behold a talent of lead was carried, and behold a woman sitting in the midst of the vessel.  
 **8** And he said: This is wickedness. And he cast her into the midst of the vessel, and cast the weight of lead upon the mouth thereof.  
 **9** And I lifted up my eyes and looked: and behold there came out two women, and wind was in their wings, and they had wings like the wings of a kite: and they lifted up the vessel between the earth and the heaven.  
 **10** And I said to the angel that spoke in me: Whither do these carry the vessel?  
-**11** And he said to me: That a house may be built for it in the land of Sennaar, and that it may be established, and set there upon its own basis. note, that Babylon in holy writ is often taken for the city of the devil: that is, for the whole congregation of the wicked: as Jerusalem is taken for the city and people of God.  
+**11** And he said to me: That a house may be built for it in the land of Sennaar, and that it may be established, and set there upon its own basis.  
 
 ---
 
 ## Chapter 6
 
-**1** And I turned, and lifted up my eyes, and saw: and behold four chariots came out from the midst of two mountains: and the mountains were mountains of brass. the kings of Egypt and of Asia, the descendants of Ptolemeus and Seleucus.  
+**1** And I turned, and lifted up my eyes, and saw: and behold four chariots came out from the midst of two mountains: and the mountains were mountains of brass.  
 **2** In the first chariot were red horses, and in the second chariot black horses.  
 **3** And in the third chariot white horses, and in the fourth chariot grisled horses, and strong ones.  
 **4** And I answered, and said to the angel that spoke in me: What are these, my lord?  
 **5** And the angel answered, and said to me: These are the four winds of the heaven, which go forth to stand before the Lord of all the earth.  
-**6** That in which were the black horses went forth into the land of the north, and the white went forth after them: and the grisled went forth to the land the south. north in respect of Jerusalem. The black horses, that is, the Medes and Persians: and after them Alexander and his Greeks, signified by the white horses, went thither because they conquered Babylon, executed upon it the judgments of God, which is signified, ver. 8, by the expression of quieting his spirit.-Ibid. The land of the south... Egypt, which lay to the south of Jerusalem, and was occupied first by Ptolemeus, and then by the Romans.  
+**6** That in which were the black horses went forth into the land of the north, and the white went forth after them: and the grisled went forth to the land the south.  
 **7** And they that were most strong, went out, and sought to go, and to run to and fro through all the earth. And he said: Go, walk throughout the earth: and they walked throughout the earth.  
 **8** And he called me, and spoke to me, saying: Behold they that go forth into the land of the north, have quieted my spirit in the land of the north.  
 **9** And the word of the Lord came to me, saying:  
 **10** Take of them of the captivity, of Holdai, and of Tobias, and of Idaias; thou shalt come in that day, a shalt go into the house of Josias, the son of Sophonias, who came out of Babylon.  
 **11** And thou shalt take gold and silver: and shalt make crowns, and thou shalt set them on the head of Jesus the son of Josedec, the high priest.  
 **12** And thou shalt speak to him, saying: Thus saith the Lord of hosts, saying: BEHOLD A MAN, THE ORIENT IS HIS NAME: and under him shall he spring up, a shall build a temple to the Lord.  
-**13** Yea, he shall build a temple to the Lord: and he shall bear the glory, and shall sit, and rule upon his throne: and he shall be a priest upon his throne, and the counsel of peace shall be between them both. or dignities of king and priest.  
+**13** Yea, he shall build a temple to the Lord: and he shall bear the glory, and shall sit, and rule upon his throne: and he shall be a priest upon his throne, and the counsel of peace shall be between them both.  
 **14** And the crowns shall be to Helem, and Tobias, and Idaias, and to Hem, the son of Sophonias, a memorial in the temple of the Lord.  
 **15** And they that are far off, shall come and shall build in the temple of the Lord: and you shall know that the Lord of hosts sent me to you. But this shall come to pass, if hearing you will hear the voice of the Lord your God.  
 
@@ -155,9 +155,9 @@ format: markdown
 
 **1** And it came to pass in the fourth year of king Darius, that the word of the Lord came to Zacharias, in the fourth day of the ninth month, which is Casleu.  
 **2** When Sarasar, and Rogommelech, and the men that were with him, sent to the house of God, to entreat the face of the Lord:  
-**3** To speak to the priests of the house of the Lord of hosts, and to the prophets, saying: Must I weep in the fifth month, or must I sanctify myself as I have now done for many years? because on that day the temple was burnt. Therefore they inquire whether they are to continue the fast, after the temple is rebuilt. See this query answered in the 19th verse of the following chapter.  
+**3** To speak to the priests of the house of the Lord of hosts, and to the prophets, saying: Must I weep in the fifth month, or must I sanctify myself as I have now done for many years?  
 **4** And the word of the Lord of hosts came to me, saying:  
-**5** Speak to all the people of the land, and to the priests, saying: these seventy years: did you keep a fast unto me?  
+**5** Speak to all the people of the land, and to the priests, saying: When you fasted, and mourned in the fifth and the seventh month for these seventy years: did you keep a fast unto me?  
 **6** And when you did eat and drink, did you not eat for yourselves, and drink for yourselves?  
 **7** Are not these the words which the Lord spoke by the hand of the former prophets, when Jerusalem as yet was inhabited, and was wealthy, both itself and the cities round about it, and there were inhabitants towards the south, and in the plain?  
 **8** And the word of the Lord came to Zacharias, saying:  
@@ -176,7 +176,7 @@ format: markdown
 **2** Thus saith the Lord of hosts: I have been jealous for Sion with a great jealousy, and with a great indignation have I been jealous for her.  
 **3** Thus saith the Lord of hosts: I am returned to Sion, and I will dwell in the midst of Jerusalem: and Jerusalem shall be called The city of truth, and the mountain of the Lord of hosts, The sanctified mountain.  
 **4** Thus saith the Lord of hosts: There shall yet old men and old women dwell in the streets of Jerusalem: and every man with his staff in his hand through multitude of days.  
-**5** And the streets of the city shall be full of boys and girls, playing in the streets thereof.  
+**5** And the streets of the city shall be full of boys and girls, playing in the streets thereo.  
 **6** Thus saith the Lord of hosts: If it seem hard in the eyes of the remnant of this people in those days: shall it be hard in my eyes, saith the Lord of hosts?  
 **7** Thus saith the Lord of hosts: Behold I will save my people from the land of the east, and from the land of the going down of the sun.  
 **8** And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God in truth and in justice.  
@@ -190,11 +190,11 @@ format: markdown
 **16** These then are the things, which you shall do: Speak ye truth every one to his neighbour; judge ye truth and judgment of peace in your gates.  
 **17** And let none of you imagine evil in your hearts against his friend: and love not a false oath: for all these are the things that I hate, saith the Lord.  
 **18** And the word of the Lord of hosts came to me, saying:  
-**19** Thus saith the Lord of hosts: The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth shall be to the house of Juda, joy, and gladness, and great solemnities: only love ye truth and peace. the fourth month, because on that day Nabuchodonosor took Jerusalem, Jer. 52.6. On the tenth day of the fifth month, because on that day the temple was burnt, Jer. 52.12. On the third day of the seventh month, for the murder of Godolias, Jer. 41.2. And on the tenth day of the tenth month, because on that day the Chaldeans began to besiege Jerusalem, 4 Kings 25.1. All these fasts, if they will be obedient for the future, shall be changed, as is here promised, into joyful solemnities.  
+**19** Thus saith the Lord of hosts: The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth shall be to the house of Juda, joy, and gladness, and great solemnities: only love ye truth and peace.  
 **20** Thus saith the Lord of hosts, until people come and dwell in many cities,  
 **21** And the inhabitants go one to another, saying: Let us go, and entreat the face of the Lord, and let us seek the Lord of hosts: I also will go.  
 **22** And many peoples, and strong nations shall come to seek the Lord of hosts in Jerusalem, and to entreat the face of the Lord.  
-**23** Thus saith the Lord of hosts: In those days, wherein ten men of all languages of the Gentiles shall take hold, and shall hold fast the skirt of one that is a Jew, saying: We will go with you: for we have heard that God is with you. religion before Christ: but many more were converted to Christ by the apostles and other preachers of the Jewish nation.  
+**23** Thus saith the Lord of hosts: In those days, wherein ten men of all languages of the Gentiles shall take hold, and shall hold fast the skirt of one that is a Jew, saying: We will go with you: for we have heard that God is with you.  
 
 ---
 
@@ -206,17 +206,17 @@ format: markdown
 **4** Behold the Lord shall possess her, and shall strike her strength in the sea, and she shall be devoured with fire.  
 **5** Ascalon shall see, and shall fear, and Gaza, and shall be very sorrowful: and Accaron, because her hope is confounded: and the king shall perish from Gaza, and Ascalon shall not be inhabited.  
 **6** And the divider shall sit in Azotus, and I will destroy the pride of the Philistines.  
-**7** And I will take away his blood out of his mouth, and his abominations from between his teeth: and even he shall be left to our God, and he shall be as a governor in Juda, and Accaron as a Jebusite. conversion of that people from their bloody sacrifices and abominations to the worship of the true God.  
+**7** And I will take away his blood out of his mouth, and his abominations from between his teeth: and even he shall be left to our God, and he shall be as a governor in Juda, and Accaron as a Jebusite.  
 **8** And I will encompass my house with them that serve me in war, going and returning, and the oppressor shall no more pass through them: for now I have seen with my eyes.  
 **9** Rejoice greatly, O daughter of Sion, shout for joy, O daughter of Jerusalem: BEHOLD THY KING will come to thee, the just and saviour: he is poor, and riding upon an ass, and upon a colt, the foal of an ass.  
 **10** And I will destroy the chariot out of Ephraim, and the horse out of Jerusalem, and the bow for war shall be broken: and he shall speak peace to the Gentiles, and his power shall be from sea to sea, and from the rivers even to the end of the earth.  
 **11** Thou also by the blood of thy testament hast sent forth thy prisoners out of the pit, wherein is no water.  
 **12** Return to the strong hold, ye prisoners of hope, I will render thee double as I declare today.  
-**13** Because I have bent Juda for me as a bow, I have filled Ephraim: and I will raise up thy sons, O Sion, above thy sons, O Greece, and I will make thee as the sword of the mighty. conquered the Greeks, and subdued them to Christ.  
+**13** Because I have bent Juda for me as a bow, I have filled Ephraim: and I will raise up thy sons, O Sion, above thy sons, O Greece, and I will make thee as the sword of the mighty.  
 **14** And the Lord God shall be seen over them, and his dart shall go forth as lightning: and the Lord God will sound the trumpet, and go in the whirlwind of the south.  
-**15** The Lord of hosts will protect them: and they shall devour, and subdue with the stones of the sling: and drinking they shall be inebriated as it were with wine, and they shall be filled as bowls, and as the horns of the altar.  
-**16** And the Lord their God will save them in that day, as the flock of his people: for holy stones shall be lifted up over his land. the church.  
-**17** For what is the good thing of him, and what is his beautiful thing, but the corn of the elect, and wine springing forth virgins? called here The corn, that is, the bread of the elect, and the wine springing forth virgins; that is, maketh virgins to bud, or spring forth, as it were, like flowers among thorns; because it has a wonderful efficacy to give and preserve purity.  
+**15** The Lord of hosts will protect them: and they shall devonr, and subdue with the stones of the sling: and drinking they shall be inebriated as it were with wine, and they shall be filled as bowls, and as the horns of the altar.  
+**16** And the Lord their God will save them in that day, as the flock of his people: for holy stones shall be lifted up over his land.  
+**17** For what is the good thing of him, and what is his beautiful thing, but the corn of the elect, and wine springing forth virgins?  
 
 ---
 
@@ -239,21 +239,21 @@ format: markdown
 
 ## Chapter 11
 
-**1** Open thy gates, O Libanus, and let fire devour thy cedars. by the prophets, from its height, and from its being built of the cedars of Libanus.-Ibid. Thy cedars... Thy princes and chief men.  
+**1** Open thy gates, O Libanus, and let fire devour thy cedars.  
 **2** Howl, thou fir tree, for the cedar is fallen, for the mighty are laid waste: howl, ye oaks of Basan, because the fenced forest is cut down.  
 **3** The voice of the howling of the shepherds, because their glory is laid waste: the voice of the roaring of the lions, because the pride of the Jordan is spoiled.  
 **4** Thus saith the Lord my God: Feed the flock of the slaughter,  
 **5** Which they that possessed, slew, and repented not, and they sold them, saying: Blessed be the Lord, we are become rich: and their shepherds spared them not.  
-**6** And I will no more spare the inhabitants of the land, saith the Lord: behold I will deliver the men, every one into his neighbour's hand, and into the hand of his king: and they shall destroy the land, and I will not deliver it out of their hand. siege of Jerusalem, in which the different factions of the Jews destroyed one another; and they that remained fell into the hands of their king, that is, of the Roman emperor, of whom they had said, John 19.15, we have no king but Caesar.  
-**7** And I will feed the flock of slaughter for this, O ye poor of the flock. And I took unto me two rods, one I called Beauty, and the other I called a Cord, and I fed the flock. dealing with his people; the one, by sweet means, called the rod of Beauty: the other, by bands and punishments, called the Cord. And where both these rods are made of no use or effect by the obstinacy of sinners, the rods are broken, and such sinners are given up to a reprobate sense, as the Jews were.  
-**8** And I cut off three shepherds in one month, and my soul was straitened in their regard: for their soul also varied in my regard. three shepherds probably are meant the latter princes and high priests of the Jews, whose reign was short.  
+**6** And I will no more spare the inhabitants of the land, saith the Lord: behold I will deliver the men, every one into his neighbour's hand, and into the hand of his king: and they shall destroy the land, and I will not deliver it out of their hand.  
+**7** And I will feed the flock of slaughter for this, O ye poor of the flock. And I took unto me two rods, one I called Beauty, and the other I called a Cord, and I fed the flock.  
+**8** And I cut off three shepherds in one month, and my soul was straitened in their regard: for their soul also varied in my regard.  
 **9** And I said: I will not feed you: that which dieth, let it die: and that which is cut off, let it be cut off: and let the rest devour every one the flesh of his neighbour.  
 **10** And I took my rod that was called Beauty, and I cut it asunder to make void my covenant, which I had made with all people.  
 **11** And it was made void in that day: and so the poor of the flock that keep for me, understood that it is the word of the Lord.  
 **12** And I said to them: If it be good in your eyes, bring hither my wages: and if not, be quiet. And they weighed for my wages thirty pieces of silver.  
 **13** And the Lord said to me: Cast it to the statuary, a handsome price, that I was prized at by them. And I took the thirty pieces of silver, and I cast them into the house of the Lord to the statuary.  
 **14** And I cut off my second rod that was called a Cord, that I might break the brotherhood between Juda and Israel.  
-**15** And the Lord said to me: Take to thee yet the instruments of a foolish shepherd. wicked princes and priests that should rule the people, before their utter desolation.  
+**15** And the Lord said to me: Take to thee yet the instruments of a foolish shepherd.  
 **16** For behold I will raise up a shepherd in the land, who shall not visit what is forsaken, nor seek what is scattered, nor heal what is broken, nor nourish that which standeth, and he shall eat the flesh of the fat ones, and break their hoofs.  
 **17** O shepherd, and idol, that forsaketh the flock: the sword upon his arm and upon his right eye: his arm shall quite wither away, and his right eye shall be utterly darkened.  
 
@@ -262,7 +262,7 @@ format: markdown
 ## Chapter 12
 
 **1** The burden of the word of the Lord upon Israel. Thus saith the Lord, who stretcheth forth the heavens, and layeth the foundations of the earth, and formeth the spirit of man in him:  
-**2** Behold I will make Jerusalem a lintel of surfeiting to all the people round about: and Juda also shall be in the siege against Jerusalem. enter, to glut themselves with blood; but they shall stumble, and fall like men stupefied with wine. It seems to allude to the times of Antiochus, and to the victories of the Machabees.  
+**2** Behold I will make Jerusalem a lintel of surfeiting to all the people round about: and Juda also shall be in the siege against Jerusalem.  
 **3** And it shall come to pass in that day, that I will make Jerusalem a burdensome stone to all people: all that shall lift it up shall be rent and torn, and all the kingdoms of the earth shall be gathered together against her.  
 **4** In that day, saith the Lord, I will strike every horse with astonishment, and his rider with madness: and I will open my eyes upon the house of Juda, and will strike every horse of the nations with blindness.  
 **5** And the governors of Juda shall say in their heart: Let the inhabitants of Jerusalem be strengthened for me in the Lord of hosts, their God.  
@@ -271,7 +271,7 @@ format: markdown
 **8** In that day shall the Lord protect the inhabitants of Jerusalem, and he that hath offended among them in that day shall be as David: and the house of David, as that of God, as an angel of the Lord in their sight.  
 **9** And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem.  
 **10** And I will pour out upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace, and of prayers: and they shall look upon me, whom they have pierced: and they shall mourn for him as one mourneth for an only son, and they shall grieve over him, as the manner is to grieve for the death of the firstborn.  
-**11** In that day there shall be a great lamentation in Jerusalem like the lamentation of Adadremmon in the plain of Mageddon. slain, and much lamented by his people.  
+**11** In that day there shall be a great lamentation in Jerusalem like the lamentation of Adadremmon in the plain of Mageddon.  
 **12** And the land shall mourn: families and families apart: the families of the house of David apart, and their women apart:  
 **13** The families of the house of Nathan apart, and their women apart: the families of the house of Levi apart, and their women apart: the families of Semei apart, and their women apart.  
 **14** All the rest of the families, families and families apart, and their women apart.  
@@ -299,22 +299,22 @@ format: markdown
 **3** Then the Lord shall go forth, and shall fight against those nations, as when he fought in the day of battle.  
 **4** And his feet shall stand in that day upon the mount of Olives, which is over against Jerusalem towards the east: and the mount of Olives shall be divided in the midst thereof to the east, and to the west with a very great opening, and half of the mountain shall be separated to the north, and half thereof to the south.  
 **5** And you shall flee to the valley of those mountains, for the valley of the mountains shall be joined even to the next, and you shall flee as you fled from the face of the earthquake in the days of Ozias king of Juda: and the Lord my God shall come, and all the saints with him.  
-**6** And it shall come to pass in that day, that there shall be no light, but cold and frost. it was neither day nor night: (ver. 7) because they neither had the comfortable light of the day, nor the repose of the night.  
-**7** And there shall be one day, which is known to the Lord, not day nor night: and in the time of the evening there shall be light: shall arise by the means of the Machabees, when things shalll seem to be at the worst.  
+**6** And it shall come to pass in that day, that there shall be no light, but cold and frost.  
+**7** And there shall be one day, which is known to the Lord, not day nor night: and in the time of the evening there shall be light:  
 **8** And it shall come to pass in that day, that living waters shall go out from Jerusalem: half of them to the east sea, and half of them to the last sea: they shall be in summer and in winter.  
 **9** And the Lord shall be king over all the earth: in that day there shall be one Lord, and his name shall be one.  
-**10** And all the land shall return even to the desert, from the hill to Remmon to the south of Jerusalem: and she shall be exalted, and shall dwell in her own place, from the gate of Benjamin even to the place of the former gate, and even to the gate of the corners: and from the tower of Hananeel even to the king's winepresses. the means of the Machabees: but is rather to be taken in a spiritual sense, as relating to the propagation of the church, and kingdom of Christ, the true Jerusalem, which alone shall never fall under the anathema of destruction, or God's curse.  
+**10** And all the land shall return even to the desert, from the hill to Remmon to the south of Jerusalem: and she shall be exalted, and shall dwell in her own place, from the gate of Benjamin even to the place of the former gate, and even to the gate of the corners: and from the tower of Hananeel even to the king's winepresses.  
 **11** And people shall dwell in it, and there shall be no more an anathema: but Jerusalem shall sit secure.  
-**12** And this shall be the plague wherewith the Lord shall strike all nations that have fought against Jerusalem: the flesh of every one shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth. have often fallen upon the persecutors of God's church, as appears by many instances in history.  
+**12** And this shall be the plague wherewith the Lord shall strike all nations that have fought against Jerusalem: the flesh of every one shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.  
 **13** In that day there shall be a great tumult from the Lord among them: and a man shall take the hand of his neighbour, and his hand shall be clasped upon his neighbour's hand.  
-**14** And even Juda shall fight against Jerusalem: and the riches of all nations round about shall be gathered together, gold, and silver, and garments in great abundance. in persecuting the church.  
-**15** And the destruction of the horse, and of the mule, and of the camel, and of the ass, and of all the beasts, that shall be in those tents, shall be like this destruction. as well as the men: the common soldiers as well as their leaders.  
-**16** And all they that shall be left of all nations that came against Jerusalem, shall go up from year to year, to adore the King, the Lord of hosts, and to keep the feast of tabernacles. the church shall be converted to its faith and communion.-Ibid. To keep the feast of tabernacles... This feast was kept by the Jews in memory of their sojourning forty years in the desert, in their way to the land of promise. And in the spiritual sense is duly kept by all such Christians as in their earthly pilgrimage are continually advancing toward their true home, the heavenly Jerusalem; by the help of the sacraments and sacrifice of the church. And they that neglect this must not look for the kind showers of divine grace, to give fruitfulness to their souls.  
+**14** And even Juda shall fight against Jerusalem: and the riches of all nations round about shall be gathered together, gold, and silver, and garments in great abundance.  
+**15** And the destruction of the horse, and of the mule, and of the camel, and of the ass, and of all the beasts, that shall be in those tents, shall be like this destruction.  
+**16** And all they that shall be left of all nations that came against Jerusalem, shall go up from year to year, to adore the King, the Lord of hosts, and to keep the feast of tabernacles.  
 **17** And it shall come to pass, that he that shall not go up of the families of the land to Jerusalem, to adore the King, the Lord of hosts, there shall be no rain upon them.  
 **18** And if the family of Egypt go not up nor come: neither shall it be upon them, but there shall be destruction wherewith the Lord will strike all nations that will not go up to keep the feast of tabernacles.  
 **19** This shall be the sin of Egypt, and this the sin of all nations, that will not go up to keep the feast of tabernacles.  
-**20** In that day that which is upon the bridle of the horse shall be holy to the Lord: and the caldrons in the house of the Lord shall be as the phials before the altar. bridles, etc., shall be turned into offerings in the house of God. And there shall be an abundance of caldrons and phials for the sacrifices of the temple; by which is meant, under a figure, the great resort there shall be to the temple, that is, to the church of Christ, and her sacrifice.  
-**21** And every caldron in Jerusalem and Juda shall be sanctified to the Lord of hosts: and all that sacrifice shall come, and take of them, and shall seethe in them: and the merchant shall be no more in the house of the Lord of hosts in that day. shall have no title to be in the house of the Lord. Or there shall be no occasion for buyers or sellers of oxen, or sheep, or doves, in the house of God, such as Jesus Christ cast out of the temple.  
+**20** In that day that which is upon the bridle of the horse shall be holy to the Lord: and the caldrons in the house of the Lord shall be as the phials before the altar.  
+**21** And every caldron in Jerusalem and Juda shall be sanctified to the Lord of hosts: and all that sacrifice shall come, and take of them, and shall seethe in them: and the merchant shall be no more in the house of the Lord of hosts in that day.  
 
 ---
 

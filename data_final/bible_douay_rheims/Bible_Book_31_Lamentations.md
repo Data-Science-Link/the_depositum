@@ -33,23 +33,21 @@ format: markdown
 **1** Aleph. How doth the city sit solitary that was full of people! how is the mistress of the Gentiles become as a widow: the princes of provinces made tributary!  
 **2** Beth. Weeping, she hath wept in the night, and her tears are on her cheeks: there is none to comfort her among all them that were dear to her: all her friends have despised her, and are become her enemies.  
 **3** Ghimel. Juda hath removed her dwelling place, because of her affliction, and the greatness of her bondage; she hath dwelt among the nations, and she hath found no rest; all her persecutors have taken her in the midst of straits.  
-**4** Daleth. The ways of Sion mourn, because there are none that come to the solemn feast: all her gates are broken down; her priests sigh; her virgins are in affliction; and she is oppressed with bitterness.  
-**5** He. Her adversaries are become her lords; her enemies are enriched; because the Lord hath spoken against her for the multitude of her iniquities; her children are led into captivity, before the face of the oppressor.  
+**4** Daleth. The ways of Sion mourn, because there are none that come to the solemn feast: all her gates are broken down; her priests sigh; her virgins are in affliction; and she is oppressed with bitterness. 1:5. He. Her adversaries are become her lords; her enemies are enriched; because the Lord hath spoken against her for the multitude of her iniquities; her children are led into captivity, before the face of the oppressor.  
 **6** Vau. And from the daughter of Sion, all her beauty is departed; her princes are become like rams that find no pastures; and they are gone away without strength before the face of the pursuer.  
 **7** Zain. Jerusalem hath remembered the days of her affliction, and prevarication of all her desirable things which she had from the days of old, when her people fell in the enemy's hand, and there was no helper; the enemies have seen her, and have mocked at her sabbaths.  
 **8** Heth. Jerusalem hath grievously sinned, therefore is she become unstable; all that honoured her, have despised her, because they have seen her shame; but she sighed, and turned backward.  
 **9** Teth. Her filthiness is on her feet, and she hath not remembered her end; she is wonderfully cast down, not having a comforter: behold, O Lord, my affliction, because the enemy is lifted up.  
 **10** Jod. The enemy hath put out his hand to all her desirable things: for she hath seen the Gentiles enter into her sanctuary, of whom thou gavest commandment that they should not enter into thy church.  
-**11** Caph. All her people sigh, they seek bread: they have given all their precious things for food to relieve the soul: see, O Lord, and consider, for I am become vile.  
+**11** Caph. All her people sigh, they seek bread: they have given all their precious things for food to relieve the soul: see, 0 Lord, and consider, for I am become vile.  
 **12** Lamed. O all ye that pass by the way, attend, and see if there be any sorrow like to my sorrow: for he hath made a vintage of me, as the Lord spoke in the day of his fierce anger.  
 **13** Mem. From above he hath sent fire into my bones, and hath chastised me: he hath spread a net for my feet, he hath turned me back: he hath made me desolate, wasted with sorrow all the day long.  
-**14** Nun. The yoke of my iniquities hath watched: they are folded together in his hand, and put upon my neck: my strength is weakened: the Lord hath delivered me into a hand, out of which I am not able to rise.  
-**15** Samech. The Lord hath taken away all my mighty men out of the midst of me: he hath called against me the time, to destroy my chosen men: the Lord hath trodden the winepress for the virgin daughter of Juda.  
+**14** Nun. The yoke of my iniquities hath watched: they are folded together in his hand, and put upon my neck: my strength is weakened: the Lord hath delivered me into a hand, out of which I am not able to rise. 1:15. Samech. The Lord hath taken away all my mighty men out of the midst of me: he hath called against me the time, to destroy my chosen men: the Lord hath trodden the winepress for the virgin daughter of Juda.  
 **16** Ain. Therefore do I weep, and my eyes run down with water: because the comforter, the relief of my soul, is far from me: my children are desolate because the enemy hath prevailed.  
 **17** Phe. Sion hath spread forth her hands, there is none to comfort her: the Lord hath commanded against Jacob, his enemies are round about him: Jerusalem is as a menstruous woman among them.  
 **18** Sade. The Lord is just, for I have provoked his mouth to wrath: hear, I pray you, all ye people, and see my sorrow: my virgins, and my young men are gone into captivity.  
 **19** Coph. I called for my friends, but they deceived me: my priests and my ancients pined away in the city: while they sought their food, to relieve their souls.  
-**20** Res. Behold, O Lord, for I am in distress, my bowels are troubled: my heart is turned within me, for I am full of bitterness: abroad the sword destroyeth and at home there is death alike.  
+**20** Res. Behold, 0 Lord, for I am in distress, my bowels are troubled: my heart is turned within me, for I am full of bitterness: abroad the sword destroyeth and at home there is death alike.  
 **21** Sin. They have heard that I sigh, and there is none to comfort me: all my enemies have heard of my evil, they have rejoiced that thou hast done it: thou hast brought a day of consolation, and they shall be like unto me.  
 **22** Thau. Let all their evil be present before thee: and make vintage of them, as thou hast made vintage of me for all my iniquities: for my sighs are many, and my heart is sorrowful.  
 
@@ -61,12 +59,12 @@ format: markdown
 **2** Beth. The Lord hath cast down headlong, and hath not spared, all that was beautiful in Jacob: he hath destroyed in his wrath the strong holds of the virgin of Juda, and brought them down to the ground: he hath made the kingdom unclean, and the princes thereof.  
 **3** Ghimel. He hath broken in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy: and he hath kindled in Jacob as it were a flaming fire devouring round about.  
 **4** Daleth. He hath bent his bow as an enemy, he hath fixed his right hand as an adversary: and he hath killed all that was fair to behold in the tabernacle of the daughter of Sion, he hath poured out his indignation like fire.  
-**5** He. The Lord is become as an enemy: he hath cast down Israel headlong, he hath overthrown all the walls thereof: he hath destroyed his strong holds, and hath multiplied in the daughter of Juda the afflicted, both men and women.  
+**5** He. The Lord is become as an enemy: he hath cast down Israel headlong, he hath overthrown all the walls thereof: he hath destroyed his strong holds, and hath multiplied in the danghter of Juda the afflicted, both men and women.  
 **6** Vau. And he hath destroyed his tent as a garden, he hath thrown down his tabernacle: the Lord hath caused feasts and sabbaths to be forgotten in Sion: and hath delivered up king and priest to reproach, and to the indignation of his wrath.  
-**7** Zain. The Lord hath cast off his altar, he hath cursed his sanctuary: he hath delivered the walls of the towers thereof into the hand of the enemy: they have made a noise in the house of the Lord, as in the day of a solemn feast. be destroyed, as if it had not been consecrated, but execrable.  
+**7** Zain. The Lord hath cast off his altar, he hath cursed his sanctuary: he hath delivered the walls of the towers thereof into the hand of the enemy: they have made a noise in the house of the Lord, as in the day of a solemn feast.  
 **8** Heth. The Lord hath purposed to destroy the wall of the daughter of Sion: he hath stretched out his line, and hath not withdrawn his hand from destroying: and the bulwark hath mourned, and the wall hath been destroyed together.  
 **9** Teth. Her gates are sunk into the ground: he hath destroyed, and broken her bars: her king and her princes are among the Gentiles: the law is no more, and her prophets have found no vision from the Lord.  
-**10** Jod. The ancients of the daughter of Sion sit upon the ground, they have held their peace: they have sprinkled their heads with dust, they are girded with haircloth, the virgins of Jerusalem hang down their heads to the ground.  
+**10** Jod. The ancients of the daughter of Sion sit upon the ground, they have held their peace: they have sprinkled their heads with dust, they are girdcd with haircloth, the virgins of Jerusalem hang down their heads to the ground.  
 **11** Caph. My eyes have failed with weeping, my bowels are troubled: my liver is poured out upon the earth, for the destruction of the daughter of my people, when the children, and the sucklings, fainted away in the streets of the city.  
 **12** Lamed. They said to their mothers: Where is corn and wine? when they fainted away as the wounded in the streets of the city: when they breathed out their souls in the bosoms of their mothers.  
 **13** Mem. To what shall I compare thee? or to what shall I liken thee, O daughter of Jerusalem? to what shall I equal thee, that I may comfort thee, O virgin daughter of Sion? for great as the sea is thy destruction: who shall heal thee?  
@@ -169,12 +167,12 @@ format: markdown
 **12** Lamed. The kings of the earth, and all the inhabitants of the world would not have believed, that the adversary and the enemy should enter in by the gates of Jerusalem.  
 **13** Mem. For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her.  
 **14** Nun. They have wandered as blind men in the streets, they were defiled with blood: and when they could not help walking in it, they held up their skirts.  
-**15** Samech. Depart you that are defiled, they cried out to them: they said among the Gentiles: He will no more dwell among them.  
+**15** Samech. Depart you that are defiled, they cried out to them: Depart, get ye hence, touch not: for they quarrelled, and being removed, they said among the Gentiles: He will no more dwell among them.  
 **16** Phe. The face of the Lord hath divided them, he will no more regard them: they respected not the persons of the priests, neither had they pity on the ancient.  
 **17** Ain. While we were yet standing, our eyes failed, expecting help for us in vain, when we looked attentively towards a nation that was not able to save.  
 **18** Sade. Our steps have slipped in the way of our streets, our end draweth near: our days are fulfilled, for our end is come.  
 **19** Coph. Our persecutors were swifter than the eagles of the air: they pursued us upon the mountains, they lay in wait for us in the wilderness.  
-**20** Res. The breath of our mouth, Christ the Lord, is taken in our sins: to whom we said: Under thy shadow we shall live among the Gentiles. who is called the Christ, that is, the Anointed of the Lord. But it also relates, in the spiritual sense, to Christ our Lord, suffering for our sins.  
+**20** Res. The breath of our mouth, Christ the Lord, is taken in our sins: to whom we said: Under thy shadow we shall live among the Gentiles.  
 **21** Sin. Rejoice, and be glad, O daughter of Edom, that dwellest in the land of Hus: to thee also shall the cup come, thou shalt be made drunk, and naked.  
 **22** Thau. Thy iniquity is accomplished, O daughter of Sion, he will no more carry thee away into captivity: he hath visited thy iniquity, O daughter of Edom, he hath discovered thy sins.  
 
@@ -186,7 +184,7 @@ format: markdown
 **2** Our inheritance is turned to aliens: our houses to strangers.  
 **3** We are become orphans without a father: our mothers are as widows.  
 **4** We have drunk our water for money: we have bought our wood.  
-**5** We were dragged by the necks, we were weary and no rest was given us.  
+**6** We were dragged by the necks, we were weary and no rest was given us.  
 **6** We have given our hand to Egypt, and to the Assyrians, that we might be satisfied with bread.  
 **7** Our fathers have sinned, and are not: and we have borne their iniquities.  
 **8** Servants have ruled over us: there was none to redeem us out of their hand.  

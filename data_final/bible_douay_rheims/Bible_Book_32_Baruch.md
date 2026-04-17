@@ -74,7 +74,7 @@ format: markdown
 **14** Hear, O Lord, our prayers, and our petitions, and deliver us for thy own sake: and grant that we may find favour in the sight of them that have led us away:  
 **15** That all the earth may know that thou art the Lord our God, and that thy name is called upon Israel, and upon his posterity.  
 **16** Look down upon us, O Lord, from thy holy house, and incline thy ear, and hear us.  
-**17** Open thy eyes, and behold: for the dead that are in hell, whose spirit is taken away from their bowels, shall not give glory and justice to the Lord: that is, they shall not acknowledge and glorify his justice as penitent sinners do upon earth.  
+**17** Open thy eyes, and behold: for the dead that are in hell, whose spirit is taken away from their bowels, shall not give glory and justice to the Lord:  
 **18** But the soul that is sorrowful for the greatness of evil she hath done, and goeth bowed down, and feeble, and the eyes that fail, and the hungry soul giveth glory and justice to thee the Lord.  
 **19** For it is not for the justices of our fathers that we pour out our prayers, and beg mercy in thy sight, O Lord our God:  
 **20** But because thou hast sent out thy wrath, and thy indignation upon us, as thou hast spoken by the hand of thy servants the prophets, saying:  
@@ -135,7 +135,7 @@ format: markdown
 **35** They were called, and they said: Here we are: and with cheerfulness they have shined forth to him that made them.  
 **36** This is our God, and there shall no other be accounted of in comparison of him.  
 **37** He found out all the way of knowledge, and gave it to Jacob his servant, and to Israel his beloved.  
-**38** Afterwards he was seen upon earth, and conversed with men. means of which the son of God came visibly amongst us, and conversed with men. The prophets often speak of things to come as if they were past, to express the certainty of the event of the things foretold.  
+**38** Afterwards he was seen upon earth, and conversed with men.  
 
 ---
 
@@ -233,7 +233,7 @@ format: markdown
 **34** In like manner they can neither give riches, nor requite evil. If a man make a vow to them, and perform it not: they cannot require it.  
 **35** They cannot deliver a man from death, nor save the weak from the mighty.  
 **36** They cannot restore the blind man to his sight: nor deliver a man from distress.  
-**37** They shall not pity the widow, nor do good to the fatherless.  
+**7** They shall not pity the widow, nor do good to the fatherless.  
 **38** Their gods, of wood, and of stone, and of gold, and of silver, are like the stones that are hewn out of the mountains: and they that worship them shall be confounded.  
 **39** How then is it to be supposed, or to be said, that they are gods?  
 **40** Even the Chaldeans themselves dishonor them: who when they here of one dumb that cannot speak, they present him to Bel, entreating him, that he may speak.  

@@ -103,7 +103,7 @@ format: markdown
 **10** Hear the word of the Lord, ye rulers of Sodom, give ear to the law of our God, ye people of Gomorrha.  
 **11** To what purpose do you offer me the multitude of your victims, saith the Lord? I am full, I desire not holocausts of rams, and fat of fatlings, and blood of calves, and lambs, and buck goats.  
 **12** When you came to appear before me, who required these things at your hands, that you should walk in my courts?  
-**13** Offer sacrifice no more in vain: incense is an abomination to me. your assemblies are wicked.  
+**13** Offer sacrifice no more in vain: incense is an abomination to me. The new moons, and the sabbaths and other festivals I will not abide, your assemblies are wicked.  
 **14** My soul hateth your new moons, and your solemnities: they are become troublesome to me, I am weary of bearing them.  
 **15** And when you stretch forth your hands, I will turn away my eyes from you: and when you multiply prayer, I will not hear: for your hands are full of blood.  
 **16** Wash yourselves, be clean, take away the evil of your devices from my eyes, cease to do perversely,  
@@ -128,7 +128,7 @@ format: markdown
 ## Chapter 2
 
 **1** The word that Isaias the son of Amos saw, concerning Juda and Jerusalem.  
-**2** And in the last days the mountain of the house of the Lord shall be prepared on the top of mountains, and it shall be exalted above the hills, and all nations shall flow unto it. days; because no other age or time shall come after it, but only eternity.-Ibid. On the top of mountains, etc... This shews the perpetual visibility of the church of Christ: for a mountain upon the top of mountains cannot be hid.  
+**2** And in the last days the mountain of the house of the Lord shall be prepared on the top of mountains, and it shall be exalted above the hills, and all nations shall flow unto it.  
 **3** And many people shall go, and say: Come and let us go up to the mountain of the Lord, and to the house of the God of Jacob, and he will teach us his ways, and we will walk in his paths: for the law shall come forth from Sion, and the word of the Lord from Jerusalem.  
 **4** And he shall judge the Gentiles, and rebuke many people: and they shall turn their swords into ploughshares, and their spears into sickles: nation shall not lift up sword against nation, neither shall they be exercised any more to war.  
 **5** O house of Jacob, come ye, and let us walk in the light of the Lord.  
@@ -144,7 +144,7 @@ format: markdown
 **15** And upon every high tower, and every fenced wall.  
 **16** And upon all the ships of Tharsis, and upon all that is fair to behold.  
 **17** And the loftiness of men shall be bowed down, and the haughtiness of men shall be humbled, and the Lord alone shall be exalted in that day.  
-**18** And idols shall be utterly destroyed. verified by the establishment of Christianity. And by this and other texts of the like nature, the wild system of some modern sectaries is abundantly confuted, who charge the whole Christian church with worshipping idols, for many ages.  
+**18** And idols shall be utterly destroyed.  
 **19** And they shall go into the holes of rocks, and into the caves of the earth from the face of the fear of the Lord, and from the glory of his majesty, when he shall rise up to strike the earth.  
 **20** In that day a man shall cast away his idols of silver, and his idols of gold, which he had made for himself to adore, moles and bats.  
 **21** And he shall go into the clefts of rocks, and into the holes of stones from the face of the fear of the Lord, and from the glory of his majesty, when he shall rise up to strike the earth.  
@@ -196,7 +196,7 @@ format: markdown
 
 ## Chapter 5
 
-**1** I will sing to my beloved the canticle of my cousin concerning his vineyard. My beloved had a vineyard on a hill in a fruitful place. kindred, by descending from the house of David. Ibid. On a hill, etc...  
+**1** I will sing to my beloved the canticle of my cousin concerning his vineyard. My beloved had a vineyard on a hill in a fruitful place.  
 **2** And he fenced it in, and picked the stones out of it, and planted it with the choicest vines, and built a tower in the midst thereof, and set up a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.  
 **3** And now, O ye inhabitants of Jerusalem, and ye men of Juda, judge between me and my vineyard.  
 **4** What is there that I ought to do more to my vineyard, that I have not done to it? was it that I looked that it should bring forth grapes, and it hath brought forth wild grapes?  
@@ -281,7 +281,7 @@ format: markdown
 
 **1** And the Lord said to me: Take thee a great book, and write in it with a man's pen. Take away the spoils with speed, quickly take the prey.  
 **2** And I took unto me faithful witnesses, Urias the priest, and Zacharias the son of Barachias.  
-**3** And I went to the prophetess, and she conceived, and bore a son.  
+**3** And I went to the prophetess, and she conceived, and bore a son. And the Lord said to me: Call his name, Hasten to take away the spoils: Make hast to take away the prey.  
 **4** For before the child know to call his father and his mother, the strength of Damascus, and the spoils of Samaria shall be taken away before the king of the Assyrians.  
 **5** And the Lord spoke to me again, saying:  
 **6** Forasmuch as this people hath cast away the waters of Siloe, that go with silence, and hath rather taken Rasin, and the son of Romelia:  
@@ -297,7 +297,7 @@ format: markdown
 **16** Bind up the testimony, seal the law among my disciples.  
 **17** And I will wait for the Lord, who hath hid his face from the house of Jacob, and I will look for him.  
 **18** Behold I and my children, whom the Lord hath given me for a sign, and for a wonder in Israel from the Lord of hosts, who dwelleth in mount Sion.  
-**19** And when they shall say to you: Seek of pythons, and of diviners, who mutter in their enchantments: should not the people seek of their God, for the living of the dead? prophesying spirit.-Ibid. Should not the people seek of their God, for the living of the dead?... Here is signified, that it is to God we should pray to be directed, and not to seek of the dead, (that is, of fortune-tellers dead in sin,) for the health of the living.  
+**19** And when they shall say to you: Seek of pythons, and of diviners, who mutter in their enchantments: should not the people seek of their God, for the living of the dead?  
 **20** To the law rather, and to the testimony. And if they speak not according to this word, they shall not have the morning light.  
 **21** And they shall pass by it, they shall fall, and be hungry: and when they shall be hungry, they will be angry, and curse their king, and their God, and look upwards.  
 **22** And they shall look to the earth, and behold trouble and darkness, weakness and distress, and a mist following them, and they cannot fly away from their distress.  
@@ -308,7 +308,7 @@ format: markdown
 
 **1** At the first time the land of Zabulon, and the land of Nephtali was lightly touched: and at the last the way of the sea beyond the Jordan of the Galilee of the Gentiles was heavily loaded.  
 **2** The people that walked in darkness, have seen a great light: to them that dwelt in the region of the shadow of death, light is risen.  
-**3** Thou hast multiplied the nation, and hast not increased the joy. conquerors rejoice after taking a prey, when they divide the spoils.  
+**3** Thou hast multiplied the nation, and hast not increased the joy. They shall rejoice before thee, as they that rejoice in the harvest, as conquerors rejoice after taking a prey, when they divide the spoils.  
 **4** For the yoke of their burden, and the rod of their shoulder, and the sceptre of their oppressor thou hast overcome, as in the day of Madian.  
 **5** For every violent taking of spoils, with tumult, and garment mingled with blood, shall be burnt, and be fuel for the fire.  
 **6** For a CHILD IS BORN to us, and a son is given to us, and the government is upon his shoulder: and his name shall be called Wonderful, Counsellor, God the Mighty, the Father of the world to come, the Prince of Peace.  
@@ -353,13 +353,13 @@ format: markdown
 **19** And they that remain of the trees of his forest shall be so few, that they shall easily be numbered, and a child shall write them down.  
 **20** And it shall come to pass in that day, that the remnant of Israel, and they that shall escape of the house of Jacob, shall lean no more upon him that striketh them: but they shall lean upon the Lord the Holy One of Israel, in truth.  
 **21** The remnant shall be converted, the remnant, I say, of Jacob, to the mighty God.  
-**22** For if thy people, O Israel, shall be as the sand of the sea, a remnant of them shall be converted, the consumption abridged shall overflow with justice. children of Israel who remained after the devastations of the Assyrians, in the time of king Ezechias: and partly in the conversion of a remnant of the Jews to the faithful of Christ.-Ibid. The consumption abridged, etc... That is, the number of them cut short, and reduced to few, shall flourish in abundance of justice.  
+**22** For if thy people, O Israel, shall be as the sand of the sea, a remnant of them shall be converted, the consumption abridged shall overflow with justice.  
 **23** For the Lord God of hosts shall make a consumption, and an abridgment in the midst of all the land.  
 **24** Therefore, thus saith the Lord the God of hosts: O my people that dwellest in Sion, be not afraid of the Assyrian: he shall strike thee with his rod, and he shall lift up his staff over thee in the way of Egypt.  
 **25** For yet a little and a very little while, and my indignation shall cease, and my wrath shall be upon their wickedness.  
 **26** And the Lord of hosts shall raise up a scourge against him, according to the slaughter of Madian in the rock of Oreb, and his rod over the sea, and he shall lift it up in the way of Egypt.  
-**27** And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall putrefy at the presence of the oil. mercy.  
-**28** He shall come into Aiath, he shall pass into Magron: at Machmas he shall lay up his carriages. under Sennacherib; and the terror they should carry with them; and how they should suddenly be destroyed.  
+**27** And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall putrefy at the presence of the oil.  
+**28** He shall come into Aiath, he shall pass into Magron: at Machmas he shall lay up his carriages.  
 **29** They have passed in haste, Gaba is our lodging: Rama was astonished, Gabaath of Saul fled away.  
 **30** Lift up thy voice, O daughter of Gallim, attend, O Laisa, poor Anathoth.  
 **31** Medemena is removed: ye inhabitants of Gabim, take courage.  
@@ -441,7 +441,7 @@ format: markdown
 **9** Hell below was in an uproar to meet thee at thy coming, it stirred up the giants for thee. All the princes of the earth are risen up from their thrones, all the princes of nations.  
 **10** All shall answer, and say to thee: Thou also art wounded as well as we, thou art become like unto us.  
 **11** Thy pride is brought down to hell, thy carcass is fallen down: under thee shall the moth be strewed, and worms shall be thy covering.  
-**12** How art thou fallen from heaven, O Lucifer, who didst rise in the morning? how art thou fallen to the earth, that didst wound the nations? the king of Babylon. It may also be applied, in a spiritual sense, to Lucifer the prince of devils, who was created a bright angel, but fell by pride and rebellion against God.  
+**12** How art thou fallen from heaven, O Lucifer, who didst rise in the morning? how art thou fallen to the earth, that didst wound the nations?  
 **13** And thou saidst in thy heart: I will ascend into heaven, I will exalt my throne above the stars of God, I will sit in the mountain of the covenant, in the sides of the north.  
 **14** I will ascend above the height of the clouds, I will be like the most High.  
 **15** But yet thou shalt be brought down to hell, into the depth of the pit.  
@@ -470,10 +470,10 @@ format: markdown
 **1** The burden of Moab. Because in the night Ar of Moab is laid waste, it is silent: because the wall of Moab is destroyed in the night, it is silent.  
 **2** The house is gone up, and Dibon to the high places to mourn over Nabo, and over Medaba, Moab hath howled: on all their heads shall be baldness, and every beard shall be shaven.  
 **3** In their streets they are girded with sackcloth: on the tops of their houses, and in their streets all shall howl and come down weeping.  
-**4** Hesebon shall cry, and Eleale, their voice is heard even to Jasa. to itself.  
+**4** Hesebon shall cry, and Eleale, their voice is heard even to Jasa. For this shall the well appointed men of Moab howl, his soul shall howl to itself.  
 **5** My heart shall cry to Moab, the bars thereof shall flee unto Segor a heifer of three years old: for by the ascent of Luith they shall go up weeping: and in the way of Oronaim they shall lift up a cry of destruction.  
 **6** For the waters of Nemrim shall be desolate, for the grass is withered away, the spring is faded, all the greenness is perished.  
-**7** According to the greatness of their work, is their visitation also: they shall lead them to the torrent of the willows. others render it, a valley of the Arabians.  
+**7** According to the greatness of their work, is their visitation also: they shall lead them to the torrent of the willows.  
 **8** For the cry is gone round about the border of Moab: the howling thereof unto Gallim, and unto the well of Elim the cry thereof.  
 **9** For the waters of Dibon are filled with blood: for I will bring more upon Dibon: the lion upon them that shall flee of Moab, and upon the remnant of the land.  
 
@@ -490,7 +490,7 @@ format: markdown
 **7** Therefore shall Moab howl to Moab, every one shall howl: to them that rejoice upon the brick walls, tell ye their stripes.  
 **8** For the suburbs of Hesebon are desolate, and the lords of the nations have destroyed the vineyard of Sabama: the branches thereof have reached even to Jazer: they have wandered in the wilderness, the branches thereof are left, they are gone over the sea.  
 **9** Therefore I will lament with the weeping of Jazer the vineyard of Sabama: I will water thee with my tears, O Hesebon, and Eleale: for the voice of the treaders hath rushed in upon thy vintage, and upon thy harvest.  
-**10** And gladness and joy shall be taken away from Carmel, and there shall be no rejoicing nor shouting in the vineyards. He shall not tread out wine in the press that was wont to tread it out: the voice of the treaders I have taken away. or field, such as mount Carmel is.  
+**10** And gladness and joy shall be taken away from Carmel, and there shall be no rejoicing nor shouting in the vineyards. He shall not tread out wine in the press that was wont to tread it out: the voice of the treaders I have taken away.  
 **11** Wherefore my bowels shall sound like a harp for Moab, and my inward parts for the brick wall.  
 **12** And it shall come to pass, when it is seen that Moab is wearied on his high places, that he shall go in to his sanctuaries to pray, and shall not prevail.  
 **13** This is the word, that the Lord spoke to Moab from that time:  
@@ -508,10 +508,10 @@ format: markdown
 **6** And the fruit thereof that shall be left upon it, shall be as one cluster of grapes, and as the shaking of the olive tree, two or three berries in the top of a bough, or four or five upon the top of the tree, saith the Lord the God of Israel.  
 **7** In that day man shall bow down himself to his Maker, and his eyes shall look to the Holy One of Israel.  
 **8** And he shall not look to the altars which his hands made; and he shall not have respect to the things that his fingers wrought, such as groves and temples.  
-**9** In that day his strong cities shall be forsaken, as the ploughs, and the corn that were left before the face of the children of Israel, and thou shalt be desolate. came into their land.  
+**9** In that day his strong cities shall be forsaken, as the ploughs, and the corn that were left before the face of the children of Israel, and thou shalt be desolate.  
 **10** Because thou hast forgotten God thy saviour, and hast not remembered thy strong helper: therefore shalt thou plant good plants, and shalt sow strange seed.  
 **11** In the day of thy planting shall be the wild grape, and in the morning thy seed shall flourish: the harvest is taken away in the day of inheritance, and shall grieve thee much.  
-**12** Woe to the multitude of many people, like the multitude of the roaring sea: and the tumult of crowds, like the noise of many waters. chapter, relates to the Assyrian army under Sennacherib.  
+**12** Woe to the multitude of many people, like the multitude of the roaring sea: and the tumult of crowds, like the noise of many waters.  
 **13** Nations shall make a noise like the noise of waters overflowing, but he shall rebuke him, and he shall flee far off: and he shall be carried away as the dust of the mountains before the wind, and as a whirlwind before a tempest.  
 **14** In the time of the evening, behold there shall be trouble: the morning shall come, and he shall not be: this is the portion of them that have wasted us, and the lot of them that spoiled us.  
 
@@ -572,7 +572,7 @@ format: markdown
 
 ## Chapter 21
 
-**1** The burden of the desert of the sea. As whirlwinds come from the south, it cometh from the desert from a terrible land. as full of people as the sea is with water, it was become a desert.  
+**1** The burden of the desert of the sea. As whirlwinds come from the south, it cometh from the desert from a terrible land.  
 **2** A grievous vision is told me: he that is unfaithful dealeth unfaithfully: and he that is a spoiler, spoileth. Go up, O Elam, besiege, O Mede: I have made all the mourning thereof to cease.  
 **3** Therefore are my loins filled with pain, anguish hath taken hold of me, as the anguish of a woman in labour: I fell down at the hearing of it, I was troubled at the seeing of it.  
 **4** My heart failed, darkness amazed me: Babylon my beloved is become a wonder to me.  
@@ -594,7 +594,7 @@ format: markdown
 
 ## Chapter 22
 
-**1** The burden of the valley of vision. What aileth thee also, that thou too art wholly gone up to the housetops? upon mount Moria, or the mountain of vision. But the city is here called the valley of vision; either because it was lower than the temple, or because of the low condition to which it was to be reduced.  
+**1** The burden of the valley of vision. What aileth thee also, that thou too art wholly gone up to the housetops?  
 **2** Full of clamour, a populous city, a joyous city: thy slain are not slain by the sword, nor dead in battle.  
 **3** All the princes are fled together, and are bound hard: all that were found, are bound together, they are fled far off.  
 **4** Therefore have I said: Depart from me, I will weep bitterly: labour not to comfort me, for the devastation of the daughter of my people.  
@@ -607,7 +607,7 @@ format: markdown
 **11** And you made a ditch between the two walls for the water of the old pool: and you have not looked up to the maker thereof, nor regarded him even at a distance, that wrought it long ago.  
 **12** And the Lord, the God of hosts, in that day shall call to weeping, and to mourning, to baldness, and to girding with sackcloth:  
 **13** And behold joy and gladness, killing calves, and slaying rams, eating flesh, and drinking wine: Let us eat and drink; for to morrow we shall die.  
-**14** And the voice of the Lord of hosts was revealed in my ears:  
+**14** And the voice of the Lord of hosts was revealed in my ears: Surely this iniquity shall not be forgiven you till you die, saith the Lord God of hosts.  
 **15** Thus saith the Lord God of hosts: Go, get thee in to him that dwelleth in the tabernacle, to Sobna who is over the temple: and thou shalt say to him:  
 **16** What dost thou here, or as if thou wert somebody here? for thou hast hewed thee out a sepulchre here, thou hast hewed out a monument carefully in a high place, a dwelling for thyself in a rock.  
 **17** Behold the Lord will cause thee to be carried away, as a cock is carried away, and he will lift thee up as a garment.  
@@ -667,7 +667,7 @@ format: markdown
 **18** And it shall come to pass, that he that shall flee from the noise of the fear, shall fall into the pit: and he that shall rid himself out of the pit, shall be taken in the snare: for the flood-gates from on high are opened, and the foundations of the earth shall be shaken.  
 **19** With breaking shall the earth be broken, with crushing shall the earth be crushed, with trembling shall the earth be moved.  
 **20** With shaking shall the earth be shaken as a drunken man, and shall be removed as the tent of one night: and the iniquity thereof shall be heavy upon it, and it shall fall, and not rise again.  
-**21** And it shall come to pass, that in that day the Lord shall visit upon the host of heaven on high, and upon the kings of the earth, on the earth. signify the demons of the air.  
+**21** And it shall come to pass, that in that day the Lord shall visit upon the host of heaven on high, and upon the kings of the earth, on the earth.  
 **22** And they shall be gathered together as in the gathering of one bundle into the pit, and they shall be shut up there in prison: and after many days they shall be visited.  
 **23** And the moon shall blush, and the sun shall be ashamed, when the Lord of hosts shall reign in mount Sion, and in Jerusalem, and shall be glorified in the sight of his ancients.  
 
@@ -684,7 +684,7 @@ format: markdown
 **7** And he shall destroy in this mountain the face of the bond with which all people were tied, and the web that he began over all nations.  
 **8** He shall cast death down headlong for ever: and the Lord God shall wipe away tears from every face, and the reproach of his people he shall take away from off the whole earth: for the Lord hath spoken it.  
 **9** And they shall say in that day: Lo, this is our God, we have waited for him, and he will save us: this is the Lord, we have patiently waited for him, we shall rejoice and be joyful in his salvation.  
-**10** For the hand of the Lord shall rest in this mountain: and Moab shall be trodden down under him, as straw is broken in pieces with the wain. they can no way escape, is described under these figures.  
+**10** For the hand of the Lord shall rest in this mountain: and Moab shall be trodden down under him, as straw is broken in pieces with the wain.  
 **11** And he shall stretch forth his hands under him, as he that swimmeth stretcheth forth his hands to swim: and he shall bring down his glory with the dashing of his hands.  
 **12** And the bulwarks of thy high walls shall fall, and be brought low, and shall be pulled down to the ground, even to the dust.  
 
@@ -712,20 +712,20 @@ format: markdown
 **18** We have conceived, and been as it were in labour, and have brought forth wind: we have not wrought salvation on the earth, therefore the inhabitants of the earth have not fallen.  
 **19** Thy dead men shall live, my slain shall rise again: awake, and give praise, ye that dwell in the dust: for thy dew is the dew of the light: and the land of the giants thou shalt pull down into ruin.  
 **20** Go, my people, enter into thy chambers, shut thy doors upon thee, hide thyself a little for a moment, until the indignation pass away.  
-**21** For behold the Lord will come out of his place, to visit the iniquity of the inhabitant of the earth against him: and the earth shall disclose her blood, and shall cover her slain no more. martyrs, and their happy resurrection.  
+**21** For behold the Lord will come out of his place, to visit the iniquity of the inhabitant of the earth against him: and the earth shall disclose her blood, and shall cover her slain no more.  
 
 ---
 
 ## Chapter 27
 
-**1** In that day the Lord with his hard, and great, and strong sword shall visit leviathan the bar serpent, and leviathan the crooked serpent, and shall slay the whale that is in the sea. from his wiles; and the whale of the sea, from the tyranny he exercises in the sea of this world. He was spiritually slain by the death of Christ, when his power was destroyed.  
+**1** In that day the Lord with his hard, and great, and strong sword shall visit leviathan the bar serpent, and leviathan the crooked serpent, and shall slay the whale that is in the sea.  
 **2** In that day there shall be singing to the vineyard of pure wine.  
 **3** I am the Lord that keep it, I will suddenly give it drink: lest any hurt come to it, I keep it night and day.  
-**4** There is no indignation in me: who shall make me a thorn and a brier in battle: shall I march against it, shall, I set it on fire together? become as a thorn or brier in its regard; or march against it, or set it on fire: but it shall always take fast hold of me, and keep an everlasting peace with me.  
+**4** There is no indignation in me: who shall make me a thorn and a brier in battle: shall I march against it, shall, I set it on fire together?  
 **5** Or rather shall it take hold of my strength, shall it make peace with me, shall it make peace with me?  
-**6** When they shall rush in unto Jacob, Israel shall blossom and bud, and they shall fill the face of the world with seed. the true Israel, that shall invade it in vain. Others of the spiritual invasion made by the apostles of Christ.  
+**6** When they shall rush in unto Jacob, Israel shall blossom and bud, and they shall fill the face of the world with seed.  
 **7** Hath he struck him according to the stroke of him that struck him? or is he slain, as he killed them that were slain by him?  
-**8** In measure against measure, when it shall be cast off, thou shalt judge it. He hath meditated with his severe spirit in the day of heat. thou shalt judge it in measure, and in proportion to its crimes.-Ibid. day of his wrath.  
+**8** In measure against measure, when it shall be cast off, thou shalt judge it. He hath meditated with his severe spirit in the day of heat.  
 **9** Therefore upon this shall the iniquity of the house of Jacob be forgiven: and this is all the fruit, that the sin thereof should be taken away, when he shall have made all the stones of the altar, as burnt stones broken in pieces, the groves and temples shall not stand.  
 **10** For the strong city shall be desolate, the beautiful city shall be forsaken, and shall be left as a wilderness: there the calf shall feed, and there shall he lie down, and shall consume its branches.  
 **11** Its harvest shall be destroyed with drought, women shall come and teach it: for it is not a wise people, therefore he that made it, shall not have mercy on it: and he that formed it, shall not spare it.  
@@ -736,7 +736,7 @@ format: markdown
 
 ## Chapter 28
 
-**1** Woe to the crown of pride, to the drunkards of Ephraim, and to the fading flower the glory his joy, who were on the head of the fat valley, staggering with wine. fat valley... Samaria, situate on a hill, having under it a most fertile valley.  
+**1** Woe to the crown of pride, to the drunkards of Ephraim, and to the fading flower the glory his joy, who were on the head of the fat valley, staggering with wine.  
 **2** Behold the Lord is mighty and strong, as a storm of hail: a destroying whirlwind, as the violence of many waters overflowing, and sent forth upon a spacious land.  
 **3** The crown of pride of the drunkards of Ephraim shall be trodden under feet.  
 **4** And the fading tower the glory of his joy, who is on the head of the fat valley, shall be as a hasty fruit before the ripeness of autumn: which when he that seeth it shall behold, as soon he taketh it in his hand, he will eat it up.  
@@ -745,17 +745,17 @@ format: markdown
 **7** But these also have been ignorant through wine, and through drunkenness have erred: the priest and the prophet have been ignorant through drunkenness, they are swallowed up with wine, they have gone astray in drunkenness, they have not known him that seeth, they have been ignorant of judgment.  
 **8** For all the tables were full of vomit and filth, so that there was no more place.  
 **9** Whom shall he teach knowledge? and whom shall he make to understand the hearing? them that are weaned from the milk, that are drawn away from the breasts.  
-**10** For command, command again; command, command again; expect, expect again; a little there, a little there. resisting the repeated commands of God, and still putting him off.  
+**10** For command, command again; command, command again; expect, expect again; a little there, a little there.  
 **11** For with the speech of lips, and with another tongue he will speak to this people.  
 **12** To whom he said: This is my rest, refresh the weary, and this is my refreshing: and they would not hear.  
 **13** And the word of the Lord shall be to them: Command, command again; command, command again; expect, expect again; a little there, a little there: that they may go, and fall backward, and be broken, and snared, and taken.  
 **14** Wherefore hear the word of the Lord, ye scornful men, who rule over my people that is in Jerusalem.  
 **15** For you have said: We have entered into a league with death, and we have made a covenant with hell. When the overflowing scourge shall pass through, it shall not come upon us: for we have placed our hope in lies, and by falsehood we are protected.  
-**16** Therefore thus saith the Lord God: Behold I will lay a stone in the foundations of Sion, a tried stone, a corner stone, a precious stone, founded in the foundation. He that believeth, let him not hasten. etc... Let him expect his coming with patience.  
+**16** Therefore thus saith the Lord God: Behold I will lay a stone in the foundations of Sion, a tried stone, a corner stone, a precious stone, founded in the foundation. He that believeth, let him not hasten.  
 **17** And I will set judgment in weight, and justice in measure: and hail shall overturn the hope of falsehood: and waters shall overflow its protection.  
 **18** And your league with death shall be abolished, and your covenant with hell shall not stand: when the overflowing scourge shall pass, you shall be trodden down by it.  
 **19** Whensoever it shall pass through, it shall take you away: because in the morning early it shall pass through, in the day and in the night, and vexation alone shall make you understand what you hear.  
-**20** For the bed is straitened, so that one must fall out, and a short covering cannot cover both. have the bed of our heart all to himself.  
+**20** For the bed is straitened, so that one must fall out, and a short covering cannot cover both.  
 **21** For the Lord shall stand up as in the mountain of divisions: he shall be angry as in the valley which is in Gabaon: that he may do his work, his strange work: that he may perform his work, his work is strange to him.  
 **22** And now do not mock, lest your bonds be tied strait. For I have heard of the Lord the God of hosts a consumption and a cutting short upon all the earth.  
 **23** Give ear, and hear my voice, hearken, and hear my speech.  
@@ -764,13 +764,13 @@ format: markdown
 **26** For he will instruct him in judgment: his God will teach him.  
 **27** For gith shall not be thrashed with saws, neither shall the cart wheel turn about upon cummin: but gith shall be beaten out with a rod, and cumin with a staff.  
 **28** But breadcorn shall be broken small: but the thrasher shall not thrash it for ever, neither shall the cart wheel hurt it, nor break it with its teeth.  
-**29** This also is come forth from the Lord God of hosts, to make his counsel wonderful, and magnify justice. and the divers seeds he throws therein.  
+**29** This also is come forth from the Lord God of hosts, to make his counsel wonderful, and magnify justice.  
 
 ---
 
 ## Chapter 29
 
-**1** Woe to Ariel, to Ariel the city which David took: year is added to year: the solemnities are at an end. strong city of Jerusalem.  
+**1** Woe to Ariel, to Ariel the city which David took: year is added to year the solemnities are at an end.  
 **2** And I will make a trench about Ariel, and it shall be in sorrow and mourning, and it shall be to me as Ariel.  
 **3** And I will make a circle round about thee, and I will cast up a rampart against thee, and raise up bulwarks to besiege thee.  
 **4** Thou shalt be brought down, thou shall speak out of the earth, and thy speech shall be heard out of the ground: and thy voice shall be from the earth like that of the python, and out of the earth thy speech shall mutter.  
@@ -785,7 +785,7 @@ format: markdown
 **13** And the Lord said: Forasmuch as this people draw near me with their mouth, and with their lips glorify me, but their heart is far from me, and they have feared me with the commandment and doctrines of men:  
 **14** Therefore behold I will proceed to cause an admiration in this people, by a great and wonderful miracle: for wisdom shall perish from their wise men, and the understanding of their prudent men shall be hid.  
 **15** Woe to you that are deep of heart, to hide your counsel from the Lord: and their works are in the dark, and they say: Who seeth us, and who knoweth us?  
-**16** This thought of yours is perverse: as if the clay should think against the potter, and the work should say to the maker thereof: Thou madest me not: or the thing framed should say to him that fashioned it:  
+**16** This thought of yours is perverse: as if the clay should think against the potter, and the work should say to the maker thereof: Thou madest me not: or the thing framed should say to him that fashioned it: Thou understandest not.  
 **17** Is it not yet a very little while, and Libanus shall be turned into charmel, and charmel shall be esteemed as a forest?  
 **18** And in that day the deaf shall hear the words of the book, and out of darkness and obscurity the eyes of the blind shall see.  
 **19** And the meek shall increase their joy in the Lord, and the poor men shall rejoice in the Holy One of Israel.  
@@ -882,7 +882,7 @@ format: markdown
 **4** And your spoils shall be gathered together as the locusts are gathered, as when the ditches are full of them.  
 **5** The Lord is magnified, for he hath dwelt on high: he hath filled Sion with judgment and justice.  
 **6** And there shall be faith in thy times: riches of salvation, wisdom and knowledge: the fear of the Lord is his treasure.  
-**7** Behold they that see shall cry without, the angels of peace shall weep bitterly. peace.  
+**7** Behold they that see shall cry without, the angels of peace shall weep bitterly.  
 **8** The ways are made desolate, no one passeth by the road, the covenant is made void, he hath rejected the cities, he hath not regarded the men.  
 **9** The land hath mourned, and languished: Libanus is confounded, and become foul, and Saron is become as a desert: and Basan and Carmel are shaken.  
 **10** Now will I rise up, saith the Lord: now will I be exalted, now will I lift up myself.  
@@ -896,9 +896,9 @@ format: markdown
 **18** Thy heart shall meditate fear: where is the learned? where is he that pondered the words of the law? where is the teacher of little ones?  
 **19** The shameless people thou shalt not see, the people of profound speech: so that thou canst not understand the eloquence of his tongue, in whom there is no wisdom.  
 **20** Look upon Sion the city of our solemnity: thy eyes shall see Jerusalem, a rich habitation, a tabernacle that cannot be removed: neither shall the nails thereof be taken away for ever, neither shall any of the cords thereof be broken.  
-**21** Because only there our Lord is magnificent: a place of rivers, very broad and spacious streams: no ship with oars shall pass by it, neither shall the great galley pass through it. throne of God to water the heavenly Jerusalem, where no enemy's ship can come, etc.  
+**21** Because only there our Lord is magnificent: a place of rivers, very broad and spacious streams: no ship with oars shall pass by it, neither shall the great galley pass through it.  
 **22** For the Lord is our judge, the Lord is our lawgiver, the Lord is our king: he will save us.  
-**23** Thy tacklings are loosed, and they shall be of no strength: thy mast shall be in such condition, that thou shalt not be able to spread the flag. Then shall the spoils of much prey be divided: the lame shall take the spoil. allegory of a ship that is disabled.  
+**23** Thy tacklings are loosed, and they shall be of no strength: thy mast shall be in such condition, that thou shalt not be able to spread the flag. Then shall the spoils of much prey be divided: the lame shall take the spoil.  
 **24** Neither shall he that is near, say: I am feeble. The people that dwell therein, shall have their iniquity taken away from them.  
 
 ---
@@ -909,10 +909,10 @@ format: markdown
 **2** For the indignation of the Lord is upon all nations, and his fury upon all their armies: he hath killed them, and delivered them to slaughter.  
 **3** Their slain shall be cast forth, and out of their carcasses shall rise a stink: the mountains shall be melted with their blood.  
 **4** And all the host of the heavens shall pine away, and the heavens shall be folded together as a book: and all their host shall fall down as the leaf falleth from the vine, and from the fig tree.  
-**5** For my sword is inebriated in heaven: behold it shall come down upon Idumea, and upon the people of my slaughter unto judgment. of the Jews, are here understood the wicked in general, the enemies of God and his church.  
+**5** For my sword is inebriated in heaven: behold it shall come down upon Idumea, and upon the people of my slaughter unto judgment.  
 **6** The sword of the Lord is filled with blood, it is made thick with the blood of lambs and buck goats, with the blood of rams full of marrow: for there is a victim of the Lord in Bosra and a great slaughter in the land of Edom.  
 **7** And the unicorns shall go down with them, and the bulls with the mighty: their land shall be soaked with blood, and their ground with the fat of fat ones.  
-**8** For it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Sion. of the church, shall receive their reward.  
+**8** For it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Sion.  
 **9** And the streams thereof shall be turned into pitch, and the ground thereof into brimstone: and the land thereof shall become burning pitch.  
 **10** Night and day it shall not be quenched, the smoke thereof shall go up for ever: from generation to generation it shall lie waste, none shall pass through it for ever and ever.  
 **11** The bittern and ericius shall possess it: and the ibis and the raven shall dwell in it: and a line shall be stretched out upon it, to bring it to nothing, and a plummet, unto desolation.  
@@ -992,7 +992,7 @@ format: markdown
 **21** And Isaias the son of Amos sent to Ezechias, saying: Thus saith the Lord the God of Israel: For the prayer thou hast made to me concerning Sennacherib the king of the Assyrians:  
 **22** This is the word which the Lord hath spoken of him: The virgin the daughter of Sion hath despised thee, and laughed thee to scorn: the daughter of Jerusalem hath wagged the head after thee.  
 **23** Whom hast thou reproached, and whom hast thou blasphemed, and against whom hast thou exalted thy voice, and lifted up thy eyes on high? Against the Holy One of Israel.  
-**24** By the hand of thy servants thou hast reproached the Lord: and hast said: With the multitude of my chariots I have gone up to the height of the mountains, to the top of Libanus: and I will cut down its tall cedars, and its choice fir trees, and will enter to the top of its height, to the forest of its Carmel. on the nineteenth chapter of the fourth book of Kings.  
+**24** By the hand of thy servants thou hast reproached the Lord: and hast said: With the multitude of my chariots I have gone up to the height of the mountains, to the top of Libanus: and I will cut down its tall cedars, and its choice fir trees, and will enter to the top of its height, to the forest of its Carmel.  
 **25** I have digged, and drunk water, and have dried up with the sole of my foot, all the rivers shut up in banks.  
 **26** Hast thou not heard what I have done to him of old? from the days of old I have formed it: and now I have brought it to effect: and it hath come to pass that hills fighting together, and fenced cities should be destroyed.  
 **27** The inhabitants of them were weak of hand, they trembled, and were confounded: they became like the grass of the field, and the herb of the pasture, and like the grass of the housetops, which withered before it was ripe.  
@@ -1012,16 +1012,16 @@ format: markdown
 
 ## Chapter 38
 
-**1** In those days Ezechias was sick even to death, and Isaias the son of Amos the prophet cane unto him, and said to him: Thus saith the Lord:  
+**1** In those days Ezechias was sick even to death, and Isaias the son of Amos the prophet cane unto him, and said to him: Thus saith the Lord: Take order with thy house, for thou shalt die, and not live.  
 **2** And Ezechias turned his face toward the wall, and prayed to the Lord,  
 **3** And said: I beseech thee, O Lord, remember how I have walked before thee in truth, and with a perfect heart, and have done that which is good in thy sight. And Ezechias wept with great weeping.  
 **4** And the word of the Lord came to Isaias, saying:  
 **5** Go and say to Ezechias: Thus saith the Lord the God of David thy father: I have heard thy prayer, and I have seen thy tears: behold I will add to thy days fifteen years:  
 **6** And I will deliver thee and this city out of the hand of the king of the Assyrians, and I will protect it.  
 **7** And this shall be a sign to thee from the Lord, that the Lord will do this word which he hath spoken:  
-**8** Behold I will bring again the shadow of the lines, by which it is now gone down in the sun dial of Achaz with the sun, ten lines backward.  
+**8** Behold I will bring again the shadow of the lines, by which it is now gone down in the sun dial of Achaz with the sun, ten lines backward. And the sun returned ten lines by the degrees by which it was gone down.  
 **9** The writing of Ezechias king of Juda, when he had been sick, and was recovered of his sickness.  
-**10** I said: In the midst of my days I shall go to the gates of hell:  
+**10** I said: In the midst of my days I shall go to the gates of hell: I sought for the residue of my years.  
 **11** I said: I shall not see the Lord God in the land of the living. I shall behold man no more, nor the inhabitant of rest.  
 **12** My generation is at an end, and it is rolled away from me, as a shepherd's tent. My life is cut off, as by a weaver: whilst I was yet but beginning, he cut me off: from morning even to night thou wilt make an end of me.  
 **13** I hoped till morning, as a lion so hath he broken all my bones: from morning even to night thou wilt make an end of me.  
@@ -1041,7 +1041,7 @@ format: markdown
 
 **1** At that time Merodach Baladan, the son of Baladan king of Babylon, sent letters and presents to Ezechias: for he had heard that he had been sick and was recovered.  
 **2** And Ezechias rejoiced at their coming, and he shewed them the storehouses of his aromatical spices, and of the silver, and of the gold, and of the sweet odours, and of the precious ointment, and all the storehouses of his furniture, and all things that were found in his treasures. There was nothing in his house, nor in all his dominion that Ezechias shewed them not.  
-**3** Then Isaias the prophet came to king Ezechias, and said to him: said: From a far country they came to me, from Babylon.  
+**3** Then Isaias the prophet came to king Ezechias, and said to him: What said these men, and from whence came they to thee? And Ezechias said: From a far country they came to me, from Babylon.  
 **4** And he said: What saw they in thy house? And Ezechias said: All things that are in my house have they seen, there was not any thing which I have not shewn them in my treasures.  
 **5** And Isaias said to Ezechias: Hear the word of the Lord of hosts.  
 **6** Behold the days shall come that all that is in thy house, and that thy fathers have laid up in store until this day, shall be carried away into Babylon: there shall not any thing be left, saith the Lord.  
@@ -1060,7 +1060,7 @@ format: markdown
 **6** The voice of one, saying: Cry. And I said: What shall I cry? All flesh is grass, and all the glory thereof as the flower of the field.  
 **7** The grass is withered, and the flower is fallen, because the spirit of the Lord hath blown upon it. Indeed the people is grass:  
 **8** The grass is withered, and the flower is fallen: but the word of our Lord endureth for ever.  
-**9** Get thee up upon a high mountain, thou that bringest good tidings to Sion: lift up thy voice with strength, thou that bringest good tidings to Jerusalem: lift it up, fear not. Say to the cities of Juda:  
+**9** Get thee up upon a high mountain, thou that bringest good tidings to Sion: lift up thy voice with strength, thou that bringest good tidings to Jerusalem: lift it up, fear not. Say to the cities of Juda: Behold your God:  
 **10** Behold the Lord God shall come with strength, and his arm shall rule: Behold his reward is with him and his work is before him.  
 **11** He shall feed his flock like a shepherd: he shall gather together the lambs with his arm, and shall take them up in his bosom, and he himself shall carry them that are with young.  
 **12** Who hath measured the waters in the hollow of his hand, and weighed the heavens with his palm? who hath poised with three fingers the bulk of the earth, and weighed the mountains in scales, and the hills in a balance?  
@@ -1093,7 +1093,7 @@ format: markdown
 **3** He shall pursue them, he shall pass in peace, no path shall appear after his feet.  
 **4** Who hath wrought and done these things, calling the generations from the beginning? I the Lord, I am the first and the last.  
 **5** The islands saw it, and feared, the ends of the earth were astonished, they drew near, and came.  
-**6** Every one shall help his neighbour, and shall say to his brother:  
+**6** Every one shall help his neighbour, and shall say to his brother: Be of good courage.  
 **7** The coppersmith striking with the hammer encouraged him that forged at that time, saying: It is ready for soldering: and he strengthened it with nails, that it should not be moved.  
 **8** But thou Israel, art my servant, Jacob whom I have chosen, the seed of Abraham my friend:  
 **9** In whom I have taken thee from the ends of the earth, and from the remote parts thereof have called thee, and said to thee: Thou art my servant, I have chosen thee, and have not cast thee away.  
@@ -1106,7 +1106,7 @@ format: markdown
 **16** Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and thou shalt rejoice in the Lord, in the Holy One of Israel thou shalt be joyful.  
 **17** The needy and the poor seek for waters, and there are none: their tongue hath been dry with thirst. I the Lord will hear them, I the God of Israel will not forsake them.  
 **18** I will open rivers in the high hills, and fountains in the midst of the plains: I will turn the desert into pools of waters, and the impassable land into streams of waters.  
-**19** I will plant in the wilderness the cedar, and the thorn, and the myrtle, and the olive tree: I will set in the desert the fir tree, the elm, and the box tree together: white thorn.  
+**19** I will plant in the wilderness the cedar, and the thorn, and the myrtle, and the olive tree: I will set in the desert the fir tree, the elm, and the box tree together:  
 **20** That they may see and know, and consider, and understand together that the hand of the Lord hath done this, and the Holy One of Israel hath created it.  
 **21** Bring your cause near, saith the Lord: bring hither, if you have any thing to allege, saith the King of Jacob.  
 **22** Let them come, and tell us all things that are to come: tell us the former things what they were: and we will set our heart upon them and shall know the latter end of them, and tell us the things that are to come.  
@@ -1222,9 +1222,9 @@ format: markdown
 **2** I will go before thee, and will humble the great ones of the earth: I will break in pieces the gates of brass, and will burst the bars of iron.  
 **3** And I will give thee hidden treasures, and the concealed riches of secret places: that thou mayest know that I am the Lord who call thee by thy name, the God of Israel.  
 **4** For the sake of my servant Jacob, and Israel my elect, I have even called thee by thy name: I have made a likeness of thee, and thou hast not known me.  
-**5** I am the Lord, and there is none else: there is no God besides me:  
+**5** I am the Lord, and there is none else: there is no God besides me: I girded thee, and thou hast not known me:  
 **6** That they may know who are from the rising of the sun, and they who are from the west, that there is none besides me. I am the Lord, and there is none else:  
-**7** I form the light, and create darkness, I make peace, and create evil: I the Lord that do all these things. the evil of sin.  
+**7** I form the light, and create darkness, I make peace, and create evil: I the Lord that do all these things.  
 **8** Drop down dew, ye heavens, from above, and let the clouds rain the just: let the earth be opened, and bud forth a saviour: and let justice spring up together: I the Lord have created him.  
 **9** Woe to him that gainsayeth his maker, a sherd of the earthen pots: shall the clay say to him that fashioneth it: What art thou making, and thy work is without hands?  
 **10** Woe to him that saith to his father: Why begettest thou? and to the woman: Why dost thou bring forth?  
@@ -1318,7 +1318,7 @@ format: markdown
 **3** And he said to me: Thou art my servant Israel, for in thee will I glory.  
 **4** And I said: I have laboured in vain, I have spent my strength without cause and in vain: therefore my judgment is with the Lord, and my work with my God.  
 **5** And now saith the Lord, that formed me from the womb to be his servant, that I may bring back Jacob unto him, and Israel will not be gathered together: and I am glorified in the eyes of the Lord, and my God is made my strength.  
-**6** And he said: It is a small thing that thou shouldst be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. mayst be my salvation even to the farthest part of the earth.  
+**6** And he said: It is a small thing that thou shouldst be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. Behold, I have given thee to be the light of the Gentiles, that thou mayst be my salvation even to the farthest part of the earth.  
 **7** Thus saith the Lord the redeemer of Israel, his Holy One, to the soul that is despised, to the nation that is abhorred, to the servant of rulers: Kings shall see, and princes shall rise up, and adore for the Lord's sake, because he is faithful, and for the Holy One of Israel, who hath chosen thee.  
 **8** Thus saith the Lord: In an acceptable time I have heard thee, and in the day of salvation I have helped thee: and I have preserved thee, and given thee to be a covenant of the people, that thou mightest raise up the earth, and possess the inheritances that were destroyed:  
 **9** That thou mightest say to them that are bound: Come forth: and to them that are in darkness: Shew yourselves. They shall feed in the ways, and their pastures shall be in every plain.  
@@ -1352,7 +1352,7 @@ format: markdown
 **6** I have given my body to the strikers, and my cheeks to them that plucked them: I have not turned away my face from them that rebuked me, and spit upon me.  
 **7** The Lord God is my helper, therefore am I not confounded: therefore have I set my face as a most hard rock, and I know that I shall not be confounded.  
 **8** He is near that justifieth me, who will contend with me? let us stand together, who is my adversary? let him come near to me.  
-**9** Behold the Lord God is my helper: who is he that shall condemn me? up.  
+**9** Behold the Lord God is my helper: who is he that shall condemn me? Lo, they shall all be destroyed as a garment, the moth shall eat them up.  
 **10** Who is there among you that feareth the Lord, that heareth the voice of his servant, that hath walked in darkness, and hath no light? let him hope in the name of the Lord, and lean upon his God.  
 **11** Behold all you that kindle a fire, encompassed with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows.  
 
@@ -1487,7 +1487,7 @@ format: markdown
 **3** But draw near hither, you sons of the sorceress, the seed of the adulterer, and of the harlot.  
 **4** Upon whom have you jested? upon whom have you opened your mouth wide, and put out your tongue? are not you wicked children, a false seed,  
 **5** Who seek your comfort in idols under every green tree, sacrificing children in the torrents, under the high rocks?  
-**6** In the parts of the torrent is thy portion, this is thy lot: and thou hast poured out libations to them, thou hast offered sacrifice.  
+**6** In the parts of the torrent is thy portion, this is thy lot: and thou hast poured out libations to them, thou hast offered sacrifice. Shall I not be angry at these things?  
 **7** Upon a high and lofty mountain thou hast laid thy bed, and hast gone up thither to offer victims.  
 **8** And behind the door, and behind the post thou hast set up thy remembrance: for thou hast discovered thyself near me, and hast received an adulterer: thou hast enlarged thy bed, and made a covenant with them: thou hast loved their bed with open hand.  
 **9** And thou hast adorned thyself for the king with ointment, and hast multiplied thy perfumes. Thou hast sent thy messengers far off, and wast debased even to hell.  
@@ -1547,7 +1547,7 @@ format: markdown
 **18** As unto revenge, as it were to repay wrath to his adversaries, and a reward to his enemies: he will repay the like to the islands.  
 **19** And they from the west, shall fear the name of the Lord: and they from the rising of the sun, his glory when he shall come as a violent stream, which the spirit of the Lord driveth on:  
 **20** And there shall come a redeemer to Sion, and to them that return from iniquity in Jacob, saith the Lord.  
-**21** This is my covenant with them, saith the Lord: My spirit that is in thee, and my words that I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever. orthodoxy to the church of Christ.  
+**21** This is my covenant with them, saith the Lord: My spirit that is in thee, and my words that I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever.  
 
 ---
 
@@ -1571,7 +1571,7 @@ format: markdown
 **16** And thou shalt suck the milk of the Gentiles, and thou shalt be nursed with the breasts of kings: and thou shalt know that I am the Lord thy Saviour, and thy Redeemer, the Mighty One of Jacob.  
 **17** For brass I will bring gold, and for iron I will bring silver: and for wood brass, and for stones iron: and I will make thy visitation peace, and thy overseers justice.  
 **18** Iniquity shall no more be heard in thy land, wasting nor destruction in thy borders, and salvation shall possess thy walls, and praise thy gates.  
-**19** Thou shalt no more have the sun for thy light by day, neither shall the brightness of the moon enlighten thee: but the Lord shall be unto thee for an everlasting light, and thy God for thy glory. prophet passes from the illustrious promises made to the church militant on earth, to the glory of the church triumphant in heaven.  
+**19** Thou shalt no more have the sun for thy light by day, neither shall the brightness of the moon enlighten thee: but the Lord shall be unto thee for an everlasting light, and thy God for thy glory.  
 **20** Thy sun shall go down no more, and thy moon shall not decrease: for the Lord shall be unto thee for an everlasting light, and the days of thy mourning shall be ended.  
 **21** And thy people shall be all just, they shall inherit the land for ever, the branch of my planting, the work of my hand to glorify me.  
 **22** The least shall become a thousand, and a little one a most strong nation: I the Lord will suddenly do this thing in its time.  
@@ -1613,7 +1613,7 @@ format: markdown
 
 ## Chapter 63
 
-**1** Who is this that cometh from Edom, with dyed garments from Bosra, this beautiful one in his robe, walking in the greatness of his strength. I, that speak justice, and am a defender to save. mystical sense for the enemies of Christ and his church.  
+**1** Who is this that cometh from Edom, with dyed garments from Bosra, this beautiful one in his robe, walking in the greatness of his strength. I, that speak justice, and am a defender to save.  
 **2** Why then is thy apparel red, and thy garments like theirs that tread in the winepress?  
 **3** I have trodden the winepress alone, and of the Gentiles there is not a man with me: I have trampled on them in my indignation, and have trodden them down in my wrath, and their blood is sprinkled upon my garments, and I have stained all my apparel.  
 **4** For the day of vengeance is in my heart, the year of my redemption is come.  
@@ -1623,13 +1623,13 @@ format: markdown
 **8** And he said: Surely they are my people, children that will not deny: so he became their saviour.  
 **9** In all their affliction he was not troubled, and the angel of his presence saved them: in his love, and in his mercy he redeemed them, and he carried them and lifted them up all the days of old.  
 **10** But they provoked to wrath, and afflicted the spirit of his Holy One: and he was turned to be their enemy, and he fought against them.  
-**11** And he remembered the days of old of Moses, and of his people: his flock? where is he that put in the midst of them the spirit of his Holy One?  
+**11** And he remembered the days of old of Moses, and of his people: Where is he that brought them up out of the sea, with the shepherds of his flock? where is he that put in the midst of them the spirit of his Holy One?  
 **12** He that brought out Moses by the right hand, by the arm of his majesty: that divided the waters before them, to make himself an everlasting name.  
 **13** He that led them out through the deep, as a horse in the wilderness that stumbleth not.  
 **14** As a beast that goeth down in the field, the spirit of the Lord was their leader: so didst thou lead thy people to make thyself a glorious name.  
-**15** Look down from heaven, and behold from thy holy habitation and the place of thy glory: where is thy zeal, and thy strength, the multitude of thy bowels, and of thy mercies? they have held back themselves from me. of the Jews at the time when, for their sins, they were given up to their enemies.  
-**16** For thou art our father, and Abraham hath not known us, and Israel hath been ignorant of us: thou, O Lord, art our father, our redeemer, from everlasting is thy name. acknowledge us for his children, by reason of our degeneracy; but thou, O Lord, art our true father and our redeemer, and no other can be called our parent in comparison with thee.  
-**17** Why hast thou made us to err, O Lord, from thy ways: why hast thou hardened our heart, that we should not fear thee? return for the sake of thy servants, the tribes of thy inheritance. in punishment of their great and manifold crimes, and their long abuse of his mercy and grace, had withdrawn his graces from them, and so given them up to error and hardness of heart.  
+**15** Look down from heaven, and behold from thy holy habitation and the place of thy glory: where is thy zeal, and thy strength, the multitude of thy bowels, and of thy mercies? they have held back themselves from me.  
+**16** For thou art our father, and Abraham hath not known us, and Israel hath been ignorant of us: thou, O Lord, art our father, our redeemer, from everlasting is thy name.  
+**17** Why hast thou made us to err, O Lord, from thy ways: why hast thou hardened our heart, that we should not fear thee? return for the sake of thy servants, the tribes of thy inheritance.  
 **18** They have possessed thy holy people as nothing: our enemies have trodden down thy sanctuary.  
 **19** We are become as in the beginning, when thou didst not rule over us, and when we were not called by thy name.  
 
@@ -1642,7 +1642,7 @@ format: markdown
 **3** When thou shalt do wonderful things, we shall not bear them: thou didst come down, and at thy presence the mountains melted away.  
 **4** From the beginning of the world they have not heard, nor perceived with the ears: the eye hath not seen, O God, besides thee, what things thou hast prepared for them that wait for thee.  
 **5** Thou hast met him that rejoiceth, and doth justice: in thy ways they shall remember thee: behold thou art angry, and we have sinned: in them we have been always, and we shall be saved.  
-**6** And we are all become as one unclean, and all our justices as the rag of a menstruous woman: and we have all fallen as a leaf, and our iniquities, like the wind, have taken us away. ourselves just. This is spoken particularly of the sacrifices, sacraments, and ceremonies of the Jews, after the death of Christ, and the promulgation of the new law.  
+**6** And we are all become as one unclean, and all our justices as the rag of a menstruous woman: and we have all fallen as a leaf, and our iniquities, like the wind, have taken us away.  
 **7** There is none that calleth upon thy name: that riseth up, and taketh hold of thee: thou hast hid thy face from us, and hast crushed us in the hand of our iniquity.  
 **8** And now, O Lord, thou art our father, and we are clay: and thou art our maker, and we all are the works of thy hands.  
 **9** Be not very angry, O Lord, and remember no longer our iniquity: behold, see we are all thy people.  
@@ -1684,11 +1684,11 @@ format: markdown
 
 ## Chapter 66
 
-**1** Thus saith the Lord: Heaven is my throne, and the earth my footstool: what is this house that you will build to me? and what is this place of my rest? cast off.  
+**1** Thus saith the Lord: Heaven is my throne, and the earth my footstool: what is this house that you will build to me? and what is this place of my rest?  
 **2** My hand made all these things, and all these things were made, saith the Lord. But to whom shall I have respect, but to him that is poor and little, and of a contrite spirit, and that trembleth at my words?  
-**3** He that sacrificeth an ox, is as if he slew a man: he that killeth a sheep in sacrifice, as if he should brain a dog: he that offereth an oblation, as if he should offer swine's blood; he that remembereth incense, as if he should bless an idol. All these things have they chosen in their ways, and their soul is delighted in their abominations. which were offered in the old law should be abolished in the new; and that the offering of them should be a crime.-Ibid. Remembereth incense... Viz., to offer it in the way of a sacrifice.  
-**4** Wherefore I also will choose their mockeries, and will bring upon them the things they feared: because I called, and there was none that would answer; I have spoken, and they heard not; and they have done evil in my eyes, and have chosen the things that displease me. themselves; and will cause them to be mocked by their enemies.  
-**5** Hear the word of the Lord, you that tremble at his word: Your brethren that hate you, and cast you out for my name's sake, have said: be confounded.  
+**3** He that sacrificeth an ox, is as if he slew a man: he that killeth a sheep in sacrifice, as if he should brain a dog: he that offereth an oblation, as if he should offer swine's blood; he that remembereth incense, as if he should bless an idol. All these things have they chosen in their ways, and their soul is delighted in their abominations.  
+**4** Wherefore I also will choose their mockeries, and will bring upon them the things they feared: because I called, and there was none that would answer; I have spoken, and they heard not; and they have done evil in my eyes, and have chosen the things that displease me.  
+**5** Hear the word of the Lord, you that tremble at his word: Your brethren that hate you, and cast you out for my name's sake, have said: Let the Lord be glorified, and we shall see in your joy: but they shall be confounded.  
 **6** A voice of the people from the city, a voice from the temple, the voice of the Lord that rendereth recompense to his enemies.  
 **7** Before she was in labour, she brought forth; before her time came to be delivered, she brought forth a man child.  
 **8** Who hath ever heard such a thing? and who hath seen the like to this? shall the earth bring forth in one day? or shall a nation be brought forth at once, because Sion hath been in labour, and hath brought forth her children?  

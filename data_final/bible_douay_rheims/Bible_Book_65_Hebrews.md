@@ -66,13 +66,13 @@ format: markdown
 **7** Thou hast made him a little lower than the angels: thou hast crowned him with glory and honour and hast set him over the works of thy hands.  
 **8** Thou hast subjected all things under his feet. For in that he hath subjected all things to him he left nothing not subject to him. But now we see not as yet all things subject to him.  
 **9** But we see Jesus, who was made a little lower than the angels, for the suffering of death, crowned with glory and honour: that, through the grace of God he might taste death for all.  
-**10** For it became him for whom are all things and by whom are all things, who had brought many children into glory, to perfect the author of their salvation, by his passion. glory, Luke 24.26, which the apostle here calls being made perfect.  
+**10** For it became him for whom are all things and by whom are all things, who had brought many children into glory, to perfect the author of their salvation, by his passion.  
 **11** For both he that sanctifieth and they who are sanctified are all of one. For which cause he is not ashamed to call them brethren, saying:  
 **12** I will declare thy name to my brethren: in the midst of the church will I praise thee.  
 **13** And again: I will put my trust in him. And again: Behold I and my children, whom God hath given me.  
 **14** Therefore because the children are partakers of flesh and blood, he also himself in like manner hath been partaker of the same: that, through death, he might destroy him who had the empire of death, that is to say, the devil:  
 **15** And might deliver them, who through the fear of death were all their lifetime subject to servitude.  
-**16** For nowhere doth he take hold of the angels: but of the seed of Abraham he taketh hold. angels, but that of the seed of Abraham.  
+**16** For nowhere doth he take hold of the angels: but of the seed of Abraham he taketh hold.  
 **17** Wherefore, it behoved him in all things to be made like unto his brethren, that he might become a merciful and faithful high priest before God, that he might be a propitiation for the sins of the people.  
 **18** For in that wherein he himself hath suffered and been tempted he is able to succour them also that are tempted.  
 
@@ -105,7 +105,7 @@ format: markdown
 ## Chapter 4
 
 **1** Let us fear therefore lest, the promise being left of entering into his rest, any of you should be thought to be wanting.  
-**2** For unto us also it hath been declared in like manner as unto them. of those things they heard.  
+**2** For unto us also it hath been declared in like manner as unto them. But the word of hearing did not profit them, not being mixed with faith of those things they heard.  
 **3** For we, who have believed, shall enter into rest; as he said: As I have sworn in my wrath: If they shall enter into my rest; and this indeed when the works from the foundation of the world were finished.  
 **4** For in a certain place he spoke of the seventh day thus: And God rested the seventh day from all his works.  
 **5** And in this place again: If they shall enter into my rest.  
@@ -171,7 +171,7 @@ format: markdown
 
 **1** For this Melchisedech was king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings and blessed him:  
 **2** To whom also Abraham divided the tithes of all: who first indeed by interpretation is king of justice: and then also king of Salem, that is, king of peace:  
-**3** Without father, without mother, without genealogy, having neither beginning of days nor end of life, but likened unto the Son of God, continueth a priest for ever. his father, nor his pedigree, nor his birth, nor his death, are set down in scripture.  
+**3** Without father, without mother, without genealogy, having neither beginning of days nor end of life, but likened unto the Son of God, continueth a priest for ever.  
 **4** Now consider how great this man is, to whom also Abraham the patriarch gave tithes out of the principal things.  
 **5** And indeed they that are of the sons of Levi, who receive the priesthood, have a commandment to take tithes of the people according to the law, that is to say, of their brethren: though they themselves also came out of the loins of Abraham.  
 **6** But he, whose pedigree is not numbered among them, received tithes of Abraham and blessed him that had the promises.  
@@ -191,9 +191,9 @@ format: markdown
 **20** And inasmuch as it is not without an oath (for the others indeed were made priests without an oath:  
 **21** But this with an oath, by him that said unto him: The Lord hath sworn and he will not repent: Thou art a priest for ever).  
 **22** By so much is Jesus made a surety of a better testament.  
-**23** And the others indeed were made many priests, because by reason of death they were not suffered to continue: priests of the law, and our high priest Jesus Christ; that they being removed by death, made way for their successors; whereas our Lord Jesus is a priest for ever, and hath no successor; but liveth and concurreth for ever with his ministers, the priests of the new testament, in all their functions. Also, that no one priest of the law, nor all of them together, could offer that absolute sacrifice of everlasting redemption, which our one high priest Jesus Christ has offered once, and for ever.  
+**23** And the others indeed were made many priests, because by reason of death they were not suffered to continue:  
 **24** But this, for that he continueth for ever, hath an everlasting priesthood:  
-**25** Whereby he is able also to save for ever them that come to God by him; always living to make intercession for us. us, by representing his passion to his Father.  
+**25** Whereby he is able also to save for ever them that come to God by him; always living to make intercession for us.  
 **26** For it was fitting that we should have such a high priest, holy, innocent, undefiled, separated from sinners, and made higher than the heavens:  
 **27** Who needeth not daily (as the other priests) to offer sacrifices, first for his own sins, and then for the people's: for this he did once, in offering himself.  
 **28** For the law maketh men priests, who have infirmity: but the word of the oath (which was since the law) the Son who is perfected for evermore.  
@@ -205,14 +205,14 @@ format: markdown
 **1** Now of the things which we have spoken, this is the sum: We have such an high priest who is set on the right hand of the throne of majesty in the heavens,  
 **2** A minister of the holies and of the true tabernacle, which the Lord hath pitched, and not man.  
 **3** For every high priest is appointed to offer gifts and sacrifices: wherefore it is necessary that he also should have some thing to offer.  
-**4** If then he were on earth, he would not be a priest: seeing that there would be others to offer gifts according to the law. condition than the Levitical order of earthly priests, and had not another kind of sacrifice to offer, he should be excluded by them from the priesthood, and its functions, which by the law were appropriated to their tribe.  
-**5** Who serve unto the example and shadow of heavenly things. As it was answered to Moses, when he was to finish the tabernacle: See (saith he) that thou make all things according to the pattern which was shewn thee on the mount. a kind of an example and shadow of what is done by Christ in his church militant and triumphant, of which the tabernacle was a pattern.  
+**4** If then he were on earth, he would not be a priest: seeing that there would be others to offer gifts according to the law.  
+**5** Who serve unto the example and shadow of heavenly things. As it was answered to Moses, when he was to finish the tabernacle: See (saith he) that thou make all things according to the pattern which was shewn thee on the mount.  
 **6** But now he hath obtained a better ministry, by how much also he is a mediator of a better testament which is established on better promises.  
 **7** For if that former had been faultless, there should not indeed a place have been sought for a second.  
 **8** For, finding fault with them, he saith: Behold the days shall come, saith the Lord: and I will perfect, unto the house of Israel and unto the house of Juda, a new testament:  
 **9** Not according to the testament which I made to their fathers, on the day when I took them by the hand to lead them out of the land of Egypt: because they continued not in my testament: and I regarded them not, saith the Lord.  
 **10** For this is the testament which I will make to the house of Israel after those days, saith the Lord: I will give my laws into their mind: and in their heart will I write them. And I will be their God: and they shall be my people.  
-**11** And they shall not teach every man his neighbour and every man his brother, saying: Know the Lord. For all shall know me, from the least to the greatest of them. new testament, that it shall not be necessary to inculcate to the faithful the belief and knowledge of the true God, for they shall all know him.  
+**11** And they shall not teach every man his neighbour and every man his brother, saying: Know the Lord. For all shall know me, from the least to the greatest of them.  
 **12** Because I will be merciful to their iniquities: and their sins I will remember no more.  
 **13** Now in saying a new, he hath made the former old. And that which decayeth and groweth old is near its end.  
 
@@ -231,7 +231,7 @@ format: markdown
 **9** Which is a parable of the time present: according to which gifts and sacrifices are offered, which cannot, as to the conscience, make him perfect that serveth, only in meats and in drinks,  
 **10** And divers washings and justices of the flesh laid on them until the time of correction.  
 **11** But Christ, being come an high Priest of the good things to come, by a greater and more perfect tabernacle, not made with hand, that is, not of this creation:  
-**12** Neither by the blood of goats or of calves, but by his own blood, entered once into the Holies, having obtained eternal redemption. on the cross, Christ our Lord paid and exhibited, once for all, the general price and ransom of all mankind: which no other priest could do.  
+**12** Neither by the blood of goats or of calves, but by his own blood, entered once into the Holies, having obtained eternal redemption.  
 **13** For if the blood of goats and of oxen, and the ashes of an heifer, being sprinkled, sanctify such as are defiled, to the cleansing of the flesh:  
 **14** How much more shall the blood of Christ, who by the Holy Ghost offered himself unspotted unto God, cleanse our conscience from dead works, to serve the living God?  
 **15** And therefore he is the mediator of the new testament: that by means of his death for the redemption of those transgressions which were under the former testament, they that are called may receive the promise of eternal inheritance.  
@@ -244,17 +244,17 @@ format: markdown
 **22** And almost all things, according to the law, are cleansed with blood: and without shedding of blood there is no remission.  
 **23** It is necessary therefore that the patterns of heavenly things should be cleansed with these: but the heavenly things themselves with better sacrifices than these.  
 **24** For Jesus is not entered into the Holies made with hands, the patterns of the true: but into Heaven itself, that he may appear now in the presence of God for us.  
-**25** Nor yet that he should offer himself often, as the high priest entereth into the Holies every year with the blood of others: sacrifice, in that violent, painful, and bloody manner, nor can there be any occasion for it: since by that one sacrifice upon the cross, he has furnished the full ransom, redemption, and remedy for all the sins of the world. But this hinders not that he may offer himself daily in the sacred mysteries in an unbloody manner, for the daily application of that one sacrifice of redemption to our souls.  
+**25** Nor yet that he should offer himself often, as the high priest entereth into the Holies every year with the blood of others:  
 **26** For then he ought to have suffered often from the beginning of the world. But now once, at the end of ages, he hath appeared for the destruction of sin by the sacrifice of himself.  
 **27** And as it is appointed unto men once to die, and after this the judgment:  
-**28** So also Christ was offered once to exhaust the sins of many. The second time he shall appear without sin to them that expect him unto salvation. plentiful and perfect redemption.  
+**28** So also Christ was offered once to exhaust the sins of many. The second time he shall appear without sin to them that expect him unto salvation.  
 
 ---
 
 ## Chapter 10
 
 **1** For the law, having a shadow of the good things to come, not the very image of the things, by the selfsame sacrifices which they offer continually every year, can never make the comers thereunto perfect.  
-**2** For then they would have ceased to be offered: because the worshippers once cleansed should have no conscience of sin any longer. the intents of redemption and remission, as Christ's death is there would have been no occasion of so often repeating them: as there is no occasion for Christ's dying any more for our sins.  
+**2** For then they would have ceased to be offered: because the worshippers once cleansed should have no conscience of sin any longer.  
 **3** But in them there is made a commemoration of sins every year:  
 **4** For it is impossible that with the blood of oxen and goats sin should be taken away.  
 **5** Wherefore, when he cometh into the world he saith: Sacrifice and oblation thou wouldest not: but a body thou hast fitted to me.  
@@ -270,7 +270,7 @@ format: markdown
 **15** And the Holy Ghost also doth testify this to us. For after that he said:  
 **16** And this is the testament which I will make unto them after those days, saith the Lord. I will give my laws in their hearts and on their minds will I write them:  
 **17** And their sins and iniquities I will remember no more.  
-**18** Now, where there is a remission of these, there is no more an oblation for sin. of sins, as in baptism, there is no more occasion for a sin offering to be made for such sins already remitted; and as for sins committed afterwards, they can only be remitted in virtue of the one oblation of Christ's death.  
+**18** Now, where there is a remission of these, there is no more an oblation for sin.  
 **19** Having therefore, brethren, a confidence in the entering into the holies by the blood of Christ:  
 **20** A new and living way which he hath dedicated for us through the veil, that is to say, his flesh:  
 **21** And a high priest over the house of God:  
@@ -278,7 +278,7 @@ format: markdown
 **23** Let us hold fast the confession of our hope without wavering (for he is faithful that hath promised):  
 **24** And let us consider one another, to provoke unto charity and to good works:  
 **25** Not forsaking our assembly, as some are accustomed: but comforting one another, and so much the more as you see the day approaching.  
-**26** For if we sin wilfully after having the knowledge of the truth, there is now left no sacrifice for sins: known truth; after which, as we can not be baptized again, we can not expect to have that abundant remission of sins, which Christ purchased by his death, applied to our souls in that ample manner as it is in baptism: but we have rather all manner of reason to look for a dreadful judgment; the more because apostates from the known truth, seldom or never have the grace to return to it.  
+**26** For if we sin wilfully after having the knowledge of the truth, there is now left no sacrifice for sins:  
 **27** But a certain dreadful expectation of judgment, and the rage of a fire which shall consume the adversaries.  
 **28** A man making void the law of Moses dieth without any mercy under two or three witnesses:  
 **29** How much more, do you think he deserveth worse punishments, who hath trodden under foot the Son of God and hath esteemed the blood of the testament unclean, by which he was sanctified, and hath offered an affront to the Spirit of grace?  
@@ -312,12 +312,12 @@ format: markdown
 **13** All these died according to faith, not having received the promises but beholding them afar off and saluting them and confessing that they are pilgrims and strangers on the earth.  
 **14** For they that say these things do signify that they seek a country.  
 **15** And truly, if they had been mindful of that from whence they came out, they had doubtless, time to return.  
-**16** But now they desire a better, that is to say, a heavenly country. prepared for them a city.  
+**16** But now they desire a better, that is to say, a heavenly country. Therefore, God is not ashamed to be called their God: for he hath prepared for them a city.  
 **17** By faith Abraham, when he was tried, offered Isaac: and he that had received the promises offered up his only begotten son,  
 **18** (To whom it was said: In Isaac shalt thy seed be called:)  
-**19** Accounting that God is able to raise up even from the dead. life again.  
+**19** Accounting that God is able to raise up even from the dead. Whereupon also he received him for a parable.  
 **20** By faith also of things to come Isaac blessed Jacob and Esau.  
-**21** By faith Jacob, dying, blessed each of the sons of Joseph and adored the top of his rod. honour and veneration to the top of the rod or sceptre of Joseph, as to a figure of Christ's sceptre and kingdom, as an instance and argument of his faith. But some translators, who are no friends to this relative honour, have corrupted the text, by translating it, he worshipped, leaning upon the top of his staff; as if this circumstance of leaning upon his staff were any argument of Jacob's faith, or worthy the being thus particularly taken notice of by the Holy Ghost.  
+**21** By faith Jacob, dying, blessed each of the sons of Joseph and adored the top of his rod.  
 **22** By faith Joseph, when he was dying, made mention of the going out of the children of Israel and gave commandment concerning his bones.  
 **23** By faith Moses, when he was born, was hid three months by his parents: because they saw he was a comely babe, and they feared not the king's edict.  
 **24** By faith Moses, when he was grown up, denied himself to be the son of Pharao's daughter:  
@@ -348,7 +348,7 @@ format: markdown
 **4** For you have not yet resisted unto blood, striving against sin.  
 **5** And you have forgotten the consolation which speaketh to you, as unto children, saying: My son, neglect not the discipline of the Lord: neither be thou wearied whilst thou art rebuked by him.  
 **6** For whom the Lord loveth he chastiseth: and he scourgeth every son whom he receiveth.  
-**7** Persevere under discipline. God dealeth with you as with his sons.  
+**7** Persevere under discipline. God dealeth with you as with his sons. For what son is there whom the father doth not correct?  
 **8** But if you be without chastisement, whereof all are made partakers, then are you bastards and not sons.  
 **9** Moreover, we have had fathers of our flesh for instructors, and we reverenced them. Shall we not much more obey the Father of spirits and live?  
 **10** And they indeed for a few days, according to their own pleasure, instructed us: but he, for our profit, that we might receive his sanctification.  
@@ -358,7 +358,7 @@ format: markdown
 **14** Follow peace with all men and holiness: without which no man shall see God.  
 **15** Looking diligently, lest any man be wanting to the grace of God: lest any root of bitterness springing up do hinder and by it many be defiled:  
 **16** Lest there be any fornicator or profane person, as Esau who for one mess sold his first birthright.  
-**17** For know ye that afterwards, when he desired to inherit the benediction, he was rejected. For he found no place of repentance, although with tears he had sought it. or change his mind, with relation to his having given the blessing to his younger brother Jacob.  
+**17** For know ye that afterwards, when he desired to inherit the benediction, he was rejected. For he found no place of repentance, although with tears he had sought it.  
 **18** For you are not come to a mountain that might be touched and a burning fire and a whirlwind and darkness and storm,  
 **19** And the sound of a trumpet and the voice of words, which they that had excused themselves, that the word might not be spoken to them.  
 **20** For they did not endure that which was said: and if so much as a beast shall touch the mount, it shall be stoned.  
@@ -367,7 +367,7 @@ format: markdown
 **23** And to the church of the firstborn who are written in the heavens, and to God the judge of all, and to the spirits of the just made perfect,  
 **24** And to Jesus the mediator of the new testament, and to the sprinkling of blood which speaketh better than that of Abel.  
 **25** See that you refuse him not that speaketh. For if they escaped not who refused him that spoke upon earth, much more shall not we that turn away from him that speaketh to us from heaven.  
-**26** Whose voice then moved the earth; but now he promiseth, saying:  
+**26** Whose voice then moved the earth; but now he promiseth, saying: Yet once more: and I will move, not only the earth, but heaven also.  
 **27** And in that he saith: Yet once more, he signifieth the translation of the moveable things as made, that those things may remain which are immoveable.  
 **28** Therefore, receiving an immoveable kingdom, we have grace: whereby let us serve, pleasing God, with fear and reverence.  
 **29** For our God is a consuming fire.  
@@ -379,7 +379,7 @@ format: markdown
 **1** Let the charity of the brotherhood abide in you.  
 **2** And hospitality do not forget: for by this some, being not aware of it, have entertained angels.  
 **3** Remember them that are in bands, as if you were bound with them: and them that labour, as being yourselves also in the body.  
-**4** Marriage honourable in all, and the bed undefiled. For fornicators and adulterers God will judge. belonging to the marriage state. This is a warning to married people, not to abuse the sanctity of their state, by any liberties or irregularities contrary thereunto. Now it does not follow from this text that all persons are obliged to marry, even if the word omnibus were rendered, in all persons, instead of in all things: for if it was a precept, St. Paul himself would have transgressed it, as he never married. Moreover, those who have already made a vow to God to lead a single life, should they attempt to marry, they would incur their own damnation. 1 Tim. 5. 12.  
+**4** Marriage honourable in all, and the bed undefiled. For fornicators and adulterers God will judge.  
 **5** Let your manners be without covetousness, contented with such things as you have. For he hath said: I will not leave thee: neither will I forsake thee.  
 **6** So that we may confidently say: The Lord is my helper: I will not fear what man shall do to me.  
 **7** Remember your prelates who have spoken the word of God to you: whose faith follow, considering the end of their conversation,  
@@ -388,7 +388,7 @@ format: markdown
 **10** We have an altar whereof they have no power to eat who serve the tabernacle.  
 **11** For the bodies of those beasts whose blood is brought into the holies by the high priest for sin are burned without the camp.  
 **12** Wherefore Jesus also, that he might sanctify the people by his own blood, suffered without the gate.  
-**13** Let us go forth therefore to him without the camp, bearing his reproach. reproach... That is, bearing his cross. It is an exhortation to them to be willing to suffer with Christ, reproaches, persecutions, and even death, if they desire to partake of the benefit of his suffering for man's redemption.  
+**13** Let us go forth therefore to him without the camp, bearing his reproach.  
 **14** For, we have not here a lasting city: but we seek one that is to come.  
 **15** By him therefore let us offer the sacrifice of praise always to God, that is to say, the fruit of lips confessing to his name.  
 **16** And do not forget to do good and to impart: for by such sacrifices God's favour is obtained.  

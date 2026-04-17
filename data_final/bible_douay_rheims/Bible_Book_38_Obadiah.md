@@ -37,7 +37,7 @@ format: markdown
 **9** And thy valiant men of the south shall be afraid, that man may be cut off from the mount of Esau.  
 **10** For the slaughter, and for the iniquity against thy brother Jacob, confusion shall cover thee, and thou shalt perish for ever.  
 **11** In the day when thou stoodest against him, when strangers carried away his army captive, and foreigners entered into his gates, and cast lots upon Jerusalem: thou also wast as one of them.  
-**12** But thou shalt not look on in the day of thy brother, in the day of his leaving his country: and thou shalt not rejoice over the children of Juda, in the day of their destruction: and thou shalt not magnify thy mouth in the day of distress. reprehension for what they had done, and at the same time a declaration that these things should not pass unpunished.-Ibid. Thou shalt not magnify thy mouth... That is, thou shalt not speak arrogantly against the children of Juda as insulting them in their distress.  
+**12** But thou shalt not look on in the day of thy brother, in the day of his leaving his country: and thou shalt not rejoice over the children of Juda, in the day of their destruction: and thou shalt not magnify thy mouth in the day of distress.  
 **13** Neither shalt thou enter into the gate of my people in the day of their ruin: neither shalt thou also look on in his evils in the day of his calamity: and thou shalt not be sent out against his army in the day of his desolation.  
 **14** Neither shalt thou stand in the crossways to kill them that flee: and thou shalt not shut up them that remain of him in the day of tribulation.  
 **15** For the day of the Lord is at hand upon all nations: as thou hast done, so shall it be done to thee: he will turn thy reward upon thy own head.  

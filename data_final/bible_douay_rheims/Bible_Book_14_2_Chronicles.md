@@ -168,7 +168,7 @@ format: markdown
 **11** Now when the priests were come out of the sanctuary, for all the priests that could be found there, were sanctified: and as yet at that time the courses and orders of the ministries were not divided among them,  
 **12** Both the Levites and the singing men, that is, both they that were under Asaph, and they that were under Heman, and they that were under Idithun, with their sons, and their brethren, clothed with fine linen, sounded with cymbals, and psalteries, and harps, standing on the east side of the altar, and with them a hundred and twenty priests, sounding with trumpets.  
 **13** So when they all sounded together, both with trumpets, and voice, and cymbals, and organs, and with divers kind of musical instruments, and lifted up their voice on high: the sound was heard afar off, so that when they began to praise the Lord, and to say: Give glory to the Lord for he is good, for his mercy endureth for ever: the house of God was filled with a cloud.  
-**14** Nor could the priests stand and minister by reason of the cloud.  
+**14** Nor could the priests stand and minister by reason of the cloud. For the glory of the Lord had filled the house of God.  
 
 ---
 
@@ -191,7 +191,7 @@ format: markdown
 **15** Who hast performed to thy servant David my father all that thou hast promised him: and hast accomplished in fact, what thou hast spoken with thy mouth, as also the present time proveth.  
 **16** Now then, O Lord God of Israel, fulfil to thy servant David my father, whatsoever thou hast promised him, saying: There shall not fail thee a man in my sight, to sit upon the throne of Israel: yet so that thy children take heed to their ways, and walk in my law, as thou hast walked before me.  
 **17** And now, Lord God of Israel, let thy word be established which thou hast spoken to thy servant David.  
-**18** Is it credible then that God should dwell with men on the earth? this house, which I have built?  
+**18** Is it credible then that God should dwell with men on the earth? If heaven and the heavens of heavens do not contain thee, how much less this house, which I have built?  
 **19** But to this end only it is made, that thou mayest regard the prayer of thy servant and his supplication, O Lord my God: and mayest hear the prayers which thy servant poureth out before thee.  
 **20** That thou mayest open thy eyes upon this house day and night, upon the place wherein thou hast promised that thy name should be called upon,  
 **21** And that thou wouldst hear the prayer which thy servant prayeth in it: hearken then to the prayers of thy servant, and of thy people Israel. Whosoever shall pray in its place, hear thou from thy dwelling place, that is, from heaven, and shew mercy.  
@@ -290,7 +290,7 @@ format: markdown
 **17** The king also made a great throne of ivory, and overlaid it with pure gold.  
 **18** And six steps to go up to the throne, and a footstool of gold, and two arms one on either side, and two lions standing by the arms:  
 **19** Moreover twelve other little lions standing upon the steps on both sides: there was not such a throne in any kingdom.  
-**20** And all the vessels of the king's table were of gold, and the vessels of the house of the forest of Libanus were of the purest gold.  
+**20** And all the vessels of the king's table were of gold, and the vessels of the house of the forest of Libanus were of the purest gold. For no account was made of silver in those days.  
 **21** For the king's ships went to Tharsis with the servants of Hiram, once in three years: and they brought thence gold and silver, and ivory, and apes, and peacocks.  
 **22** And Solomon was magnified above all the kings of the earth for riches and glory.  
 **23** And all the kings of the earth desired to see the face of Solomon, that they might hear the wisdom which God had given in his heart.  
@@ -322,7 +322,7 @@ format: markdown
 **13** And the king answered roughly, leaving the counsel of the ancients.  
 **14** And he spoke according to the advice of the young men: My father laid upon you a heavy yoke, which I will make heavier: my father beat you with scourges, but I will beat you with scorpions.  
 **15** And he condescended not to the people's requests: for it was the will of God, that his word might be fulfilled which he had spoken by the hand of Ahias the Silonite to Jeroboam the son of Nabat.  
-**16** And all the people upon the king's speaking roughly, said thus unto him: We have no part in David, nor inheritance in the son of Isai. house. And Israel went away to their dwellings.  
+**16** And all the people upon the king's speaking roughly, said thus unto him: We have no part in David, nor inheritance in the son of Isai. Return to thy dwellings, O Israel, and do thou, O David feed thy own house. And Israel went away to their dwellings.  
 **17** But Roboam reigned over the children of Israel that dwelt in the cities of Juda.  
 **18** And king Roboam sent Aduram, who was over the tributes, and the children of Israel stoned him, and he died: and king Roboam made haste to get up into his chariot, and fled into Jerusalem.  
 **19** And Israel revolted from the house of David unto this day.  
@@ -381,9 +381,9 @@ format: markdown
 ## Chapter 13
 
 **1** In the eighteenth year of king Jeroboam, Abia reigned over Juda.  
-**2** Three years he reigned in Jerusalem, and his mother's name was Michaia, the daughter of Uriel of Gabaa: and there was war between Abia and Jeroboam. or Abessalom, and Uriel.  
+**2** Three years he reigned in Jerusalem, and his mother's name was Michaia, the daughter of Uriel of Gabaa: and there was war between Abia and Jeroboam.  
 **3** And when Abia had begun battle, and had with him four hundred thousand most valiant and chosen men, Jeroboam put his army in array against him, eight hundred thousand men, who were also chosen and most valiant for war.  
-**4** And Abia stood upon mount Semeron, which was in Ephraim, and said:  
+**4** And Abia stood upon mount Semeron, which was in Ephraim, and said: Hear me, O Jeroboam, and all Israel:  
 **5** Do you not know that the Lord God of Israel gave to David the kingdom over Israel for ever, to him and to his sons by a covenant of salt?  
 **6** And Jeroboam the son of Nabat, the servant of Solomon the son of David, rose up: and rebelled against his lord.  
 **7** And there were gathered to him vain men, and children of Belial: and they prevailed against Roboam the son of Solomon: for Roboam was unexperienced, and of a fearful heart, and could not resist them.  
@@ -480,7 +480,7 @@ format: markdown
 **8** And with them the Levites, Semeias, and Nathanias, and Zabadias, and Asael, and Semiramoth, and Jonathan, and Adonias, and Tobias, and Thobadonias Levites, and with them Elisama, and Joram priests.  
 **9** And they taught the people in Juda, having with them the book of the law of the Lord: and they went about all the cities of Juda, and instructed the people.  
 **10** And the fear of the Lord came upon all the kingdoms of the lands that were round about Juda, and they durst not make war against Josaphat.  
-**11** The Philistines also brought presents to Josaphat, and tribute in silver, and the Arabians brought him cattle, seven thousand seven hundred rams, and as many he-goats.  
+**11** The Philistines also brought presents to Josaphat, and tribute in silver, and the Arabians brought him cattle, seven thousand seven hundred rams, and as many he goats.  
 **12** And Josaphat grew, and became exceeding great: and he built in Juda houses like towers, and walled cities.  
 **13** And he prepared many works in the cities of Juda: and he had warriors, and valiant men in Jerusalem.  
 **14** Of whom this is the number of the houses and families of every one: in Juda captains of the army, Ednas the chief, and with him three hundred thousand most valiant men.  
@@ -501,7 +501,7 @@ format: markdown
 **5** So the king of Israel gathered together of the prophets four hundred men, and he said to them: Shall we go to Ramoth Galaad to fight, or shall we forbear? But they said: Go up, and God will deliver into the king's hand.  
 **6** And Josaphat said: Is there not here a prophet of the Lord, that we may inquire also of him?  
 **7** And the king of Israel said to Josaphat: There is one man, of whom we may ask the will of the Lord: but I hate him, for he never prophesieth good to me, but always evil: and it is Micheas the son of Jemla. And Josaphat said: Speak not thus, O king.  
-**8** And the king of Israel called one of the eunuchs, and said to him:  
+**8** And the king of Israel called one of the eunuchs, and said to him: Call quickly Micheas the son of Jemla.  
 **9** Now the king of Israel, and Josaphat king of Juda, both sat on their thrones, clothed in royal robes, and they sat in the open court by the gate of Samaria, and all the prophets prophesied before them.  
 **10** And Sedecias the son of Chanaana made him horns of iron, and said: Thus saith the Lord: With these shalt thou push Syria, till thou destroy it.  
 **11** And all the prophets prophesied in like manner, and said: Go up to Ramoth Galaad, and thou shalt prosper, and the Lord will deliver them into the king's hand.  
@@ -600,9 +600,9 @@ format: markdown
 **7** But the Lord would not destroy the house of David: because of the covenant which he had made with him: and because he had promised to give a lamp to him, and to his sons for ever.  
 **8** In those days Edom revolted, from being subject to Juda, and made themselves a king.  
 **9** And Joram went over with his princes, and all his cavalry with him, and rose in the night, and defeated the Edomites who had surrounded him, and all the captains of his cavalry.  
-**10** However Edom revolted, from being under the dominion of Juda unto this day: at that time Lobna also revolted, from being under his hand.  
+**10** However Edom revolted, from being under the dominion of Juda unto this day: at that time Lobna also revolted, from being under his hand. For he had forsaken the Lord the God of his fathers.  
 **11** Moreover he built also high places in the cities of Juda, and he made the inhabitants of Jerusalem to commit fornication, and Juda to transgress.  
-**12** And there was a letter brought him from Eliseus the prophet, in which it was written: Thus saith the Lord the God of David thy father: the ways of Asa king of Juda,  
+**12** And there was a letter brought him from Eliseus the prophet, in which it was written: Thus saith the Lord the God of David thy father: Because thou hast not walked in the ways of Josaphat thy father nor in the ways of Asa king of Juda,  
 **13** But hast walked in the ways of the kings of Israel, and hast made Juda and the inhabitants of Jerusalem to commit fornication, imitating the fornication of the house of Achab, moreover also thou hast killed thy brethren, the house of thy father, better men than thyself,  
 **14** Behold the Lord will strike thee with a great plague, with all thy people, and thy children, and thy wives, and all thy substance.  
 **15** And thou shalt be sick of a very grievous disease of thy bowels, till thy vital parts come out by little and little every day.  
@@ -637,7 +637,7 @@ format: markdown
 **2** And they went about Juda, and gathered together the Levites out of all the cities of Juda, and the chiefs of the families of Israel, and they came to Jerusalem.  
 **3** And all the multitude made a covenant with the king in the house of God: and Joiada said to them: Behold the king's son shall reign, as the Lord hath said of the sons of David.  
 **4** And this is the thing that you shall do:  
-**5** A third part of you that come to the sabbath, of the priests, and of the Levites, and of the porters shall be at the gates: and a third part at the king's house: and a third at the gate that is called the Foundation: but let all the rest of the people be in the courts of the house of the Lord. your office, or the weekly watches.  
+**5** A third part of you that come to the sabbath, of the priests, and of the Levites, and of the porters shall be at the gates: and a third part at the king's house: and a third at the gate that is called the Foundation: but let all the rest of the people be in the courts of the house of the Lord.  
 **6** And let no one come into the house of the Lord, but the priests, and they that minister of the Levites: let them only come in, because they are sanctified: and let all the rest of the people keep the watches of the Lord.  
 **7** And let the Levites be round about the king, every man with his arms; and if any other come into the temple, let him be slain; and let them be with the king, both coming in, and going out.  
 **8** So the Levites, and all Juda did according to all that Joiada the high priest had commanded: and they took every one his men that were under him, and that came in by the course of the sabbath, with those who had fulfilled the sabbath, and were to go out. For Joiada the high priest permitted not the companies to depart, which were accustomed to succeed one another every week.  
@@ -646,7 +646,7 @@ format: markdown
 **11** And they brought out the king's son, and put the crown upon him, and the testimony, and gave him the law to hold in his hand, and they made him king: and Joiada the high priest and his sons anointed him: and they prayed for him, and said: God save the king.  
 **12** Now when Athalia heard the noise of the people running and praising the king, she came in to the people, into the temple of the Lord.  
 **13** And when she saw the king standing upon the step in the entrance, and the princes, and the companies about him, and all the people of the land rejoicing, and sounding with trumpets, and playing on instruments of divers kinds, and the voice of those that praised, she rent her garments, and said: Treason, treason.  
-**14** And Joiada the high priest going out to the captains, and the chiefs of the army, said to them: Take her forth without the precinct of the temple, and when she is without let her be killed with the sword. the Lord.  
+**14** And Joiada the high priest going out to the captains, and the chiefs of the army, said to them: Take her forth without the precinct of the temple, and when she is without let her be killed with the sword. For the priest commanded that she should not be killed in the house of the Lord.  
 **15** And they laid hold on her by the neck: and when she was come within the horse gate of the palace, they killed her there.  
 **16** And Joiada made a covenant between himself and all the people, and the king, that they should be the people of the lord.  
 **17** And all the people went into the house of Baal, and destroyed it: and they broke down his altars and his idols: and they slew Mathan the priest of Baal before the altars.  
@@ -663,7 +663,7 @@ format: markdown
 **2** And he did that which is good before the Lord all the days of Joiada the priest.  
 **3** And Joiada took for him two wives, by whom he had sons and daughters.  
 **4** After this Joas had a mind to repair the house of the Lord.  
-**5** And he assembled the priests, and the Levites, and said to them: the temple of your God, from year to year: and do this with speed: but the Levites were negligent.  
+**5** And he assembled the priests, and the Levites, and said to them: Go out to the cities of Juda, and gather of all Israel money to repair the temple of your God, from year to year: and do this with speed: but the Levites were negligent.  
 **6** And the king called Joiada the chief, and said to him: Why hast thou not taken care to oblige the Levites to bring in out of Juda and Jerusalem the money that was appointed by Moses the servant of the Lord for all the multitude of Israel to bring into the tabernacle of the testimony?  
 **7** For that wicked woman Athalia, and her children have destroyed the house of God, and adorned the temple of Baal with all the things that had been dedicated in the temple of the Lord.  
 **8** And the king commanded, and they made a chest: and set it by the gate of the house of the Lord on the outside.  
@@ -680,7 +680,7 @@ format: markdown
 **19** And he sent prophets to them to bring them back to the Lord, and they would not give ear when they testified against them.  
 **20** The spirit of God then came upon Zacharias the son of Joiada the priest, and he stood in the sight of the people, and said to them: Thus saith the Lord God: Why transgress you the commandment of the Lord which will not be for your good, and have forsaken the Lord, to make him forsake you?  
 **21** And they gathered themselves together against him, and stoned him at the king's commandment in the court of the house of the Lord.  
-**22** And king Joas did not remember the kindness that Joiada his father had done to him, but killed his son. And when he died, he said:  
+**22** And king Joas did not remember the kindness that Joiada his father had done to him, but killed his son. And when he died, he said: The Lord see, and require it.  
 **23** And when a year was come about, the army of Syria came up against him: and they came to Juda and Jerusalem, and killed all the princes of the people, and they sent all the spoils to the king of Damascus.  
 **24** And whereas there came a very small number of the Syrians, the Lord delivered into their hands an infinite multitude, because they had forsaken the Lord the God of their fathers: and on Joas they executed shameful judgments.  
 **25** And departing they left him in great diseases: and his servants rose up against him, for revenge of the blood of the son of Joiada the priest, and they slew him in his bed, and he died: and they buried him in the city of David, but not in the sepulchres of the kings.  
@@ -784,7 +784,7 @@ format: markdown
 **16** At that time king Achaz sent to the king of the Assyrians asking help.  
 **17** And the Edomites came and slew many of Juda, and took a great booty.  
 **18** The Philistines also spread themselves among the cities of the plains, and to the south of Juda: and they took Bethsames, and Aialon, and Gaderoth, and Socho, and Thamnan, and Gamzo, with their villages, and they dwelt in them.  
-**19** For the Lord had humbled Juda because of Achaz the king of Juda, for he had stripped it of help, and had contemned the Lord. idolatry.  
+**19** For the Lord had humbled Juda because of Achaz the king of Juda, for he had stripped it of help, and had contemned the Lord.  
 **20** And he brought against him Thelgathphalnasar king of the Assyrians, who also afflicted him, and plundered him without any resistance.  
 **21** And Achaz stripped the house of the Lord, and the house of the kings, and of the princes, and gave gifts to the king of the Assyrians, and yet it availed him nothing.  
 **22** Moreover also in the time of his distress he increased contempt against the Lord: king Achaz himself by himself,  
@@ -818,9 +818,9 @@ format: markdown
 **18** And they went in to king Ezechias, and said to him: We have sanctified all the house of the Lord, and the altar of holocaust, and the vessels thereof, and the table of proposition with all its vessels,  
 **19** And all the furniture of the temple, which king Achaz in his reign had defiled, after his transgression; and behold they are all set forth before the altar of the Lord.  
 **20** And king Ezechias rising early, assembled all the rulers of the city, and went up into the house of the Lord:  
-**21** And they offered together seven bullocks, and seven rams, and seven lambs, and seven he-goats for sin, for the kingdom, for the sanctuary, for Juda: and he spoke to the priests the sons of Aaron, to offer them upon the altar of the Lord.  
+**21** And they offered together seven bullocks, and seven rams, and seven lambs, and seven he goats for sin, for the kingdom, for the sanctuary, for Juda: and he spoke to the priests the sons of Aaron, to offer them upon the altar of the Lord.  
 **22** Therefore they killed the bullocks, and the priests took the blood, and poured it upon the altar; they killed also the rams, and their blood they poured also upon the altar, and they killed the lambs, and poured the blood upon the altar.  
-**23** And they brought the he-goats for sin before the king, and the whole multitude, and they laid their hand upon them:  
+**23** And they brought the he goats for sin before the king, and the whole multitude, and they laid their hand upon them:  
 **24** And the priests immolated them, and sprinkled their blood before the altar for an expiation of all Israel: for the king had commanded that the holocaust and the sin offering should be made for all Israel.  
 **25** And he set the Levites in the house of the Lord with cymbals, and psalteries, and harps according to the regulation of David the king, and of Gad the seer, and of Nathan the prophet: for it was the commandment of the Lord by the hand of his prophets.  
 **26** And the Levites stood, with the instruments of David, and the priests with trumpets.  
@@ -897,39 +897,27 @@ format: markdown
 
 ## Chapter 32
 
-**1** After these things, and this truth, Sennacherib king of the Assyrians came and entered into Juda, and besieged the fenced cities, desiring to take them.  
-**2** And when Ezechias saw that Sennacherib was come, and that the whole force of the war was turning against Jerusalem,  
-**3** He took counsel with the princes, and the most valiant men, to stop up the heads of the springs, that were without the city: and as they were all of this mind,  
-**4** He gathered together a very great multitude, and they stopped up all the springs, and the brook, that ran through the midst of the land, saying: Lest the kings of the Assyrians should come, and find abundance of water.  
-**5** He built up also with great diligence all the wall that had been broken down, and built towers upon it, and another wall without: and he repaired Mello in the city of David, and made all sorts of arms and shields:  
-**6** And he appointed captains of the soldiers of the army: and he called them all together in the street of the gate of the city, and spoke to their heart, saying:  
-**7** Behave like men, and take courage: be not afraid nor dismayed for the king of the Assyrians, nor for all the multitude that is with him: for there are many more with us than with him.  
-**8** For with him is an arm of flesh: with us the Lord our God, who is our helper, and fighteth for us. And the people were encouraged with these words of Ezechias king of Juda.  
-**9** After this, Sennacherib king of the Assyrians sent his servants to Jerusalem, (for he with all his army was besieging Lachis,) to Ezechias king of Juda, and to all the people that were in the city, saying:  
-**10** Thus saith Sennacherib king of the Assyrians: In whom do you trust, that you sit still besieged in Jerusalem?  
-**11** Doth not Ezechias deceive you, to give you up to die by hunger and thirst, affirming that the Lord your God shall deliver you from the hand of the king of the Assyrians?  
-**12** Is it not this same Ezechias, that hath destroyed his high places, and his altars, and commanded Juda and Jerusalem, saying: You shall worship before one altar, and upon it you shall burn incense?  
-**13** Know you not what I and my fathers have done to all the people of the lands? have the gods of any nations and lands been able to deliver their country out of my hand?  
-**14** Who is there among all the gods of the nations, which my fathers have destroyed, that could deliver his people out of my hand, that your God should be able to deliver you out of this hand?  
-**15** Therefore let not Ezechias deceive you, nor delude you with a vain persuasion, and do not believe him. For if no god of all the nations and kingdoms, could deliver his people out of my hand, and out of the hand of my fathers, consequently neither shall your God be able to deliver you out of my hand.  
-**16** And many other things did his servants speak against the Lord God, and against Ezechias his servant.  
-**17** He wrote also letters full of blasphemy against the Lord the God of Israel, and he spoke against him: As the gods of other nations could not deliver their people out of my hand, so neither can the God of Ezechias deliver his people out of this hand.  
-**18** Moreover he cried out with a loud voice, in the Jews' tongue, to the people that sat on the walls of Jerusalem, that he might frighten them, and take the city.  
-**19** And he spoke against the God of Jerusalem, as against the gods of the people of the earth, the works of the hands of men.  
-**20** And Ezechias the king, and Isaias the prophet the son of Amos, prayed against this blasphemy, and cried out to heaven.  
-**21** And the Lord sent an angel, who cut off all the stout men and the warriors, and the captains of the army of the king of the Assyrians: and he returned with disgrace into his own country. And when he was come into the house of his god, his sons that came out of his bowels, slew him with the sword.  
-**22** And the Lord saved Ezechias and the inhabitants of Jerusalem, out of the hand of Sennacherib king of the Assyrians, and out of the hand of all, and gave them treasures on every side.  
-**23** Many also brought victims, and sacrifices to the Lord to Jerusalem, and presents to Ezechias king of Juda: and he was magnified thenceforth in the sight of all nations.  
-**24** In those days Ezechias was sick even to death, and he prayed to the Lord: and he heard him, and gave him a sign.  
-**25** But he did not render again according to the benefits which he had received, for his heart was lifted up: and wrath was enkindled against him, and against Juda and Jerusalem.  
-**26** And he humbled himself afterwards, because his heart had been lifted up, both he and the inhabitants of Jerusalem: and therefore the wrath of the Lord came not upon them in the days of Ezechias.  
-**27** And Ezechias was rich, and very glorious, and he gathered himself great treasures of silver and of gold, and of precious stones, of spices, and of arms, of all kinds, and of vessels of great price.  
-**28** Storehouses also of corn, of wine, and of oil, and stalls for all beasts, and folds for cattle.  
-**29** And he built himself cities: for he had flocks of sheep, and herds without number, for the Lord had given him very much substance.  
-**30** This same Ezechias was, he that stopped the upper source of the waters of Gihon, and turned them away underneath toward the west of the city of David: in all his works he did prosperously what he would.  
-**31** But yet in the embassy of the princes of Babylon, that were sent to him, to inquire of the wonder that had happened upon the earth, God left him that he might be tempted, and all things might be made known that were in his heart.  
-**32** Now the rest of the acts of Ezechias, and of his mercies are written in the book of the kings of Juda and Israel.  
-**33** And Ezechias slept with his fathers, and they buried him above the sepulchres of the sons of David: and all Juda, and all the inhabitants of Jerusalem celebrated his funeral: and Manasses his son reigned in his stead.  
+**1** And when these things had been duly celebrated, all Israel that were found in the cities of Juda, went out, and they broke the idols, and cut down the groves, demolished the high places, and destroyed the altars, not only out of all Juda and Benjamin, but out of Ephraim also and Manasses, till they had utterly destroyed them: then all the children of Israel returned to their possessions and cities.  
+**2** And Ezechias appointed companies of the priests, and the Levites, by their courses, every man in his own office, to wit, both of the priests, and of the Levites, for holocausts, and for peace offerings, to minister, and to praise, and to sing in the gates of the camp of the Lord.  
+**3** And the king's part was, that of his proper substance the holocaust should be offered always morning and evening, and on the sabbaths, and the new moons and the other solemnities, as it is written in the law of Moses.  
+**4** He commanded also the people that dwelt in Jerusalem, to give to the priests, and the Levites their portion, that they might attend to the law of the Lord.  
+**5** Which when it was noised abroad in the ears of the people, the children of Israel offered in abundance the firstfruits of corn, wine, and oil, and honey: and brought the tithe of all things which the ground bringeth forth.  
+**6** Moreover the children of Israel and Juda, that dwelt in the cities of Juda, brought in the tithes of oxen, and sheep, and the tithes of holy things, which they had vowed to the Lord their God: and carrying them all, made many heaps.  
+**7** In the third month they began to lay the foundations of the heaps, and in the seventh month, they finished them.  
+**8** And when Ezechias and his princes came in, they saw the heaps, and they blessed the Lord and the people of Israel.  
+**9** And Ezechias asked the priests and the Levites, why the heaps lay so.  
+**10** Azarias the chief priest of the race of Sadoc answered him, saying: Since the firstfruits began to be offered in the house of the Lord, we have eaten, and have been filled, and abundance is left, because the Lord hath blessed his people: and of that which is left is this great store which thou seest.  
+**11** Then Ezechias commanded to prepare storehouses in the house of the Lord. And when they had done so,  
+**12** They brought in faithfully both the firstfruits, and the tithes, and all they had vowed. And the overseer of them was Chonenias the Levite, and Semei his brother was the second,  
+**13** And after him Jehiel, and Azarias, and Nahath, and Asael, and Jerimoth, and Jozabad, and Eliel, and Jesmachias, and Mahath, and Banaias, overseers under the hand of Chonenias, and Semei his brother, by the commandment of Ezechias the king, and Azarias the high priest of the house of God, to whom all things appertained.  
+**14** But Core the son of Jemna the Levite, the porter of the east gate, was overseer of the things which were freely offered to the Lord, and of the firstfruits and the things dedicated for the holy of holies.  
+**15** And under his charge were Eden, and Benjamin, Jesue, and Semeias, and Amarias, and Sechenias, in the cities of the priests, to distribute faithfully portions to their brethren, both little and great:  
+**16** Besides the males from three years old and upward, to all that went into the temple of the Lord, and whatsoever there was need of in the ministry, and their offices according to their courses, day by day.  
+**17** To the priests by their families, and to the Levites from the twentieth year and upward, by their classes and companies.  
+**18** And to all the multitude, both to their wives, and to their children of both sexes, victuals were given faithfully out of the things that had been sanctified.  
+**19** Also of the sons of Aaron who were in the fields and in the suburbs of each city, there were men appointed, to distribute portions to all the males, among the priests and the Levites.  
+**20** So Ezechias did all things which we have said in all Juda, and wrought that which was good, and right, and truth, before the Lord his God,  
+**21** In all the service of the house of the Lord according to the law and the ceremonies, desiring to seek his God with all his heart, and he did it and prospered.  
 
 ---
 
@@ -987,10 +975,10 @@ format: markdown
 **20** And he commanded Helcias, and Ahicam the son of Saphan, and Abdon the son of Micha, and Saphan the scribe, and Asaa the king's servant, saying:  
 **21** Go, and pray to the Lord for me, and for the remnant of Israel, and Juda, concerning all the words of this book, which is found: for the great wrath of the Lord hath fallen upon us, because our fathers have not kept the words of the Lord, to do all things that are written in this book.  
 **22** And Helcias and they that were sent with him by the king, went to Olda the prophetess, the wife of Sellum the son of Thecuath, the son of Hasra keeper of the wardrobe: who dwelt in Jerusalem in the Second part: and they spoke to her the words above mentioned.  
-**23** And she answered them: Thus saith the Lord the God of Israel:  
+**23** And she answered them: Thus saith the Lord the God of Israel: Tell the man that sent you to me:  
 **24** Thus saith the Lord: Behold I will bring evils upon this place, and upon the inhabitants thereof, and all the curses that are written in this book which they read before the king of Juda.  
 **25** Because they have forsaken me, and have sacrificed to strange gods, to provoke me to wrath with all the works of their hands, therefore my wrath shall fail upon this place, and shall not be quenched.  
-**26** But as to the king of Juda that sent you to beseech the Lord, thus shall you say to him: Thus saith the Lord the God of Israel:  
+**26** But as to the king of Juda that sent you to beseech the Lord, thus shall you say to him: Thus saith the Lord the God of Israel: Because thou hast heard the words of this book,  
 **27** And thy heart was softened, and thou hast humbled thyself in the sight of God for the things that are spoken against this place, and the inhabitants of Jerusalem, and reverencing my face, hast rent thy garments, and wept before me: I also have heard thee, saith the Lord.  
 **28** For now I will gather thee to thy fathers, and thou shalt be brought to thy tomb in peace: and thy eyes shall not see all the evil that I will bring upon this place, and the inhabitants thereof. They therefore reported to the king all that she had said.  
 **29** And he called together all the ancients of Juda and Jerusalem.  
@@ -1043,7 +1031,7 @@ format: markdown
 **6** Against him came up Nabuchodonosor king of the Chaldeans, and led him bound in chains into Babylon.  
 **7** And he carried also thither the vessels of the Lord, and put them in his temple.  
 **8** But the rest of the acts of Joakim, and his abominations, which he wrought, and the things that were found in him, are contained in the book of the kings of Juda and Israel. And Joachin his son reigned in his stead.  
-**9** Joachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem, and he did evil in the sight of the Lord. he was but eight years old; but after his father's death, when he reigned alone, he was eighteen years old. 4 Kings 24.8.  
+**9** Joachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem, and he did evil in the sight of the Lord.  
 **10** And at the return of the year, king Nabuchodonosor sent, and brought him to Babylon, carrying away at the same time the most precious vessels of the house of the Lord: and he made Sedecias his uncle king over Juda and Jerusalem.  
 **11** Sedecias was one and twenty years old when he began to reign: and he reigned eleven years in Jerusalem.  
 **12** And he did evil in the eyes of the Lord his God, and did not reverence the face of Jeremias the prophet speaking to him from the mouth of the Lord.  

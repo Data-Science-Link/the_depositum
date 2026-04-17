@@ -67,13 +67,13 @@ format: markdown
 **6** And hath raised us up together and hath made us sit together in the heavenly places, through Christ Jesus.  
 **7** That he might shew in the ages to come the abundant riches of his grace, in his bounty towards us in Christ Jesus.  
 **8** For by grace you are saved through faith: and that not of yourselves, for it is the gift of God.  
-**9** Not of works, that no man may glory. grace of God.  
+**9** Not of works, that no man may glory.  
 **10** For we are his workmanship, created in Christ Jesus in good works, which God hath prepared that we should walk in them.  
 **11** For which cause be mindful that you, being heretofore gentiles is the flesh, who are called uncircumcision by that which is called circumcision in the flesh, made by hands:  
 **12** That you were at that time without Christ, being aliens from the conversation of Israel and strangers to the testament, having no hope of the promise and without God in this world.  
 **13** But now in Christ Jesus, you, who some time were afar off, are made nigh by the blood of Christ.  
 **14** For he is our peace, who hath made both one, and breaking down the middle wall of partition, the enmities in his flesh:  
-**15** Making void the law of commandments contained in decrees: that he might make the two in himself into one new man, making peace.  
+**15** Making void the law of commandments contained in decrees: that he might make the two in himself into one new man, making peace,  
 **16** And might reconcile both to God in one body by the cross, killing the enmities in himself.  
 **17** And coming, he preached peace to you that were afar off: and peace to them that were nigh.  
 **18** For by him we have access both in one Spirit to the Father.  
@@ -100,7 +100,7 @@ format: markdown
 **12** In whom we have boldness and access with confidence by the faith of him.  
 **13** Wherefore I pray you not to faint at my tribulations for you, which is your glory.  
 **14** For this cause I bow my knees to the Father of our Lord Jesus Christ,  
-**15** Of whom all paternity in heaven and earth is named: and men; whosoever besides is named father, is so named with subordination to him.  
+**15** Of whom all paternity in heaven and earth is named:  
 **16** That he would grant you, according to the riches of his glory, to be strengthened by his Spirit with might unto the inward man:  
 **17** That Christ may dwell by faith in your hearts: that, being rooted and founded in charity,  
 **18** You may be able to comprehend, with all the saints, what is the breadth and length and height and depth,  
@@ -122,7 +122,7 @@ format: markdown
 **8** Wherefore he saith: Ascending on high, he led captivity captive: he gave gifts to men.  
 **9** Now that he ascended, what is it, but because he also descended first into the lower parts of the earth?  
 **10** He that descended is the same also that ascended above all the heavens: that he might fill all things.  
-**11** And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors: expressed, that Christ has left in his church a perpetual succession of orthodox pastors and teachers, to preserve the faithful in unity and truth.  
+**11** And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors:  
 **12** For the perfecting of the saints, for the word of the ministry, for the edifying of the body of Christ:  
 **13** Until we all meet into the unity of faith and of the knowledge of the Son of God, unto a perfect man, unto the measure of the age of the fulness of Christ:  
 **14** That henceforth we be no more children tossed to and fro and carried about with every wind of doctrine, by the wickedness of men, by cunning craftiness by which they lie in wait to deceive.  
@@ -172,7 +172,7 @@ format: markdown
 **21** Being subject one to another, in the fear of Christ.  
 **22** Let women be subject to their husbands, as to the Lord:  
 **23** Because the husband is the head of the wife, as Christ is the head of the church. He is the saviour of his body.  
-**24** Therefore as the church is subject to Christ: so also let the wives be to their husbands in all things. remain faithful to him, unspotted and unchanged to the end of the world.  
+**24** Therefore as the church is subject to Christ: so also let the wives be to their husbands in all things.  
 **25** Husbands, love your wives, as Christ also loved the church and delivered himself up for it:  
 **26** That he might sanctify it, cleansing it by the laver of water in the word of life:  
 **27** That he might present it to himself, a glorious church, not having spot or wrinkle or any such thing; but that it should be holy and without blemish.  
@@ -195,10 +195,10 @@ format: markdown
 **6** Not serving to the eye, as it were pleasing men: but, as the servants of Christ, doing the will of God from the heart.  
 **7** With a good will serving, as to the Lord, and not to men.  
 **8** Knowing that whatsoever good thing any man shall do, the same shall he receive from the Lord, whether he be bond or free.  
-**9** And you, masters, do the same things to them, forbearing threatenings: knowing that the Lord both of them and you is in heaven.  
+**9** And you, masters, do the same things to them, forbearing threatenings: knowing that the Lord both of them and you is in heaven. And there is no respect of persons with him.  
 **10** Finally, brethren, be strengthened in the Lord and in the might of his power.  
 **11** Put you on the armour of God, that you may be able to stand against the deceits of the devil.  
-**12** For our wrestling is not against flesh and blood; but against principalities and powers, against the rulers of the world of this darkness, against the spirits of wickedness in the high places. lowest of the celestial regions; in which God permits these wicked spirits or fallen angels to wander.  
+**12** For our wrestling is not against flesh and blood; but against principalities and powers, against the rulers of the world of this darkness, against the spirits of wickedness in the high places.  
 **13** Therefore, take unto you the armour of God, that you may be able to resist in the evil day and to stand in all things perfect.  
 **14** Stand therefore, having your loins girt about with truth and having on the breastplate of justice:  
 **15** And your feet shod with the preparation of the gospel of peace.  

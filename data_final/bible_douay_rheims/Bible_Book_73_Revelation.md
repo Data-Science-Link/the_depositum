@@ -47,20 +47,20 @@ format: markdown
 
 ## Chapter 1
 
-**1** The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John, The things which must shortly come... and again it is said, ver. 3, The time is at hand... This can not be meant of all the things prophesied in the Apocalypse, where mention is made also of the day of judgment, and of the glory of heaven at the end of the world. That some things were to come to pass shortly, is evident, by what is said to the Seven Churches, chap. 2 and 3, Or that the persecutions foretold should begin shortly. coming of Christ, we are now in the last age or last hour. See 1 John 2.18.  
+**1** The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John, The things which must shortly come... and again it is said, ver. 3, The time is at hand... This can not be meant of all the things prophesied in the Apocalypse, where mention is made also of the day of judgment, and of the glory of heaven at the end of the world. That some things were to come to pass shortly, is evident, by what is said to the Seven Churches, chap. 2 and 3, Or that the persecutions foretold should begin shortly. Or that these words signified, that all time is short, and that from the coming of Christ, we are now in the last age or last hour. See 1 John 2.18.  
 **2** Who hath given testimony to the word of God and the testimony of Jesus Christ, what things soever he hath seen.  
 **3** Blessed is he that readeth and heareth the words of this prophecy: and keepeth those things which are written in it. For the time is at hand.  
 **4** John to the seven churches which are in Asia. Grace be unto you and peace, from him that is and that was and that is to come: and from the seven spirits which are before his throne:  
 **5** And from Jesus Christ, who is the faithful witness, the first begotten of the dead and the prince of the kings of the earth, who hath loved us and washed us from our sins in his own blood,  
 **6** And hath made us a kingdom, and priests to God and his Father. To him be glory and empire for ever and ever. Amen.  
 **7** Behold, he cometh with the clouds, and every eye shall see him: and they also that pierced him. And all the tribes of the earth shall bewail themselves because of him. Even so. Amen.  
-**8** I am Alpha and Omega, the beginning and the end, saith the Lord God, who is and who was and who is to come, the Almighty. letters of the Greek alphabet, and signify the same as what follows: The beginning and the end: the first cause and last end of all beings: who is, and who was, and who is to come, the Almighty... These words signify the true God only, and are here applied to our Lord and Saviour Jesus Christ, who is to come again to judge the living and the dead.  
+**8** I am Alpha and Omega, the beginning and the end, saith the Lord God, who is and who was and who is to come, the Almighty.  
 **9** I, John, your brother and your partner in tribulation and in the kingdom and patience in Christ Jesus, was in the island which is called Patmos, for the word of God and for the testimony of Jesus.  
 **10** I was in the spirit on the Lord's day and heard behind me a great voice, as of a trumpet,  
 **11** Saying: What thou seest, write in a book and send to the seven churches which are in Asia: to Ephesus and to Smyrna and to Pergamus and to Thyatira and to Sardis and to Philadelphia and to Laodicea.  
 **12** And I turned to see the voice that spoke with me. And being turned, I saw seven golden candlesticks:  
 **13** And in the midst of the seven golden candlesticks, one like to the Son of man, clothed with a garment down to the feet, and girt about the paps with a golden girdle.  
-**14** And his head and his hairs were white as white wool and as snow.  
+**14** And his head and his hairs were white as white wool and as snow. And his eyes were as a flame of fire:  
 **15** And his feet like unto fine brass, as in a burning furnace. And his voice as the sound of many waters.  
 **16** And he had in his right hand seven stars. And from his mouth came out a sharp two-edged sword. And his face was as the sun shineth in his power.  
 **17** And when I had seen him, I fell at his feet as dead. And he laid his right hand upon me, saying: Fear not. I am the First and the Last,  
@@ -97,7 +97,7 @@ format: markdown
 **23** And I will kill her children with death: and all the churches shall know that I am he that searcheth the reins and hearts. And I will give to every one of you according to your works. But to you I say,  
 **24** And to the rest who are at Thyatira: Whosoever have not this doctrine and who have not known the depths of Satan, as they say: I will not put upon you any other burthen.  
 **25** Yet that which you have, hold fast till I come.  
-**26** And he that shall overcome and keep my words unto the end, I will give him power over the nations. nations and provinces, as patrons; and shall come with him at the end of the world to execute his will against those who have not kept his commandments.  
+**26** And he that shall overcome and keep my words unto the end, I will give him power over the nations.  
 **27** And he shall rule them with a rod of iron: and as the vessel of a potter they shall be broken:  
 **28** As I also have received of my Father. And I will give him the morning star.  
 **29** He that hath an ear, let him hear what the Spirit saith to the churches.  
@@ -119,7 +119,7 @@ format: markdown
 **11** Behold, I come quickly: hold fast that which thou hast, that no man take thy crown.  
 **12** He that shall overcome, I will make him a pillar in the temple of my God: and he shall go out no more. And I will write upon him the name of my God and the name of the city of my God, the new Jerusalem, which cometh down out of heaven from my God, and my new name.  
 **13** He that hath an ear, let him hear what the Spirit saith to the churches.  
-**14** And to the angel of the church of Laodicea write: These things saith the Amen, the faithful and true witness, who is the beginning of the creation of God: of God. The beginning,`Ã¯ 'Ã pxÃ¯... that is, the principle, the source, and the efficient cause of the whole creation.  
+**14** And to the angel of the church of Laodicea write: These things saith the Amen, the faithful and true witness, who is the beginning of the creation of God:  
 **15** I know thy works, that thou art neither cold nor hot. I would thou wert cold or hot.  
 **16** But because thou art lukewarm and neither cold nor hot, I will begin to vomit thee out of my mouth.  
 **17** Because thou sayest: I am rich and made wealthy and have need of nothing: and knowest not that thou art wretched and miserable and poor and blind and naked.  
@@ -133,11 +133,11 @@ format: markdown
 
 ## Chapter 4
 
-**1** After these things I looked, and behold a door was opened in heaven, and the first voice which I heard, as it were, of a trumpet speaking with me, said: Come up hither, and I will shew thee the things which must be done hereafter.  
+**1** Aftengs which must be done hereafter.  
 **2** And immediately I was in the spirit. And behold, there was a throne set in heaven, and upon the throne one sitting.  
 **3** And he that sat was to the sight like the jasper and the sardine stone. And there was a rainbow round about the throne, in sight like unto an emerald.  
 **4** And round about the throne were four and twenty seats: and upon the seats, four and twenty ancients sitting, clothed in white garments. And on their heads were crowns of gold.  
-**5** And from the throne proceeded lightnings and voices and thunders. seven Spirits of God.  
+**5** And from the throne proceeded lightnings and voices and thunders. And there were seven lamps burning before the throne, which are the seven Spirits of God.  
 **6** And in the sight of the throne was, as it were, a sea of glass like to crystal: and in the midst of the throne, and round about the throne, were four living creatures, full of eyes before and behind.  
 **7** And the first living creature was like a lion: and the second living creature like a calf: and the third living creature, having the face, as it were, of a man: and the fourth living creature was like an eagle flying.  
 **8** And the four living creatures had each of them six wings: and round about and within they are full of eyes. And they rested not day and night, saying: Holy, Holy, Holy, Lord God Almighty, who was and who is and who is to come.  
@@ -156,7 +156,7 @@ format: markdown
 **5** And one of the ancients said to me: Weep not: behold the lion of the tribe of Juda, the root of David, hath prevailed to open the book and to loose the seven seals thereof.  
 **6** And I saw: and behold in the midst of the throne and of the four living creatures and in the midst of the ancients, a Lamb standing, as it were slain, having seven horns and seven eyes: which are the seven Spirits of God, sent forth into all the earth.  
 **7** And he came and took the book out of the right hand of him that sat on the throne.  
-**8** And when he had opened the book, the four living creatures and the four and twenty ancients fell down before the Lamb, having every one of them harps and golden vials full of odours, which are the prayers of saints. to Christ the prayers of the faithful upon earth.  
+**8** And when he had opened the book, the four living creatures and the four and twenty ancients fell down before the Lamb, having every one of them harps and golden vials full of odours, which are the prayers of saints.  
 **9** And they sung a new canticle, saying: Thou art worthy, O Lord, to take the book and to open the seals thereof: because thou wast slain and hast redeemed us to God, in thy blood, out of every tribe and tongue and people and nation:  
 **10** And hast made us to our God a kingdom and priests, and we shall reign on the earth.  
 **11** And I beheld, and I heard the voice of many angels round about the throne and the living creatures and the ancients (and the number of them was thousands of thousands),  
@@ -169,15 +169,15 @@ format: markdown
 ## Chapter 6
 
 **1** And I saw that the Lamb had opened one of the seven seals: and I heard one of the four living creatures, as it were the voice of thunder, saying: Come and see.  
-**2** And I saw: and behold a white horse, and he that sat on him had a bow, and there was a crown given him, and he went forth conquering that he might conquer. to subdue the world by his gospel. The other horses that follow represent the judgments and punishment that were to fall on the enemies of Christ and his church. The red horse signifies war; the black horse, famine; and the pale horse (which has Death for its rider), plagues or pestilence.  
+**2** And I saw: and behold a white horse, and he that sat on him had a bow, and there was a crown given him, and he went forth conquering that he might conquer.  
 **3** And when he had opened the second seal, I heard the second living creature saying: Come and see.  
 **4** And there went out another horse that was red. And to him that sat thereon, it was given that he should take peace from the earth: and that they should kill one another. And a great sword was given to him.  
 **5** And when he had opened the third seal, I heard the third living creature saying: Come and see. And behold a black horse. And he that sat on him had a pair of scales in his hand.  
 **6** And I heard, as it were a voice in the midst of the four living creatures, saying: Two pounds of wheat for a penny, and thrice two pounds of barley for a penny: and see thou hurt not the wine and the oil.  
 **7** And when he had opened the fourth seal, I heard the voice of the fourth living creature saying: Come and see.  
 **8** And behold a pale horse: and he that sat upon him, his name was Death. And hell followed him. And power was given to him over the four parts of the earth, to kill with sword, with famine and with death and with the beasts of the earth.  
-**9** And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God and for the testimony which they held. of the martyrs live in heaven, as their bodies are here deposited under our altars.  
-**10** And they cried with a loud voice, saying: How long, O Lord (Holy and True), dost thou not judge and revenge our blood on them that dwell on the earth? but out of zeal for the glory of God, and a desire that the Lord would accelerate the general judgment, and the complete beatitude of all his elect.  
+**9** And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God and for the testimony which they held.  
+**10** And they cried with a loud voice, saying: How long, O Lord (Holy and True), dost thou not judge and revenge our blood on them that dwell on the earth?  
 **11** And white robes were given to every one of them one; And it was said to them that they should rest for a little time till their fellow servants and their brethren, who are to be slain even as they, should be filled up.  
 **12** And I saw, when he had opened the sixth seal: and behold there was a great earthquake. And the sun became black as sackcloth of hair: and the whole moon became as blood.  
 **13** And the stars from heaven fell upon the earth, as the fig tree casteth its green figs when it is shaken by a great wind.  
@@ -230,9 +230,9 @@ format: markdown
 
 ## Chapter 9
 
-**1** And the fifth angel sounded the trumpet: and I saw a star fall from heaven upon the earth. And there was given to him the key of the bottomless pit. men from the true faith. Or a whole nation falling into error and separating from the church, not having the sign of God in their foreheads. And there was given to him the key of the bottomless pit... the power, which is here signified by a key, of opening hell.  
+**1** And the fifth angel sounded the trumpet: and I saw a star fall from heaven upon the earth. And there was given to him the key of the bottomless pit.  
 **2** And he opened the bottomless pit: and the smoke of the pit arose, as the smoke of a great furnace. And the sun and the air were darkened with the smoke of the pit.  
-**3** And from the smoke of the pit there came out locusts upon the earth. And power was given to them, as the scorpions of the earth have power. having the appearance of locusts, but large and monstrous, as here described. Or they may be real locusts, but of an extraordinary size and monstrous shape, such as were never before seen on earth, sent to torment those who have not the sign (or seal) of God on their foreheads. those heretics, that sprung from Jews, and with them denied the divinity of Jesus Christ; as Theodotus, Praxeas, Noetus, Paul of Samosata, Sabellius, Arius, etc. These were great enemies of the Christian religion; they tormented and infected the souls of men, stinging them like scorpions, with the poison of their heresies. Others have explained these locusts, and other animals, mentioned in different places throughout this sacred and mystical book, in a most absurd, fanciful, and ridiculous manner; they make Abaddon the Pope, and the locusts to be friars mendicant, etc. Here it is thought proper, not to enter into any controversy upon that subject, as the inventors of these fancies have been already answered, and fully refuted by many controvertists: besides, those who might be inposed on by such chimerical writers, are in these days much better informed.  
+**3** And from the smoke of the pit there came out locusts upon the earth. And power was given to them, as the scorpions of the earth have power.  
 **4** And it was commanded them that they should not hurt the grass of the earth nor any green thing nor any tree: but only the men who have not the sign of God on their foreheads.  
 **5** And it was given unto them that they should not kill them: but that they should torment them five months. And their torment was as the torment of a scorpion when he striketh a man.  
 **6** And in those days, men shall seek death and shall not find it. And they shall desire to die: and death shall fly from them.  
@@ -248,7 +248,7 @@ format: markdown
 **16** And the number of the army of horsemen was twenty thousand times ten thousand. And I heard the number of them.  
 **17** And thus I saw the horses in the vision. And they that sat on them had breastplates of fire and of hyacinth and of brimstone. And the heads of the horses were as the heads of lions: and from their mouths proceeded fire and smoke and brimstone.  
 **18** And by these three plagues was slain the third part of men, by the fire and by the smoke and by the brimstone which issued out of their mouths.  
-**19** For the power of the horses is in their mouths and in their tails. hurt.  
+**19** For the power of the horses is in their mouths and in their tails. For, their tails are like to serpents and have heads: and with them they hurt.  
 **20** And the rest of the men, who were not slain by these plagues, did not do penance from the works of their hands, that they should not adore devils and idols of gold and silver and brass and stone and wood, which neither can see nor hear nor walk:  
 **21** Neither did they penance from their murders nor from their sorceries nor from their fornication nor from their thefts.  
 
@@ -262,8 +262,8 @@ format: markdown
 **4** And when the seven thunders had uttered their voices, I was about to write. And I heard a voice from heaven saying to me: Seal up the things which the seven thunders have spoken. And write them not.  
 **5** And the angel whom I saw standing upon the sea and upon the earth lifted up his hand to heaven.  
 **6** And he swore by him that liveth for ever and ever, who created heaven and the things which are therein, and the earth and the things which are in it, and the sea and the things which are therein: That time shall be no longer.  
-**7** But in the days of the voice of the seventh angel, when he shall begin to sound the trumpet, the mystery of God shall be finished, as he hath declared by his servants the prophets. agreeable to the Gospel, of the final victory of Christ, and of that eternal life, which should be the reward of the temporal sufferings of the martyrs and faithful servants of God.  
-**8** And I heard a voice from heaven, again speaking to me and saying: standeth upon the sea and upon the earth.  
+**7** But in the days of the voice of the seventh angel, when he shall begin to sound the trumpet, the mystery of God shall be finished, as he hath declared by his servants the prophets.  
+**8** And I heard a voice from heaven, again speaking to me and saying: Go and take the book that is open, from the hand of the angel who standeth upon the sea and upon the earth.  
 **9** And I went to the angel, saying unto him that he should give me the book. And he said to me: Take the book and eat it up. And it shall make thy belly bitter: but in thy mouth it shall be sweet as honey.  
 **10** And I took the book from the hand of the angel and ate it up: and it was in my mouth, sweet as honey. And when I had eaten it, my belly was bitter.  
 **11** And he said to me: Thou must prophesy again to many nations and peoples and tongues and kings.  
@@ -296,7 +296,7 @@ format: markdown
 
 ## Chapter 12
 
-**1** And a great sign appeared in heaven: A woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars. our blessed Lady. The church is clothed with the sun, that is, with Christ: she hath the moon, that is, the changeable things of the world, under her feet: and the twelve stars with which she is crowned, are the twelve apostles: she is in labour and pain, whilst she brings forth her children, and Christ in them, in the midst of afflictions and persecutions.  
+**1** And a great sign appeared in heaven: A woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.  
 **2** And being with child, she cried travailing in birth: and was in pain to be delivered.  
 **3** And there was seen another sign in heaven. And behold a great red dragon, having seven heads and ten horns and on his heads seven diadems.  
 **4** And his tail drew the third part of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was ready to be delivered: that, when she should be delivered, he might devour her son.  
@@ -319,24 +319,24 @@ format: markdown
 
 ## Chapter 13
 
-**1** And I saw a beast coming up out the sea, having seven heads and ten horns: and upon his horns, ten diadems: and upon his heads, names of blasphemy. the whole company of infidels, enemies and persecutors of the people of God, from the beginning to the end of the world. The seven heads are seven kings, that is, seven principal kingdoms or empires, which have exercised, or shall exercise, tyrannical power over the people of God; of these, five were then fallen, viz.: the Egyptian, Assyrian, Chaldean, Persian, and Grecian monarchies: one was present, viz., the empire of Rome: and the seventh and chiefest was to come, viz., the great Antichrist and his empire. The ten horns may be understood of ten lesser persecutors.  
+**1** And I saw a beast coming up out the sea, having seven heads and ten horns: and upon his horns, ten diadems: and upon his heads, names of blasphemy.  
 **2** And the beast which I saw was like to a leopard: and his feet were as the feet of a bear, and his mouth as the mouth of a lion. And the dragon gave him his own strength and great power.  
-**3** And I saw one of his heads as it were slain to death: and his death's wound was healed. And all the earth was in admiration after the beast. the idolatry of the Roman empire (signified by the sixth head) received from Constantine; which was, as it were, healed again by Julian the Apostate.  
+**3** And I saw one of his heads as it were slain to death: and his death's wound was healed. And all the earth was in admiration after the beast.  
 **4** And they adored the dragon which gave power to the beast. And they adored the beast, saying: Who is like to the beast? And who shall be able to fight with him?  
 **5** And there was given to him a mouth speaking great things and blasphemies: and power was given to him to do, two and forty months.  
 **6** And he opened his mouth unto blasphemies against God, to blaspheme his name and his tabernacle and them that dwell in heaven.  
 **7** And it was given unto him to make war with the saints and to overcome them. And power was given him over every tribe and people and tongue and nation.  
-**8** And all that dwell upon the earth adored him, whose names are not written in the book of life of the Lamb which was slain from the beginning of the world. inasmuch as all mercy and grace, from the beginning, was given in view of his death and passion.  
+**8** And all that dwell upon the earth adored him, whose names are not written in the book of life of the Lamb which was slain from the beginning of the world.  
 **9** If any man have an ear, let him hear.  
 **10** He that shall lead into captivity shall go into captivity: he that shall kill by the sword must be killed by the sword. Here is the patience and the faith of the saints.  
-**11** And I saw another beast coming up out of the earth: and he had two horns, like a lamb: and he spoke as a dragon. the heathenish priests and magicians; the principal promoters both of idolatry and persecution.  
-**12** And he executed all the power of the former beast in his sight. beast, whose wound to death was healed.  
+**11** And I saw another beast coming up out of the earth: and he had two horns, like a lamb: and he spoke as a dragon.  
+**12** And he executed all the power of the former beast in his sight. And he caused the earth and them that dwell therein to adore the first beast, whose wound to death was healed.  
 **13** And he did great signs, so that he made also fire to come down from heaven unto the earth, in the sight of men.  
 **14** And he seduced them that dwell on the earth, for the signs which were given him to do in the sight of the beast: saying to them that dwell on the earth that they should make the image of the beast which had the wound by the sword and lived.  
 **15** And it was given him to give life to the image of the beast: and that the image of the beast should speak: and should cause that whosoever will not adore the image of the beast should be slain.  
 **16** And he shall make all, both little and great, rich and poor, freemen and bondmen, to have a character in their right hand or on their foreheads:  
 **17** And that no man might buy or sell, but he that hath the character, or the name of the beast, or the number of his name.  
-**18** Here is wisdom. He that hath understanding, let him count the number of the beast. For it is the number of a man: and the number of him is six hundred sixty-six. this number.  
+**18** Here is wisdom. He that hath understanding, let him count the number of the beast. For it is the number of a man: and the number of him is six hundred sixty-six.  
 
 ---
 
@@ -349,7 +349,7 @@ format: markdown
 **5** And in their mouth there was found no lie: for they are without spot before the throne of God.  
 **6** And I saw another angel flying through the midst of heaven, having the eternal gospel, to preach unto them that sit upon the earth and over every nation and tribe and tongue and people:  
 **7** Saying with a loud voice: Fear the Lord and give him honour, because the hour of his judgment is come. And adore ye him that made heaven and earth, the sea and the fountains of waters.  
-**8** And another angel followed, saying: That great Babylon is fallen, is fallen; which made all nations to drink of the wine of the wrath of her fornication. world in general, which God will punish, and destroy after the short time of this mortal life: or it may signify every great city wherein enormous sins and abominations are daily committed; and that when the measure of its iniquities is full, the punishments due to its crimes are poured on it. It may also be some city of the description in the text, that will exist, and be destroyed, as here described, towards the end of the world.  
+**8** And another angel followed, saying: That great Babylon is fallen, is fallen; which made all nations to drink of the wine of the wrath of her fornication.  
 **9** And the third angel followed them, saying with a loud voice: If any man shall adore the beast and his image and receive his character in his forehead or in his hand,  
 **10** He also shall drink of the wine of the wrath of God, which is mingled with pure wine in the cup of his wrath: and shall be tormented with fire and brimstone in the sight of the holy angels and in the sight of the Lamb.  
 **11** And the smoke of their torments, shall ascend up for ever and ever: neither have they rest day nor night, who have adored the beast and his image and whoever receiveth the character of his name.  
@@ -410,14 +410,14 @@ format: markdown
 **2** With whom the kings of the earth have committed fornication. And they who inhabit the earth have been made drunk with the wine of her whoredom.  
 **3** And he took me away in spirit into the desert. And I saw a woman sitting upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.  
 **4** And the woman was clothed round about with purple and scarlet, and gilt with gold and precious stones and pearls, having a golden cup in her hand, full of the abomination and filthiness of her fornication.  
-**5** And on her forehead a name was written: A mystery: Babylon the great, the mother of the fornications and the abominations of the earth. title of the great harlot is to be taken in a mystical sense. Babylon... understood of any particular city, pagan Rome, which then and for three hundred years persecuted the church; and was the principal seat both of empire and idolatry.  
+**5** And on her forehead a name was written: A mystery: Babylon the great, the mother of the fornications and the abominations of the earth.  
 **6** And I saw the woman drunk with the blood of the saints and with the blood of the martyrs of Jesus. And I wondered, when I had seen her, with great admiration.  
 **7** And the angel said to me: Why dost thou wonder? I will tell thee the mystery of the woman and of the beast which carrieth her, which hath the seven heads and ten horns.  
-**8** The beast which thou sawest, was, and is not, and shall come up out of the bottomless pit and go into destruction. And the inhabitants on the earth (whose names are not written in the book of life from the foundation of the world) shall wonder, seeing the beast that was and is not. signify the power of the devil: which was and is not, being much limited by the coming of Christ, but shall again exert itself under Antichrist. instruments of his tyranny; of which five were then fallen. (See chap. and is of the seven; because they all act under the devil, and by his instigation, so that his power is in them all, yet so as to make up, as it were, an eighth empire, distinct from them all.  
+**8** The beast which thou sawest, was, and is not, and shall come up out of the bottomless pit and go into destruction. And the inhabitants on the earth (whose names are not written in the book of life from the foundation of the world) shall wonder, seeing the beast that was and is not.  
 **9** And here is the understanding that hath wisdom. The seven heads are seven mountains, upon which the woman sitteth: and they are seven kings.  
 **10** Five are fallen, one is, and the other is not yet come: and when he is come, he must remain a short time.  
 **11** And the beast which was and is not: the same also is the eighth, and is of the seven, and goeth into destruction.  
-**12** And the ten horns which thou sawest are ten kings, who have not yet received a kingdom: but shall receive power as kings, one hour after the beast. which, nevertheless, shall be made instruments of the justice of God for the punishment of Babylon. Some understand this of the Goths, Vandals, Huns, and other barbarous nations, that destroyed the empire of Rome.  
+**12** And the ten horns which thou sawest are ten kings, who have not yet received a kingdom: but shall receive power as kings, one hour after the beast.  
 **13** These have one design: and their strength and power they shall deliver to the beast.  
 **14** These shall fight with the Lamb. And the Lamb shall overcome them because he is Lord of lords and King of kings: and they that are with him are called and elect and faithful.  
 **15** And he said to me: The waters which thou sawest, where the harlot sitteth, are peoples and nations and tongues.  
@@ -435,7 +435,7 @@ format: markdown
 **4** And I heard another voice from heaven, saying: Go out from her, my people; that you be not partakers of her sins and that you receive not of her plagues.  
 **5** For her sins have reached unto heaven: and the Lord hath remembered her iniquities.  
 **6** Render to her as she also hath rendered to you: and double unto her double, according to her works. In the cup wherein she hath mingled, mingle ye double unto her.  
-**7** As much as she hath glorified herself and lived in delicacies, so much torment and sorrow give ye to her. Because she saith in her heart:  
+**7** As much as she hath glorified herself and lived in delicacies, so much torment and sorrow give ye to her. Because she saith in her heart: I sit a queen and am no widow: and sorrow I shall not see.  
 **8** Therefore, shall her plagues come in one day, death and mourning and famine. And she shall be burnt with the fire: because God is strong, who shall judge her.  
 **9** And the kings of the earth, who have committed fornication and lived in delicacies with her, shall weep and bewail themselves over her, when they shall see the smoke of her burning:  
 **10** Standing afar off for fear of her torments, saying: Alas! alas! that great city, Babylon, that mighty city: for in one hour is thy judgment come.  
@@ -448,7 +448,7 @@ format: markdown
 **17** For in one hour are so great riches come to nought. And every shipmaster and all that sail into the lake, and mariners, and as many as work in the sea, stood afar off,  
 **18** And cried, seeing the place of her burning, saying: What city is like to this great city?  
 **19** And they cast dust upon their heads and cried, weeping and mourning, saying: Alas! alas! that great city, wherein all were made rich, that had ships at sea, by reason of her prices. For, in one hour she is made desolate.  
-**20** Rejoice over her, thou heaven and ye holy apostles and prophets.  
+**20** Rejoice over her, thou heaven and ye holy apostles and prophets. For God hath judged your judgment on her.  
 **21** And a mighty angel took up a stone, as it were a great millstone, and cast it into the sea, saying: With such violence as this, shall Babylon, that great city, be thrown down and shall be found no more at all.  
 **22** And the voice of harpers and of musicians and of them that play on the pipe and on the trumpet shall no more be heard at all in thee: and no craftsman of any art whatsoever shall be found any more at all in thee: and the sound of the mill shall be heard no more at all in thee:  
 **23** And the light of the lamp shall shine no more at all in thee: and the voice of the bridegroom and the bride shall be heard no more at all in thee. For thy merchants were the great men of the earth: for all nations have been deceived by thy enchantments.  
@@ -461,20 +461,20 @@ format: markdown
 **1** After these things, I heard as it were the voice of much people in heaven, saying: Alleluia. Salvation and glory and power is to our God.  
 **2** For true and just are his judgments, who hath judged the great harlot which corrupted the earth with her fornication and hath revenged the blood of his servants, at her hands.  
 **3** And again they said: Alleluia. And her smoke ascendeth for ever and ever.  
-**4** And the four and twenty ancients and the four living creatures fell down and adored God that sitteth upon the throne, saying: Amen.  
+**4** And the four and twenty ancients and the four living creatures fell down and adored God that sitteth upon the throne, saying: Amen. Alleluia.  
 **5** And a voice came out from the throne, saying: Give praise to our God, all ye his servants: and you that fear him, little and great.  
-**6** And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of great thunders, saying:  
+**6** And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of great thunders, saying: Alleluia: for the Lord our God, the Almighty, hath reigned.  
 **7** Let us be glad and rejoice and give glory to him. For the marriage of the Lamb is come: and his wife hath prepared herself.  
 **8** And it is granted to her that she should clothe herself with fine linen, glittering and white. For the fine linen are the justifications of saints.  
 **9** And he said to me: Write: Blessed are they that are called to the marriage supper of the Lamb. And he saith to me: These words of God are true.  
-**10** And I fell down before his feet, to adore him. And he saith to me: See thou do it not. I am thy fellow servant and of thy brethren who have the testimony of Jesus. Adore God. For the testimony of Jesus is the spirit of prophecy. is of opinion, that this angel appeared in so glorious a manner, that St. John took him to be God; and therefore would have given him divine honour had not the angel stopped him, by telling him he was but his fellow servant. St. Gregory (Hom. 8, in Evang.) rather thinks that the veneration offered by St. John, was not divine honour, or indeed any other than what might lawfully be given; but was nevertheless refused by the angel, in consideration of the dignity to which our human nature had been raised, by the incarnation of the Son of God, and the dignity of St. John, an apostle, prophet, and martyr.  
+**10** And I fell down before his feet, to adore him. And he saith to me: See thou do it not. I am thy fellow servant and of thy brethren who have the testimony of Jesus. Adore God. For the testimony of Jesus is the spirit of prophecy.  
 **11** And I saw heaven opened: and behold a white horse. And he that sat upon him was called faithful and true: and with justice doth he judge and fight.  
 **12** And his eyes were as a flame of fire: and on his head were many diadems. And he had a name written, which no man knoweth but himself.  
 **13** And he was clothed with a garment sprinkled with blood. And his name is called: THE WORD OF GOD.  
 **14** And the armies that are in heaven followed him on white horses, clothed in fine linen, white and clean.  
 **15** And out of his mouth proceedeth a sharp two-edged sword, that with it he may strike the nations. And he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness of the wrath of God the Almighty.  
 **16** And he hath on his garment and on his thigh written: KING OF KINGS AND LORD OF LORDS.  
-**17** And I saw an angel standing in the sun: and he cried with a loud voice, saying to all the birds that did fly through the midst of heaven:  
+**17** And I saw an angel standing in the sun: and he cried with a loud voice, saying to all the birds that did fly through the midst of heaven: Come, gather yourselves together to the great supper of God:  
 **18** That you may eat the flesh of kings and the flesh of tribunes and the flesh of mighty men and the flesh of horses and of them that sit on them: and the flesh of all freemen and bondmen and of little and of great.  
 **19** And I saw the beast and the kings of the earth and their armies, gathered together to make war with him that sat upon the horse and with his army.  
 **20** And the beast was taken, and with him the false prophet who wrought signs before him, wherewith he seduced them who received the character of the beast and who adored his image. These two were cast alive into the pool of fire burning with brimstone.  
@@ -485,14 +485,14 @@ format: markdown
 ## Chapter 20
 
 **1** And I saw an angel coming down from heaven, having the key of the bottomless pit and a great chain in his hand.  
-**2** And he laid hold on the dragon, the old serpent, which is the devil and Satan, and bound him for a thousand years. passion of Christ: for a thousand years; that is, for the whole time of the New Testament; but especially from the time of the destruction of Babylon or pagan Rome, till the new efforts of Gog and Magog against the church, towards the end of the world. During which time the souls of the martyrs and saints live and reign with Christ in heaven, in the first resurrection, which is that of the soul to the life of glory; as the second resurrection will be that of the body, at the day of the general judgment.  
+**2** And he laid hold on the dragon, the old serpent, which is the devil and Satan, and bound him for a thousand years.  
 **3** And he cast him into the bottomless pit and shut him up and set a seal upon him, that he should no more seduce the nations till the thousand years be finished. And after that, he must be loosed a little time.  
-**4** And I saw seats. And they sat upon them: and judgment was given unto them. And the souls of them that were beheaded for the testimony of Jesus and for the word of God and who had not adored the beast nor his image nor received his character on their foreheads or in their hands.  
+**4** And I saw seats. And they sat upon them: and judgment was given unto them. And the souls of them that were beheaded for the testimony of Jesus and for the word of God and who had not adored the beast nor his image nor received his character on their foreheads or in their hands. And they lived and reigned with Christ a thousand years.  
 **5** The rest of the dead lived not, till the thousand years were finished. This is the first resurrection.  
-**6** Blessed and holy is he that hath part in the first resurrection.  
+**6** Blessed and holy is he that hath part in the first resurrection. In these the second death hath no power. But they shall be priests of God and of Christ: and shall reign with him a thousand years.  
 **7** And when the thousand years shall be finished, Satan shall be loosed out of his prison and shall go forth and seduce the nations which are over the four quarters of the earth, Gog and Magog: and shall gather them together to battle, the number of whom is as the sand of the sea.  
 **8** And they came upon the breadth of the earth and encompassed the camp of the saints and the beloved city.  
-**9** And there came down fire from God out of heaven and devoured them: and the devil, who seduced them, was cast into the pool of fire and brimstone, where both the beast  
+**9** And there cane down fire from God out of heaven and devoured them: and the devil, who seduced them, was cast into the pool of fire and brimstone, where both the beast  
 **10** And the false prophet shall be tormented day and night for ever and ever.  
 **11** And I saw a great white throne and one sitting upon it, from whose face the earth and heaven fled away: and there was no place found for them.  
 **12** And I saw the dead, great and small, standing in the presence of the throne. And the books were opened: and another book was opened, which was the book of life. And the dead were judged by those things which were written in the books, according to their works.  
@@ -504,7 +504,7 @@ format: markdown
 
 ## Chapter 21
 
-**1** I saw a new heaven and a new earth. For the first heaven and the first earth was gone: and the sea is now no more. their substance, but in their qualities.  
+**1** I saw a new heaven and a new earth. For the first heaven and the first earth was gone: and the sea is now no more.  
 **2** And I, John, saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.  
 **3** And I heard a great voice from the throne, saying: Behold the tabernacle of God with men: and he will dwell with them. And they shall be his people: and God himself with them shall be their God.  
 **4** And God shall wipe away all tears from their eyes: and death shall be no more. Nor mourning, nor crying, nor sorrow shall be any more, for the former things are passed away.  
@@ -520,7 +520,7 @@ format: markdown
 **14** And the wall of the city had twelve foundations: And in them, the twelve names of the twelve apostles of the Lamb,  
 **15** And he that spoke with me had a measure of a reed of gold, to measure the city and the gates thereof and the wall.  
 **16** And the city lieth in a four-square: and the length thereof is as great as the breadth. And he measured the city with the golden reed for twelve thousand furlongs: and the length and the height and the breadth thereof are equal.  
-**17** And he measured the wall thereof an hundred forty-four cubits, the measure of a man, which is of an angel. the angel... This seems to be the true meaning of these words.  
+**17** And he measured the wall thereof an hundred forty-four cubits, the measure of a man, which is of an angel.  
 **18** And the building of the wall thereof was of jasper stone: but the city itself pure gold like to clear glass.  
 **19** And the foundations of the wall of the city were adorned with all manner of precious stones. The first foundation was jasper: the second, sapphire: the third; a chalcedony: the fourth, an emerald:  
 **20** The fifth, sardonyx: the sixth, sardius: the seventh, chrysolite: the eighth, beryl: the ninth, a topaz: the tenth, a chrysoprasus: the eleventh, a jacinth: the twelfth, an amethyst.  
@@ -545,8 +545,8 @@ format: markdown
 **7** And: Behold I come quickly. Blessed is he that keepeth the words of the prophecy of this book.  
 **8** And I, John, who have heard and seen these things. And, after I had heard and seen, I fell down to adore before the feet of the angel who shewed me the things.  
 **9** And he said to me: See thou do it not. For I am thy fellow servant, and of thy brethren the prophets and of them that keep the words of the prophecy of this book. Adore God.  
-**10** And he saith to me: Seal not the words of the prophecy of this book. For the time is at hand. and temporal things vanish, and are but of short duration. As to the time when the chief predictions should come to pass, we have no certainty, as appears by the different opinions, both of the ancient fathers and late interpreters. Many think that most things set down from the 4th chapter to the end, will not be fulfilled till a little time before the end of the world. Others are of opinion, that a great part of them, and particularly the fall of the wicked Babylon, happened at the destruction of paganism, by the destruction of heathen Rome, and its persecuting heathen emperors. Of these interpretations, see Aleazar, in his long commentary; see the learned Bossnet, bishop of Meaux, in his treatise on this Book; and P. Alleman, in his notes on the same Apocalypse, tom. 12, who in his Preface says, that this, in a great measure, may be now looked upon as the opinion followed by the learned men. In fine, others think that St. John's design was in a mystical way, by metaphors and allegories, to represent the attempts and persecutions of the wicked against the servants of God, the punishments that should in a short time fall upon Babylon, that is, upon all the wicked in general: the eternal happiness and reward, which God had reserved for the pious inhabitants of Jerusalem, that is, for his faithful servants, after their short trials and the tribulations of this mortal life. In the mean time we meet with many profitable instructions and admonitions, which we may easily enough understand: but we have no certainty when we apply these predictions to particular events: for as St. Jerome takes notice, the Apocalypse has as many mysteries as words, or rather mysteries in every word. Apocalypsis Joannis tot habet Sacramenta quot verba--parum dixi, in verbis singulis multiplices latent intelligentiae. Ep. ad Paulin, t. 4. p. 574. Edit. Benedict.  
-**11** He that hurteth, let him hurt still: and he that is filthy, let him be filthy still: and he that is just, let him be justified still: and he that is holy, let him be sanctified still. sin; but an intimation, that how far soever the wicked may proceed, their progress shall quickly end, and then they must expect to meet with proportionable punishments.  
+**10** And he saith to me: Seal not the words of the prophecy of this book. For the time is at hand.  
+**11** He that hurteth, let him hurt still: and he that is filthy, let him be filthy still: and he that is just, let him be justified still: and he that is holy, let him be sanctified still.  
 **12** Behold, I come quickly: and my reward is with me, to render to every, man according to his works.  
 **13** I am Alpha and Omega, the First and the Last, the Beginning and the End.  
 **14** Blessed are they that wash their robes in the blood of the Lamb: that they may have a right to the tree of life and may enter in by the gates into the city.  
@@ -556,7 +556,6 @@ format: markdown
 **18** For I testify to every one that heareth the words of the prophecy of this book: If any man shall add to these things, God shall add unto him the plagues written in this book.  
 **19** And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from these things that are written in this book.  
 **20** He that giveth testimony of these things, saith: Surely, I come quickly: Amen. Come, Lord Jesus.  
-**21** The grace of our Lord Jesus Christ be with you all. Amen.  
 
 ---
 

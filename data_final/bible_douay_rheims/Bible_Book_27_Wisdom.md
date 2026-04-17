@@ -153,7 +153,7 @@ format: markdown
 **7** We wearied ourselves in the way of iniquity and destruction, and have walked through hard ways, but the way of the Lord we have not known.  
 **8** What hath pride profited us? or what advantage hath the boasting of riches brought us?  
 **9** All those things are passed away like a shadow, and like a post that runneth on,  
-**10** And as a ship that passeth through the waves: whereof when it is gone by, the trace cannot be found, nor the path of its keel in the waters:  
+**10** And as a ship, that passeth through the waves: whereof when it is gone by, the trace cannot be found nor the path of its keel in the waters:  
 **11** Or as when a bird flieth through the air, of the passage of which no mark can be found, but only the sound of the wings beating the light air, and parting it by the force of her flight: she moved her wings, and hath flown through, and there is no mark found afterwards of her way:  
 **12** Or as when an arrow is shot at a mark, the divided air quickly cometh together again, so that the passage thereof is not known:  
 **13** So we also being born, forthwith ceased to be: and have been able to shew no mark of virtue: but are consumed in our wickedness.  
@@ -177,7 +177,7 @@ format: markdown
 **2** Hear, therefore, ye kings, and understand, learn ye that are judges of the ends of the earth.  
 **3** Give ear, you that rule the people, and that please yourselves in multitudes of nations:  
 **4** For power is given you by the Lord, and strength by the most High, who will examine your works: and search out your thoughts:  
-**5** Because being ministers of his kingdom, you have not judged rightly, nor kept the law of justice, nor walked according to the will of God.  
+**6** Because being ministers of his kingdom, you have not judged rightly, nor kept the law of justice, nor walked according to the will of God.  
 **6** Horribly and speedily will he appear to you: for a most severe judgment shall be for them that bear rule.  
 **7** For to him that is little, mercy is granted: but the mighty shall be mightily tormented.  
 **8** For God will not except any man's person, neither will he stand in awe of any man's greatness: for he made the little and the great, and he hath equally care of all.  
@@ -294,7 +294,7 @@ format: markdown
 **2** And she brought him out of his sin, and gave him power to govern all things.  
 **3** But when the unjust went away from her in his anger, he perished by the fury wherewith he murdered his brother.  
 **4** For whose cause, when water destroyed the earth, wisdom healed it again, directing the course of the just by contemptible wood.  
-**5** Moreover, when the nations had conspired together to consent to wickedness, she knew the just, and preserved him without blame to God, and kept him strong against the compassion for his son. him strong, etc... Gave him strength to stand firm against the efforts of his natural tenderness, when he was ordered to sacrifice his son.  
+**5** Moreover, when the nations had conspired together to consent to wickedness, she knew the just, and preserved him without blame to God, and kept him strong against the compassion for his son.  
 **6** She delivered the just man, who fled from the wicked that were perishing, when the fire came down upon Pentapolis:  
 **7** Whose land, for a testimony of their wickedness, is desolate, and smoketh to this day, and the trees bear fruits that ripen not, and a standing pillar of salt is a monument of an incredulous soul.  
 **8** For regarding not wisdom, they did not only slip in this, that they were ignorant of good things; but they left also unto men a memorial of their folly, so that in the things in which they sinned, they could not so much as lie hid.  
@@ -320,7 +320,7 @@ format: markdown
 **2** They went through wildernesses that were not inhabited, and in desert places they pitched their tents.  
 **3** They stood against their enemies, and revenged themselves of their adversaries.  
 **4** They were thirsty, and they called upon thee, and water was given them out of the high rock, and a refreshment of their thirst out of the hard stone.  
-**5** For by what things their enemies were punished, when their drink failed them, while the children of Israel abounded therewith, and rejoiced: to punish the Egyptians by thirst, when he turned all their waters into blood, (at which time the Israelites, who were exempt from those plagues, had plenty of water,) wrought another miracle in favour of his own people in their thirst, by giving them water out of the rock.  
+**5** For by what things their enemies were punished, when their drink failed them, while the children of Israel abounded therewith, and rejoiced:  
 **6** By the same things they in their need were benefited.  
 **7** For instead of a fountain of an ever running river, thou gavest human blood to the unjust.  
 **8** And whilst they were diminished for a manifest reproof of their murdering the infants, thou gavest to thine abundant water unlooked for:  
@@ -329,9 +329,9 @@ format: markdown
 **11** For thou didst admonish and try them as a father: but the others, as a severe king, thou didst examine and condemn.  
 **12** For whether absent or present, they were tormented alike.  
 **13** For a double affliction came upon them, and a groaning for the remembrance of things past.  
-**14** For when they heard that by their punishments the others were benefited, they remembered the Lord, wondering at the end of what was come to pass. benefited and miraculously favoured in the same kind, in which they had been punished.  
+**14** For when they heard that by their punishments the others were benefited, they remembered the Lord, wondering at the end of what was come to pass.  
 **15** For whom they scorned before, when he was thrown out at the time of his being wickedly exposed to perish, him they admired in the end, when they saw the event: their thirsting being unlike to that of the just.  
-**16** But for the foolish devices of their iniquity, because some being deceived worshipped dumb serpents and worthless beasts, thou didst send upon them a multitude of dumb beasts for vengeance:  
+**16** But for the foolish devices of their iniqnity, because some being deceived worshipped dumb serpents and worthless beasts, thou didst send upon them a multitude of dumb beasts for vengeance:  
 **17** That they might know that by what things a man sinneth, by the same also he is tormented.  
 **18** For thy almighty hand, which made the world of matter without form, was not unable to send upon them a multitude of bears, or fierce lions,  
 **19** Or unknown beasts of a new kind, full of rage; either breathing out a fiery vapour, or sending forth a stinking smoke, or shooting horrible sparks out of their eyes:  
@@ -465,8 +465,8 @@ format: markdown
 ## Chapter 16
 
 **1** For these things, and by the like things to these, they were worthily punished, and were destroyed by a multitude of beasts.  
-**2** Instead of which punishment, dealing well with thy people, thou gavest them their desire of delicious food, of a new taste, preparing for them quails for their meat:  
-**3** To the end, that they indeed desiring food, by means of those things that were shewn and sent among them, might loath even that which was necessary to satisfy their desire. But these, after suffering want for a short time, tasted a new meat. restrained even from that food which was necessary, by the frogs and the flies that were sent amongst them, and spoiled all their meats.-Ibid.  
+**2** Instead of which punishment, dealiug well with thy people, thou gavest them their desire of delicious food, of a new taste, preparing for them quails for their meat:  
+**3** To the end, that they indeed desiring food, by means of those things that were shewn and sent among them, might loath even that which was necessary to satisfy their desire. But these, after suffering want for a short time, tasted a new meat.  
 **4** For it was requisite that inevitable destruction should come upon them that exercised tyranny: but to these it should only be shewn how their enemies were destroyed.  
 **5** For when the fierce rage of beasts came upon these, they were destroyed by the bitings of crooked serpents.  
 **6** But thy wrath endured not for ever, but they were troubled for a short time for their correction, having a sign of salvation, to put them in remembrance of the commandment of thy law.  
@@ -480,7 +480,7 @@ format: markdown
 **14** A man indeed killeth through malice, and when the spirit is gone forth, it shall not return, neither shall he call back the soul that is received:  
 **15** But it is impossible to escape thy hand:  
 **16** For the wicked that denied to know thee, were scourged by the strength of thy arm, being persecuted by strange waters, and hail, and rain, and consumed by fire.  
-**17** And which was wonderful, in water, which extinguisheth all things, the fire had more force: for the world fighteth for the just. laid waste the land of Egypt. Ex. 9.  
+**17** And which was wonderful, in water, which extinguisheth all things, the fire had more force: for the world fighteth for the just.  
 **18** For at one time the fire was mitigated, that the beasts which were sent against the wicked might not be burnt, but that they might see, and perceive that they were persecuted by the judgment of God.  
 **19** And at another time the fire, above its own power, burnt in the midst of water, to destroy the fruits of a wicked land.  
 **20** Instead of which things, thou didst feed thy people with the food of angels, and gavest them bread from heaven, prepared without labour; having in it all that is delicious, and the sweetness of every taste.  
@@ -514,7 +514,7 @@ format: markdown
 **14** Were sometimes molested with the fear of monsters, sometimes fainted away, their soul failing them: for a sudden and unlooked for fear was come upon them.  
 **15** Moreover, if any of them had fallen down, he was kept shut up in prison without irons.  
 **16** For if any one were a husbandman, or a shepherd, or a labourer in the field, and was suddenly overtaken, he endured a necessity from which he could not fly.  
-**17** For they were all bound together with one chain of darkness. the spreading branches of trees, or a fall of water running down with violence,  
+**17** For they were all bound together with one chain of darkness. Whether it were a whistling wind, or the melodious voice of birds, among the spreading branches of trees, or a fall of water running down with violence,  
 **18** Or the mighty noise of stones tumbling down, or the running that could not be seen of beasts playing together, or the roaring voice of wild beasts, or a rebounding echo from the highest mountains: these things made them to swoon for fear.  
 **19** For the whole world was enlightened, with a clear light, and none were hindered in their labours.  
 **20** But over them only was spread a heavy night, an image of that darkness which was to come upon them. But they were to themselves more grievous than the darkness.  
@@ -525,16 +525,16 @@ format: markdown
 
 **1** But thy saints had a very great light, and they heard their voice indeed, but did not see their shape. And because they also did not suffer the same things, they glorified thee:  
 **2** And they that before had been wronged, gave thanks, because they were not hurt now: and asked this gift, that there might be a difference.  
-**3** Therefore they received a burning pillar of fire for a guide of the way which they knew not, and thou gavest them a harmless sun of a good entertainment. should be an agreeable guest to them.  
+**3** Therefore they received a burning pillar of fire for a guide of the way which they knew not, and thou gavest them a harmless sun of a good entertainment.  
 **4** The others indeed were worthy to be deprived of light, and imprisoned in darkness, who kept thy children shut up, by whom the pure light of the law was to be given to the world.  
 **5** And whereas they thought to kill the babes of the just: one child being cast forth, and saved to reprove them, thou tookest away a multitude of their children, and destroyedst them altogether in a mighty water.  
 **6** For that night was known before by our fathers, that assuredly knowing what oaths they had trusted to, they might be of better courage.  
 **7** So thy people received the salvation of the just, and destruction of the unjust.  
 **8** For as thou didst punish the adversaries so thou didst also encourage and glorify us.  
-**9** For the just children of good men were offering sacrifice secretly, and they unanimously ordered a law of justice: that the just should receive both good and evil alike, singing now the praises of the fathers. offered in private the sacrifice of the paschal lamb; and were regulating what they were to do in their journey, when that last and most dreadful plague was coming upon their enemies.  
+**9** For the just children of good men were offering sacrifice secretly, and they unanimously ordered a law of justice: that the just should receive both good and evil alike, singing now the praises of the fathers.  
 **10** But on the other side there sounded an ill according cry of the enemies, and a lamentable mourning was heard for the children that were bewailed.  
 **11** And the servant suffered the same punishment as the master, and a common man suffered in like manner as the king.  
-**12** So all alike had innumerable dead, with one kind of death. noblest offspring of them was destroyed.  
+**12** So all alike had innumerable dead, with one kind of death. Neither were the living sufficient to bury them: for in one moment the noblest offspring of them was destroyed.  
 **13** For whereas they would not believe any thing before by reason of the enchantments, then first upon the destruction of the firstborn, they acknowledged the people to be of God.  
 **14** For while all things were in quiet silence, and the night was in the midst of her course,  
 **15** Thy Almighty word leaped down from heaven from thy royal throne, as a fierce conqueror into the midst of the land of destruction,  
@@ -547,7 +547,7 @@ format: markdown
 **22** And he overcame the disturbance, not by strength of body nor with force of arms, but with a word he subdued him that punished them, alleging the oath and covenant made with the fathers.  
 **23** For when they were now fallen down dead by heaps one upon another, he stood between and stayed the assault, and cut off the way to the living.  
 **24** For in the priestly robe which he wore, was the whole world: and in the four rows of the stones, the glory of the fathers was graven, and thy majesty was written upon the diadem of his head.  
-**25** And to these the destroyer gave place, and was afraid of them: for the proof only of wrath was enough.  
+**26** And to these the destroyer gave place, and was afraid of them: for the proof only of wrath was enough.  
 
 ---
 
@@ -569,7 +569,7 @@ format: markdown
 **14** And not only so, but in another respect also they were worse: for the others against their will received the strangers.  
 **15** But these grievously afflicted them whom they had received with joy, and who lived under the same laws.  
 **16** But they were struck with blindness: as those others were at the doors of the just man, when they were covered with sudden darkness, and every one sought the passage of his own door.  
-**17** For while the elements are changed in themselves, as in an instrument the sound of the quality is changed, yet all keep their sound: which may clearly be perceived by the very sight. wrought in the elements by miracles in favour of his people, they still kept their harmony by obeying his will.  
+**17** For while the elements are changed in themselves, as in an instrument the sound of the quality is changed, yet all keep their sound: which may clearly be perceived by the very sight.  
 **18** For the things of the land were turned into things of the water: and the things that before swam in the water passed upon the land.  
 **19** The fire had power in water above its own virtue, and the water forgot its quenching nature.  
 **20** On the other side, the flames wasted not the flesh of corruptible animals walking therein, neither did they melt that good food, which was apt to melt as ice. For in all things thou didst magnify thy people, O Lord, and didst honour them, and didst not despise them, but didst assist them at all times, and in every place.  

@@ -46,15 +46,15 @@ format: markdown
 **4** And he gathered a power, and a very strong army: and his heart was exalted and lifted up:  
 **5** And he subdued countries of nations, and princes; and they became tributaries to him.  
 **6** And after these things, he fell down upon his bed, and knew that he should die.  
-**7** And he called his servants, the nobles that were brought up with him from his youth: and he divided his kingdom among them, while he was yet alive. though he acknowledges that divers were of that opinion, and that it had been delivered by some authors, lib. 10. But here we find from the sacred text, that he was in error.  
+**7** And he called his servants, the nobles that were brought up with him from his youth: and he divided his kingdom among them, while he was yet alive.  
 **8** And Alexander reigned twelve years, and he died.  
 **9** And his servants made themselves kings, every one in his place:  
 **10** And they all put crowns upon themselves after his death, and their sons after them, many years; and evils were multiplied in the earth.  
-**11** And there came out of them a wicked root, Antiochus the Illustrious, the son of king Antiochus, who had been a hostage at Rome: and he reigned in the hundred and thirty-seventh year of the kingdom of the Greeks. kingdom of the Greeks... Counting, not from the beginning of the reign of Alexander, but from the first year of Seleucus Nicator.  
+**11** And there came out of them a wicked root, Antiochus the Illustrious, the son of king Antiochus, who had been a hostage at Rome: and he reigned in the hundred and thirty-seventh year of the kingdom of the Greeks.  
 **12** In those days there went out of Israel wicked men, and they persuaded many, saying: Let us go and make a covenant with the heathens that are round about us: for since we departed from them, many evils have befallen us.  
 **13** And the word seemed good in their eyes.  
 **14** And some of the people determined to do this, and went to the king: and he gave them license to do after the ordinances of the heathens.  
-**15** And they built a place of exercise in Jerusalem, according to the laws of the nations:  
+**15** And they built a place of excercise in Jerusalem, according to the laws of the nations:  
 **16** And they made themselves prepuces, and departed from the holy covenant, and joined themselves to the heathens, and were sold to do evil:  
 **17** And the kingdom was established before Antiochus, and he had a mind to reign over the land of Egypt, that he might reign over two kingdoms.  
 **18** And he entered into Egypt with a great multitude, with chariots, and elephants, and horsemen, and a great number of ships:  
@@ -77,13 +77,13 @@ format: markdown
 **35** And they built the city of David with a great and strong wall, and with strong towers, and made it a fortress for them:  
 **36** And they placed there a sinful nation, wicked men, and they fortified themselves therein: and they stored up armour and victuals, and gathered together the spoils of Jerusalem;  
 **37** And laid them up there: and they became a great snare.  
-**38** And this was a place to lie in wait against the sanctuary, and an evil devil in Israel. as the evil spirit is always watching and seeking whom he may devour.  
+**38** And this was a place to lie in wait against the sanctuary, and an evil devil in Israel.  
 **39** And they shed innocent blood round about the sanctuary, and defiled the holy place.  
 **40** And the inhabitants of Jerusalem fled away by reason of them and the city was made the habitation of strangers, and she became a stranger to her own seed, and her children forsook her.  
 **41** Her sanctuary was desolate like a wilderness, her festival days were turned into mourning, her sabbaths into reproach, her honours were brought to nothing.  
 **42** Her dishonour was increased according to her glory, and her excellency was turned into mourning.  
 **43** And king Antiochus wrote to all his kingdom, that all the people should be one: and every one should leave his own law.  
-**44** And all nations consented, according to the word of king Antiochus. idols, and profaned the sabbath.  
+**44** And all nations consented, according to the word of king Antiochus.  
 **46** And the king sent letters by the hands of messengers to Jerusalem, and to all the cities of Juda; that they should follow the law of the nations of the earth.  
 **47** And should forbid holocausts and sacrifices, and atonements to be made in the temple of God.  
 **48** And should prohibit the sabbath, and the festival days to be celebrated.  
@@ -96,7 +96,7 @@ format: markdown
 **55** Then many of the people were gathered to them that had forsaken the law of the Lord: and they committed evils in the land:  
 **56** And they drove away the people of Israel into lurking holes, and into the secret places of fugitives.  
 **57** On the fifteenth day of the month, Casleu, in the hundred and forty-fifth year, king Antiochus set up the abominable idol of desolation upon the altar of God, and they built altars throughout all the cities of Juda round about:  
-**58** And they burnt incense, and sacrificed at the doors of the houses and in the streets.  
+**58** And they burnt incense, and sacrificed at the doors of the houses and in the streets  
 **59** And they cut in pieces, and burnt with fire the books of the law of God:  
 **60** And every one with whom the books of the testament of the Lord were found, and whosoever observed the law of the Lord, they put to death, according to the edict of the king.  
 **61** Thus by their power did they deal with the people of Israel, that were found in the cities month after month.  
@@ -105,7 +105,7 @@ format: markdown
 **64** And they hanged the children about their neck in all their houses: and those that had circumcised them, they put to death.  
 **65** And many of the people of Israel determined with themselves, that they would not eat unclean things: and they chose rather to die, than to be defiled with unclean meats:  
 **66** And they would not break the holy law of God and they were put to death:  
-**67** And there was very great wrath upon the people. death.  
+**67** And there was very great wrath upon the people.  
 **1** In those days arose Mathathias, the son of John, the son of Simeon, a priest of the sons of Joarib, from Jerusalem, and he abode in the mountain of Modin:  
 **2** And he had five sons: John, who was surnamed Gaddis:  
 **3** And Simon, who was surnamed Thasi;  
@@ -123,8 +123,7 @@ format: markdown
 **15** And they that were sent from king Antiochus, came thither, to compel them that were fled into the city of Modin, to sacrifice, and to burn incense, and to depart from the law of God.  
 **16** And many of the people of Israel consented and came to them: but Mathathias and his sons stood firm.  
 **17** And they that were sent from Antiochus, answering, said to Mathathias: Thou art a ruler, and an honourable, and great man in this city, and adorned with sons, and brethren.  
-**18** Therefore, come thou first, and obey the king's commandment, as all nations have done, and the men of Juda, and they that remain in Jerusalem: and thou, and thy sons shall be in the number of the king's friends, and enriched with gold, and silver, and many presents.  
-**19** Then Mathathias answered, and said with a loud voice: Although all nations obey king Antiochus, so as to depart every man from the service of the law of his fathers, and consent to his commandments:  
+**18** Therefore, come thou first, and obey the king's commandment, as all nations have done, and the men of Juda, and they that remain in Jerusalem: and thou, and thy sons shall be in the number of the king's friends, and enriched with gold, and silver, and many presents. 2:19. Then Mathathias answered, and said with a loud voice: Although all nations obey king Antiochus, so as to depart every man from the service of the law of his fathers, and consent to his commandments:  
 **20** I and my sons, and my brethren will obey the law of our fathers.  
 **21** God be merciful unto us: it is not profitable for us to forsake the law, and the justices of God:  
 **22** We will not hearken to the words of king Antiochus, neither will we sacrifice and transgress the commandments of our law, to go another way.  
@@ -132,9 +131,9 @@ format: markdown
 **24** And Mathathias saw, and was grieved, and his reins trembled, and his wrath was kindled according to the judgment of the law, and running upon him he slew him upon the altar:  
 **25** Moreover the man whom king Antiochus had sent, who compelled them to sacrifice, he slew at the same time, and pulled down the altar,  
 **26** And shewed zeal for the law, as Phinees did by Zamri, the son of Salomi.  
-**27** And Mathathias cried out in the city with a loud voice, saying: him follow me.  
+**27** And Mathathias cried out in the city with a loud voice, saying: Every one that hath zeal for the law, and maintaineth the testament, let him follow me.  
 **28** So he and his sons fled into the mountains, and left all that they had in the city.  
-**29** Then many that sought after judgment, and justice, went down into the desert:  
+**29** Then many that sought after judgment, and justice, went down into the desert,  
 **30** And they abode there, they and their children, and their wives, and their cattle: because afflictions increased upon them.  
 **31** And it was told to the king's men, and to the army that was in Jerusalem, in the city of David, that certain men, who had broken the king's commandment, were gone away into the secret places in the wilderness, and that many were gone after them.  
 **32** And forthwith they went out towards them, and made war against them on the sabbath day.  
@@ -147,13 +146,13 @@ format: markdown
 **39** And Mathathias and his friends heard of it, and they mourned for them exceedingly.  
 **40** And every man said to his neighbour: If we shall all do as our brethren have done, and not fight against the heathens for our lives, and our justifications, they will now quickly root us out of the earth.  
 **41** And they determined in that day, saying: Whosoever shall come up against us to fight on the sabbath day, we will fight against him: and we will not all die, as our brethren that were slain in the secret places.  
-**42** Then was assembled to them the congregation of the Assideans, the stoutest of Israel, every one that had a good will for the law. zealous for the law and worship of God.  
+**42** Then was assembled to them the congregation of the Assideans, the stoutest of Israel, every one that had a good will for the law.  
 **43** And all they that fled from the evils, joined themselves to them, and were a support to them.  
 **44** And they gathered an army, and slew the sinners in their wrath, and the wicked men in their indignation: and the rest fled to the nations for safety.  
 **45** And Mathathias and his friends went round about, and they threw down the altars:  
 **46** And they circumcised all the children whom they found in the confines of Israel that were uncircumcised: and they did valiantly.  
 **47** And they pursued after the children of pride, and the work prospered in their hands:  
-**48** And they recovered the law out of the hands of the nations, and out of the hands of the kings: and they yielded not the horn to the sinner. of Antiochus, that man of sin, to abolish the law and religion of God.  
+**48** And they recovered the law out of the hands of the nations, and out of the hands of the kings: and they yielded not the horn to the sinner.  
 **49** Now the days drew near that Mathathias should die, and he said to his sons: Now hath pride and chastisement gotten strength, and the time of destruction, and the wrath of indignation:  
 **50** Now, therefore, O my sons, be ye zealous for the law, and give your lives for the covenant of your fathers.  
 **51** And call to remembrance the works of the fathers, which they have done in their generations: and you shall receive great glory, and an everlasting name.  
@@ -234,11 +233,11 @@ format: markdown
 **51** For thy holies are trodden down, and are profaned, and thy priests are in mourning, and are brought low.  
 **52** And behold the nations are come together against us, to destroy us: thou knowest what they intend against us.  
 **53** How shall we be able to stand before their face, unless thou, O God, help us?  
-**54** Then they sounded with trumpets, and cried out with a loud voice.  
-**55** And after this, Judas appointed captains over the people, over thousands, and over hundreds, and over fifties, and over tens.  
-**56** And he said to them that were building houses, or had betrothed wives, or were planting vineyards, or were fearful, that they should return every man to his house, according to the law.  
-**57** So they removed the camp, and pitched on the south side of Emmaus.  
-**58** And Judas said: Gird yourselves, and be valiant men, and be ready against the morning, that you may fight with these nations that are assembled against us to destroy us and our sanctuary.  
+**64** Then they sounded with trumpets, and cried out with a loud voice.  
+**66** And after this, Judas appointed captains over the people, over thousands, and over hundreds, and over fifties, and over tens.  
+**66** And he said to them that were building houses, or had betrothed wives, or were planting vineyards, or were fearful, that they should return every man to his house, according to the law.  
+**67** So they removed the camp, and pitched on the south side of Emmaus.  
+**68** And Judas said: Gird yourselves, and be valiant men, and be ready against the morning, that you may fight with these nations that are assembled against us to destroy us and our sanctuary.  
 **59** For it is better for us to die in battle, than to see the evils of our nation, and of the holies:  
 **60** Nevertheless, as it shall be the will of God in heaven, so be it done.  
 
@@ -270,12 +269,13 @@ format: markdown
 **22** So they all fled away into the land of the strangers.  
 **23** And Judas returned to take the spoils of the camp, and they got much gold, and silver, and blue silk, and purple of the sea, and great riches.  
 **24** And returning home, they sung a hymn, and blessed God in heaven, because he is good, because his mercy endureth for ever.  
-**25** So Israel had a great deliverance that day. had happened.  
+**25** So Israel had a great deliverance that day.  
 **27** And when he heard these things, he was amazed and discouraged: because things had not succeeded in Israel according to his mind, and as the king had commanded.  
 **28** So the year following, Lysias gathered together threescore thousand chosen men, and five thousand horsemen, that he might subdue them.  
 **29** And they came into Judea, and pitched their tents in Bethoron, and Judas met them with ten thousand men.  
-**30** And they saw that the army was strong, and he prayed and said: the mighty by the hand of thy servant David, and didst deliver up the camp of the strangers into the hands of Jonathan the son of Saul, and of his armour bearer.  
-**31** Shut up this army in the hands of thy people Israel, and let them be confounded in their host and their horsemen. 4:32. Strike them with fear, and cause the boldness of their strength to languish, and let them quake at their own destruction.  
+**30** And they saw that the army was strong, and he prayed and said: Blessed art thou, O Saviour of Israel, who didst break the violence of the mighty by the hand of thy servant David, and didst deliver up the camp of the strangers into the hands of Jonathan the son of Saul, and of his armour bearer.  
+**31** Shut up this army in the hands of thy people Israel, and let them be confounded in their host and their horsemen  
+**32** Strike them with fear, and cause the boldness of their strength to languish, and let them quake at their own destruction.  
 **33** Cast them down with the sword of them that love thee: and let all that know thy name praise thee with hymns.  
 **34** And they joined battle: and there fell of the army of Lysias five thousand men.  
 **35** And when Lysias saw that his men were put to flight, and how bold the Jews were, and that they were ready either to live, or to die manfully, he went to Antioch, and chose soldiers, that they might come again into Judea with greater numbers.  
@@ -413,7 +413,7 @@ format: markdown
 **28** Now when the king heard this, he was angry: and he called together all his friends, and the captains of his army, and them that were over the horsemen.  
 **29** There came also to him from other realms, and from the islands of the sea, hired troops.  
 **30** And the number of his army was an hundred thousand footmen, and twenty thousand horsemen, and thirty-two elephants trained to battle.  
-**31** And they went through Idumea, and approached to Bethsura, and fought many days, and they made engines: but they sallied forth, and burnt them with fire, and fought manfully. forth and burnt them, that is, burnt the engines of the besiegers.  
+**31** And they went through Idumea, and approached to Bethsura, and fought many days, and they made engines: but they sallied forth, and burnt them with fire, and fought manfully.  
 **32** And Judas departed from the castle, and removed the camp to Bethzacharam, over against the king's camp.  
 **33** And the king rose before it was light, and made his troops march on fiercely towards the way of Bethzacharam: and the armies made themselves ready for the battle, and they sounded the trumpets:  
 **34** And they shewed the elephants the blood of grapes, and mulberries, to provoke them to fight.  
@@ -468,7 +468,7 @@ format: markdown
 **15** And he spoke to them peaceably: and he swore to them, saying: We will do you no harm, nor your friends.  
 **16** And they believed him. And he took threescore of them, and slew them in one day, according to the word that is written:  
 **17** The flesh of thy saints, and the blood of them they have shed round about Jerusalem, and there was none to bury them.  
-**18** Then fear and trembling fell upon all the people: for they said: covenant, and the oath which they made.  
+**18** Then fear and trembling fell upon all the people: for they said: There is no truth, nor justice among them: for they have broken the covenant, and the oath which they made.  
 **19** And Bacchides removed the camp from Jerusalem, and pitched in Bethzecha: and he sent, and took many of them that were fled away from him, and some of the people he killed, and threw them into a great pit.  
 **20** Then he committed the country to Alcimus, and left with him troops to help him. So Bacchides went away to the king.  
 **21** But Alcimus did what he could to maintain his chief priesthood.  
@@ -488,7 +488,7 @@ format: markdown
 **35** And swore in anger, saying: Unless Judas and his army be delivered into my hands, as soon as ever I return in peace, I will burn this house. And he went out in a great rage.  
 **36** And the priests went in, and stood before the face of the altar and the temple: and weeping, they said:  
 **37** Thou, O Lord, hast chosen this house for thy name to be called upon therein, that it might be a house of prayer and supplication for thy people.  
-**38** Be avenged of this man, and his army, and let them fall by the sword: remember their blasphemies, and suffer them not to continue any longer.  
+**38** Be avenged of this man, and his army, and let them fall by the sword: remember their blasphemies, and suffer them not to continne any longer.  
 **39** Then Nicanor went out from Jerusalem, and encamped near to Bethoron: and an army of Syria joined him.  
 **40** But Judas pitched in Adarsa with three thousand men: and Judas prayed, and said:  
 **41** O Lord, when they that were sent by king Sennacherib blasphemed thee, an angel went out, and slew of them a hundred and eighty-five thousand:  
@@ -507,7 +507,7 @@ format: markdown
 ## Chapter 8
 
 **1** Now Judas heard of the fame of the Romans, that they are powerful and strong, and willingly agree to all things that are requested of them: and that whosoever have come to them, they have made amity with them, and that they are mighty in power.  
-**2** And they heard of their battles, and their noble acts which they had done in Galatia, how they had conquered them, and brought them under tribute: the ancient Romans, is not an assertion, or affirmation of the sacred writer: but only a relation of what Judas had heard of them.  
+**2** And they heard of their battles, and their noble acts which they had done in Galatia, how they had conquered them, and brought them under tribute:  
 **3** And how great things they had done in the land of Spain, and that they had brought under their power the mines of silver and of gold that are there, and had gotten possession of all the place by their counsel and patience:  
 **4** And had conquered places that were very far off from them, and kings that came against them from the ends of the earth, and had overthrown them with great slaughter: and the rest pay them tribute every year.  
 **5** And that they had defeated in battle Philip and Perses the king of the Ceteans, and the rest that had borne arms against them, and had conquered them:  
@@ -521,13 +521,14 @@ format: markdown
 **13** That whom they had a mind to help to a kingdom, those reigned: and whom they would, they deposed from the kingdom: and they were greatly exalted.  
 **14** And none of all these wore a crown, or was clothed in purple, to be magnified thereby.  
 **15** And that they had made themselves a senate house, and consulted daily three hundred and twenty men, that sat in counsel always for the people, that they might do the things that were right:  
-**16** And that they committed their government to one man every year, to rule over all their country, and they all obey one, and there is no envy nor jealousy amongst them. each in his day.-Ibid. No envy, etc... So Judas had heard: and it was so far true, with regard to the ancient Romans, that as yet no envy or jealousy had divided them into such open factions and civil wars, as they afterwards experienced in the time of Marius and Sylla, etc.  
+**16** And that they committed their government to one man every year, to rule over all their country, and they all obey one, and there is no envy nor jealousy amongst them.  
 **17** So Judas chose Eupolemus, the son of John, the son of Jacob, and Jason, the son of Eleazar, and he sent them to Rome to make a league of amity and confederacy with them:  
 **18** And that they might take off from them the yoke of the Grecians, for they saw that they oppressed the kingdom of Israel with servitude.  
 **19** And they went to Rome, a very long journey, and they entered into the senate house, and said:  
 **20** Judas Machabeus, and his brethren, and the people of the Jews, have sent us to you to make alliance and peace with you, and that we may be registered your confederates and friends.  
 **21** And the proposal was pleasing in their sight.  
-**22** And this is the copy of the writing that they wrote back again, graven in tables of brass, and sent to Jerusalem, that it might be with them there for a memorial of the peace, and alliance. 8:23. GOOD SUCCESS BE TO THE ROMANS, and to the people of the Jews by sea, and by land, for ever: and far be the sword and enemy from them.  
+**22** And this is the copy of the writing that they wrote back again, graven in tables of brass, and sent to Jerusalem, that it might be with them there for a memorial of the peace, and alliance.  
+**23** GOOD SUCCESS BE TO THE ROMANS, and to the people of the Jews by sea, and by land, for ever: and far be the sword and enemy from them.  
 **24** But if there come first any war upon the Romans, or any of their confederates, in all their dominions:  
 **25** The nation of the Jews shall help them according as the time shall direct, with all their heart:  
 **26** Neither shall they give them, whilst they are fighting, or furnish them with wheat, or arms, or money, or ships, as it hath seemed good to the Romans: and they shall obey their orders, without taking any thing of them.  
@@ -572,7 +573,7 @@ format: markdown
 **28** And all the friends of Judas came together, and said to Jonathan:  
 **29** Since thy brother Judas died there is not a man like him to go forth against our enemies, Bacchides, and them that are the enemies of our nation.  
 **30** Now, therefore, we have chosen thee this day to be our prince, and captain, in his stead, to fight our battles.  
-**31** So Jonathan took upon him the government at that time, and rose up in the place of Judas, his brother.  
+**31** So Jonathan took upon him the government at that time, and rose up in the place of Judas, his brother,  
 **32** And Bacchides had knowledge of it, and sought to kill him.  
 **33** And Jonathan, and Simon, his brother, knew it, and all that were with them: and they fled into the desert of Thecua, and they pitched by the water of the lake Asphar,  
 **34** And Bacchides understood it, and he came himself, with all his army, over the Jordan, on the sabbath day.  
@@ -673,7 +674,7 @@ format: markdown
 **51** And Alexander sent ambassadors to Ptolemee king of Egypt, with words to this effect, saying:  
 **52** Forasmuch as I am returned into my kingdom and am set in the throne of my ancestors, and have gotten the dominion, and have overthrown Demetrius and possessed our country,  
 **53** And have joined battle with him, and both he and his army have been destroyed by us, and we are placed in the throne of his kingdom:  
-**54** Now, therefore, let us make friendship one with another: and give me now thy daughter to wife, and I will be thy son-in-law, and I will give both thee and her gifts worthy of thee.  
+**54** Now, therefore, let us make friendship one with another: and give me now thy daughter to wife, and I will be thy son in law, and I will give both thee and her gifts worthy of thee.  
 **55** And king Ptolomee answered, saying: Happy is the day wherein thou didst return to the land of thy fathers, and sattest in the throne of their kingdom.  
 **56** And now I will do to thee as thou hast written but meet me at Ptolemais, that we may see one another, and I may give her to thee as thou hast said.  
 **57** So Ptolemee went out of Egypt, with Cleopatra his daughter, and he came to Ptolemais, in the hundred and sixty-second year.  
@@ -681,7 +682,7 @@ format: markdown
 **59** And king Alexander wrote to Jonathan, that he should come and meet him.  
 **60** And he went honourably to Ptolemais, and he met there the two kings, and he gave them much silver, and gold, and presents: and he found favour in their sight.  
 **61** And some pestilent men of Israel, men of a wicked life, assembled themselves against him, to accuse him: and the king gave no heed to them.  
-**62** And he commanded that Jonathan's garments should be taken off, and that he should be clothed with purple: and they did so. And the king made him sit by himself.  
+**62** And he commanded that Jonathan's garments should he taken off, and that he shonld be clothed with purple: and they did so. And the king made him sit by himself.  
 **63** And he said to his princes: Go out with him into the midst of the city, and make proclamation, that no man complain against him of any matter, and that no man trouble him for any manner of cause.  
 **64** So when his accusers saw his glory proclaimed, and him clothed with purple, they all fled away.  
 **65** And the king magnified him, and enrolled him amongst his chief friends, and made him governor, and partaker of his dominion.  
@@ -689,7 +690,7 @@ format: markdown
 **67** In the year one hundred and sixty-five, Demetrius, the son of Demetrius, came from Crete into the land of his fathers.  
 **68** And king Alexander heard of it, and was much troubled, and returned to Antioch.  
 **69** And king Demetrius made Apollonius his general, who was governor of Celesyria: and he gathered together a great army, and came to Jamnia: and he sent to Jonathan, the high priest,  
-**70** Saying: Thou alone standest against us, and I am laughed at and reproached, because thou shewest thy power against us in the mountains.  
+**70** Saying: Thou alone standest against us, and I am laughed at and reproached, because thou shewest thy power against us in the mountuins.  
 **71** Now, therefore, if thou trustest in thy forces, come down to us into the plain, and there let us try one another: for with me is the strength of war.  
 **72** Ask, and learn who I am, and the rest that help me, who also say that your foot cannot stand before our face, for thy fathers have twice been put to flight in their own land:  
 **73** And now how wilt thou be able to abide the horsemen, and so great an army in the plain, where there is no stone, nor rock, nor place to flee to?  
@@ -715,7 +716,7 @@ format: markdown
 ## Chapter 11
 
 **1** And the king of Egypt gathered together an army, like the sand that lieth upon the sea shore, and many ships: and he sought to get the kingdom of Alexander by deceit, and join it to his own kingdom.  
-**2** And he went out into Syria with peaceable words and they opened to him the cities, and met him: for king Alexander had ordered them to go forth to meet him, because he was his father-in-law.  
+**2** And he went out into Syria with peaceable words and they opened to him the cities, and met him: for king Alexander had ordered them to go forth to meet him, because he was his father in law.  
 **3** Now when Ptolemee entered into the cities, he put garrisons of soldiers in every city.  
 **4** And when he came near to Azotns, they shewed him the temple of Dagon that was burnt with fire, and Azotus, and the suburbs thereof, that were destroyed, and the bodies that were cast abroad, and the graves of them that were slain in the battle, which they had made near the way.  
 **5** And they told the king that Jonathan had done these things, to make him odious: but the king held his peace.  
@@ -773,7 +774,7 @@ format: markdown
 **57** And young Antiochus wrote to Jonathan, saying: I confirm thee in the high priesthood, and I appoint thee ruler over the four cities, and to be one of the king's friends.  
 **58** And he sent him vessels of gold for his service, and he gave him leave to drink in gold, and to be clothed in purple, and to wear a golden buckle:  
 **59** And he made his brother, Simon, governor, from the borders of Tyre even to the confines of Egypt.  
-**60** Then Jonathan went forth, and passed through the cities beyond the river, and all the forces of Syria gathered themselves to him to help him, and he came to Ascalon, and they met him honourably out of the city.  
+**60** Then Jonathan went forth, and passed through the cities beyond the river, and all the forces of Syria gathered themselves to him to help him, and he came to Ascalon, and they met him hononrably out of the city.  
 **61** And he went from thence to Gaza: and they that were in Gaza shut him out: and he besieged it, and burnt all the suburbs round about, and took the spoils.  
 **62** And the men of Gaza made supplication to Jonathan, and he gave them the right hand: and he took their sons for hostages, and sent them to Jerusalem: and he went through the country, as far as Damascus.  
 **63** And Jonathan heard that the generals of Demetrius were come treacherously to Cades, which is in Galilee, with a great army, purposing to remove him from the affairs of the kingdom.  
@@ -787,7 +788,7 @@ format: markdown
 **71** And Jonathan rent his garments, and cast earth upon his head, and prayed.  
 **72** And Jonathan turned again to them to battle, and he put them to flight, and they fought.  
 **73** And they of his part that fled saw this, and they turned again to him, and they all with him pursued the enemies, even to Cades, to their own camp, and they came even thither.  
-**74** And there fell of the aliens in that day three thousand men: and Jonathan returned to Jerusalem.  
+**74** And there fell of the aliens in that day three thousand men: and Jonathan returned to Jernsalem.  
 
 ---
 
@@ -804,7 +805,7 @@ format: markdown
 **9** We, though we needed none of these things having for our comfort the holy books that are in our hands,  
 **10** Chose rather to send to you to renew the brotherhood and friendship, lest we should become stranger to you altogether: for there is a long time passed since you sent to us.  
 **11** We, therefore, at all times without ceasing, both in our festivals, and other days wherein it is convenient, remember you in the sacrifices that we offer, and in our observances, as it is meet and becoming to remember brethren.  
-**12** And we rejoice at your glory.  
+**12** And we rejoice at yonr glory.  
 **13** But we have had many troubles and wars on every side; and the kings that are round about us have fought against us.  
 **14** But we would not be troublesome to you, nor to the rest of our allies and friends, in these wars.  
 **15** For we have had help from heaven, and we have been delivered, and our enemies are humbled.  
@@ -871,7 +872,7 @@ format: markdown
 **17** Now Simon knew that he spoke deceitfully to him; nevertheless, he ordered the money and the children to be sent, lest he should bring upon himself a great hatred of the people of Israel, who might have said:  
 **18** Because he sent not the money and the children therefore is he lost.  
 **19** So he sent the children and the hundred talents and he lied, and did not let Jonathan go.  
-**20** And after this, Tryphon entered within the country, to destroy it: and they went about by the way that leadeth to Ador: and Simon and his army marched to every place whithersoever they went. them.  
+**20** And after this, Tryphon entered within the country, to destroy it: and they went about by the way that leadeth to Ador: and Simon and his army marched to every place whithersoever they went.  
 **21** And they that were in the castle, sent messengers to Tryphon, that he should make haste to come through the desert, and send them victuals.  
 **22** And Tryphon made ready all his horsemen to come that night; but there fell a very great snow, and he came not into the country of Galaad.  
 **23** And when he approached to Bascama, he slew Jonathan and his sons there.  
@@ -889,7 +890,7 @@ format: markdown
 **35** And king Demetrius, in answer to this request, wrote a letter in this manner:  
 **36** King Demetrius to Simon, the high priest, and friend of kings, and to the ancients, and to the nation of the Jews, greeting:  
 **37** The golden crown, and the palm, which you sent, we have received: and we are ready to make a firm peace with you, and to write to the king's chief officers to release you the things that we have released.  
-**38** For all that we have decreed in your favour shall stand in force.  
+**38** For all that we have decreed in your favour shall stand in force. The strong holds that you have built, shall be your own.  
 **39** And as for any oversight or fault committed unto this day, we forgive it: and the crown which you owed: and if any other thing were taxed in Jerusalem, now let it not be taxed.  
 **40** And if any of you be fit to be enrolled among ours, let them be enrolled, and let there be peace between us.  
 **41** In the year one hundred and seventy, the yoke of the Gentiles was taken off from Israel.  
@@ -919,7 +920,7 @@ format: markdown
 **6** And he enlarged the bounds of his nation, and made himself master of the country.  
 **7** And he gathered together a great number of captives, and had the dominion of Gazara, and of Bethsura, and of the castle: and took away all uncleanness out of it, and there was none that resisted him.  
 **8** And every man tilled his land with peace, and the land of Juda yielded her increase, and the trees of the fields their fruit.  
-**9** The ancient men sat all in the streets, and treated together of the good things of the land, and the young men put on them glory, and the robes of war.  
+**9** The ancient men sat all in the streets, and treated together of the good things of the land, and the youug men put on them glory, and the robes of war.  
 **10** And he provided victuals for the cities, and he appointed that they should be furnished with ammunition, so that the fame of his glory was renowned even to the end of the earth.  
 **11** He made peace in the land, and Israel rejoiced with great joy.  
 **12** And every man sat under his vine, and under his fig tree: and there was none to make them afraid.  
@@ -1011,7 +1012,7 @@ format: markdown
 
 ## Chapter 16
 
-**1** Then John came up from Gazara, and told Simon, his father, what Cendebeus had done against their people. both his dignities of high priest and prince. He conquered the Edomites, and obliged them to a conformity with the Jews in religion; and destroyed the schismatical temple of the Samaritans.  
+**1** Then John came up from Gazara, and told Simon, his father, what Cendebeus had done against their people.  
 **2** And Simon called his two eldest sons, Judas and John, and said to them: I and my brethren, and my father's house, have fought against the enemies of Israel from our youth even to this day: and things have prospered so well in our hands, that we have delivered Israel oftentimes.  
 **3** And now I am old, but be you instead of me, and my brethren, and go out, and fight for our nation: and the help from heaven be with you.  
 **4** Then he chose out of the country twenty thousand fighting men, and horsemen, and they went forth against Cendebeus: and they rested in Modin.  
@@ -1019,10 +1020,10 @@ format: markdown
 **6** And he and his people pitched their camp over against them, and he saw that the people were afraid to go over the river, so he went over first: then the men seeing him, passed over after him.  
 **7** And he divided the people, and set the horsemen in the midst of the footmen: but the horsemen of the enemies were very numerous.  
 **8** And they sounded the holy trumpets: and Cendebeus and his army were put to flight: and there fell many of them wounded, and the rest fled into the strong hold.  
-**9** At that time, Judas, John's brother, was wounded: but John pursued after them, till he came to Cedron, which he had built: fortifying.  
+**9** At that time, Judas, John's brother, was wounded: but John pursued after them, till he came to Cedron, which he had built:  
 **10** And they fled even to the towers that were in the fields of Azotus, and he burnt them with fire. And there fell of them two thousand men, and he returned into Judea in peace.  
 **11** Now Ptolemee, the son of Abobus, was appointed captain in the plain of Jericho, and he had abundance of silver and gold.  
-**12** For he was son-in-law of the high priest.  
+**12** For he was son in law of the high priest.  
 **13** And his heart was lifted up, and he designed to make himself master of the country, and he purposed treachery against Simon and his sons, to destroy them.  
 **14** Now Simon, as he was going through the cities that were in the country of Judea, and taking care for the good ordering of them, went down to Jericho, he and Mathathias and Judas, his sons, in the year one hundred and seventy-seven, the eleventh month: the same is the month Sabath.  
 **15** And the son of Abobus received them deceitfully into a little fortress, that is called Doch, which he had built: and he made them a great feast, and hid men there.  

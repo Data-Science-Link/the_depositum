@@ -51,52 +51,51 @@ format: markdown
 ## Chapter 1
 
 **1** And Moab rebelled against Israel, after the death of Achab.  
-**2** And Ochozias fell through the lattices of his upper chamber, which he had in Samaria, and was sick: and he sent messengers, saying to them: this my illness.  
-**3** And an angel of the Lord spoke to Elias, the Thesbite, saying: to them: Is there not a God in Israel, that ye go to consult Beelzebub, the god of Accaron?  
+**2** And Ochozias fell through the lattices of his upper chamber, which he had in Samaria, and was sick: and he sent messengers, saying to them: Go, consult Beelzebub, the god of Accaron, whether I shall recover of this my illness.  
+**3** And an angel of the Lord spoke to Elias, the Thesbite, saying: Arise, and go up to meet the messengers of the king of Samaria, and say to them: Is there not a God in Israel, that ye go to consult Beelzebub, the god of Accaron?  
 **4** Wherefore, thus saith the Lord: From the bed, on which thou art gone up, thou shalt not come down, but thou shalt surely die. And Elias went away.  
-**5** And the messengers turned back to Ochozias. And he said to them:  
+**5** And the messengers turned back to Ochozias. And he said to them: Why are you come back?  
 **6** But they answered him: A man met us, and said to us: Go, and return to the king, that sent you, and you shall say to him: Thus saith the Lord: Is it because there was no God in Israel, that thou sendest to Beelzebub, the god of Accaron? Therefore thou shalt not come down from the bed, on which thou art gone up, but thou shalt surely die.  
 **7** And he said to them: What manner of man was he who met you, and spoke these words?  
 **8** But they said: A hairy man, with a girdle of leather about his loins. And he said: It is Elias, the Thesbite.  
 **9** And he sent to him a captain of fifty, and the fifty men that were under him. And he went up to him, and as he was sitting on the top of a hill, he said to him: Man of God, the king hath commanded that thou come down.  
-**10** And Elias answering, said to the captain of fifty: If I be a man of God, let fire come down from heaven and consume thee, and thy fifty. that were with him. these captains, who came to apprehend him; not out of a desire to gratify any private passion; but to punish the insult offered to religion, to confirm his mission, and to shew how vain are the efforts of men against God, and his servants, whom he willeth to protect.  
-**11** And he again sent to him another captain of fifty men, and his fifty with him. And he said to him: Man of God: Thus saith the king:  
+**10** And Elias answering, said to the captain of fifty: If I be a man of God, let fire come down from heaven and consume thee, and thy fifty. And there came down fire from heaven and consumed him, and the fifty that were with him.  
+**11** And he again sent to him another captain of fifty men, and his fifty with him. And he said to him: Man of God: Thus saith the king: Make haste and come down.  
 **12** Elias answering, said: If I be a man of God, let fire come down from heaven, and consume thee, and thy fifty. And fire came down from heaven, and consumed him and his fifty.  
 **13** Again he sent a third captain of fifty men, and the fifty that were with him. And when he was come, he fell upon his knees before Elias, and besought him, and said: Man of God, despise not my life, and the lives of thy servants that are with me.  
 **14** Behold fire came down from heaven, and consumed the two first captains of fifty men, and the fifties that were with them: but now I beseech thee to spare my life.  
 **15** And the angel of the Lord spoke to Elias, saying: Go down with him, fear not. He arose therefore, and went down with him to the king,  
 **16** And said to him: Thus saith the Lord: Because thou hast sent messengers to consult Beelzebub, the god of Accaron, as though there were not a God in Israel, of whom thou mightest inquire the word; therefore, from the bed on which thou art gone up, thou shalt not come down, but thou shalt surely die.  
-**17** So he died, according to the word of the Lord, which Elias spoke; and Joram, his brother, reigned in his stead, in the second year of Joram, the son of Josaphat, king of Juda, because he had no son. associated to the throne by his father Josaphat.  
+**17** So he died, according to the word of the Lord, which Elias spoke; and Joram, his brother, reigned in his stead, in the second year of Joram, the son of Josaphat, king of Juda, because he had no son.  
 **18** But the rest of the acts of Ochozias, which he did, are they not written in the book of the words of the days of the kings of Israel?  
 
 ---
 
 ## Chapter 2
 
-**1** And it came to pass, when the Lord would take up Elias, into heaven, by a whirlwind, that Elias and Eliseus were going from Galgal. regions.  
+**1** And it came to pass, when the Lord would take up Elias, into heaven, by a whirlwind, that Elias and Eliseus were going from Galgal.  
 **2** And Elias said to Eliseus: Stay thou here, because the Lord hath sent me as far as Bethel. And Eliseus said to him: As the Lord liveth, and as thy soul liveth, I will not leave thee. And when they were come down to Bethel,  
-**3** The sons of the prophets, that were at Bethel, came forth to Eliseus, and said to him: Dost thou know that, this day, the Lord will take away thy master from thee? And he answered: I also know it: hold your peace. seem to have had their schools, like colleges or communities, in Bethel, Jericho, and other places in the days of Elias and Eliseus.  
+**3** The sons of the prophets, that were at Bethel, came forth to Eliseus, and said to him: Dost thou know that, this day, the Lord will take away thy master from thee? And he answered: I also know it: hold your peace.  
 **4** And Elias said to Eliseus: Stay here, because the Lord hath sent me to Jericho. And he said: As the Lord liveth, and as thy soul liveth, I will not leave thee. And when they were come to Jericho,  
 **5** The sons of the prophets, that were at Jericho, came to Eliseus, and said to him: Dost thou know that, this day, the Lord will take away thy master from thee? And he said: I also know it: hold your peace.  
 **6** And Elias said to him: Stay here, because the Lord hath sent me as far as the Jordan. And he said: as the Lord liveth, and as thy soul liveth, I will not leave thee. And they two went on together.  
 **7** And fifty men, of the sons of the prophets, followed them, and stood in sight, at a distance: but they two stood by the Jordan.  
 **8** And Elias took his mantle, and folded it together, and struck the waters, and they were divided hither and thither, and they both passed over on dry ground.  
-**9** And when they were gone over, Elias said to Eliseus: Ask what thou wilt have me to do for thee, before I be taken away from thee. And Eliseus said: I beseech thee, that in me may be thy double spirit. heir: or thy spirit which is double in comparison of that which God usually imparteth to his prophets.  
+**9** And when they were gone over, Elias said to Eliseus: Ask what thou wilt have me to do for thee, before I be taken away from thee. And Eliseus said: I beseech thee, that in me may be thy double spirit.  
 **10** And he answered: Thou hast asked a hard thing; nevertheless, if thou see me when I am taken from thee, thou shalt have what thou hast asked: but if thou see me not, thou shalt not have it.  
 **11** And as they went on, walking and talking together, behold, a fiery chariot and fiery horses parted them both asunder: and Elias went up by a whirlwind into heaven.  
 **12** And Eliseus saw him, and cried: My father, my father, the chariot of Israel, and the driver thereof. And he saw him no more: and he took hold of his own garments, and rent them in two pieces.  
 **13** And he took up the mantle of Elias, that fell from him: and going back, he stood on the bank of the Jordan;  
 **14** And he struck the waters with the mantle of Elias, that had fallen from him, and they were not divided. And he said: Where is now the God of Elias? And he struck the waters, and they were divided hither and thither, and Eliseus passed over.  
-**15** And the sons of the prophets, at Jericho, who were over against him, seeing it, said: The spirit of Elias hath rested upon Eliseus. And coming to meet him, they worshipped him, falling to the ground. not for any temporal, but spiritual excellency.  
-**16** And they said to him: Behold, there are with thy servants, fifty strong men, that can go, and seek thy master, lest, perhaps, the spirit of the Lord, hath taken him up and cast him upon some mountain, or into some valley. And he said: Do not send.  
+**15** And the sons of the prophets, at Jericho, who were over against him, seeing it, said: The spirit of Elias hath rested upon Eliseus. And coming to meet him, they worshipped him, falling to the ground.  
+**16** And they said to him: Behold, there are with thy servants, fifty strong men, that can go, and seek thy master, lest, perhaps, the spirit of the Lord, hath taken him up and cast him upon some monntain, or into some valley. And he said: Do not send.  
 **17** But they pressed him, till he consented, and said: Send. And they sent fifty men: and they sought three days, but found him not.  
 **18** And they came back to him: for he abode at Jericho, and he said to them: Did I not say to you? Do not send.  
-**19** And the men of the city said to Eliseus: Behold the situation of this city is very good, as thou, my lord, seest: but the waters are very bad, and the ground barren.  
 **20** And he said: Bring me a new vessel, and put salt into it. And when they had brought it,  
 **21** He went out to the spring of the waters, and cast the salt into it, and said: Thus saith the Lord: I have healed these waters, and there shall be no more in them death or barrenness.  
 **22** And the waters were healed unto this day, according to the word of Eliseus, which he spoke.  
 **23** And he went up from thence to Bethel: and as he was going up by the way, little boys came out of the city and mocked him, saying: Go up, thou bald head, go up, thou bald head.  
-**24** And looking back, he saw them, and cursed them in the name of the Lord: and there came forth two bears out of the forest, and tore of them, two and forty boys. of God, was not the effect of passion, or of a desire of revenging himself; but of zeal for religion, which was insulted by these boys, in the person of the prophet; and of a divine inspiration: God punishing in this manner the inhabitants of Bethel, (the chief seat of the calf worship,) who had trained up their children in a prejudice against the true religion and its ministers.  
+**24** And looking back, he saw them, and cursed them in the name of the Lord: and there came forth two bears out of the forest, and tore of them, two and forty boys.  
 **25** And from thence he went to mount Carmel, and from thence he returned to Samaria.  
 
 ---
@@ -127,7 +126,7 @@ format: markdown
 **22** And they rose early in the morning, and the sun being now up, and shining upon the waters, the Moabites saw the waters over against them red, like blood,  
 **23** And they said: It is the blood of the sword: the kings have fought among themselves, and they have killed one another: go now, Moab, to the spoils.  
 **24** And they went into the camp of Israel: but Israel rising up, defeated Moab, who fled before them. And they being conquerors, went and smote Moab.  
-**25** And they destroyed the cities: And they filled every goodly field, every man casting his stone: and they stopt up all the springs of waters: and cut down all the trees that bore fruit, so that brick walls only remained: and the city was beset by the slingers, and a great part thereof destroyed. of the Moabites. In Hebrew, Kir-Haraseth.  
+**25** And they destroyed the cities: And they filled every goodly field, every man casting his stone: and they stopt up all the springs of waters: and cut down all the trees that bore fruit, so that brick walls only remained: and the city was beset by the slingers, and a great part thereof destroyed.  
 **26** And when the king of Moab saw this, to wit, that the enemies had prevailed, he took with him seven hundred men that drew the sword, to break in upon the king of Edom: but they could not.  
 **27** Then he took his eldest son, that should have reigned in his stead, and offered him for a burnt offering upon the wall: and there was great indignation in Israel, and presently they departed from him, and returned into their own country.  
 
@@ -148,7 +147,7 @@ format: markdown
 **11** Now, there was a certain day, when he came, and turned into the chamber, and rested there.  
 **12** And he said to Giezi, his servant: Call this Sunamitess. And when he had called her, and she stood before him,  
 **13** He said to his servant: Say to her: Behold, thou hast diligently served us in all things; what wilt thou have me to do for thee? Hast thou any business, and wilt thou, that I speak to the king, or to the general of the army? And she answered: I dwell in the midst of my own people.  
-**14** And he said: What will she then that I do for her? And Giezi said:  
+**14** And he said: What will she then that I do for her? And Giezi said: Do not ask, for she hath no son, and her husband is old.  
 **15** Then he bid him call her. And when she was called, and stood before the door,  
 **16** He said to her: At this time, and this same hour, if life be in company, thou shalt have a son in thy womb. But she answered: Do not, I beseech thee, my lord, thou man of God, do not lie to thy handmaid.  
 **17** And the woman conceived, and brought forth a son in the time, and at the same hour that Eliseus had said.  
@@ -163,9 +162,9 @@ format: markdown
 **26** Go, therefore, to meet her, and say to her: Is all well with thee, and with thy husband, and with thy son? And she answered: Well.  
 **27** And when she came to the man of God, to the mount, she caught hold on his feet: and Giezi came to remove her. And the man of God said: Let her alone for her soul is in anguish, and the Lord hath hid it from me, and hath not told me.  
 **28** And she said to him: Did I ask a son of my lord? did I not say to thee: Do not deceive me?  
-**29** Then he said to Giezi: Gird up thy loins, and take my staff in thy hand, and go. If any man meet thee, salute him not: and if any man salute thee, answer him not: and lay my staff upon the face of the child. spiritually dead, must not suffer himself to be called off, or diverted from his enterprise, by the salutations or ceremonies of the world.  
+**29** Then he said to Giezi: Gird up thy loins, and take my staff in thy hand, and go. If any man meet thee, salute him not: and if any man salute thee, answer him not: and lay my staff upon the face of the child.  
 **30** But the mother of the child said: As the Lord liveth, and as thy soul liveth, I will not leave thee. He arose, therefore, and followed her.  
-**31** But Giezi was gone before them, and laid the staff upon the face of the child, and there was no voice nor sense: and he returned to meet him, and told him, saying: The child is not risen. prophet Eliseus, thus: By the staff sent by his servant is figured the rod of Moses, or the Old Law, which was not sufficient to bring mankind to life then dead in sin. It was necessary that Christ himself should come, and by taking on human nature, become flesh of our flesh, and restore us to life. In this Eliseus was a figure of Christ, as it was necessary that he should come himself to bring the dead child to life and restore him to his mother, who is here, in a mystical sense, a figure of the Church.  
+**31** But Giezi was gone before them, and laid the staff upon the face of the child, and there was no voice nor sense: and he returned to meet him, and told him, saying: The child is not risen.  
 **32** Eliseus, therefore, went into the house, and behold the child lay dead on his bed:  
 **33** And going in, he shut the door upon him, and upon the child, and prayed to the Lord.  
 **34** And he went up, and lay upon the child: and put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands: and he bowed himself upon him, and the child's flesh grew warm.  
@@ -173,7 +172,7 @@ format: markdown
 **36** And he called Giezi, and said to him: Call this Sunamitess. And she being called, went in to him: and he said: Take up thy son.  
 **37** She came and fell at his feet, and worshipped upon the ground: and took up her son, and went out.  
 **38** And Eliseus returned to Galgal, and there was a famine in the land, and the sons of the prophets dwelt before him: And he said to one of his servants: Set on the great pot, and boil pottage for the sons of the prophets.  
-**39** And one went out into the field to gather wild herbs: and he found something like a wild vine, and gathered of it wild gourds of the field, and filled his mantle, and coming back, he shred them into the pot of pottage; for he knew not what it was. and therefore are called the gall of the earth; and are poisonous if taken in a great quantity.  
+**39** And one went out into the field to gather wild herbs: and he found something like a wild vine, and gathered of it wild gourds of the field, and filled his mantle, and coming back, he shred them into the pot of pottage; for he knew not what it was.  
 **40** And they poured it out for their companions to eat: and when they had tasted of the pottage, they cried out, saying: Death is in the pot, O man of God. And they could not eat thereof.  
 **41** But he said: Bring some meal. And when they had brought it, he cast it into the pot, and said: Pour out for the people, that they may eat. And there was now no bitterness in the pot.  
 **42** And a certain man came from Baalsalisa, bringing to the man of God, bread of the firstfruits, twenty loaves of barley, and new corn in his scrip. And he said: Give to the people, that they may eat.  
@@ -202,13 +201,13 @@ format: markdown
 **16** But he answered: As the Lord liveth, before whom I stand, I will receive none. And when he pressed him, he still refused.  
 **17** And Naaman said: As thou wilt: but I beseech thee, grant to me, thy servant, to take from hence two mules' burden of earth: for thy servant will not henceforth offer holocaust, or victim, to other gods, but to the Lord.  
 **18** But there is only this, for which thou shalt entreat the Lord for thy servant; when my master goeth into the temple of Remmon, to worship there, and he leaneth on my hand: if I bow down in the temple of Remmon, when he boweth down in the same place, that the Lord pardon me, thy servant, for this thing.  
-**19** And he said to him: Go in peace. So he departed from him, in the spring time of the earth. conformity to an idolatrous worship; but only a service which by his office he owed to his master: who on all public occasions leaned on him: so that his bowing down when his master bowed himself down was not in effect adoring the idols: nor was it so understood by the standers by, since he publicly professed himself a worshipper of the only true and living God, but it was no more than doing a civil office to the king his master, whose leaning upon him obliged him to bow at the same time that he bowed.  
+**19** And he said to him: Go in peace. So he departed from him, in the spring time of the earth.  
 **20** But Giezi, the servant of the man of God, said: My master hath spared Naaman this Syrian, in not receiving of him that which he brought: as the Lord liveth, I will run after him, and take something of him.  
 **21** And Giezi followed after Naaman: and when he saw him running after him, he leapt down from his chariot to meet him, and said: Is all well?  
 **22** And he said: Well: my master hath sent me to thee, saying: Just now there are come to me from mount Ephraim, two young men of the sons of the prophets: give them a talent of silver, and two changes of garments.  
 **23** And Naaman said: It is better that thou take two talents. And he forced him, and bound two talents of silver in two bags, and two changes of garments, and laid them upon two of his servants, and they carried them before him.  
 **24** And when he was come, and now it was the evening, he took them from their hands, and laid them up in the house, and sent the men away, and they departed.  
-**25** But he went in, and stood before his master. And Eliseus said:  
+**25** But he went in, and stood before his master. And Eliseus said: Whence comest thou, Giezi? He answered: Thy servant went no whither.  
 **26** But he said: Was not my heart present, when the man turned back, from his chariot, to meet thee? So now thou hast received money, and received garments, to buy oliveyards and vineyards, and sheep, and oxen, and men-servants, and maid-servants.  
 **27** But the leprosy of Naaman, shall also stick to thee, and to thy seed for ever. And he went out from him a leper, as white as snow.  
 
@@ -226,14 +225,14 @@ format: markdown
 **8** And the king of Syria warred against Israel, and took counsel with his servants, saying: In such and such a place, let us lay an ambush.  
 **9** And the man of God sent to the king of Israel, saying: Beware that thou pass not to such a place: for the Syrians are there in ambush.  
 **10** And the king of Israel, sent to the place which the man of God had told him, and prevented him, and looked well to himself there not once nor twice.  
-**11** And the heart of the king of Syria, was troubled for this thing. it is that betrays me to the king of Israel?  
+**11** And the heart of the king of Syria, was troubled for this thing. And calling together his servants, he said: Why do you not tell me who it is that betrays me to the king of Israel?  
 **12** And one of his servants said: No one, my lord, O king: but Eliseus, the prophet, that is in Israel, telleth the king of Israel all the words, that thou speakest in thy privy chamber.  
 **13** And he said to them: Go, and see where he is: that I may send and take him. And they told him: saying: Behold he is in Dothan.  
 **14** Therefore, he sent thither horses, and chariots, and the strength of an army: and they came by night, and beset the city.  
 **15** And the servant of the man of God, rising early went out, and saw an army round about the city, and horses and chariots: and he told him, saying: Alas, alas, alas, my lord, what shall we do?  
 **16** But he answered: Fear not: for there are more with us than with them.  
 **17** And Eliseus prayed, and said: Lord, open his eyes, that he may see. And the Lord opened the eyes of the servant, and he saw: and behold, the mountain was full of horses, and chariots of fire round about Eliseus.  
-**18** And the enemies came down to him: but Eliseus prayed to the Lord, saying: Strike, I beseech thee, this people with blindness: and the Lord struck them with blindness, according to the word of Eliseus. which hindered them from seeing the objects that were really before them; and represented other different objects to their imagination: so that they no longer perceived the city of Dothan, nor were able to know the person of Eliseus; but were easily led by him, whom they took to be another man, to Samaria. So that he truly told them, this is not the way, neither is this the city, etc., because he spoke with relation to the way and to the city, which was represented to them.  
+**18** And the enemies came down to him: but Eliseus prayed to the Lord, saying: Strike, I beseech thee, this people with blindness: and the Lord struck them with blindness, according to the word of Eliseus.  
 **19** And Eliseus said to them: This is not the way, neither is this the city: follow me, and I will shew you the man whom you seek. So he led them into Samaria.  
 **20** And when they were come into Samaria, Eliseus said: Lord, open the eyes of these men, that they may see. And the Lord opened their eyes, and they saw themselves to be in the midst of Samaria.  
 **21** And the king of Israel said to Eliseus, when he saw them: My father, shall I kill them?  
@@ -242,7 +241,7 @@ format: markdown
 **24** And it came to pass, after these things, that Benadad, king of Syria, gathered together all his army, and went up and besieged Samaria.  
 **25** And there was a great famine in Samaria: and so long did the siege continue, till the head of an ass was sold for fourscore pieces of silver, and the fourth part of a cabe of pigeons' dung, for five pieces of silver.  
 **26** And as the king of Israel was passing by the wall, a certain woman cried out to him, saying: Save me, my lord, O king.  
-**27** And he said: If the Lord doth not save thee, how can I save thee? out of the barnfloor, or out of the winepress? And the king said to her:  
+**27** And he said: If the Lord doth not save thee, how can I save thee? out of the barnfloor, or out of the winepress? And the king said to her: What aileth thee? And she answered:  
 **28** This woman said to me: Give thy son, that we may eat him today, and we will eat my son tomorrow.  
 **29** So we boiled my son, and ate him. And I said to her on the next day: Give thy son, that we may eat him. And she hath hid her son.  
 **30** When the king heard this, he rent his garments, and passed by upon the wall. And all the people saw the haircloth which he wore within next to his flesh.  
@@ -288,24 +287,23 @@ format: markdown
 **7** Eliseus also came to Damascus, and Benadad, king of Syria was sick; and they told him, saying: The man of God is come hither.  
 **8** And the king said to Hazael: Take with thee presents, and go to meet the man of God, and consult the Lord by him, saying: Can I recover of this my illness?  
 **9** And Hazael went to meet him, taking with him presents, and all the good things of Damascus, the burdens of forty camels. And when he stood before him, he said: Thy son, Benadad, the king of Syria, hath sent me to thee, saying: Can I recover of this my illness?  
-**10** And Eliseus said to him: Go tell him: Thou shalt recover: but the Lord hath shewed me that he shall surely die. that the king's disease was not mortal: and that he would recover if no violence were used. Or he might only express himself in this manner, by way of giving Hazael to understand that he knew both what he would say and do; that he would indeed tell the king he should recover; but would be himself the instrument of his death.  
+**10** And Eliseus said to him: Go tell him: Thou shalt recover: but the Lord hath shewed me that he shall surely die.  
 **11** And he stood with him, and was troubled so far as to blush: and the man of God wept.  
-**12** And Hazael said to him: Why doth my lord weep? And he said: wilt kill with the sword, and thou wilt dash their children, and rip up their pregnant women.  
+**12** And Hazael said to him: Why doth my lord weep? And he said: Because I know the evil that thou wilt do to the children of Israel. Their strong cities thou wilt burn with fire, and their young men thou wilt kill with the sword, and thou wilt dash their children, and rip up their pregnant women.  
 **13** And Hazael said: But what am I, thy servant, a dog, that I should do this great thing? And Eliseus said: The Lord hath shewed me that thou shalt be king of Syria.  
-**14** And when he was departed from Eliseus he came to his master, who said to him: What said Eliseus to thee? And he answered: He told me:  
+**14** And when he was departed from Eliseus he came to his master, who said to him: What said Eliseus to thee? And he answered: He told me: Thou shalt recover.  
 **15** And on the next day, he took a blanket, and poured water on it, and spread it upon his face: and he died, and Hazael reigned in his stead.  
-**16** In the fifth year of Joram, son of Achab, king of Israel, and of Josaphat, king of Juda, reigned Joram, son of Josaphat, king of Juda. before his death made his son Joram king, as David had done before by his own son Solomon.  
+**16** In the fifth year of Joram, son of Achab, king of Israel, and of Josaphat, king of Juda, reigned Joram, son of Josaphat, king of Juda.  
 **17** He was two and thirty years old when he began to reign, and he reigned eight years in Jerusalem.  
 **18** And he walked in the ways of the kings of Israel, as the house of Achab had walked: for the daughter of Achab was his wife: and he did that which was evil in the sight of the Lord.  
 **19** But the Lord would not destroy Juda, for David his servant's sake, as he had promised him, to give him a light, and to his children always.  
 **20** In his days Edom revolted from being under Juda, and made themselves a king.  
 **21** And Joram came to Seira, and all the chariots with him: and he arose in the night, and defeated the Edomites that had surrounded him, and the captains of the chariots, but the people fled into their tents.  
-**22** So Edom revolted from being under Juda, unto this day. Then Lobna also revolted at the same time.  
 **23** But the rest of the acts of Joram, and all that he did, are they not written in the book of the words of the days of the kings of Juda?  
 **24** And Joram slept with his fathers, and was buried with them in the city of David, and Ochozias, his son, reigned in his stead.  
 **25** In the twelfth year of Joram, the son of Achab, king of Israel, reigned Ochozias, son of Joram, king of Juda.  
-**26** Ochozias was two and twenty years old when he began to reign, and he reigned one year in Jerusalem: the name of his mother was Athalia the daughter of Amri king of Israel. of Amri, ver. 18.  
-**27** And he walked in the ways of the house of Achab: and he did evil before the Lord, as did the house of Achab: for he was the son-in-law of the house of Achab.  
+**26** Ochozias was two and twenty years old when he began to reign, and he reigned one year in Jerusalem: the name of his mother was Athalia the daughter of Amri king of Israel.  
+**27** And he walked in the ways of the house of Achab: and he did evil before the Lord, as did the house of Achab: for he was the son in law of the house of Achab.  
 **28** He went also with Joram, son of Achab, to fight against Hazael, king of Syria, in Ramoth Galaad, and the Syrians wounded Joram:  
 **29** And he went back to be healed, in Jezrahel: because the Syrians had wounded him in Ramoth, when he fought against Hazael, king of Syria And Ochozias, the son of Joram, king of Juda, went down to visit Joram, the son of Achab, in Jezrahel, because he was sick there.  
 
@@ -317,7 +315,7 @@ format: markdown
 **2** And when thou art come thither, thou shalt see Jehu the son of Josaphat the son of Namsi: and going in, thou shalt make him rise up from amongst his brethren, and carry him into an inner chamber.  
 **3** Then taking the little bottle of oil, thou shalt pour it on his head, and shalt say: Thus saith the Lord: I have anointed thee king over Israel. And thou shalt open the door and flee, and shalt not stay there.  
 **4** So the young man, the servant of the prophet, went away to Ramoth Galaad,  
-**5** And went in thither: and behold, the captains of the army were sitting, and he said: I have a word to thee, O prince. And Jehu said:  
+**5** And went in thither: and behold, the captains of the army were sitting, and he said: I have a word to thee, O prince. And Jehu said: Unto whom of us all? And he said: To thee, O prince.  
 **6** And he arose, and went into the chamber: and he poured the oil upon his head, and said: Thus saith the Lord God of Israel: I have anointed thee king over Israel, the people of the Lord.  
 **7** And thou shalt cut off the house of Achab, thy master, and I will revenge the blood of my servants, the prophets, and the blood of all the servants of the Lord, at the hand of Jezabel.  
 **8** And I will destroy all the house of Achab, and I will cut off from Achab, him that pisseth against the wall, and him that is shut up, and the meanest in Israel.  
@@ -344,7 +342,7 @@ format: markdown
 **29** In the eleventh year of Joram, the son of Achab, Ochozias reigned over Juda;  
 **30** And Jehu came into Jezrahel. But Jezabel, hearing of his coming in, painted her face with stibic stone, and adorned her head, and looked out of a window.  
 **31** At Jehu coming in at the gate, and said: Can there be peace for Zambri, that hath killed his master?  
-**32** And Jehu lifted up his face to the window, and said: Who is this?  
+**32** And Jehu lifted up his face to the window, and said: Who is this? And two or three eunuchs bowed down to him.  
 **33** And he said to them: Throw her down headlong; And they threw her down, and the wall was sprinkled with her blood, and the hoofs of the horses trod upon her.  
 **34** And when he was come in to eat, and to drink, he said: Go, and see after that cursed woman, and bury her; because she is a king's daughter.  
 **35** And when they went to bury her, they found nothing but the skull, and the feet, and the extremities of her hands.  
@@ -365,15 +363,15 @@ format: markdown
 **8** And a messenger came, and told him, saying: They have brought the heads of the king's sons. And he said: Lay ye them in two heaps by the entering in of the gate until the morning.  
 **9** And when it was light, he went out, and standing, said to all the people: You are just: if I conspired against my master, and slew him; who hath slain all these?  
 **10** See therefore now that there hath not fallen to the ground any of the words of the Lord, which the Lord spoke concerning the house of Achab, and the Lord hath done that which he spoke in the hand of his servant Elias.  
-**11** So Jehu slew all that were left of the house of Achab in Jezrahel, and all his chief men, and his friends, and his priests, till there were no remains left of him.  
+**11** So Jehu slew all that were left of the honse of Achab in Jezrahel, and all his chief men, and his friends, and his priests, till there were no remains left of him.  
 **12** And he arose, and went to Samaria: and when he was come to the shepherds' cabin in the way,  
 **13** He met with the brethren of Ochozias, king of Juda, and he said to them: Who are you? And they answered: We are the brethren of Ochozias, and are come down to salute the sons of the king, and the sons of the queen.  
 **14** And he said: Take them alive. And they took them alive, and killed them at the pit by the cabin, two and forty men, and he left not any of them.  
-**15** And when he was departed thence, he found Jonadab, the son of Rechab, coming to meet him, and he blessed him. And he said to him: Is thy heart right as my heart is with thy heart? And Jonadab said: It is. him up to him into the chariot,  
+**15** And when he was departed thence, he found Jonadab, the son of Rechab, coming to meet him, and he blessed him. And he said to him: Is thy heart right as my heart is with thy heart? And Jonadab said: It is. If it be, said he, give me thy hand. He gave him his hand. And he lifted him up to him into the chariot,  
 **16** And said to him: Come with me, and see my zeal for the Lord. So he made him ride in his chariot,  
 **17** And brought him into Samaria. And he slew all that were left of Achab, in Samaria, to a man, according to the word of the Lord which he spoke by Elias.  
-**18** And Jehu gathered together all the people, and said to them: be done, that good may come of it. Rom. 3.8.  
-**19** Now therefore call to me all the prophets of Baal, and all his servants, and all his priests: let none be wanting, for I have a great sacrifice to offer to Baal: whosoever shall be wanting, shall not live.  
+**18** And Jehu gathered together all the people, and said to them: Achab worshipped Baal a little, but I will worship him more.  
+**19** Now therefore call to me all the prophets of Baal, and all his servants, and all his priests: let none be wanting, for I have a great sacrifice to offer to Baal: whosoever shall be wanting, shall not live. Now Jehu did this craftily, that he might destroy the worshippers of Baal.  
 **20** And he said: Proclaim a festival for Baal. And he called,  
 **21** And he sent into all the borders of Israel; and all the servants of Baal came: there was not one left that did not come. And they went into the temple of Baal: and the house of Baal was filled, from one end to the other.  
 **22** And he said to them that were over the wardrobe: Bring forth garments for all the servants of Baal. And they brought them forth garments.  
@@ -404,7 +402,7 @@ format: markdown
 **6** Let a third part of you go in on the sabbath, and keep the watch of the king's house. And let a third part be at the gate of Sur; and let a third part be at the gate behind the dwelling of the shieldbearers; and you shall keep the watch of the house of Messa.  
 **7** But let two parts of you all that go forth on the sabbath, keep the watch of the house of the Lord about the king.  
 **8** And you shall compass him round about, having weapons in your hands: and if any man shall enter the precinct of the temple, let him be slain: and you shall be with the king, coming in and going out.  
-**9** And the centurions did according to all things that Joiada the priest, had commanded them: and taking every one their men, that went in on the sabbath, with them that went out in the sabbath, came to Joiada, the priest.  
+**9** And the centurions did according to all things that Joiada the priest, had commanded them: and takiug every one their men, that went in on the sabbath, with them that went out in the sabbath, came to Joiada, the priest.  
 **10** And he gave them the spears, and the arms of king David, which were in the house of the Lord.  
 **11** And they stood, having every one their weapons in their hands, from the right side of the temple, unto the left side of the altar, and of the temple, about the king.  
 **12** And he brought forth the king's son, and put the diadem upon him, and the testimony: and they made him king, and anointed him: and clapping their hands, they said: God save the king.  
@@ -425,7 +423,7 @@ format: markdown
 **1** In the seventh year of Jehu, Joas began to reign: and he reigned forty years in Jerusalem. The name of his mother was Sebia, of Bersabee.  
 **2** And Joas did that which was right before the Lord all the days that Joiada, the priest, taught him.  
 **3** But yet he took not away the high places: for the people still sacrificed and burnt incense in the high places.  
-**4** And Joas said to the priests: all the money of the sanctified things, which is brought into the temple of the Lord by those that pass, which is offered for the price of a soul, and which of their own accord, and of their own free heart, they bring into the temple of the Lord: soul... That is, the ordinary oblation, which every soul was to offer by the law. Ex. 30.  
+**4** And Joas said to the priests: all the money of the sanctified things, which is brought into the temple of the Lord by those that pass, which is offered for the price of a soul, and which of their own accord, and of their own free heart, they bring into the temple of the Lord:  
 **5** Let the priests take it according to their order and repair the house, wheresoever they shall see any thing that wanteth repairing.  
 **6** Now till the three and twentieth year of king Joas the priests did not make the repairs of the temple.  
 **7** And king Joas called Joiada, the high priest, and the priests, saying to them: Why do you not repair the temple? Take you, therefore, money no more according to your order, but restore it for the repairing of the temple.  
@@ -442,7 +440,7 @@ format: markdown
 **18** Wherefore Joas, king of Juda, took all the sanctified things, which Josaphat, and Joram, and Ochozias, his fathers, the kings of Juda, had dedicated to holy uses, and which he himself had offered: and all the silver that could be found in the treasures of the temple of the Lord, and in the king's palace: and sent it to Hazael, king of Syria, and he went off from Jerusalem.  
 **19** And the rest of the acts of Joas, and all that he did, are they not written in the book of the words of the days of the kings of Juda?  
 **20** And his servants arose, and conspired among themselves, and slew Joas, in the house of Mello, in the descent of Sella.  
-**21** For Josachar the son of Semaath, and Jozabad the son of Somer his servant, struck him, and he died: and they buried him with his fathers in the city of David; and Amasias, his son, reigned in his stead. but not in the sepulchres of the kings. 2 Par. 14.  
+**21** For Josachar the son of Semaath, and Jozabad the son of Somer his servant, struck him, and he died: and they buried him with his fathers in the city of David; and Amasias, his son, reigned in his stead.  
 
 ---
 
@@ -466,7 +464,7 @@ format: markdown
 **16** He said to the king of Israel: Put thy hand upon the bow. And when he had put his hand, Eliseus put his hands over the king's hands,  
 **17** And said: Open the window to the east. And when he had opened it, Eliseus said: Shoot an arrow. And he shot. And Eliseus said: The arrow of the Lord's deliverance, and the arrow of the deliverance from Syria: and thou shalt strike the Syrians in Aphec, till thou consume them.  
 **18** And he said: Take the arrows. And when he had taken them, he said to him: Strike with an arrow upon the ground. And he struck three times, and stood still.  
-**19** And the man of God was angry with him, and said: If thou hadst smitten five or six or seven times, thou hadst smitten Syria even to utter destruction: but now three times shalt thou smite it. to the prophet that the king should overcome the Syrians as many times as he should then strike on the ground; but as he had not at the same time revealed to him how often the king would strike, the prophet was concerned to see that he struck but thrice.  
+**19** And the man of God was angry with him, and said: If thou hadst smitten five or six or seven times, thou hadst smitten Syria even to utter destruction: but now three times shalt thou smite it.  
 **20** And Eliseus died, and they buried him. And the rovers from Moab came into the land the same year.  
 **21** And some that were burying a man, saw the rovers, and cast the body into the sepulchre of Eliseus. And when it had touched the bones of Eliseus, the man came to life and stood upon his feet.  
 **22** Now Hazael, king of Syria, afflicted Israel all the days of Joachaz.  
@@ -523,7 +521,7 @@ format: markdown
 **9** And he did that which is evil before the Lord, as his fathers had done: he departed not from the sins of Jeroboam the son of Nabat, who made Israel to sin.  
 **10** And Sellum, the son of Jabes, conspired against him: and struck him publicly, and killed him, and reigned in his place.  
 **11** Now the rest of the acts of Zacharias, are they not written in the book of the words of the days of the kings of Israel?  
-**12** This was the word of the Lord, which he spoke to Jehu, saying:  
+**12** This was the word of the Lord, which he spoke to Jehu, saying: Thy children, to the fourth generation, shall sit upon the throne of Israel. And so it came to pass.  
 **13** Sellum, the son of Jabes, began to reign in the nine and thirtieth year of Azarias, king of Juda: and reigned one month in Samaria.  
 **14** And Manahem, the son of Gadi, went up from Thersa, and he came into Samaria, and struck Sellum, the son of Jabes, in Samaria, and slew him, and reigned in his stead.  
 **15** And the rest of the acts of Sellum, and his conspiracy which he made, are they not written in the book of the words of the days of the kings of Israel?  
@@ -541,7 +539,7 @@ format: markdown
 **27** In the two and fiftieth year of Azarias, king of Juda, reigned Phacee, the son of Romelia, over Israel, in Samaria, twenty years.  
 **28** And he did that which was evil before the Lord: he departed not from the sins of Jeroboam, the son of Nabat, who made Israel to sin.  
 **29** In the days of Phacee, king of Israel, came Theglathphalasar, king of Assyria, and took Aion, and Abel Domum Maacha, and Janoe, and Cedes, and Asor, and Galaad, and Galilee, and all the land of Nephthali: and carried them captives into Assyria.  
-**30** Now Osee, son of Ela, conspired, and formed a plot against Phacee, the son of Romelia, and struck him, and slew him: and reigned in his stead in the twentieth year of Joatham, the son of Ozias. the beginning of Joatham's reign. The sacred writer chooses rather to follow here this date than to speak of the years of Achaz, who had not yet been mentioned.  
+**30** Now Osee, son of Ela, conspired, and formed a plot against Phacee, the son of Romelia, and struck him, and slew him: and reigned in his stead in the twentieth year of Joatham, the son of Ozias.  
 **31** But the rest of the acts of Phacee, and all that he did, are they not written in the book of the words of the days of the kings of Israel?  
 **32** In the second year of Phacee, the son of Romelia king of Israel, reigned Joatham, son of Ozias, king of Juda.  
 **33** He was five and twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: the name of his mother was Jerusa, the daughter of Sadoc.  
@@ -580,7 +578,7 @@ format: markdown
 
 ## Chapter 17
 
-**1** In the twelfth year of Achaz king of Juda, Osee the son of Ela reigned in Samaria, over Israel, nine years. but was not in quiet possession of the kingdom to the twelfth year of Achaz.  
+**1** In the twelfth year of Achaz king of Juda, Osee the son of Ela reigned in Samaria, over Israel, nine years.  
 **2** And he did evil before the Lord: but not as the kings of Israel that had been before him.  
 **3** Against him came up Salmanasar, king of the Assyrians; and Osee became his servant, and paid him tribute.  
 **4** And when the king of the Assyrians found that Osee, endeavouring to rebel, had sent messengers to Sua, the king of Egypt, that he might not pay tribute to the king of the Assyrians, as he had done every year, he besieged him, bound him, and cast him into prison.  
@@ -628,8 +626,8 @@ format: markdown
 
 **1** In the third year of Osee, the son of Ela, king of Israel, reigned Ezechias, the son of Achaz, king of Juda.  
 **2** He was five and twenty years old when he began to reign: and he reigned nine and twenty years in Jerusalem: the name of his mother was Abi, the daughter of Zacharias.  
-**3** And he did that which was good before the Lord, according to all that David, his father, had done.  
-**4** He destroyed the high places, and broke the statues in pieces, and cut down the groves, and broke the brazen serpent, which Moses had made: for till that time the children of Israel burnt incense to it: and he called its name Nohestan. brass. So he called it in contempt, because they had made an idol of it.  
+**3** And he did that which was good before the Lord, according to all that David, his father, had done:  
+**4** He destroyed the high places, and broke the statues in pieces, and cut down the groves, and broke the brazen serpent, which Moses had made: for till that time the children of Israel burnt incense to it: and he called its name Nohestan.  
 **5** He trusted in the Lord, the God of Israel: so that after him there was none like him among all the kings of Juda, nor any of them that were before him:  
 **6** And he stuck to the Lord, and departed not from his steps, but kept his commandments, which the Lord commanded Moses.  
 **7** Wherefore the Lord also was with him, and in all things, to which he went forth, he behaved himself wisely. And he rebelled against the king of the Assyrians, and served him not.  
@@ -645,7 +643,7 @@ format: markdown
 **17** And the king of the Assyrians sent Tharthan, and Rabsaris, and Rabsaces, from Lachis, to king Ezechias, with a strong army, to Jerusalem: and they went up and came to Jerusalem, and they stood by the conduit of the upper pool, which is in the way of the fuller's field.  
 **18** And they called for the king: and there went out to them Eliacim, the son of Helcias, who was over the house, and Sobna, the scribe, and Joahe, the son of Asaph, the recorder.  
 **19** And Rabsaces said to them: Speak to Ezechias: Thus saith the great king, the king of the Assyrians: What is this confidence, wherein thou trustest?  
-**20** Perhaps thou hast taken counsel, to prepare thyself for battle.  
+**20** Perhaps thou hast taken counsel, to prepare thyself for battle. On whom dost thou trust, that thou darest to rebel?  
 **21** Dost thou trust in Egypt a staff of a broken reed, upon which if a man lean, it will break and go into his hand, and pierce it? so is Pharao, king of Egypt, to all that trust in him.  
 **22** But if you say to me: We trust in the Lord, our God: is it not he, whose high places and altars Ezechias hath taken away: and hath commanded Juda and Jerusalem: You shall worship before this altar in Jerusalem?  
 **23** Now therefore come over to my master, the king of the Assyrians, and I will give you two thousand horses, and see whether you be able to have riders for them.  
@@ -657,7 +655,7 @@ format: markdown
 **29** Thus saith the king: Let not Ezechias deceive you: for he shall not be able to deliver you out of my hand.  
 **30** Neither let him make you trust in the Lord, saying: The Lord will surely deliver us, and this city shall not be given into the hand of the king of the Assyrians.  
 **31** Do not hearken to Ezechias. For thus saith the king of the Assyrians: Do with me that which is for your advantage, and come out to me: and every man of you shall eat of his own vineyard, and of his own fig tree: and you shall drink water of your own cisterns,  
-**32** Till I come, and take you away, to a land, like to your own land, a fruitful land, and plentiful in wine, a land of bread and vineyards, a land of olives, and oil, and honey, and you shall live, and not die. deliver us.  
+**32** Till I come, and take you away, to a land, like to your own land, a fruitful land, and plentiful in wine, a land of bread and vineyards, a land of olives, and oil, and honey, and you shall live, and not die. Hearken not to Ezechias, who deceiveth you, saying: The Lord will deliver us.  
 **33** Have any of the gods of the nations delivered their land from the hand of the king of Assyria?  
 **34** Where is the god of Emath, and of Arphad? where is the god of Sepharvaim, of Ana, and of Ava? have they delivered Samaria out of my hand?  
 **35** Who are they among all the gods of the nations that have delivered their country out of my hand, that the Lord may deliver Jerusalem out of my hand?  
@@ -688,11 +686,11 @@ format: markdown
 **18** And they have cast their gods into the fire: for they were not gods, but the work of men's hands, of wood and stone, and they destroyed them.  
 **19** Now therefore, O Lord our God, save us from his hand, that all the kingdoms of the earth may know that thou art the Lord, the only God.  
 **20** And Isaias, the son of Amos, sent to Ezechias, saying: Thus saith the Lord, the God of Israel: I have heard the prayer thou hast made to me concerning Sennacherib, king of the Assyrians.  
-**21** This is the word that the Lord hath spoken of him: The virgin, the daughter of Sion, hath despised thee, and laughed thee to scorn: the daughter of Jerusalem hath wagged her head behind thy back.  
+**21** This is the word that the Lord hath spoken of him: The virgin, the daughter of Sion, hath despised thee, and laughed thee to scorn: the daughtor of Jerusalem hath wagged her head behind thy back.  
 **22** Whom hast thou reproached, and whom hast thou blasphemed? against whom hast thou exalted thy voice, and lifted up thy eyes on high? against the holy one of Israel.  
-**23** By the hand of thy servants thou hast reproached the Lord, and hast said: With the multitude of my chariots I have gone up to the height of the mountains, to the top of Libanus, and have cut down its tall cedars, and its choice fir trees. And I have entered into the furthest parts thereof, and the forest of its Carmel. figurative, signifying under the names of mountains and forests, the kings and provinces whom the Assyrians had triumphed over.  
+**23** By the hand of thy servants thou hast reproached the Lord, and hast said: With the multitude of my chariots I have gone up to the height of the mountains, to the top of Libanus, and have cut down its tall cedars, and its choice fir trees. And I have entered into the furthest parts thereof, and the forest of its Carmel.  
 **24** I have cut down, and I have drunk strange waters, and have dried up with the soles of my feet all the shut up waters.  
-**25** Hast thou not heard what I have done from the beginning? from the days of old I have formed it, and now I have brought it to effect: that fenced cities of fighting men should be turned to heaps of ruins: are no more than what I have decreed; and are not to be ascribed to thy wisdom or strength, but to my will and ordinance: who have given to thee to take and destroy so many fenced cities, and to carry terror wherever thou comest.-Ibid. Heaps of ruin... Literally ruin of the hills.  
+**25** Hast thou not heard what I have done from the beginning? from the days of old I have formed it, and now I have brought it to effect: that fenced cities of fighting men should be turned to heaps of ruins:  
 **26** And the inhabitants of them were weak of hand, they trembled and were confounded, they became like the grass of the field, and the green herb on the tops of houses, which withered before it came to maturity.  
 **27** Thy dwelling, and thy going out, and thy coming in, and thy way I knew before, and thy rage against me.  
 **28** Thou hast been mad against me, and thy pride hath come up to my ears: therefore I will put a ring in thy nose, and a bit between thy lips, and I will turn thee back by the way by which thou camest.  
@@ -723,7 +721,7 @@ format: markdown
 **11** And Isaias, the prophet, called upon the Lord, and he brought the shadow ten degrees backwards by the lines, by which it had already gone down on the dial of Achaz.  
 **12** At that time Berodach Baladan, the son of Baladan, king of the Babylonians, sent letters and presents to Ezechias: for he had heard that Ezechias had been sick.  
 **13** And Ezechias rejoiced at their coming, and he shewed them the house of his aromatical spices, and the gold, and the silver, and divers precious odours, and ointments, and the house of his vessels, and all that he had in his treasures. There was nothing in his house, nor in all his dominions, that Ezechias shewed them not.  
-**14** And Isaias, the prophet, came to king Ezechias, and said to him: to him: From a far country, they came to me out of Babylon.  
+**14** And Isaias, the prophet, came to king Ezechias, and said to him: What said these men? or from whence came they to thee? And Ezechias said to him: From a far country, they came to me out of Babylon.  
 **15** And he said: What did they see in thy house? Ezechias said: They saw all the things that are in my house: There is nothing among my treasures that I have not shewed them.  
 **16** And Isaias said to Ezechias: Hear the word of the Lord.  
 **17** Behold the days shall come, that all that is in thy house, and that thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the Lord.  
@@ -770,7 +768,6 @@ format: markdown
 **1** Josias was eight years old when he began to reign: he reigned one and thirty years in Jerusalem: the name of his mother was Idida, the daughter of Hadaia, of Besecath.  
 **2** And he did that which was right in the sight of the Lord, and walked in all the ways of David, his father: he turned not aside to the right hand, or to the left.  
 **3** And in the eighteenth year of king Josias, the king sent Saphan, the son of Assia, the son of Messulam, the scribe of the temple of the Lord, saying to him:  
-**4** Go to Helcias, the high priest, that the money may be put together which is brought into the temple of the Lord, which the doorkeepers of the temple have gathered of the people.  
 **5** And let it be given to the workmen by the overseers of the house of the Lord: and let them distribute it to those that work in the temple of the Lord, to repair the temple:  
 **6** That is, to carpenters and masons, and to such as mend breaches: and that timber may be bought, and stones out of the quarries, to repair the temple of the Lord.  
 **7** But let there be no reckoning made with them of the money which they receive, but let them have it in their power, and in their trust.  
@@ -781,7 +778,7 @@ format: markdown
 **12** And he commanded Helcias, the priest, and Ahicam, the son of Saphan, and Achobor, the son of Micha, and Saphan, the scribe, and Asaia, the king's servant, saying:  
 **13** Go and consult the Lord for me, and for the people, and for all Juda, concerning the words of this book which is found: for the great wrath of the Lord is kindled against us, because our fathers have not hearkened to the words of this book, to do all that is written for us.  
 **14** So Helcias, the priest, and Ahicam, and Achobor, and Sapham, and Asaia, went to Holda, the prophetess, the wife of Sellum, the son of Thecua, the son of Araas, keeper of the wardrobe, who dwelt in Jerusalem, in the Second: and they spoke to her.  
-**15** And she said to them: Thus saith the Lord, the God of Israel:  
+**15** And she said to them: Thus saith the Lord, the God of Israel: Tell the man that sent you to me:  
 **16** Thus saith the Lord: Behold, I will bring evils upon this place, and upon the inhabitants thereof, all the words of the law which the king of Juda hath read:  
 **17** Because they have forsaken me, and have sacrificed to strange gods, provoking me by all the works of their hands: therefore my indignation shall be kindled against this place, and shall not be quenched.  
 **18** But to the king of Juda, who sent you to consult the Lord, thus shall you say: Thus saith the Lord, the God of Israel: for as much as thou hast heard the words of the book,  
@@ -794,7 +791,7 @@ format: markdown
 
 **1** And they brought the king word again what she had said. And he sent: and all the ancients of Juda and Jerusalem were assembled to him.  
 **2** And the king went up to the temple of the Lord, and all the men of Juda, and all the inhabitants of Jerusalem with him, the priests, and the prophets, and all the people, both little and great: and in the hearing of them all he read all the words of the book of the covenant, which was found in the house of the Lord.  
-**3** And the king stood upon the step: and he made a covenant with the Lord, to walk after the Lord, and to keep his commandments, and his testimonies, and his ceremonies, with all their heart, and with all their soul, and to perform the words of this covenant, which were written in that book: and the people agreed to the covenant. more eminent place, from whence he might be seen and heard by the people.  
+**3** And the king stood upon the step: and he made a covenant with the Lord, to walk after the Lord, and to keep his commandments, and his testimonies, and his ceremonies, with all their heart, and with all their soul, and to perform the words of this covenant, which were written in that book: and the people agreed to the covenant.  
 **4** And the king commanded Helcias, the high priest, and the priests of the second order, and the doorkeepers, to cast out of the temple of the Lord all the vessels that had been made for Baal, and for the grove, and for all the host of heaven: and he burnt them without Jerusalem, in the valley of Cedron, and he carried the ashes of them to Bethel.  
 **5** And he destroyed the soothsayers, whom the kings of Juda had appointed to sacrifice in the high places in the cities of Juda, and round about Jerusalem: them also that burnt incense to Baal, and to the sun, and to the moon, and to the twelve signs, and to all the host of heaven.  
 **6** And he caused the grove to be carried out from the house of the Lord, without Jerusalem, to the valley of Cedron, and he burnt it there, and reduced it to dust, and cast the dust upon the graves of the common people.  
@@ -835,10 +832,10 @@ format: markdown
 ## Chapter 24
 
 **1** In his days Nabuchodonosor, king of Babylon came up, and Joakim became his servant three years: then again he rebelled against him.  
-**2** And the Lord sent against him the rovers of the Chaldees, and the rovers of Syria, and the rovers of Moab, and the rovers of the children of Ammon: and he sent them against Juda, to destroy it, according to the word of the Lord, which he had spoken by his servants, the prophets. men, who pillaged and plundered wherever they came.  
+**2** And the Lord sent against him the rovers of the Chaldees, and the rovers of Syria, and the rovers of Moab, and the rovers of the children of Ammon: and he sent them against Juda, to destroy it, according to the word of the Lord, which he had spoken by his servants, the prophets.  
 **3** And this came by the word of the Lord against Juda, to remove them from before him for all the sins of Manasses which he did;  
 **4** And for the innocent blood that he shed, filling Jerusalem with innocent blood: and therefore the Lord would not be appeased.  
-**5** But the rest of the acts of Joakim, and all that he did, are they not written in the book of the words of the days of the kings of Juda?  
+**5** But the rest of the acts of Joakim, and all that he did, are they not written in the book of the words of the days of the kings of Juda? And Joakim slept with his fathers:  
 **6** And Joachin, his son, reigned in his stead.  
 **7** And the king of Egypt came not again any more out of his own country: for the king of Babylon had taken all that had belonged to the king of Egypt, from the river of Egypt, unto the river Euphrates.  
 **8** Joachin was eighteen years old when he began to reign, and he reigned three months in Jerusalem: the name of his mother was Nohesta, the daughter of Elnathan, of Jerusalem.  

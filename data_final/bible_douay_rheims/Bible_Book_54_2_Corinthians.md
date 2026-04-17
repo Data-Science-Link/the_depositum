@@ -56,7 +56,7 @@ format: markdown
 **16** And to pass by you into Macedonia: and again from Macedonia to come to you, and by you to be brought on my way towards Judea.  
 **17** Whereas then I was thus minded, did I use lightness? Or, the things that I purpose, do I purpose according to the flesh, that there should be with me, It is, and It is not?  
 **18** But God is faithful: for our preaching which was to you, was not, It is, and It is not.  
-**19** For the Son of God, Jesus Christ, who was preached among you by us, by me and Sylvanus and Timothy, was not: It is and It is not. But, It is, was in him. apostles, sometimes, like modern sectaries, saying, It is, and at other times saying, It is not. But their doctrine was ever the same, one uniform yea, in Jesus Christ, one Amen, that is, one truth in him.  
+**19** For the Son of God, Jesus Christ, who was preached among you by us, by me and Sylvanus and Timothy, was not: It is and It is not. But, It is, was in him.  
 **20** For all the promises of God are in him, It is. Therefore also by him, amen to God, unto our glory.  
 **21** Now he that confirmeth us with you in Christ and that hath anointed us, is God:  
 **22** Who also hath sealed us and given the pledge of the Spirit in our hearts.  
@@ -75,13 +75,13 @@ format: markdown
 **7** So that on the contrary, you should rather forgive him and comfort him, lest perhaps such a one be swallowed up with overmuch sorrow.  
 **8** Wherefore, I beseech you that you would confirm your charity towards him.  
 **9** For to this end also did I write, that I may know the experiment of you, whether you be obedient in all things.  
-**10** And to whom you have pardoned any thing, I also. For, what I have pardoned, if I have pardoned any thing, for your sakes have I done it in the person of Christ: person and by the authority of Christ, to the incestuous Corinthian, whom before he had put under penance, which pardon consisted in a releasing of part of the temporal punishment due to his sin.  
+**10** And to whom you have pardoned any thing, I also. For, what I have pardoned, if I have pardoned any thing, for your sakes have I done it in the person of Christ:  
 **11** That we be not overreached by Satan. For we are not ignorant of his devices.  
 **12** And when I was come to Troas for the gospel of Christ and a door was opened unto me in the Lord,  
 **13** I had no rest in my spirit, because I found not Titus my brother: but bidding them farewell, I went into Macedonia.  
 **14** Now thanks be to God, who always maketh us to triumph in Christ Jesus and manifesteth the odour of his knowledge by us in every place.  
 **15** For we are the good odour of Christ unto God, in them that are saved and in them that perish.  
-**16** To the one indeed the odour of death unto death: but to the others the odour of life unto life. And for these things who is so sufficient? fragrant odour, brought many to life, was to others, through their own fault, the occasion of death; by their wilfully opposing and resisting that divine call.  
+**16** To the one indeed the odour of death unto death: but to the others the odour of life unto life. And for these things who is so sufficient?  
 **17** For we are not as many, adulterating the word of God: but with sincerity: but as from God, before God, in Christ we speak.  
 
 ---
@@ -143,13 +143,13 @@ format: markdown
 **7** (For we walk by faith and not by sight.)  
 **8** But we are confident and have a good will to be absent rather from the body and to be present with the Lord.  
 **9** And therefore we labour, whether absent or present, to please him.  
-**10** For we must all be manifested before the judgment seat of Christ, that every one may receive the proper things of the body, according as he hath done, whether it be good or evil. after death, the soul is rewarded or punished according to what it has done in the body.  
+**10** For we must all be manifested before the judgment seat of Christ, that every one may receive the proper things of the body, according as he hath done, whether it be good or evil.  
 **11** Knowing therefore the fear of the Lord, we use persuasion to men: but to God we are manifest. And I trust also that in your consciences we are manifest.  
 **12** We commend not ourselves again to you, but give you occasion to glory in our behalf: that you may have somewhat to answer them who glory in face, and not in heart.  
 **13** For whether we be transported in mind, it is to God: or whether we be sober, it is for you.  
 **14** For the charity of Christ presseth us: judging this, that if one died for all, then all were dead.  
 **15** And Christ died for all: that they also who live may not now live to themselves, but unto him who died for them and rose again.  
-**16** Wherefore henceforth, we know no man according to the flesh. And if we have known Christ according to the flesh: but now we know him so no longer. man with regard to his nation, family, kindred, or other natural qualities or advantages; but only with relation to Christ, and according to the order of divine charity, in God, and for God. The apostle adds, that even with respect to Christ himself, he now no longer considers him according to the flesh, by taking a satisfaction in his being his countryman; his affection being now purified from all such earthly considerations.  
+**16** Wherefore henceforth, we know no man according to the flesh. And if we have known Christ according to the flesh: but now we know him so no longer.  
 **17** If then any be in Christ a new creature, the old things are passed away. Behold all things are made new.  
 **18** But all things are of God, who hath reconciled us to himself by Christ and hath given to us the ministry of reconciliation.  
 **19** For God indeed was in Christ, reconciling the world to himself, not imputing to them their sins. And he hath placed in us the word of reconciliation.  
@@ -190,7 +190,7 @@ format: markdown
 **5** For also, when we were come into Macedonia, our flesh had no rest: but we suffered all tribulation. Combats without: fears within.  
 **6** But God, who comforteth the humble, comforted us by the coming of Titus.  
 **7** And not by his coming only, but also by the consolation wherewith he was comforted in you, relating to us your desire, your mourning, your zeal for me: so that I rejoiced the more.  
-**8** For although I made you sorrowful by my epistle, I do not repent. time) did make you sorrowful,  
+**8** For although I made you sorrowful by my epistle, I do not repent. And if I did repent, seeing that the same epistle (although but for a time) did make you sorrowful,  
 **9** Now I am glad: not because you were made sorrowful, but because you were made sorrowful unto penance. For you were made sorrowful according to God, that you might suffer damage by us in nothing.  
 **10** For the sorrow that is according to God worketh penance, steadfast unto salvation: but the sorrow of the world worketh death.  
 **11** For behold this selfsame thing, that you were made sorrowful according to God, how great carefulness it worketh in you: yea defence, yea indignation, yea fear, yea desire, yea zeal, yea revenge. In all things you have shewed yourselves to be undefiled in the matter.  
@@ -276,7 +276,7 @@ format: markdown
 
 ## Chapter 11
 
-**1** Would to God you could bear with some little of my folly! But do bear with me. speaking is looked upon as a piece of folly and vanity; though the apostle was constrained to do it, for the good of the souls committed to his charge.  
+**1** Would to God you could bear with some little of my folly! But do bear with me.  
 **2** For I am jealous of you with the jealousy of God. For I have espoused you to one husband, that I may present you as a chaste virgin to Christ.  
 **3** But I fear lest, as the serpent seduced Eve by his subtilty, so your minds should be corrupted and fall from the simplicity that is in Christ.  
 **4** For if he that cometh preacheth another Christ, whom we have not preached; or if you receive another Spirit, whom you have not received; or another gospel, which you have not received: you might well bear with him.  
@@ -303,7 +303,7 @@ format: markdown
 **25** Thrice was I beaten with rods: once I was stoned: thrice I suffered shipwreck: a night and a day I was in the depth of the sea.  
 **26** In journeying often, in perils of waters, in perils of robbers, in perils from my own nation, in perils from the Gentiles, in perils in the city, in perils in the wilderness, in perils in the sea, in perils from false brethren:  
 **27** In labour and painfulness, in much watchings, in hunger and thirst, in fastings often, in cold and nakedness:  
-**28** Besides those things which are without: my daily instance, the solicitude for all the churches. day.  
+**28** Besides those things which are without: my daily instance, the solicitude for all the churches.  
 **29** Who is weak, and I am not weak? Who is scandalized, and I am not on fire?  
 **30** If I must needs glory, I will glory of the things that concern my infirmity.  
 **31** The God and Father of our Lord Jesus Christ, who is blessed for ever, knoweth that I lie not.  
@@ -322,7 +322,7 @@ format: markdown
 **6** For though I should have a mind to glory, I shall not be foolish: for I will say the truth. But I forbear, lest any man should think of me above that which he seeth in me, or any thing he heareth from me.  
 **7** And lest the greatness of the revelations should exalt me, there was given me a sting of my flesh, an angel of Satan, to buffet me.  
 **8** For which thing, thrice I besought the Lord that it might depart from me.  
-**9** And he said to me: My grace is sufficient for thee: for power is made perfect in infirmity. Gladly therefore will I glory in my infirmities, that the power of Christ may dwell in me. shines forth in our weakness and infirmity; as the more weak we are of ourselves, the more illustrious is his grace in supporting us, and giving us the victory under all trials and conflicts.  
+**9** And he said to me: My grace is sufficient for thee: for power is made perfect in infirmity. Gladly therefore will I glory in my infirmities, that the power of Christ may dwell in me.  
 **10** For which cause I please myself in my infirmities, in reproaches, in necessities, in persecutions, in distresses, for Christ. For when I am weak, then am I powerful.  
 **11** I am become foolish. You have compelled me: for I ought to have been commended by you. For I have no way come short of them that are above measure apostles, although I be nothing.  
 **12** Yet the signs of my apostleship have been wrought on you, in all patience, in signs and wonders and mighty deeds.  
@@ -344,9 +344,9 @@ format: markdown
 **2** I have told before and foretell, as present and now absent, to them that sinned before and to all the rest, that if I come again, I will not spare.  
 **3** Do you seek a proof of Christ that speaketh in me, who towards you is not weak, but is mighty in you?  
 **4** For although he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him: but we shall live with him by the power of God towards you.  
-**5** Try your own selves if you be in the faith: prove ye yourselves. perhaps you be reprobates?  
+**5** Try your own selves if you be in the faith: prove ye yourselves. Know you not your own selves, that Christ Jesus is in you, unless perhaps you be reprobates?  
 **6** But I trust that you shall know that we are not reprobates.  
-**7** Now we pray God that you may do no evil, not that we may appear approved, but that you may do that which is good and that we may be as reprobates. our power in punishing you.  
+**7** Now we pray God that you may do no evil, not that we may appear approved, but that you may do that which is good and that we may be as reprobates.  
 **8** For we can do nothing against the truth: but for the truth.  
 **9** For we rejoice that we are weak and you are strong. This also we pray for, your perfection.  
 **10** Therefore I write these things, being absent, that, being present, I may not deal more severely, according to the power which the Lord hath given me unto edification and not unto destruction.  

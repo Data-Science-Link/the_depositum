@@ -33,7 +33,7 @@ format: markdown
 **2** Arise and go to Ninive, the great city, and preach in it: For the wickedness thereof is come up before me.  
 **3** And Jonas rose up to flee into Tharsis from the face of the Lord, and he went down to Joppe, and found a ship going to Tharsis: and he paid the fare thereof, and went down into it, to go with them to Tharsis from the face of the Lord, Tharsis... Which some take to be Tharsus of Cilicia, others to be Tartessus of Spain, others to be Carthage.  
 **4** But the Lord sent a great wind to the sea: and a great tempest was raised in the sea, and the ship was in danger to be broken.  
-**5** And the mariners were afraid, and the men cried to their god: and they cast forth the wares that were in the ship, into the sea, to lighten it of them: and Jonas went down into the inner part of the ship, and fell into a deep sleep. fleeing from God, and threatened on every side with his judgments: and yet sleeping as if they were secure.  
+**5** And the mariners were afraid, and the men cried to their god: and they cast forth the wares that were in the ship, into the sea, to lighten it of them: and Jonas went down into the inner part of the ship, and fell into a deep sleep.  
 **6** And the ship master came to him and said to him: Why art thou fast asleep? rise up call upon thy God, if so be that God will think of us that we may not perish.  
 **7** And they said every one to his fellow: Come and let us cast lots, that we may know why this evil is upon us. And they cast lots, and the lot fell upon Jonas.  
 **8** And they said to him: Tell us for what cause this evil is upon us, what is thy business? of what country art thou? and whither goest thou? or of what people art thou?  
@@ -60,7 +60,7 @@ format: markdown
 **8** When my soul was in distress within me, I remembered the Lord: that my prayer may come to thee, unto the holy temple.  
 **9** They that in vain observe vanities, forsake their own mercy.  
 **10** But I with the voice of praise will sacrifice to thee: I will pay whatsoever I have vowed for my salvation to the Lord.  
-**11** And the Lord spoke to the fish: and it vomited out Jonas upon the dry land. his will, which all things obey.  
+**11** And the Lord spoke to the fish: and it vomited out Jonas upon the dry land.  
 
 ---
 
@@ -68,7 +68,7 @@ format: markdown
 
 **1** And the word of the Lord came to Jonas the second time saying:  
 **2** Arise, and go to Ninive, the great city: and preach in it the preaching that I bid thee.  
-**3** And Jonas arose, and went to Ninive, according to the word of the Lord: now Ninive was a great city of three days' journey. streets and public places was three days' journey.  
+**3** And Jonas arose, and went to Ninive, according to the word of the Lord: now Ninive was a great city of three days' journey.  
 **4** And Jonas began to enter into the city one day's journey: and he cried and said: Yet forty days and Ninive shall be destroyed.  
 **5** And the men of Ninive believed in God: and they proclaimed a fast, and put on sackcloth from the greatest to the least.  
 **6** And the word came to the king of Ninive: and he rose up out of his throne, and cast away his robe from him, and was clothed in sackcloth, and sat in ashes.  
@@ -81,12 +81,12 @@ format: markdown
 
 ## Chapter 4
 
-**1** And Jonas was exceedingly troubled, and was angry: a false prophet; or rather, lest God's word, by this occasion, might come to be slighted and disbelieved.  
+**1** And Jonas was exceedingly troubled, and was angry:  
 **2** And he prayed to the Lord, and said: I beseech thee, O Lord, is not this what I said, when I was yet in my own country? therefore I went before to flee into Tharsis: for I know that thou art a gracious and merciful God, patient, and of much compassion, and easy to forgive evil.  
 **3** And now, O Lord, I beseech thee take my life from me: for it is better for me to die than to live.  
 **4** And the Lord said: Dost thou think thou hast reason to be angry?  
 **5** Then Jonas went out of the city, and sat toward the east side of the city: and he made himself a booth there, and he sat under it in the shadow, till he might see what would befall the city.  
-**6** And the Lord God prepared an ivy, and it came up over the head of Jonas, to be a shadow over his head, and to cover him (for he was fatigued): and Jonas was exceeding glad of the ivy. which some render a gourd: others a palmerist, or palma Christi.  
+**6** And the Lord God prepared an ivy, and it came up over the head of Jonas, to be a shadow over his head, and to cover him (for he was fatigued): and Jonas was exceeding glad of the ivy.  
 **7** But God prepared a worm, when the morning arose on the following day: and it struck the ivy and it withered.  
 **8** And when the sun was risen, the Lord commanded a hot and burning wind: and the sun beat upon the head of Jonas, and he broiled with the heat: and he desired for his soul that he might die, and said: It is better for me to die than to live.  
 **9** And the Lord said to Jonas: Dost thou think thou hast reason to be angry, for the ivy? And he said: I am angry with reason even unto death.  

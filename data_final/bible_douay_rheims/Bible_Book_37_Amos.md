@@ -34,9 +34,9 @@ format: markdown
 
 ## Chapter 1
 
-**1** The words of Amos, who was among the herdsmen of Thecua: which he saw concerning Israel in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel two years before the earthquake. say was felt at the time that king Ozias attempted to offer incense in the temple. But the best chronologists prove that the earthquake here spoken of must have been before that time: because Jeroboam the second, under whom Amos prophesied, was dead long before that attempt of Ozias.  
+**1** The words of Amos, who was among the herdsmen of Thecua: which he saw concerning Israel in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel two years before the earthquake.  
 **2** And he said: The Lord will roar from Sion, and utter his voice from Jerusalem: and the beautiful places of the shepherds have mourned, and the top of Carmel is withered.  
-**3** Thus saith the Lord: For three crimes of Damascus, and for four I will not convert it: because they have thrashed Galaad with iron wains. crimes.-Ibid. I will not convert it... That is, I will not spare them, nor turn away the punishments I design to inflict upon them.  
+**3** Thus saith the Lord: For three crimes of Damascus, and for four I will not convert it: because they have thrashed Galaad with iron wains.  
 **4** And I will send a fire into the house of Azael, and it shall devour the houses of Benadad.  
 **5** And I will break the bar of Damascus: and I will cut off the inhabitants from the plain of the idol, and him that holdeth the sceptre from the house of pleasure: and the people of Syria shall be carried away to Cyrene, saith the Lord.  
 **6** Thus saith the Lord: For three crimes of Gaza, and for four I will not convert it: because they have carried away a perfect captivity to shut them up in Edom.  
@@ -48,7 +48,7 @@ format: markdown
 **12** I will send a fire into Theman: and it shall devour the houses of Bosra.  
 **13** Thus saith the Lord: For three crimes of the children of Ammon, and for four I will not convert him: because he hath ripped up the women with child of Galaad to enlarge his border.  
 **14** And I will kindle a fire in the wall of Rabba: and it shall devour the houses thereof with shouting in the day of battle, and with a whirlwind in the day of trouble.  
-**15** And Melchom shall go into captivity, both he, and his princes together, saith the Lord. and Melech: which in Hebrew signifies a king, and Melchom their king.  
+**15** And Melchom shall go into captivity, both he, and his princes together, saith the Lord.  
 
 ---
 
@@ -66,7 +66,7 @@ format: markdown
 **10** It is I that brought you up out of the land of Egypt, and I led you forty years through the wilderness, that you might possess the land of the Amorrhite.  
 **11** And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not so, O ye children of Israel, saith the Lord?  
 **12** And you will present wine to the Nazarites: and command the prophets, saying: Prophesy not.  
-**13** Behold, I will screak under you as a wain screaketh that is laden with hay. sins, etc. The spirit of God, as St. Jerome takes notice, accommodates himself to the education of the prophet and inspires him with comparisons taken from country affairs.  
+**13** Behold, I will screak under you as a wain screaketh that is laden with hay.  
 **14** And flight shall perish from the swift, and the valiant shall not possess his strength, neither shall the strong save his life.  
 **15** And he that holdeth the bow shall not stand, and the swift of foot shall not escape, neither shall the rider of the horse save his life.  
 **16** And the stout of heart among the valiant shall flee away naked in that day, saith the Lord.  
@@ -80,7 +80,7 @@ format: markdown
 **3** Shall two walk together except they be agreed?  
 **4** Will a lion roar in the forest, if he have no prey? will the lion's whelp cry out of his den, if he have taken nothing?  
 **5** Will the bird fall into the snare upon the earth, if there be no fowler? Shall the snare be taken up from the earth, before it hath taken somewhat?  
-**6** Shall the trumpet sound in a city, and the people not be afraid? pestilence, desolation, etc., but not of the evil of sin, of which God is not the author.  
+**6** Shall the trumpet sound in a city, and the people not be afraid? Shall there be evil in a city, which the Lord hath not done?  
 **7** For the Lord God doth nothing without revealing his secret to his servants the prophets.  
 **8** The lion shall roar, who will not fear? The Lord God hath spoken, who shall not prophesy?  
 **9** Publish it in the houses of Azotus, and in the houses of the land of Egypt, and say: Assemble yourselves upon the mountains of Samaria, and behold the many follies in the midst thereof, and them that suffer oppression in the inner rooms thereof.  
@@ -117,10 +117,10 @@ format: markdown
 **2** The virgin of Israel is cast down upon her land, there is none to raise her up.  
 **3** For thus saith the Lord God: The city, out of which came forth a thousand, there shall be left in it a hundred: and out of which there came a hundred, there shall be left in it ten, in the house of Israel.  
 **4** For thus saith the Lord to the house of Israel: Seek ye me, and you shall live.  
-**5** But seek not Bethel, and go not into Galgal, neither shall you pass over to Bersabee: for Galgal shall go into captivity, and Bethel shall be unprofitable. idols.  
+**5** But seek not Bethel, and go not into Galgal, neither shall you pass over to Bersabee: for Galgal shall go into captivity, and Bethel shall be unprofitable.  
 **6** Seek ye the Lord, and live: lest the house of Joseph be burnt with fire, and it shall devour, and there shall be none to quench Bethel.  
 **7** You that turn judgment into wormwood, and forsake justice in the land,  
-**8** Seek him that maketh Arcturus, and Orion, and that turneth darkness into morning, and that changeth day into night: that calleth the waters of the sea, and poureth them out upon the face of the earth: The Lord is his name. beautiful constellation in the south.  
+**8** Seek him that maketh Arcturus, and Orion, and that turneth darkness into morning, and that changeth day into night: that calleth the waters of the sea, and poureth them out upon the face of the earth: The Lord is his name.  
 **9** He that with a smile bringeth destruction upon the strong, and waste upon the mighty.  
 **10** They have hated him that rebuketh in the gate: and have abhorred him that speaketh perfectly.  
 **11** Therefore because you robbed the poor, and took the choice prey from him: you shall build houses with square stone, and shall not dwell in them: you shall plant most delightful vineyards, and shall not drink the wine of them.  
@@ -128,7 +128,7 @@ format: markdown
 **13** Therefore the prudent shall keep silence at that time, for it is an evil time.  
 **14** Seek ye good, and not evil, that you may live: and the Lord the God of hosts will be with you, as you have said.  
 **15** Hate evil, and love good, and establish judgment in the gate: it may be the Lord the God of hosts may have mercy on the remnant of Joseph.  
-**16** Therefore thus saith the Lord the God of hosts the sovereign Lord: without, they shall say: Alas, alas! and they shall call the husbandman to mourning, and such as are skilful in lamentation to lament.  
+**16** Therefore thus saith the Lord the God of hosts the sovereign Lord: In every street there shall be wailing: and in all places that are without, they shall say: Alas, alas! and they shall call the husbandman to mourning, and such as are skilful in lamentation to lament.  
 **17** And in all vineyards there shall be wailing: because I will pass through in the midst of thee, saith the Lord.  
 **18** Woe to them that desire the day of the Lord: to what end is it for you? the day of the Lord is darkness, and not light.  
 **19** As if a man should flee from the face of a lion, and a bear should meet him: or enter into the house, and lean with his hand upon the wall, and a serpent should bite him.  
@@ -137,8 +137,8 @@ format: markdown
 **22** And if you offer me holocausts, and your gifts, I will not receive them: neither will I regard the vows of your fat beasts.  
 **23** Take away from me the tumult of thy songs: and I will not hear the canticles of thy harp.  
 **24** But judgment shall be revealed as water, and justice as a mighty torrent.  
-**25** Did you offer victims and sacrifices to me in the desert for forty years, O house of Israel? first, in the dedication of the tabernacle, the Israelites offered no sacrifices in the desert.  
-**26** But you carried a tabernacle for your Moloch, and the image of your idols, the star of your god, which you made to yourselves. committed, when they were drawn away by the daughters of Moab to the worship of their gods. Num. 25.  
+**25** Did you offer victims and sacrifices to me in the desert for forty years, O house of Israel?  
+**26** But you carried a tabernacle for your Moloch, and the image of your idols, the star of your god, which you made to yourselves.  
 **27** And I will cause you to go into captivity beyond Damascus, saith the Lord, the God of hosts is his name.  
 
 ---
@@ -155,7 +155,7 @@ format: markdown
 **8** The Lord God hath sworn by his own soul, saith the Lord the God of hosts: I detest the pride of Jacob, and I hate his houses, and I will deliver up the city with the inhabitants thereof.  
 **9** And if there remain ten men in one house, they also shall die.  
 **10** And a man's kinsman shall take him up, and shall burn him, that he may carry the bones out of the house; and he shall say to him that is in the inner rooms of the house: Is there yet any with thee?  
-**11** And he shall answer: There is an end. And he shall say to him:  
+**11** And he shall answer: There is an end. And he shall say to him: Hold thy peace, and mention not the name of the Lord.  
 **12** For behold the Lord hath commanded, and he will strike the greater house with breaches, and the lesser house with clefts.  
 **13** Can horses run upon the rocks, or can any one plough with buffles? for you have turned judgment into bitterness, and the fruit of justice into wormwood.  
 **14** You that rejoice in a thing of nought: you that say: Have we not taken unto us horns by our own strength?  
@@ -165,7 +165,7 @@ format: markdown
 
 ## Chapter 7
 
-**1** These things the Lord God shewed to me: and behold the locust was formed in the beginning of the shooting up of the latter rain, and lo, it was the latter rain after the king's mowing. prophet's intercession, were moderated, signify the former invasions of the Assyrians under Phul and Theglathphalasar, before the utter desolation of Israel by Salmanasar.  
+**1** These things the Lord God shewed to me: and behold the locust was formed in the beginning of the shooting up of the latter rain, and lo, it was the latter rain after the king's mowing.  
 **2** And it came to pass, that when they had made an end of eating the grass of the land, I said: O Lord God, be merciful, I beseech thee: who shall raise up Jacob, for he is very little?  
 **3** The Lord had pity upon this: It shall not be, said the Lord.  
 **4** These things the Lord God shewed to me: and behold the Lord called for judgment unto fire, and it devoured the great deep, and ate up a part at the same time.  
@@ -175,10 +175,10 @@ format: markdown
 **8** And the Lord said to me: What seest thou, Amos? And I said: A mason's trowel. And the Lord said: Behold, I will lay down the trowel in the midst of my people Israel. I will plaster them over no more.  
 **9** And the high places of the idol shall be thrown down, and the sanctuaries of Israel shall be laid waste: and I will rise up against the house of Jeroboam with the sword.  
 **10** And Amasias the priest of Bethel sent to Jeroboam king of Israel, saying: Amos hath rebelled against thee in the midst of the house of Israel: the land is not able to bear all his words.  
-**11** For thus saith Amos: Jeroboam shall die by the sword, and Israel shall be carried away captive out of their own land. that the Lord would rise up against the house of Jeroboam with the sword: which was verified, when Zacharias, the son and successor of Jeroboam, was slain by the sword. 4 Kings 15.10.  
+**11** For thus saith Amos: Jeroboam shall die by the sword, and Israel shall be carried away captive out of their own land.  
 **12** And Amasias said to Amos: Thou seer, go, flee away into the land of Juda: and eat bread there, and prophesy there.  
 **13** But prophesy not again any more in Bethel: because it is the king's sanctuary, and it is the house of the kingdom.  
-**14** And Amos answered and said to Amasias: I am not a prophet, nor am I the son of a prophet: but I am a herdsman plucking wild figs. prophesying my calling or profession: but I am a herdsman, whom God was pleased to send hither to prophesy to Israel.  
+**14** And Amos answered and said to Amasias: I am not a prophet, nor am I the son of a prophet: but I am a herdsman plucking wild figs.  
 **15** And the Lord took me when I followed the flock, and the Lord said to me: Go, prophesy to my people Israel.  
 **16** And now hear thou the word of the Lord: Thou sayest, thou shalt not prophesy against Israel, and thou shalt not drop thy word upon the house of the idol.  
 **17** Therefore thus saith the Lord: Thy wife shall play the harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be measured by a line: and thou shalt die in a polluted land, and Israel shall go into captivity out of their land.  
@@ -211,14 +211,14 @@ format: markdown
 **3** And though they be hid in the top of Carmel, I will search and take them away from thence: and though they hide themselves from my eyes in the depth of the sea, there will I command the serpent and he shall bite them.  
 **4** And if they go into captivity before their enemies, there will I command the sword, and it shall kill them. And I will set my eyes upon them for evil, and not for good.  
 **5** And the Lord the God of hosts is he who toucheth the earth, and it shall melt: and all that dwell therein shall mourn: and it shall rise up as a river, and shall run down as the river of Egypt.  
-**6** He that buildeth his ascension in heaven, and hath founded his bundle upon the earth: who calleth the waters of the sea, and poureth them out upon the face of the earth, the Lord is his name. his church bound up together by the bands of one faith and communion.  
-**7** Are not you as the children of the Ethiopians unto me, O children of Israel, saith the Lord? did not I bring up Israel, out of the land of Egypt: and the Philistines out of Cappadocia, and the Syrians out of Cyrene? iniquities.  
+**6** He that buildeth his ascension in heaven, and hath founded his bundle upon the earth: who calleth the waters of the sea, and poureth them out upon the face of the earth, the Lord is his name.  
+**7** Are not you as the children of the Ethiopians unto me, O children of Israel, saith the Lord? did not I bring up Israel, out of the land of Egypt: and the Philistines out of Cappadocia, and the Syrians out of Cyrene?  
 **8** Behold the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from the face of the earth: but yet I will not utterly destroy the house of Jacob, saith the Lord.  
-**9** For behold I will command, and I will sift the house of Israel among all nations, as corn is sifted in a sieve: and there shall not a little stone fall to the ground.  
+**9** For behold I will command, and I will sift the house of Israel among all nations, as corn is sifted in a sleve: and there shall not a little stone fall to the ground.  
 **10** All the sinners of my people shall fall by the sword: who say: The evils shall not approach, and shall not come upon us.  
 **11** In that day I will raise up the tabernacle of David, that is fallen: and I will close up the breaches of the walls thereof, and repair what was fallen: and I will rebuild it as in the days of old.  
 **12** That they may possess the remnant of Edom, and all nations, because my name is invoked upon them: saith the Lord that doth these things.  
-**13** Behold the days come, saith the Lord, when the ploughman shall overtake the reaper, and the treader of grapes him that soweth seed: and the mountains shall drop sweetness, and every hill shall be tilled. blessings; which, as it were, by a constant succession, shall enrich the church of Christ.  
+**13** Behold the days come, saith the Lord, when the ploughman shall overtake the reaper, and the treader of grapes him that soweth seed: and the mountains shall drop sweetness, and every hill shall be tilled.  
 **14** And I will bring back the captivity of my people Israel: and they shall build the abandoned cities, and inhabit them: and they shall plant vineyards, and drink the wine of them: and shall make gardens, and eat the fruits of them. And I will plant them upon their own land: and I will no more pluck them out of their land which I have given them, saith the Lord thy God.  
 
 ---

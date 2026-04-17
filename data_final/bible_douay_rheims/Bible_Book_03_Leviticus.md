@@ -54,7 +54,7 @@ format: markdown
 
 **1** And the Lord called Moses, and spoke to him from the tabernacle of the testimony, saying:  
 **2** Speak to the children of Israel, and thou shalt say to them: The man among you that shall offer to the Lord a sacrifice of the cattle, that is, offering victims of oxen and sheep:  
-**3** If his offering be a holocaust, and of the herd, he shall offer a male without blemish, at the door of the testimony, to make the Lord favourable to him. because the whole victim was consumed with fire; and given in such manner to God as wholly to evaporate, as it were, for his honour and glory; without having any part of it reserved for the use of man. The other sacrifices in the Old Testament were either offerings for sin, or peace offerings: and these latter again were either offered in thanksgiving for blessings received; or by way of prayer for new favours or graces. So that sacrifices were then offered to God for four different ends or intentions, answerable to the different obligations which man has to God: 1. By way of adoration, homage, praise, and glory due to his divine majesty. 2. By way of thanksgiving for all benefits received from him. 3. By way of confessing and craving pardon for sins. necessities. In the New Law we have but one sacrifice, viz., that of the body and blood of Christ: but this one sacrifice of the New Testament perfectly answers all these four ends; and both priest and people, as often as it is celebrated, ought to join in offering it up for these four ends.  
+**3** If his offering be a holocaust, and of the herd, he shall offer a male without blemish, at the door of the testimony, to make the Lord favourable to him.  
 **4** And he shall put his hand upon the head of the victim: and it shall be acceptable, and help to its expiation.  
 **5** And he shall immolate the calf before the Lord: and the priests the sons of Aaron shall offer the blood thereof, pouring it round about the altar, which is before the door of the tabernacle.  
 **6** And when they have flayed the victim, they shall cut the joints into pieces:  
@@ -76,7 +76,7 @@ format: markdown
 
 **1** When any one shall offer an oblation of sacrifice to the Lord, his offering shall be of fine flour: and he shall pour oil upon it, and put frankincense,  
 **2** And shall bring it to the sons of Aaron the priests. And one of them shall take a handful of the flour and oil, and all the frankincense; and shall put it a memorial upon the altar for a most sweet savour to the Lord.  
-**3** And the remnant of the sacrifice shall be Aaron's, and his sons', holy of holies of the offerings of the Lord. aside by his ordinance for the use of his priests.  
+**3** And the remnant of the sacrifice shall be Aaron's, and his sons', holy of holies of the offerings of the Lord.  
 **4** But when thou offerest a sacrifice baked in the oven of flour, to wit, loaves without leaven, tempered with oil, and unleavened wafers, anointed with oil:  
 **5** If thy oblation be from the fryingpan, of flour tempered with oil, and without leaven:  
 **6** Thou shalt divide it into little pieces, and shalt pour oil upon it.  
@@ -84,9 +84,9 @@ format: markdown
 **8** And when thou offerest it to the Lord, thou shalt deliver it to the hands of the priest.  
 **9** And when he hath offered it, he shall take a memorial out of the sacrifice, and burn it upon the altar for a sweet savour to the Lord.  
 **10** And whatsoever is left, shall be Aaron's, and his sons': holy of holies of the offerings of the Lord.  
-**11** Every oblation that is offered to the Lord shall be made without leaven: neither shall any leaven or honey be burnt in the sacrifice to the Lord. sacrifice offered to God; to signify that we are to exclude from the pure worship of the gospel, all double dealing and affection to carnal pleasures.  
+**11** Every oblation that is offered to the Lord shall be made without leaven: neither shall any leaven or honey be burnt in the sacrifice to the Lord.  
 **12** You shall offer only the firstfruits of them and gifts: but they shall not be put upon the altar, for a savour of sweetness.  
-**13** Whatsoever sacrifice thou offerest, thou shalt season it with salt: neither shalt thou take away the salt of the covenant of thy God from thy sacrifice. In all thy oblations thou shalt offer salt. wisdom and discretion, without which none of our performances are agreeable to God.  
+**13** Whatsoever sacrifice thou offerest, thou shalt season it with salt: neither shalt thou take away the salt of the covenant of thy God from thy sacrifice. In all thy oblations thou shalt offer salt.  
 **14** But if thou offer a gift of the firstfruits of thy corn to the Lord, of the ears yet green, thou shalt dry it at the fire, and break it small like meal; and so shalt thou offer thy firstfruits to the Lord:  
 **15** Pouring oil upon it and putting on frankincense, because it is the oblation of the Lord.  
 **16** Whereof the priest shall burn for a memorial of the gift, part of the corn broken small and of the oil, and all the frankincense.  
@@ -95,7 +95,7 @@ format: markdown
 
 ## Chapter 3
 
-**1** And if his oblation be a sacrifice of peace offerings, and he will offer of the herd, whether male or female: he shall offer them without blemish before the Lord. happiness, welfare or prosperity; in a word, all kind of blessings.-Such sacrifices, therefore, as were offered either on occasion of blessings received, or to obtain new favours, were called pacific or peace offerings. In these, some part of the victim was consumed with fire on the altar of God; other parts were eaten by the priests and by the persons for whom the sacrifice was offered.  
+**1** And if his oblation be a sacrifice of peace offerings, and he will offer of the herd, whether male or female: he shall offer them without blemish before the Lord.  
 **2** And he shall lay his hand upon the head of his victim, which shall be slain in the entry of the tabernacle of the testimony: and the sons of Aaron the priests shall pour the blood round about upon the altar.  
 **3** And they shall offer of the sacrifice of peace offerings, for an oblation to the Lord: the fat that covereth the entrails, and all the fat that is within,  
 **4** The two kidneys with the fat wherewith the flanks are covered, and the caul of the liver with the two little kidneys.  
@@ -111,17 +111,17 @@ format: markdown
 **14** And they shall take of it for the food of the Lord's fire, the fat that covereth the belly, and that covereth all the vital parts:  
 **15** The two little kidneys with the caul that is upon them which is by the flanks, and the fat of the liver with the little kidneys.  
 **16** And the priest shall burn them upon the altar, for the food of the fire, and of a most sweet savour. All the fat shall be the Lord's.  
-**17** By a perpetual law for your generations, and in all your habitations: neither blood nor fat shall you eat at all. to be offered on God's altar; not of the fat of meat, such as we commonly eat.  
+**17** By a perpetual law for your generations, and in all your habitations: neither blood nor fat shall you eat at all.  
 
 ---
 
 ## Chapter 4
 
 **1** And the Lord spoke to Moses, saying:  
-**2** Say to the children of Israel: The soul that sinneth through ignorance, and doth any thing concerning any of the commandments of the Lord, which he commanded not to be done: for such culpable ignorance, these sacrifices, prescribed in this and the following chapter, were appointed.  
+**2** Say to the children of Israel: The soul that sinneth through ignorance, and doth any thing concerning any of the commandments of the Lord, which he commanded not to be done:  
 **3** If the priest that is anointed shall sin, making the people to offend, he shall offer to the Lord for his sin a calf without blemish.  
 **4** And he shall bring it to the door of the testimony before the Lord: and shall put his hand upon the head thereof, and shall sacrifice it to the Lord.  
-**5** He shall take also of the blood of the calf: and carry it into the tabernacle of the testimony. of our sins, and carried by him into the sanctuary of heaven.  
+**5** He shall take also of the blood of the calf: and carry it into the tabernacle of the testimony.  
 **6** And having dipped his finger in the blood, he shall sprinkle with it seven times before the Lord, before the veil of the sanctuary.  
 **7** And he shall put some of the same blood upon the horns of the altar of the sweet incense most acceptable to the Lord, which is in the tabernacle of the testimony. And he shall pour all the rest of the blood at the foot of the altar of holocaust in the entry of the tabernacle.  
 **8** And he shall take off the fat of the calf for the sin offering, as well that which covereth the entrails, as all the inwards:  
@@ -144,7 +144,7 @@ format: markdown
 **25** The priest shall dip his finger in the blood of the victim for sin, touching therewith the horns of the altar of holocaust, and pouring out the rest at the foot thereof.  
 **26** But the fat he shall burn upon it, as is wont to be done with the victims of peace offerings. And the priest shall pray for him, and for his sin: and it shall be forgiven him.  
 **27** And if any one of the people of the land shall sin through ignorance, doing any of those things that by the law of the Lord are forbidden, and offending,  
-**28** And shall come to know his sin: he shall offer a she-goat without blemish.  
+**28** And shall come to know his sin: he shall offer a she goat without blemish.  
 **29** And he shall put his hand upon the head of the victim that is for sin: and shall immolate it in the place of the holocaust.  
 **30** And the priest shall take of the blood with his finger, and shall touch the horns of the altar of holocaust: and shall pour out the rest at the foot thereof.  
 **31** But taking off all the fat, as is wont to be taken away of the victims of peace offerings, he shall burn it upon the altar, for a sweet savour to the Lord: and he shall pray for him, and it shall be forgiven him.  
@@ -162,12 +162,12 @@ format: markdown
 **3** And if he touch any thing of the uncleanness of man, according to any uncleanness wherewith he is wont to be defiled: and having forgotten it, come afterwards to know it, he shall be guilty of an offence.  
 **4** The person that sweareth, and uttereth with his lips, that he would do either evil or good, and bindeth the same with an oath, and his word: and having forgotten it afterwards understandeth his offence,  
 **5** Let him do penance for his sin:  
-**6** And offer of the flocks an ewe lamb, or a she-goat, and the priest shall pray for him and for his sin.  
+**6** And offer of the flocks an ewe lamb, or a she goat, and the priest shall pray for him and for his sin.  
 **7** But if he be not able to offer a beast, let him offer two turtles, or two young pigeons to the Lord, one for sin, and the other for a holocaust,  
 **8** And he shall give them to the priest: who shall offer the first for sin, and twist back the head of it to the little pinions, so that it stick to the neck, and be not altogether broken off.  
 **9** And of its blood he shall sprinkle the side of the altar: and whatever is left, he shall let it drop at the bottom thereof, because it is for sin.  
 **10** And the other he shall burn for a holocaust, as is wont to be done. And the priest shall pray for him, and for his sin, and it shall be forgiven him.  
-**11** And if his hand be not able to offer two turtles, or two young pigeons, he shall offer for his sin the tenth part of an ephi of flour. it is for sin.  
+**11** And if his hand be not able to offer two turtles, or two young pigeons, he shall offer for his sin the tenth part of an ephi of flour. He shall not put oil upon it, nor put any frankincense thereon, because it is for sin.  
 **12** And he shall deliver it to the priest, who shall take a handful thereof, and shall burn it upon the altar for a memorial of him that offered it:  
 **13** Praying for him and making atonement. But the part that is left, he himself shall have for a gift.  
 **14** And the Lord spoke to Moses, saying:  
@@ -193,7 +193,7 @@ format: markdown
 **10** The priest shall be vested with the tunick and the linen breeches; and he shall take up the ashes of that which the devouring fire hath burnt: and putting them beside the altar,  
 **11** Shall put off his former vestments, and being clothed with others, shall carry them forth without the camp, and shall cause them to be consumed to dust in a very clean place.  
 **12** And the fire on the altar shall always burn, and the priest shall feed it, putting wood on it every day in the morning: and laying on the holocaust, shall burn thereupon the fat of the peace offerings.  
-**13** This is the perpetual fire which shall never go out on the altar. and was always kept burning on the altar, as a figure of the heavenly fire of divine love, which ought to be always burning in the heart of a Christian.  
+**13** This is the perpetual fire which shall never go out on the altar.  
 **14** This is the law of the sacrifice and libations, which the children of Aaron shall offer before the Lord, and before the altar.  
 **15** The priest shall take a handful of the flour that is tempered with oil, and all the frankincense that is put upon the flour: and he shall burn on the altar for a memorial of most sweet odour to the Lord.  
 **16** And the part of the flour that is left, Aaron and his sons shall eat, without leaven: and he shall eat it in the holy place of the court of the tabernacle.  
@@ -204,8 +204,8 @@ format: markdown
 **21** It shall be tempered with oil, and shall be fried in a fryingpan.  
 **22** And the priest that rightfully succeedeth his father, shall offer it hot, for a most sweet odour to the Lord: and it shall he wholly burnt on the altar.  
 **23** For every sacrifice of the priest shall be consumed with fire: neither shall any man eat thereof.  
-**24** And the Lord spoke to Moses, saying:  
-**25** Say to Aaron and his sons: This is the law of the victim for sin. before the Lord. It is holy of holies.  
+**24** And the Lord spoke to Moses. saying:  
+**25** Say to Aaron and his sons: This is the law of the victim for sin. In the place where the holocaust is offered, it shall be immolated before the Lord. It is holy of holies.  
 **26** The priest that offereth it, shall eat it in a holy place, in the court of the tabernacle.  
 **27** Whatsoever shall touch the flesh thereof, shall be sanctified. If a garment be sprinkled with the blood thereof, it shall be washed in a holy place.  
 **28** And the earthen vessel, wherein it was sodden, shall be broken: but if the vessel be of brass, it shall be scoured, and washed with water.  
@@ -216,7 +216,7 @@ format: markdown
 
 ## Chapter 7
 
-**1** This also is the law of the sacrifice for a trespass: it is most holy. lesser offences than those for which the sin offerings were appointed.  
+**1** This also is the law of the sacrifice for a trespass: it is most holy.  
 **2** Therefore where the holocaust is immolated, the victim also for a trespass shall be slain: the blood thereof shall be poured round about the altar.  
 **3** They shall offer thereof the rump and the fat that covereth the entrails:  
 **4** The two little kidneys, and the fat which is by the flanks, and the caul of the liver with the little kidneys.  
@@ -245,7 +245,7 @@ format: markdown
 **27** Every one that eateth blood, shall perish from among the people.  
 **28** And the Lord spoke to Moses, saying:  
 **29** Speak to the children of Israel, saying: He that offereth a victim of peace offerings to the Lord, let him offer therewith a sacrifice also, that is, the libations thereof.  
-**30** He shall hold in his hands the fat of the victim, and the breast. deliver them to the priest,  
+**30** He shall hold in his hands the fat of the victim, and the breast. And when he hath offered and consecrated both to the Lord, he shall deliver them to the priest,  
 **31** Who shall burn the fat upon the altar. But the breast shall be Aaron's and his sons'.  
 **32** The right shoulder also of the victim, of peace offerings shall fall to the priest for firstfruits.  
 **33** He among the sons of Aaron, that offereth the blood, and the fat: he shall have the right shoulder also for his portion.  
@@ -302,7 +302,7 @@ format: markdown
 
 **1** And when the eighth day was come, Moses called Aaron and his sons, and the ancients of Israel, and said to Aaron:  
 **2** Take of the herd a calf for sin, and a ram for a holocaust, both without blemish, and offer them before the Lord.  
-**3** And to the children of Israel thou shalt say: Take ye a he-goat for sin, and a calf, and a lamb, both of a year old, and without blemish for a holocaust.  
+**3** And to the children of Israel thou shalt say: Take ye a he goat for sin, and a calf, and a lamb, both of a year old, and without blemish for a holocaust.  
 **4** Also a bullock and a ram for peace offerings. And immolate them before the Lord, offering for the sacrifice of every one of them flour tempered with oil: for to day the Lord will appear to you.  
 **5** They brought therefore all things that Moses had commanded before the door of the tabernacle: where when all the multitude stood,  
 **6** Moses said: This is the word, which the Lord hath commanded. Do it, and his glory will appear to you.  
@@ -314,7 +314,7 @@ format: markdown
 **12** He immolated also the victim of holocaust: and his sons brought him the blood thereof, which he poured round about on the altar.  
 **13** And the victim being cut into pieces, they brought to him the head and all the members: all which he burnt with fire upon the altar.  
 **14** Having first washed the entrails and the feet with water.  
-**15** Then offering for the sin of the people, he slew the he-goat: and expiating the altar,  
+**15** Then offering for the sin of the people, he slew the he goat: and expiating the altar,  
 **16** He offered the holocaust.  
 **17** Adding in the sacrifice the libations, which are offered withal, and burning them upon the altar, besides the ceremonies of the morning holocaust.  
 **18** He immolated also the bullock and the ram, and peace offerings of the people: and his sons brought him the blood, which he poured upon the altar round about.  
@@ -334,7 +334,7 @@ format: markdown
 **3** And Moses said to Aaron: This is what the Lord hath spoken. I will be sanctified in them that approach to me: and I will be glorified in the sight of all the people. And when Aaron heard this, he held his peace.  
 **4** And Moses called Misael and Elisaphan, the sons of Oziel, the uncle of Aaron, and said to them: Go and take away your brethren from before the sanctuary, and carry them without the camp.  
 **5** And they went forthwith and took them as they lay, vested with linen tunicks, and cast them forth, as had been commanded them.  
-**6** And Moses said to Aaron, and to Eleazar and Ithamar, his sons: die, and indignation come upon all the congregation. Let your brethren, and all the house of Israel, bewail the burning which the Lord has kindled.  
+**6** And Moses said to Aaron, and to Eleazar and Ithamar, his sons: Uncover not your heads, and rend not your garments, lest perhaps you die, and indignation come upon all the congregation. Let your brethren, and all the house of Israel, bewail the burning which the Lord has kindled.  
 **7** But you shall not go out of the door of the tabernacle: otherwise you shall perish, for the oil of the holy unction is on you. And they did all things according to the precept of Moses.  
 **8** The Lord also said to Aaron:  
 **9** You shall not drink wine nor any thing that may make drunk, thou nor thy sons, when you enter into the tabernacle of the testimony, lest you die. Because it is an everlasting precept; through your generations:  
@@ -355,10 +355,10 @@ format: markdown
 ## Chapter 11
 
 **1** And the Lord spoke to Moses and Aaron, saying:  
-**2** Say to the children of Israel: These are the animals which you are to eat of all the living things of the earth. beasts, birds, and fishes, in the law, was ordered, 1st, to exercise the people in obedience, and temperance; 2ndly, to restrain them from the vices of which these animals were symbols; 3rdly, because the things here forbidden were for the most part unwholesome, and not proper to be eaten; 4thly, that the people of God, by being obliged to abstain from things corporally unclean, might be trained up to seek a spiritual cleanness.  
-**3** Whatsoever hath the hoof divided, and cheweth the cud among the beasts, you shall eat. chewing of the cud, signify discretion between good and evil, and meditating on the law of God; and where either of these is wanting a man is unclean. In like manner fishes were reputed unclean that had not fins and scales: that is, souls that did not raise themselves up by prayer and cover themselves with the scales of virtue.  
+**2** Say to the children of Israel: These are the animals which you are to eat of all the living things of the earth.  
+**3** Whatsoever hath the hoof divided, and cheweth the cud among the beasts, you shall eat.  
 **4** But whatsoever cheweth indeed the cud, and hath a hoof, but divideth it not, as the camel, and others: that you shall not eat, but shall reckon it among the unclean.  
-**5** The cherogrillus which cheweth the cud, but divideth not the hoof, is unclean. hedgehog. St. Jerome intimates that it is another kind of animal common in Palestine, which lives in the holes of rocks or in the earth. We choose here, as also in the names of several other creatures that follow (which are little known in this part of the world,) to keep the Greek or Latin names.  
+**5** The cherogrillus which cheweth the cud, but divideth not the hoof, is unclean.  
 **6** The hare also: for that too cheweth the cud, but divideth not the hoof.  
 **7** And the swine, which, though it divideth the hoof, cheweth not the cud.  
 **8** The flesh of these you shall not eat, nor shall you touch their carcasses, because they are unclean to you.  
@@ -366,7 +366,7 @@ format: markdown
 **10** But whatsoever hath not fins and scales, of those things that move and live in the waters, shall be an abomination to you,  
 **11** And detestable. Their flesh you shall not eat: and their carcasses you shall avoid.  
 **12** All that have not fins and scales, in the waters, shall be unclean.  
-**13** Of birds these are they which you must not eat, and which are to be avoided by you: The eagle, and the griffon, and the osprey. no being upon earth; but a bird of the eagle kind, larger than the common.  
+**13** Of birds these are they which you must not eat, and which are to be avoided by you: The eagle, and the griffon, and the osprey.  
 **14** And the kite, and the vulture, according to their kind.  
 **15** And all that is of the raven kind, according to their likeness.  
 **16** The ostrich, and the owl, and the larus, and the hawk according to its kind.  
@@ -492,11 +492,11 @@ format: markdown
 **7** Wherewith he shall sprinkle him that is to be cleansed seven times, that he may be rightly purified. And he shall let go the living sparrow, that it may fly into the field.  
 **8** And when the man hath washed his clothes, he shall shave all the hair of his body, and shall be washed with water: and being purified he shall enter into the camp, yet so that he tarry without his own tent seven days.  
 **9** And on the seventh day he shall shave the hair of his head, and his beard and his eyebrows, and the hair of all his body. And having washed again his clothes, and his body,  
-**10** On the eighth day, he shall take two lambs without blemish, and an ewe of a year old without blemish, and three tenths of flour tempered with oil for a sacrifice, and a sextary of oil apart. of a hin; and held about as much as six eggs.  
+**10** On the eighth day, he shall take two lambs without blemish, and an ewe of a year old without blemish, and three tenths of flour tempered with oil for a sacrifice, and a sextary of oil apart.  
 **11** And when the priest that purifieth the man, hath presented him, and all these things before the Lord, at the door of the tabernacle of the testimony:  
 **12** He shall take a lamb, and offer it for a trespass offering with the sextary of oil. And having offered all before the Lord,  
 **13** He shall immolate the lamb, where the victim for sin is wont to be immolated, and the holocaust, that is, in the holy place. For as that which is for sin, so also the victim for a trespass offering pertaineth to the priest: it is holy of holies.  
-**14** And the priest taking of the blood of the victim that was immolated for trespass, shall put it upon the tip of the right ear of him that is cleansed, and upon the thumb of his right hand and the great toe of his right foot. leper, were mysterious and very significative. The sprinkling seven times with the blood of the little bird, the washing himself and his clothes, the shaving his hair and his beard, signify the means which are to be used in the reconciliation of a sinner, and the steps by which he is to return to God, viz., by the repeated application of the blood of Christ: the washing his conscience with the waters of compunction: and retrenching all vanities and superfluities, by employing all that is over and above what is necessary in alms deeds. The sin offering, and the holocaust or burnt offering, which he was to offer at his cleansing, signify the sacrifice of a contrite and humble heart, and that of adoration in spirit and truth, with gratitude and thankfulness, for the forgiveness of sins, with which we are ever to appear before the Almighty. The touching the right ear, the thumb of the right hand, and the great toe of the right foot, first with the blood of the victim, and then with the remainder of the oil, which had been sprinkled seven times before the Lord, signify the application of the blood of Christ, and the unction of the sevenfold grace of the Holy Ghost; to the sinner's right ear, that he may duly hearken to and obey the law of God; and to his right hand and foot, that the works of his hands, and all the steps or affections of his soul, signified by the feet, may be rightly directed to God.  
+**14** And the priest taking of the blood of the victim that was immolated for trespass, shall put it upon the tip of the right ear of him that is cleansed, and upon the thumb of his right hand and the great toe of his right foot.  
 **15** And he shall pour of the sextary of oil into his own left hand,  
 **16** And shall dip his right finger in it, and sprinkle it before the Lord seven times.  
 **17** And the rest of the oil in his left hand, he shall pour upon the tip of the right ear of him that is cleansed, and upon the thumb of his right hand and the great toe of his right foot, and upon the blood that was shed for trespass:  
@@ -546,7 +546,7 @@ format: markdown
 ## Chapter 15
 
 **1** And the Lord spoke to Moses and Aaron, saying:  
-**2** Speak to the children of Israel, and say to them: The man that hath an issue of seed, shall be unclean. instituted in order to give the people a horror of carnal impurities.  
+**2** Speak to the children of Israel, and say to them: The man that hath an issue of seed, shall be unclean.  
 **3** And then shall he be judged subject to this evil, when a filthy humour, at every moment, cleaveth to his flesh, and gathereth there.  
 **4** Every bed on which he sleepeth, shall be unclean, and every place on which he sitteth.  
 **5** If any man touch his bed, he shall wash his clothes and being washed with water, he shall be unclean until the evening.  
@@ -598,12 +598,12 @@ format: markdown
 **13** That when the perfumes are put upon the fire, the cloud and vapour thereof may cover the oracle, which is over the testimony, and he may not die.  
 **14** He shall take also of the blood of the calf, and sprinkle with his finger seven times towards the propitiatory to the east.  
 **15** And when he hath killed the buck goat for the sin of the people, he shall carry in the blood thereof within the veil, as he was commanded to do with the blood of the calf, that he may sprinkle it over against the oracle:  
-**16** And may expiate the sanctuary from the uncleanness of the children of Israel, and from their transgressions, and all their sins. which is fixed among them in the midst of the filth of their habitation.  
+**16** And may expiate the sanctuary from the uncleanness of the children of Israel, and from their transgressions, and all their sins. According to this rite shall he do to the tabernacle of the testimony, which is fixed among them in the midst of the filth of their habitation.  
 **17** Let no man be in the tabernacle when the high priest goeth into the sanctuary, to pray for himself and his house, and for the whole congregation of Israel, until he come out.  
 **18** And when he is come out to the altar that is before the Lord, let him pray for himself: and taking the blood of the calf, and of the buck goat, let him pour it upon the horns thereof round about.  
 **19** And sprinkling with his finger seven times, let him expiate, and sanctify it from the uncleanness of the children of Israel.  
 **20** After he hath cleaned the sanctuary, and the tabernacle, and the altar, then let him offer the living goat.  
-**21** And putting both hands upon his head, let him confess all the iniquities of the children of Israel, and all their offences and sins. man ready for it, into the desert.  
+**21** And putting both hands upon his head, let him confess all the iniquities of the children of Israel, and all their offences and sins. And praying that they may light on its head, he shall turn him out by a man ready for it, into the desert.  
 **22** And when the goat hath carried all their iniquities into an uninhabited land, and shall be let go into the desert:  
 **23** Aaron shall return into the tabernacle of the testimony, and putting off the vestments, which he had on him before when he entered into the sanctuary, and leaving them there,  
 **24** He shall wash his flesh in the holy place, and shall put on his own garments. And after that he is come out and hath offered his own holocaust, and that of the people, he shall pray both for himself, and for the people.  
@@ -631,7 +631,7 @@ format: markdown
 **7** And they shall no more sacrifice their victims to devils, with whom they have committed fornication. It shall be an ordinance for ever to them and to their posterity.  
 **8** And thou shalt say to them: The man of the house of Israel, and of the strangers who sojourn among you, that offereth a holocaust or a victim,  
 **9** And bringeth it not to the door of the tabernacle of the testimony, that it may be offered to the Lord, shall perish from among his people.  
-**10** If any man whosoever of the house of Israel, and of the strangers that sojourn among them, eat blood, I will set my face against his soul, and will cut him off from among his people. reserved it to himself, to be offered in sacrifices on the altar, as to the Lord of life and death; and as a figure of the blood of Christ; and partly, to give men a horror of shedding blood. Gen. 9.4, 5, 6.  
+**10** If any man whosoever of the house of Israel, and of the strangers that sojourn among them, eat blood, I will set my face against his soul, and will cut him off from among his people.  
 **11** Because the life of the flesh is in the blood: and I have given it to you, that you may make atonement with it upon the altar for your souls, and the blood may be for an expiation of the soul.  
 **12** Therefore I have said to the children of Israel: No soul of you, nor of the strangers that sojourn among you, shall eat blood.  
 **13** Any man whosoever of the children of Israel, and of the strangers that sojourn among you, if by hunting or fowling, he take a wild beast or a bird, which is lawful to eat, let him pour out its blood, and cover it with earth.  
@@ -657,7 +657,7 @@ format: markdown
 **12** Thou shalt not uncover the nakedness of thy father's sister: because she is the flesh of thy father.  
 **13** Thou shalt not uncover the nakedness of thy mother's sister: because she is thy mother's flesh.  
 **14** Thou shalt not uncover the nakedness of thy father's brother: neither shalt thou approach to his wife, who is joined to thee by affinity.  
-**15** Thou shalt not uncover the nakedness of thy daughter-in-law: because she is thy son's wife, neither shalt thou discover her shame.  
+**15** Thou shalt not uncover the nakedness of thy daughter in law: because she is thy son's wife, neither shalt thou discover her shame.  
 **16** Thou shalt not uncover the nakedness of thy brother's wife: because it is the nakedness of thy brother.  
 **17** Thou shalt not uncover the nakedness of thy wife and her daughter. Thou shalt not take her son's daughter or her daughter's daughter, to discover her shame: because they are her flesh, and such copulation is incest.  
 **18** Thou shalt not take thy wife's sister for a harlot, to rival her: neither shalt thou discover her nakedness, while she is yet living.  
@@ -665,7 +665,7 @@ format: markdown
 **20** Thou shalt not lie with thy neighbour's wife: nor be defiled with mingling of seed.  
 **21** Thou shalt not give any of thy seed to be consecrated to the idol Moloch, nor defile the name of thy God. I am the Lord.  
 **22** Thou shalt not lie with mankind as with womankind: because it is an abomination.  
-**23** Thou shalt not copulate with any beast: neither shalt thou be defiled with it. A woman shall not lie down to a beast, nor copulate with it: because it is a heinous crime. expressed by the word confusion, signifying the shamefulness and baseness of this abominable sin.  
+**23** Thou shalt not copulate with any beast: neither shalt thou be defiled with it. A woman shall not lie down to a beast, nor copulate with it: because it is a heinous crime.  
 **24** Defile not yourselves with any of these things with which all the nations have been defiled, which I will cast out before you,  
 **25** And with which the land is defiled: the abominations of which I will visit, that it may vomit out its inhabitants.  
 **26** Keep ye my ordinances and my judgments: and do not any of these abominations. Neither any of your own nation, nor any stranger that sojourneth among you.  
@@ -683,7 +683,7 @@ format: markdown
 **3** Let every one fear his father, and his mother. Keep my sabbaths. I am the Lord your God.  
 **4** Turn ye not to idols: nor make to yourselves molten gods. I am the Lord your God.  
 **5** If ye offer in sacrifice a peace offering to the Lord, that he may be favourable:  
-**6** You shall eat it on the same day it was offered, and the next day. fire.  
+**6** You shall eat it on the same day it was offered, and the next day. And whatsoever shall be left until the third day, you shall burn with fire.  
 **7** If after two days any man eat thereof, he shall be profane and guilty of impiety:  
 **8** And shall bear his iniquity, because he hath defiled the holy thing of the Lord. And that soul shall perish from among his people.  
 **9** When thou reapest the corn of thy land, thou shalt not cut down all that is on the face of the earth to the very ground: nor shalt thou gather the ears that remain.  
@@ -692,15 +692,15 @@ format: markdown
 **12** Thou shalt not swear falsely by my name, nor profane the name of thy God. I am the Lord.  
 **13** Thou shalt not calumniate thy neighbour, nor oppress him by violence. The wages of him that hath been hired by thee shall not abide with thee until the morning.  
 **14** Thou shalt not speak evil of the deaf, nor put a stumbling block before the blind: but thou shalt fear the Lord thy God, because I am the Lord.  
-**15** Thou shalt not do that which is unjust, nor judge unjustly. mighty. But judge thy neighbour according to justice.  
-**16** Thou shalt not be a detractor nor a whisperer among the people.  
+**15** Thou shalt not do that which is unjust, nor judge unjustly. Respect not the person of the poor: nor honour the countenance of the mighty. But judge thy neighbour according to justice.  
+**16** Thou shalt not be a detractor nor a whisperer among the people. Thou shalt not stand against the blood of thy neighbour. I am the Lord.  
 **17** Thou shalt not hate thy brother in thy heart: But reprove him openly, lest thou incur sin through him.  
-**18** Seek not revenge, nor be mindful of the injury of thy citizens.  
-**19** Keep ye my laws. Thou shalt not make thy cattle to gender with beasts of any other kind. Thou shalt not sow thy field with different seeds. Thou shalt not wear a garment that is woven of two sorts. dealing in all things, and to teach the people not to join any false worship or heresy with the worship of the true God.  
+**18** Seek not revenge, nor be mindful of the injury of thy citizens. Thou shalt love thy friend as thyself. I am the Lord.  
+**19** Keep ye my laws. Thou shalt not make thy cattle to gender with beasts of any other kind. Thou shalt not sow thy field with different seeds. Thou shalt not wear a garment that is woven of two sorts.  
 **20** If a man carnally lie with a woman that is a bondservant and marriageable, and yet not redeemed with a price, nor made free: they both shall be scourged: and they shall not be put to death, because she was not a free woman.  
 **21** And for his trespass he shall offer a ram to the Lord, at the door of the tabernacle of the testimony.  
 **22** And the priest shall pray for him: and for his sin before the Lord: and he shall have mercy on him, and the sin shall be forgiven.  
-**23** When you shall be come into the land, and shall have planted in it fruit trees, you shall take away the firstfruits of them. The fruit that comes forth shall be unclean to you: neither shall you eat of them. circumcision, and signifies that for the first three years the trees were to be as uncircumcised, and their fruit unclean: till in the fourth year their increase was sanctified and given to the Lord, that is, to the priests.  
+**23** When you shall be come into the land, and shall have planted in it fruit trees, you shall take away the firstfruits of them. The fruit that comes forth shall be unclean to you: neither shall you eat of them.  
 **24** But in the fourth year, all their fruit shall be sanctified, to the praise of the Lord.  
 **25** And in the fifth year you shall eat the fruits thereof, gathering the increase thereof. I am the Lord your God.  
 **26** You shall not eat with blood. You shall not divine nor observe dreams.  
@@ -731,10 +731,10 @@ format: markdown
 **9** He that curseth his father, or mother, dying let him die. He hath cursed his father, and mother: let his blood be upon him.  
 **10** If any man commit adultery with the wife of another, and defile his neighbour's wife: let them be put to death, both the adulterer and the adulteress.  
 **11** If a man lie with his stepmother, and discover the nakedness of his father, let them both be put to death: their blood be upon them.  
-**12** If any man lie with his daughter-in-law: let both die, because they have done a heinous crime. Their blood be upon them.  
+**12** If any man lie with his daughter in law: let both die, because they have done a heinous crime. Their blood be upon them.  
 **13** If any one lie with a man as with a woman, both have committed an abomination: let them be put to death. Their blood be upon them.  
 **14** If any man after marrying the daughter, marry her mother, he hath done a heinous crime. He shall be burnt alive with them: neither shall so great an abomination remain in the midst of you.  
-**15** He that shall copulate with any beast or cattle, dying let him die: the beast also ye shall kill. greater horror of the crime, and to prevent the remembrance of such abaomination.  
+**15** He that shall copulate with any beast or cattle, dying let him die: the beast also ye shall kill.  
 **16** The woman that shall lie under any beast, shall be killed together with the same. Their blood be upon them.  
 **17** If any man take his sister, the daughter of his father, or the daughter of his mother, and see her nakedness, and she behold her brother's shame: they have committed a crime. They shall be slain, in the sight of their people, because they have discovered one another's nakedness. And they shall bear their iniquity.  
 **18** If any man lie with a woman in her flowers, and uncover her nakedness, and she open the fountain of her blood: both shall be destroyed out of the midst of their people.  
@@ -752,12 +752,12 @@ format: markdown
 
 ## Chapter 21
 
-**1** The Lord said also to Moses: Speak to the priests the sons of Aaron, and thou shalt say for them: Let not a priest incur an uncleanness at the death of his citizens. body, or touching it; or in going into the house, or assisting at the funeral, etc.  
+**1** The Lord said also to Moses: Speak to the priests the sons of Aaron, and thou shalt say for them: Let not a priest incur an uncleanness at the death of his citizens.  
 **2** But only for his kin, such as are near in blood: that is to say, for his father and for his mother, and for his son, and for his daughter, for his brother also:  
 **3** And for a maiden sister, who hath had no husband.  
 **4** But not even for the prince of his people shall he do any thing that may make him unclean.  
 **5** Neither shall they shave their head, nor their beard, nor make incisions in their flesh.  
-**6** They shall be holy to their God, and shall not profane his name.  
+**6** They shall be holy to their God, and shall not profane his name. For they offer the burnt offering of the Lord, and the bread of their God: and therefore they shall be holy.  
 **7** They shall not take to wife a harlot or a vile prostitute, nor one that has been put away from her husband: because they are consecrated to their God,  
 **8** And offer the loaves of proposition. Let them therefore be holy because I also am holy: the Lord, who sanctify them.  
 **9** If the daughter of a priest be taken in whoredom and dishonour the name of her father, she shall be burnt with fire.  
@@ -783,7 +783,7 @@ format: markdown
 
 **1** And the Lord spoke to Moses saying:  
 **2** Speak to Aaron and to his sons, that they beware of those things that are consecrated of the children of Israel: and defile not the name of the things sanctified to me, which they offer. I am the Lord.  
-**3** Say to them and to their posterity: Every man of your race, that approacheth to those things that are consecrated, and which the children of Israel have offered to the Lord, in whom there is uncleanness, shall perish before the Lord. I am the Lord. of soul we are to approach to the blessed sacrament of which these meats that had been offered in sacrifice were a figure.  
+**3** Say to them and to their posterity: Every man of your race, that approacheth to those things that are consecrated, and which the children of Israel have offered to the Lord, in whom there is uncleanness, shall perish before the Lord. I am the Lord.  
 **4** The man of the seed of Aaron, that is a leper, or that suffereth a running of the seed, shall not eat of those things that are sanctified to me, until he be healed. He that toucheth any thing unclean by occasion of the dead: and he whose seed goeth from him as in generation:  
 **5** And he that toucheth a creeping thing, or any unclean thing, the touching of which is defiling:  
 **6** Shall be unclean until the evening, and shall not eat those things that are sanctified. But when he hath washed his flesh with water,  
@@ -801,7 +801,7 @@ format: markdown
 **18** Speak to Aaron, and to his sons, and to all the children of Israel, and thou shalt say to them: The man of the house of Israel, and of the strangers who dwell with you, that offereth his oblation, either paying his vows, or offering of his own accord, whatsoever it be which he presenteth for a holocaust of the Lord,  
 **19** To be offered by you: it shall be a male without blemish of the beeves, or of the sheep, or of the goats.  
 **20** If it have a blemish you shall not offer it: neither shall it be acceptable.  
-**21** The man that offereth a victim of peace offerings to the Lord, either paying his vows, or offering of his own accord, whether of beeves or of sheep, shall offer it without blemish, that it may be acceptable.  
+**21** The man that offereth a victim of peace offerings to the Lord, either paying his vows, or offering of his own accord, whether of beeves or of sheep, shall offer it without blemish, that it may be acceptable. There shall be no blemish in it.  
 **22** If it be blind, or broken, or have a scar or blisters, or a scab, or a dry scurf: you shall not offer them to the Lord, nor burn any thing of them upon the Lord's altar.  
 **23** An ox or a sheep, that hath the ear and the tail cut off, thou mayst offer voluntarily: but a vow may not be paid with them.  
 **24** you shall not offer to the Lord any beast that hath the testicles bruised, or crushed, or cut and taken away: neither shall you do any such things in your land.  
@@ -859,7 +859,7 @@ format: markdown
 **38** Besides the sabbaths of the Lord, and your gifts, and those things that you offer by vow, or which you shall give to the Lord voluntarily.  
 **39** So from the fifteenth day of the seventh month, when you shall have gathered in all the fruits of your land, you shall celebrate the feast of the Lord seven days. On the first day and the eighth shall be a sabbath: that is a day of rest.  
 **40** And you shall take to you on the first day the fruits of the fairest tree, and branches of palm trees, and boughs of thick trees, and willows of the brook: And you shall rejoice before the Lord your God.  
-**41** And you shall keep the solemnity thereof seven days in the year. month shall you celebrate this feast.  
+**41** And you shall keep the solemnity thereof seven days in the year. It shall be an everlasting ordinance in your generations. In the seventh month shall you celebrate this feast.  
 **42** And you shall dwell in bowers seven days. Every one that is of the race of Israel, shall dwell in tabernacles:  
 **43** That your posterity may know, that I made the children of Israel to dwell in tabernacles, when I brought them out of the land of Egypt. I am the Lord your God.  
 **44** And Moses spoke concerning the feasts of the Lord to the children of Israel.  
@@ -883,7 +883,7 @@ format: markdown
 **13** And the Lord spoke to Moses,  
 **14** Saying: Bring forth the blasphemer without the camp: and let them that heard him, put their hands upon his head: and let all the people stone him.  
 **15** And thou shalt speak to the children of Israel: The man that curseth his God, shall bear his sin:  
-**16** And he that blasphemeth the name of the Lord, dying let him die.  
+**16** And he that blasphemeth the name of the Lord, dying let him die. All the multitude shall stone him, whether he be a native or a stranger. He that blasphemeth the name of the Lord, dying let him die.  
 **17** He that striketh and killeth a man: dying let him die.  
 **18** He that killeth a beast, shall make it good that is to say, shall give beast for beast.  
 **19** He that giveth a blemish to any of his neighbours: as he hath done, so shall it be done to him:  
@@ -900,19 +900,19 @@ format: markdown
 **2** Speak to the children of Israel, and thou shalt say to them: When you shall have entered into the land which I will give you, observe the rest of the sabbath of the Lord.  
 **3** Six years thou shalt sow thy field and six years thou shalt prune thy vineyard, and shalt gather the fruits thereof.  
 **4** But in the seventh year there shall be a sabbath to the land, of the resting of the Lord. Thou shalt not sow thy field, nor prune thy vineyard.  
-**5** What the ground shall bring forth of itself, thou shalt not reap: neither shalt thou gather the grapes or the firstfruits as a vintage.  
-**6** But they shall be unto you for meat, to thee and to thy man-servant, to thy maid-servant and thy hireling, and to the strangers that sojourn with thee.  
+**5** What the ground shall bring forth of itself, thou shalt not reap: neither shalt thou gather the grapes or the firstfruits as a vintage. For it is a year of rest to the land.  
+**6** But they shall be unto you for meat, to thee and to thy manservant, to thy maidservant and thy hireling, and to the strangers that sojourn with thee.  
 **7** All things that grow shall be meat to thy beasts and to thy cattle.  
 **8** Thou shalt also number to thee seven weeks of years: that is to say, seven times seven, which together make forty-nine years.  
 **9** And thou shalt sound the trumpet in the seventh month, the tenth day of the month, in the time of the expiation in all your land.  
-**10** And thou shalt sanctify the fiftieth year, and shalt proclaim remission to all the inhabitants of thy land: for it is the year of jubilee. Every man shall return to his possession, and every one shall go back to his former family: bondage, and a reinstating of every man in his former possessions.  
+**10** And thou shalt sanctify the fiftieth year, and shalt proclaim remission to all the inhabitants of thy land: for it is the year of jubilee. Every man shall return to his possession, and every one shall go back to his former family:  
 **11** Because it is the jubilee and the fiftieth year. You shall not sow, nor reap the things that grow in the field of their own accord, neither shall you gather the firstfruits of the vines,  
 **12** Because of the sanctification of the jubilee. But as they grow you shall presently eat them.  
 **13** In the year of the jubilee all shall return to their possessions.  
 **14** When thou shalt sell any thing to thy neighbour, or shalt buy of him: grieve not thy brother. But thou shalt buy of him according to the number of years from the jubilee.  
 **15** And he shall sell to thee according to the computation of the fruits.  
 **16** The more years remain after the jubilee, the more shall the price increase: and the less time is counted, so much the less shall the purchase cost. For he shall sell to thee the time of the fruits.  
-**17** Do not afflict your countrymen: but let every one fear his God.  
+**17** Do not afflict your countrymen: but let every one fear his God. Because I am the Lord your God.  
 **18** Do my precepts, and keep my judgments, and fulfil them: that you may dwell in the land without any fear.  
 **19** And the ground may yield you its fruits, of which you may eat your fill, fearing no man's invasion.  
 **20** But if you say: What shall we eat the seventh year, if we sow not, nor gather our fruits?  
@@ -1021,7 +1021,7 @@ format: markdown
 **13** Which, if he that offereth it will give, he shall add above the estimation the fifth part.  
 **14** If a man shall vow his house, and sanctify it to the Lord, the priest shall consider it, whether it be good or bad: and it shall be sold according to the price, which he shall appoint.  
 **15** But if he that vowed, will redeem it, he shall give the fifth part of the estimation over and above: and shall have the house.  
-**16** And if he vow the field of his possession, and consecrate it to the Lord, the price shall be rated according to the measure of the seed. fifty sicles of silver.  
+**16** And if he vow the field of his possession, and consecrate it to the Lord, the price shall be rated according to the measure of the seed. If the ground be sown with thirty bushels of barley, let it be sold for fifty sicles of silver.  
 **17** If he vow his field immediately from the year of jubilee that is beginning: as much as it may be worth, at so much it shall be rated.  
 **18** But if some time after, the priest shall reckon the money according to the number of years that remain until the jubilee, and the price shall be abated.  
 **19** And if he that had vowed, will redeem his field, he shall add the fifth part of the money of the estimation, and shall possess it.  
@@ -1033,7 +1033,7 @@ format: markdown
 **25** All estimation shall be made according to the sicle of the sanctuary. A sicle hath twenty obols.  
 **26** The firstborn, which belong to the Lord, no man may sanctify and vow: whether it be bullock, or sheep, they are the Lord's.  
 **27** And if it be an unclean beast, he that offereth it shall redeem it, according to thy estimation, and shall add the fifth part of the price. If he will not redeem it, it shall be sold to another for how much soever it was estimated by thee.  
-**28** Any thing that is devoted to the Lord, whether it be man, or beast, or field, shall not be sold: neither may it be redeemed.  
+**28** Any thing that is devoted to the Lord, whether it be man, or beast, or field, shall not be sold: neither may it be redeemed. Whatsoever is once consecrated shall be holy of holies to the Lord.  
 **29** And any consecration that is offered by man, shall not be redeemed, but dying shall die.  
 **30** All tithes of the land, whether of corn, or of the fruits of trees, are the Lord's, and are sanctified to him.  
 **31** And if any man will redeem his tithes, he shall add the fifth part of them.  

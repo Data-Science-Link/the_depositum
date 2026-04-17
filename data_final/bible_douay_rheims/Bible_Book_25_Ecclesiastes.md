@@ -46,7 +46,7 @@ format: markdown
 **7** All the rivers run into the sea, yet the sea doth not overflow: unto the place from whence the rivers come, they return, to flow again.  
 **8** All things are hard: man cannot explain them by word. The eye is not filled with seeing, neither is the ear filled with hearing.  
 **9** What is it that hath been? the same thing that shall be. What is it that hath been done? the same that shall be done.  
-**10** Nothing under the sun is new, neither is any man able to say: were before us.  
+**10** Nothing under the sun is new, neither is any man able to say: Behold this is new: for it hath already gone before in the ages that were before us.  
 **11** There is no remembrance of former things: nor indeed of those things which hereafter are to come, shall there be any remembrance with them that shall be in the latter end.  
 **12** I Ecclesiastes was king over Israel in Jerusalem,  
 **13** And I proposed in my mind to seek and search out wisely concerning all things that are done under the sun. This painful occupation hath God given to the children of men, to be exercised therein.  
@@ -66,7 +66,7 @@ format: markdown
 **4** I made me great works, I built me houses, and planted vineyards,  
 **5** I made gardens, and orchards, and set them with trees of all kinds,  
 **6** And I made me ponds of water, to water therewith the wood of the young trees,  
-**7** I got me men-servants, and maid-servants, and had a great family: and herds of oxen, and great flocks of sheep, above all that were before me in Jerusalem:  
+**7** I got me menservants, and maidservants, and had a great family: and herds of oxen, and great flocks of sheep, above all that were before me in Jerusalem:  
 **8** I heaped together for myself silver and gold, and the wealth of kings, and provinces: I made me singing men, and singing women, and the delights of the sons of men, cups and vessels to serve to pour out wine:  
 **9** And I surpassed in riches all that were before me in Jerusalem: my wisdom also remained with me.  
 **10** And whatsoever my eyes desired, I refused them not: and I withheld not my heart from enjoying every pleasure, and delighting itself in the things which I had prepared: and esteemed this my portion, to make use of my own labour.  
@@ -111,7 +111,7 @@ format: markdown
 **18** I said in my heart concerning the sons of men, that God would prove them, and shew them to be like beasts.  
 **19** Therefore the death of man, and of beasts is one, and the condition of them both is equal: as man dieth, so they also die: all things breathe alike, and man hath nothing more than beast: all things are subject to vanity.  
 **20** And all things go to one place: of earth they were made, and into earth they return together.  
-**21** Who knoweth if the spirit of the children of Adam ascend upward, and if the spirit of the beasts descend downward? see a spirit. But as to the spirit of the beasts, which is merely animal, and become extinct by the death of the beast, who can tell the manner it acts so as to give life and motion, and by death to descend downward, that is, to be no more?  
+**21** Who knoweth if the spirit of the children of Adam ascend upward, and if the spirit of the beasts descend downward?  
 **22** And I have found that nothing is better than for a man to rejoice in his work, and that this is his portion. For who shall bring him to know the things that shall be after him?  
 
 ---
@@ -196,8 +196,8 @@ format: markdown
 **14** Consider the works of God, that no man can correct whom he hath despised.  
 **15** In the good day enjoy good things, and beware beforehand of the evil day: for God hath made both the one and the other, that man may not find against him any just complaint.  
 **16** These things also I saw in the days of my vanity: A just man perisheth in his justice, and a wicked man liveth a long time in his wickedness.  
-**17** Be not over just: and be not more wise than is necessary, lest thou become stupid. in bearing with the wicked.  
-**18** Be not overmuch wicked: and be not foolish, lest thou die before thy time. leave no room for mercy.  
+**17** Be not over just: and be not more wise than is necessary, lest thou become stupid.  
+**18** Be not overmuch wicked: and be not foolish, lest thou die before thy time.  
 **19** It is good that thou shouldst hold up the just, yea and from him withdraw not thy hand: for he that feareth God, neglecteth nothing.  
 **20** Wisdom hath strengthened the wise more than ten princes of the city.  
 **21** For there is no just man upon earth, that doth good, and sinneth not.  
@@ -229,7 +229,7 @@ format: markdown
 **12** But though a sinner do evil a hundred times, and by patience be borne withal, I know from thence that it shall be well with them that fear God, who dread his face.  
 **13** But let it not be well with the wicked, neither let his days be prolonged, but as a shadow let them pass away that fear not the face of the Lord.  
 **14** There is also another vanity, which is done upon the earth. There are just men to whom evils happen, as though they had done the works of the wicked: and there are wicked men, who are as secure as though they had the deeds of the just: but this also I judge most vain.  
-**15** Therefore I commended mirth, because there was no good for a man under the sun, but to eat, and drink, and be merry, and that he should take nothing else with him of his labour in the days of his life, which God hath given him under the sun. speaks in the person of the libertine: representing the objections of these men against divine providence, and the inferences they draw from thence, which he takes care afterwards to refute. But it may also be said, that his meaning is to commend the moderate use of the goods of this world, preferably to the cares and solicitudes of worldlings, their attachment to vanity and curiosity, and presumptuously diving into the unsearchable ways of divine providence.  
+**15** Therefore I commended mirth, because there was no good for a man under the sun, but to eat, and drink, and be merry, and that he should take nothing else with him of his labour in the days of his life, which God hath given him under the sun.  
 **16** And I applied my heart to know wisdom, and to understand the distraction that is upon earth: for there are some that day and night take no sleep with their eyes.  
 **17** And I understood that man can find no reason of all those works of God that are done under the sun: and the more he shall labour to seek, so much the less shall he find: yea, though the wise man shall say, that he knoweth it, he shall not be able to find it.  
 
@@ -241,7 +241,7 @@ format: markdown
 **2** But all things are kept uncertain for the time to come, because all things equally happen to the just and to the wicked, to the good and to the evil, to the clean and to the unclean, to him that offereth victims, and to him that despiseth sacrifices. As the good is, so also is the sinner: as the perjured, so he also that sweareth truth.  
 **3** This is a very great evil among all things that are done under the sun, that the same things happen to all men: whereby also the hearts of the children of men are filled with evil, and with contempt while they live, and afterwards they shall be brought down to hell.  
 **4** There is no man that liveth always, or that hopeth for this: a living dog is better than a dead lion.  
-**5** For the living know that they shall die, but the dead know nothing more, neither have they a reward any more: for the memory of them is forgotten. which they have now no part, unless it be revealed to them; neither have they any knowledge or power now of doing any thing to secure their eternal state, (if they have not taken care of it in their lifetime:) nor can they now procure themselves any good, as the living always may do, by the grace of God.  
+**5** For the living know that they shall die, but the dead know nothing more, neither have they a reward any more: for the memory of them is forgotten.  
 **6** Their love also, and their hatred, and their envy are all perished, neither have they any part in this world, and in the work that is done under the sun.  
 **7** Go then, and eat thy bread with joy, and drink thy wine with gladness: because thy works please God.  
 **8** At all times let thy garments be white, and let not oil depart from thy head.  
@@ -287,21 +287,21 @@ format: markdown
 
 **1** Cast thy bread upon the running waters: for after a long time thou shalt find it again.  
 **2** Give a portion to seven, and also to eight: for thou knowest not what evil shall be upon the earth.  
-**3** If the clouds be full, they will pour out rain upon the earth. If the tree fall to the south, or to the north, in what place soever it shall fall, there shall it be. she comes to heaven or hell: and a soul that departs this life in the state of grace, shall never fall from grace: as on the other side, a soul that dies out of the state of grace, shall never come to it. But this does not exclude a place of temporal punishments for such souls as die in the state of grace: yet not so as to be entirely pure: and therefore they shall be saved, indeed, yet so as by fire. 1 Cor. 3.13, 14, 15.  
+**3** If the clouds be full, they will pour out rain upon the earth. If the tree fall to the south, or to the north, in what place soever it shall fall, there shall it be.  
 **4** He that observeth the wind, shall not sow: and he that considereth the clouds, shall never reap.  
 **5** As thou knowest not what is the way of the spirit, nor how the bones are joined together in the womb of her that is with child: so thou knowest not the works of God, who is the maker of all.  
 **6** In the morning sow thy seed, and in the evening let not thy hand cease: for thou knowest not which may rather spring up, this or that: and if both together, it shall be the better.  
 **7** The light is sweet, and it is delightful for the eyes to see the sun.  
 **8** If a man live many years, and have rejoiced in them all, he must remember the darksome time, and the many days: which when they shall come, the things past shall be accused of vanity.  
 **9** Rejoice therefore, O young man, in thy youth, and let thy heart be in that which is good in the days of thy youth, and walk in the ways of thy heart, and in the sight of thy eyes: and know that for all these God will bring thee into judgment.  
-**10** Remove anger from thy heart, and put away evil from thy flesh.  
+**10** Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain.  
 
 ---
 
 ## Chapter 12
 
 **1** Remember thy Creator in the days of thy youth, before the time of affliction come, and the years draw nigh of which thou shalt say: They please me not:  
-**2** Before the sun, and the light, and the moon, and the stars be darkened, and the clouds return after the rain: upon all the senses and faculties are described in the following verses, under a variety of figures.  
+**2** Before the sun, and the light, and the moon, and the stars be darkened, and the clouds return after the rain:  
 **3** When the keepers of the house shall tremble, and the strong men shall stagger, and the grinders shall be idle in a small number, and they that look through the holes shall be darkened:  
 **4** And they shall shut the doors in the street, when the grinder's voice shall be low, and they shall rise up at the voice of the bird, and all the daughters of music shall grow deaf.  
 **5** And they shall fear high things, and they shall be afraid in the way, the almond tree shall flourish, the locust shall be made fat, and the caper tree shall be destroyed: because man shall go into the house of his eternity, and the mourners shall go round about in the street.  

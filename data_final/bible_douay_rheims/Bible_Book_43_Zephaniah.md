@@ -29,17 +29,17 @@ format: markdown
 ## Chapter 1
 
 **1** The word of the Lord that came to Sophonias the son of Chusi, the son of Godolias, the son of Amarias, the son of Ezechias, in the days of Josias, the son of Amon king of Juda.  
-**2** Gathering, I will gather together all things from off the face of the land, saith the Lord: and wholly consume, either by captivity, or death, both men and beasts out of this land.  
+**2** Gathering, I will gather together all things from off the face of the land, saith the Lord:  
 **3** I will gather man, and beast, I will gather the birds of the air, and the fishes of the sea: and the ungodly shall meet with ruin: and I will destroy men from off the face of the land, saith the Lord.  
-**4** And I will stretch out my hand upon Juda, and upon all the inhabitants of Jerusalem: and I will destroy out of this place the remnant of Baal, and the names of the wardens of the temples with the priests: incense.  
+**4** And I will stretch out my hand upon Juda, and upon all the inhabitants of Jerusalem: and I will destroy out of this place the remnant of Baal, and the names of the wardens of the temples with the priests:  
 **5** And them that worship the host of heaven upon the tops of houses, and them that adore, and swear by the Lord, and swear by Melchom.  
 **6** And them that turn away from following after the Lord, and that have not sought the Lord, nor searched after him.  
 **7** Be silent before the face of the Lord God: for the day of the Lord is near, for the Lord hath prepared a victim, he hath sanctified his guests.  
 **8** And it shall come to pass in the day of the victim of the Lord, that I will visit upon the princes, and upon the king's sons, and upon all such as are clothed with strange apparel:  
 **9** And I will visit in that day upon every one that entereth arrogantly over the threshold: them that fill the house of the Lord their God with iniquity and deceit.  
 **10** And there shall be in that day, saith the Lord, the noise of a cry from the fish gate, and a howling from the Second, and a great destruction from the hills.  
-**11** Howl, ye inhabitants of the Morter. All the people of Chanaan is hush, all are cut off that were wrapped up in silver. of Chanaan... So he calls the Jews, from their following the wicked ways of the Chanaanites.  
-**12** And it shall come to pass at that time, that I will search Jerusalem with lamps, and will visit upon the men that are settled on their lees: that say in their hearts: The Lord will not do good, nor will he do evil. ease, resting upon their riches, like wine upon the lees.  
+**11** Howl, ye inhabitants of the Morter. All the people of Chanaan is hush, all are cut off that were wrapped up in silver.  
+**12** And it shall come to pass at that time, that I will search Jerusalem with lamps, and will visit upon the men that are settled on their lees: that say in their hearts: The Lord will not do good, nor will he do evil.  
 **13** And their strength shall become a booty, and their houses as a desert: and they shall build houses, and shall not dwell in them: and they shall plant vineyards, and shall not drink the wine of them.  
 **14** The great day of the Lord is near, it is near and exceeding swift: the voice of the day of the Lord is bitter, the mighty man shall there meet with tribulation.  
 **15** That day is a day of wrath, a day of tribulation and distress, a day of calamity and misery, a day of darkness and obscurity, a day of clouds and whirlwinds,  
@@ -63,7 +63,7 @@ format: markdown
 **10** This shall befall them for their pride: because they have blasphemed, and have been magnified against the people of the Lord of hosts.  
 **11** The Lord shall be terrible upon them, and shall consume all the gods of the earth: and they shall adore him every man from his own place, all the islands of the Gentiles.  
 **12** You Ethiopians, also shall be slain with my sword.  
-**13** And he will stretch out his hand upon the north, and will destroy Assyria: and he will make the beautiful city a wilderness, and as a place not passable, and as a desert. viz., in the sixteenth year of the reign of Josias.  
+**13** And he will stretch out his hand upon the north, and will destroy Assyria: and he will make the beautiful city a wilderness, and as a place not passable, and as a desert.  
 **14** And flocks shall lie down in the midst thereof, all the beasts of the nations: and the bittern and the urchin shall lodge in the threshold thereof: the voice of the singing bird in the window, the raven on the upper post, for I will consume her strength.  
 **15** This is the glorious city that dwelt in security: that said in her heart: I am, and there is none beside me: how is she become a desert, a place for beasts to lie down in? every one that passeth by her shall hiss, and wag his hand.  
 

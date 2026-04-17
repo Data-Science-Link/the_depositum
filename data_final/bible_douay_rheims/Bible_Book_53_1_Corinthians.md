@@ -65,7 +65,7 @@ format: markdown
 **22** For both the Jews require signs: and the Greeks seek after wisdom.  
 **23** But we preach Christ crucified: unto the Jews indeed a stumblingblock, and unto the Gentiles foolishness:  
 **24** But unto them that are called, both Jews and Greeks, Christ, the power of God and the wisdom of God.  
-**25** For the foolishness of God is wiser than men: and the weakness of God is stronger than men. world in the ways of God, is indeed most wise; and what appears weak is indeed above all the strength and comprehension of man.  
+**25** For the foolishness of God is wiser than men: and the weakness of God is stronger than men.  
 **26** For see your vocation, brethren, that there are not many wise according to the flesh, not many mighty, not many noble.  
 **27** But the foolish things of the world hath God chosen, that he may confound the wise: and the weak things of the world hath God chosen, that he may confound the strong.  
 **28** And the base things of the world and the things that are contemptible, hath God chosen: and things that are not, that he might bring to nought things that are:  
@@ -90,16 +90,16 @@ format: markdown
 **11** For what man knoweth the things of a man, but the spirit of a man that is in him? So the things also that are of God, no man knoweth, but the Spirit of God.  
 **12** Now, we have received not the spirit of this world, but the Spirit that is of God: that we may know the things that are given us from God.  
 **13** Which things also we speak: not in the learned words of human wisdom, but in the doctrine of the Spirit, comparing spiritual things with spiritual.  
-**14** But the sensual man perceiveth not these things that are of the Spirit of God. For it is foolishness to him: and he cannot understand, because it is spiritually examined. is taken up with sensual pleasures, with carnal and worldly affections; or he who measureth divine mysteries by natural reason, sense, and human wisdom only. Now such a man has little or no notion of the things of God. Whereas the spiritual man is he who, in the mysteries of religion, takes not human sense for his guide: but submits his judgment to the decisions of the church, which he is commanded to hear and obey. For Christ hath promised to remain to the end of the world with his church, and to direct her in all things by the Spirit of truth.  
+**14** But the sensual man perceiveth not these things that are of the Spirit of God. For it is foolishness to him: and he cannot understand, because it is spiritually examined.  
 **15** But the spiritual man judgeth all things: and he himself is judged of no man.  
-**16** For who hath known the mind of the Lord, that he may instruct him?  
+**16** For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.  
 
 ---
 
 ## Chapter 3
 
 **1** And I, brethren, could not speak to you as unto spiritual, but as unto carnal. As unto little ones in Christ.  
-**2** I gave you milk to drink, not meat: for you were not able as yet.  
+**2** I gave you milk to drink, not meat: for you were not able as yet. But neither indeed are you now able: for you are yet carnal.  
 **3** For, whereas there is among you envying and contention, are you not carnal and walk you not according to man?  
 **4** For while one saith: I indeed am of Paul: and another: I am of Apollo: are you not men? What then is Apollo and what is Paul?  
 **5** The ministers of him whom you have believed: and to every one as the Lord hath given.  
@@ -109,17 +109,17 @@ format: markdown
 **9** For we are God's coadjutors. You are God's husbandry: you are God's building.  
 **10** According to the grace of God that is given to me, as a wise architect, I have laid the foundation: and another buildeth thereon. But let every man take heed how he buildeth thereupon.  
 **11** For other foundation no man can lay, but that which is laid: which is Christ Jesus.  
-**12** Now, if any man build upon this foundation, gold, silver, precious stones, wood, hay, stubble: the true faith in him, working through charity. The building upon this foundation gold, silver, and precious stones, signifies the more perfect preaching and practice of the gospel; the wood, hay, and stubble, such preaching as that of the Corinthian teachers (who affected the pomp of words and human eloquence) and such practice as is mixed with much imperfection, and many lesser sins. Now the day of the Lord, and his fiery trial, (in the particular judgment immediately after death,) shall make manifest of what sort every man's work has been: of which, during this life, it is hard to make a judgment. For then the fire of God's judgment shall try every man's work. And they, whose works, like wood, hay, and stubble, cannot abide the fire, shall suffer loss; these works being found to be of no value; yet they themselves, having built upon the right foundation, (by living and dying in the true faith and in the state of grace, though with some imperfection,) shall be saved yet so as by fire; being liable to this punishment, by reason of the wood, hay, and stubble, which was mixed with their building.  
+**12** Now, if any man build upon this foundation, gold, silver, precious stones, wood, hay, stubble:  
 **13** Every man's work shall be manifest. For the day of the Lord shall declare it, because it shall be revealed in fire. And the fire shall try every man's work, of what sort it is.  
 **14** If any man's work abide, which he hath built thereupon, he shall receive a reward.  
 **15** If any mans work burn, he shall suffer loss: but he himself shall be saved, yet so as by fire.  
 **16** Know you not that you are the temple of God and that the Spirit of God dwelleth in you?  
-**17** But if any man violate the temple of God, him shall God destroy.  
+**17** But if any man violate the temple of God, him shall God destroy. For the temple of God is holy, which you are.  
 **18** Let no man deceive himself. If any man among you seem to be wise in this world, let him become a fool, that he may be wise.  
 **19** For the wisdom of this world is foolishness with God. For it is written: I will catch the wise in their own craftiness.  
 **20** And again: The Lord knoweth the thoughts of the wise, that they are vain.  
 **21** Let no man therefore glory in men.  
-**22** For all things are yours, whether it be Paul or Apollo or Cephas, or the world, or life, or death, or things present, or things to come.  
+**22** For all things are yours, whether it be Paul or Apollo or Cephas, or the world, or life, or death, or things present, or things to come. For all are yours.  
 **23** And you are Christ's. And Christ is God's.  
 
 ---
@@ -160,7 +160,6 @@ format: markdown
 **6** Your glorying is not good. Know you not that a little leaven corrupteth the whole lump?  
 **7** Purge out the old leaven, that you may be a new paste, as you are unleavened. For Christ our pasch is sacrificed.  
 **8** Therefore, let us feast, not with the old leaven, nor with the leaven of malice and wickedness: but with the unleavened bread of sincerity and truth.  
-**9** I wrote to you in an epistle not to keep company with fornicators.  
 **10** I mean not with the fornicators of this world or with the covetous or the extortioners or the servers of idols: otherwise you must needs go out of this world.  
 **11** But now I have written to you, not to keep company, if any man that is named a brother be a fornicator or covetous or a server of idols or a railer or a drunkard or an extortioner: with such a one, not so much as to eat.  
 **12** For what have I to do to judge them that are without? Do not you judge them that are within?  
@@ -176,15 +175,15 @@ format: markdown
 **4** If therefore you have judgments of things pertaining to this world, set them to judge who are the most despised in the church.  
 **5** I speak to your shame. Is it so that there is not among you any one wise man that is able to judge between his brethren?  
 **6** But brother goeth to law with brother: and that before unbelievers.  
-**7** Already indeed there is plainly a fault among you, that you have law suits one with another. Why do you not rather take wrong? Why do you not rather suffer yourselves to be defrauded? or the other; and oftentimes on both sides.  
+**7** Already indeed there is plainly a fault among you, that you have law suits one with another. Why do you not rather take wrong? Why do you not rather suffer yourselves to be defrauded?  
 **8** But you do wrong and defraud: and that to your brethren.  
-**9** Know you not that the unjust shall not possess the kingdom of God?  
+**9** Know you not that the unjust shall not possess the kingdom of God? Do not err: Neither fornicators nor idolaters nor adulterers:  
 **10** Nor the effeminate nor liers with mankind nor thieves nor covetous nor drunkards nor railers nor extortioners shall possess the kingdom of God.  
 **11** And such some of you were. But you are washed: but you are sanctified: but you are justified: in the name of our Lord Jesus Christ and the Spirit of our God.  
-**12** All things are lawful to me: but all things are not expedient. All things are lawful to me: but I will not be brought under the power of any. lawful, inasmuch as they are not prohibited; but oftentimes they are not expedient; as in the case of lawsuits, etc. And much less would it be expedient to be enslaved by an irregular affection to any thing, how indifferent soever.  
+**12** All things are lawful to me: but all things are not expedient. All things are lawful to me: but I will not be brought under the power of any.  
 **13** Meat for the belly and the belly for the meats: but God shall destroy both it and them. But the body is not for fornication, but for the Lord: and the Lord for the body.  
 **14** Now God hath raised up the Lord and will raise us up also by his power.  
-**15** Know you not that your bodies are the members of Christ? Shall I then take the members of Christ and make them the members of an harlot?  
+**15** Know you not that your bodies are the members of Christ? Shall I then take the members of Christ and make them the members of an harlot? God forbid!  
 **16** Or know you not that he who is joined to a harlot is made one body? For they shall be, saith he, two in one flesh.  
 **17** But he who is joined to the Lord is one spirit.  
 **18** Fly fornication. Every sin that a man doth is without the body: but he that committeth fornication sinneth against his own body.  
@@ -196,21 +195,21 @@ format: markdown
 ## Chapter 7
 
 **1** Now concerning the things whereof you wrote to me: It is good for a man not to touch a woman.  
-**2** But for fear of fornication, let every man have his own wife: and let every woman have her own husband. meaning is not to exhort the unmarried to marry: on the contrary, he would have them rather continue as they are, (Ver. 7:8.) But he speaks here to them that are already married; who must not depart from one another, but live together as they ought to do in the marriage state.  
+**2** But for fear of fornication, let every man have his own wife: and let every woman have her own husband.  
 **3** Let the husband render the debt to his wife: and the wife also in like manner to the husband.  
 **4** The wife hath not power of her own body: but the husband. And in like manner the husband also hath not power of his own body: but the wife.  
 **5** Defraud not one another, except, perhaps, by consent, for a time, that you may give yourselves to prayer: and return together again, lest Satan tempt you for your incontinency.  
 **6** But I speak this by indulgence, not by commandment.  
 **7** For I would that all men were even as myself. But every one hath his proper gift from God: one after this manner, and another after that.  
 **8** But I say to the unmarried and to the widows: It is good for them if they so continue, even as I.  
-**9** But if they do not contain themselves, let them marry. For it is better to marry than to be burnt. not of such as, by vow, have given their first faith to God; to whom if they will use proper means to obtain it, God will never refuse the gift of continency. Some translators have corrupted this text, by rendering it, if they cannot contain.  
+**9** But if they do not contain themselves, let them marry. For it is better to marry than to be burnt.  
 **10** But to them that are married, not I, but the Lord, commandeth that the wife depart not from her husband.  
 **11** And if she depart, that she remain unmarried or be reconciled to her husband. And let not the husband put away his wife.  
 **12** For to the rest I speak, not the Lord. If any brother hath a wife that believeth not and she consent to dwell with him: let him not put her away.  
 **13** And if any woman hath a husband that believeth not and he consent to dwell with her: let her not put away her husband.  
-**14** For the unbelieving husband is sanctified by the believing wife: and the unbelieving wife is sanctified by the believing husband. the wife is of itself sufficient to put the unbelieving party, or their children, in the state of grace and salvation; but that it is very often an occasion of their sanctification, by bringing them to the true faith.  
+**14** For the unbelieving husband is sanctified by the believing wife: and the unbelieving wife is sanctified by the believing husband. Otherwise your children should be unclean: but now they are holy.  
 **15** But if the unbeliever depart, let him depart. For a brother or sister is not under servitude in such cases. But God hath called us in peace.  
-**16** For how knowest thou, O wife, whether thou shalt save thy husband?  
+**16** For how knowest thou, O wife, whether thou shalt save thy husband? Or how knowest thou, O man, whether thou shalt save thy wife?  
 **17** But as the Lord hath distributed to every one, as God hath called every one: so let him walk. And so in all churches I teach.  
 **18** Is any man called, being circumcised? Let him not procure uncircumcision. Is any man called in uncircumcision? Let him not be circumcised.  
 **19** Circumcision is nothing and uncircumcision is nothing: but the observance of the commandments of God.  
@@ -230,7 +229,7 @@ format: markdown
 **33** But he that is with a wife is solicitous for the things of the world: how he may please his wife. And he is divided.  
 **34** And the unmarried woman and the virgin thinketh on the things of the Lord: that she may be holy both in body and in spirit. But she that is married thinketh on the things of the world: how she may please her husband.  
 **35** And this I speak for your profit, not to cast a snare upon you, but for that which is decent and which may give you power to attend upon the Lord, without impediment.  
-**36** But if any man think that he seemeth dishonoured with regard to his virgin, for that she is above the age, and it must so be: let him do what he will. He sinneth not if she marry. libertines would have it, that persons may do what they will and not sin, provided they afterwards marry; but that the father, with regard to the giving his virgin in marriage, may do as he pleaseth; and that it will be no sin to him if she marry.  
+**36** But if any man think that he seemeth dishonoured with regard to his virgin, for that she is above the age, and it must so be: let him do what he will. He sinneth not if she marry.  
 **37** For he that hath determined, being steadfast in his heart, having no necessity, but having power of his own will: and hath judged this in his heart, to keep his virgin, doth well.  
 **38** Therefore both he that giveth his virgin in marriage doth well: and he that giveth her not doth better.  
 **39** A woman is bound by the law as long as her husband liveth: but if her husband die, she is at liberty. Let her marry to whom she will: only in the Lord.  
@@ -240,7 +239,7 @@ format: markdown
 
 ## Chapter 8
 
-**1** Now concerning those things that are sacrificed to idols: we know we all have knowledge. Knowledge puffeth up: but charity edifieth. serveth only to puff persons up.  
+**1** Now concerning those things that are sacrificed to idols: we know we all have knowledge. Knowledge puffeth up: but charity edifieth.  
 **2** And if any man think that he knoweth any thing, he hath not yet known as he ought to know.  
 **3** But if any man love God, the same is known by him.  
 **4** But as for the meats that are sacrificed to idols, we know that an idol is nothing in the world and that there is no God but one.  
@@ -262,14 +261,14 @@ format: markdown
 **2** And if unto others I be not an apostle, but yet to you I am. For you are the seal of my apostleship in the Lord.  
 **3** My defence with them that do examine me is this.  
 **4** Have not we power to eat and to drink?  
-**5** Have we not power to carry about a woman, a sister as well as the rest of the apostles and the brethren of the Lord and Cephas? by rendering it, a sister, a wife: whereas, it is certain, St. Paul had no wife (chap. 7 ver. 7, 8) and that he only speaks of such devout women, as, according to the custom of the Jewish nation, waited upon the preachers of the gospel, and supplied them with necessaries.  
+**5** Have we not power to carry about a woman, a sister as well as the rest of the apostles and the brethren of the Lord and Cephas?  
 **6** Or I only and Barnabas, have not we power to do this?  
 **7** Who serveth as a soldier, at any time, at his own charges? Who planteth a vineyard and eateth not of the fruit thereof? Who feedeth the flock and eateth not of the milk of the flock?  
 **8** Speak I these things according to man? Or doth not the law also say; these things?  
 **9** For it is written in the law of Moses: Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?  
 **10** Or doth he say this indeed for our sakes? For these things are written for our sakes: that he that plougheth, should plough in hope and he that thrasheth, in hope to receive fruit.  
 **11** If we have sown unto you spiritual things, is it a great matter if we reap your carnal things?  
-**12** If others be partakers of this power over you, why not we rather? we should give any hindrance to the gospel of Christ.  
+**12** If others be partakers of this power over you, why not we rather? Nevertheless, we have not used this power: but we bear all things, lest we should give any hindrance to the gospel of Christ.  
 **13** Know you not that they who work in the holy place eat the things that are of the holy place; and they that serve the altar partake with the altar?  
 **14** So also the Lord ordained that they who preach the gospel should live by the gospel.  
 **15** But I have used none of these things. Neither have I written these things, that they should be so done unto me: for it is good for me to die rather than that any man should make my glory void.  
@@ -278,35 +277,34 @@ format: markdown
 **18** What is my reward then? That preaching the gospel, I may deliver the gospel without charge, that I abuse not my power in the gospel.  
 **19** For whereas I was free as to all, I made myself the servant of all, that I might gain the more.  
 **20** And I became to the Jews a Jew, that I might gain the Jews:  
-**21** To them that are under the law, as if I were under the law, (whereas myself was not under the law,) that I might gain them that were under the law. To them that were without the law, as if I were without the law, (whereas I was not without the law of God, but was in the law of Christ) that I might gain them that were without the law.  
 **22** To the weak I became weak, that I might gain the weak. I became all things to all men, that I might save all.  
 **23** And I do all things for the gospel's sake, that I may be made partaker thereof.  
 **24** Know you not that they that run in the race, all run indeed, but one receiveth the prize. So run that you may obtain.  
 **25** And every one that striveth for the mastery refraineth himself from all things. And they indeed that they may receive a corruptible crown: but we an incorruptible one.  
 **26** I therefore so run, not as at an uncertainty: I so fight, not as one beating the air.  
-**27** But I chastise my body and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway. mortification, to subdue the flesh, and its inordinate desires.  
+**27** But I chastise my body and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway.  
 
 ---
 
 ## Chapter 10
 
 **1** For I would not have you ignorant, brethren, that our fathers were all under the cloud: and all passed through the sea.  
-**2** And all in Moses were baptized, in the cloud and in the sea: by passing under the cloud, and through the sea; and they partook of the body and blood of Christ in figure, by eating of the manna, (called here a spiritual food because it was a figure of the true bread which comes down from heaven,) and drinking the water, miraculously brought out of the rock, called here a spiritual rock, because it was also a figure of Christ.  
+**2** And all in Moses were baptized, in the cloud and in the sea:  
 **3** And did all eat the same spiritual food:  
 **4** And all drank the same spiritual drink: (And they drank of the spiritual rock that followed them: and the rock was Christ.)  
 **5** But with most of them God was not well pleased: for they were overthrown in the desert.  
 **6** Now these things were done in a figure of us, that we should not covet evil things, as they also coveted.  
-**7** Neither become ye idolaters, as some of them, as it is written:  
+**7** Neither become ye idolaters, as some of them, as it is written: The people sat down to eat and drink and rose up to play.  
 **8** Neither let us commit fornication, as some of them that committed fornication: and there fell in one day three and twenty thousand.  
 **9** Neither let us tempt Christ, as some of them tempted and perished by the serpent.  
 **10** Neither do you murmur, as some of them murmured and were destroyed by the destroyer.  
 **11** Now all these things happened to them in figure: and they are written for our correction, upon whom the ends of the world are come.  
 **12** Wherefore, he that thinketh himself to stand, let him take heed lest he fall.  
-**13** Let no temptation take hold on you, but such as is human. And God is faithful, who will not suffer you to be tempted above that which you are able: but will make also with temptation issue, that you may be able to bear it. but what is human, or incident to man. Issue... or a way to escape.  
+**13** Let no temptation take hold on you, but such as is human. And God is faithful, who will not suffer you to be tempted above that which you are able: but will make also with temptation issue, that you may be able to bear it.  
 **14** Wherefore, my dearly beloved, fly from the service of idols.  
 **15** I speak as to wise men: judge ye yourselves what I say.  
-**16** The chalice of benediction which we bless, is it not the communion of the blood of Christ? And the bread which we break, is it not the partaking of the body of the Lord? of the body and blood of Christ in the sacred mysteries, and becoming thereby one mystical body with Christ. From whence he infers, ver. 21, that they who are made partakers with Christ, by the eucharistic sacrifice and sacrament, must not be made partakers with devils by eating of the meats sacrificed to them.  
-**17** For we, being many, are one bread, one body: all that partake of one bread. partake of that one bread. For it is by our communicating with Christ, and with one another, in this blessed sacrament, that we are formed into one mystical body; and made, as it were, one bread, compounded of many grains of corn, closely united together.  
+**16** The chalice of benediction which we bless, is it not the communion of the blood of Christ? And the bread which we break, is it not the partaking of the body of the Lord?  
+**17** For we, being many, are one bread, one body: all that partake of one bread.  
 **18** Behold Israel according to the flesh. Are not they that eat of the sacrifices partakers of the altar?  
 **19** What then? Do I say that what is offered in sacrifice to idols is any thing? Or that the idol is any thing?  
 **20** But the things which the heathens sacrifice, they sacrifice to devils and not to God. And I would not that you should be made partakers with devils.  
@@ -337,7 +335,7 @@ format: markdown
 **7** The man indeed ought not to cover his head: because he is the image and glory of God. But the woman is the glory of the man.  
 **8** For the man is not of the woman: but the woman of the man.  
 **9** For the man was not created for the woman: but the woman for the man.  
-**10** Therefore ought the woman to have a power over her head, because of the angels. power of her husband: and this, the apostle adds, because of the angels, who are present in the assemblies of the faithful.  
+**10** Therefore ought the woman to have a power over her head, because of the angels.  
 **11** But yet neither is the man without the woman, nor the woman without the man, in the Lord.  
 **12** For as the woman is of the man, so also is the man by the woman: but all things of God.  
 **13** You yourselves judge. Doth it become a woman to pray unto God uncovered?  
@@ -346,16 +344,16 @@ format: markdown
 **16** But if any man seem to be contentious, we have no such custom, nor the Church of God.  
 **17** Now this I ordain: not praising you, that you come together, not for the better, but for the worse.  
 **18** For first of all I hear that when you come together in the church, there are schisms among you. And in part I believe it.  
-**19** For there must be also heresies: that they also, who are approved may be made manifest among you. man's heart; not by God's will or appointment; who nevertheless draws good out of this evil, manifesting, by that occasion, who are the good and firm Christians, and making their faith more remarkable.  
-**20** When you come therefore together into one place, it is not now to eat the Lord's supper. observed by the primitive Christians; and reprehends the abuses of the Corinthians, on these occasions; which were the more criminal, because these feasts were accompanied with the celebrating of the eucharistic sacrifice and sacrament.  
+**19** For there must be also heresies: that they also, who are approved may be made manifest among you.  
+**20** When you come therefore together into one place, it is not now to eat the Lord's supper.  
 **21** For every one taketh before his own supper to eat. And one indeed is hungry and another is drunk.  
 **22** What, have you no houses to eat and to drink in? Or despise ye the church of God and put them to shame that have not? What shall I say to you? Do I praise you? In this I praise you not.  
 **23** For I have received of the Lord that which also I delivered unto you, that the Lord Jesus, the same night in which he was betrayed, took bread,  
 **24** And giving thanks, broke and said: Take ye and eat: This is my body, which shall be delivered for you. This do for the commemoration of me.  
-**25** In like manner also the chalice, after he had supped, saying: you shall drink, for the commemoration of me.  
+**25** In like manner also the chalice, after he had supped, saying: This chalice is the new testament in my blood. This do ye, as often as you shall drink, for the commemoration of me.  
 **26** For as often as you shall eat this bread and drink the chalice, you shall shew the death of the Lord, until he come.  
-**27** Therefore, whosoever shall eat this bread, or drink the chalice of the Lord unworthily, shall be guilty of the body and of the blood of the Lord. and drink (contrary to the original) instead of or drink. demonstrates the real presence of the body and blood of Christ, even to the unworthy communicant; who otherwise could not be guilty of the body and blood of Christ, or justly condemned for not discerning the Lord's body.  
-**28** But let a man prove himself: and so let him eat of that bread and drink of the chalice. of allowance, viz., where and when it is agreeable to the practice and discipline of the church.  
+**27** Therefore, whosoever shall eat this bread, or drink the chalice of the Lord unworthily, shall be guilty of the body and of the blood of the Lord.  
+**28** But let a man prove himself: and so let him eat of that bread and drink of the chalice.  
 **29** For he that eateth and drinketh unworthily eateth and drinketh judgment to himself, not discerning the body of the Lord.  
 **30** Therefore are there many infirm and weak among you: and many sleep.  
 **31** But if we would judge ourselves, we should not be judged.  
@@ -371,7 +369,7 @@ format: markdown
 **2** You know that when you were heathens, you went to dumb idols, according as you were led.  
 **3** Wherefore, I give you to understand that no man, speaking by the Spirit of God, saith Anathema to Jesus. And no man can say The Lord Jesus, but by the Holy Ghost.  
 **4** Now there are diversities of graces, but the same Spirit.  
-**5** And there are diversities of ministries, but the same Lord.  
+**5** And there are diversities of ministries but the same Lord.  
 **6** And there are diversities of operations, but the same God, who worketh all in all.  
 **7** And the manifestation of the Spirit is given to every man unto profit.  
 **8** To one indeed, by the Spirit, is given the word of wisdom: and to another, the word of knowledge, according to the same Spirit:  
@@ -388,8 +386,8 @@ format: markdown
 **19** And if they all were one member, where would be the body?  
 **20** But now there are many members indeed, yet one body.  
 **21** And the eye cannot say to the hand: I need not thy help. Nor again the head to the feet: I have no need of you.  
-**22** Yea, much more those that seem to be the more feeble members of the body are more necessary.  
-**23** And such as we think to be the less honourable members of the body, about these we put more abundant honour: and those that are our uncomely parts have more abundant comeliness.  
+**22** Yea, much, more those that seem to be the more feeble members of the body are more necessary.  
+**23** And such as we think to be the less houourable members of the body, about these we put more abundant honour: and those that are our uncomely parts have more abundant comeliness.  
 **24** But our comely parts have no need: but God hath tempered the body together, giving to that which wanted the more abundant honour.  
 **25** That there might be no schism in the body: but the members might be mutually careful one for another.  
 **26** And if one member suffer any thing, all the members suffer with it: or if one member glory, all the members rejoice with it.  
@@ -422,7 +420,7 @@ format: markdown
 ## Chapter 14
 
 **1** Follow after charity, be zealous for spiritual gifts; but rather that you may prophesy.  
-**2** For he that speaketh in a tongue speaketh not unto men, but unto God: for no man heareth. Yet by the Spirit he speaketh mysteries. by them.  
+**2** For he that speaketh in a tongue speaketh not unto men, but unto God: for no man heareth. Yet by the Spirit he speaketh mysteries.  
 **3** But he that prophesieth speaketh to men unto edification and exhortation and comfort.  
 **4** He that speaketh in a tongue edifieth himself: but he that prophesieth, edifieth the church.  
 **5** And I would have you all to speak with tongues, but rather to prophesy. For greater is he that prophesieth than he that speaketh with tongues: unless perhaps he interpret, that the church may receive edification.  
@@ -436,7 +434,7 @@ format: markdown
 **13** And therefore he that speaketh by a tongue, let him pray that he may interpret.  
 **14** For if I pray in a tongue, my spirit prayeth: but my understanding is without fruit.  
 **15** What is it then? I will pray with the spirit, I will pray also with the understanding, I will sing with the spirit, I will sing also with the understanding.  
-**16** Else, if thou shalt bless with the spirit, how shall he that holdeth the place of the unlearned say, Amen, to thy blessing? Because he knoweth not what thou sayest. be qualified to join with you by saying Amen to your blessing. The use or abuse of strange tongues, of which the apostle here speaks, does not regard the public liturgy of the church, (in which strange tongues were never used,) but certain conferences of the faithful, ver. 26, etc., in which, meeting together, they discovered to one another their various miraculous gifts of the Spirit, common in those primitive times; amongst which the apostle prefers that of prophesying before that of speaking strange tongues, because it was more to the public edification. Where also not, that the Latin, used in our liturgy, is so far from being a strange or unknown tongue, that it is perhaps the best known tongue in the world.  
+**16** Else, if thou shalt bless with the spirit, how shall he that holdeth the place of the unlearned say, Amen, to thy blessing? Because he knoweth not what thou sayest.  
 **17** For thou indeed givest thanks well: but the other is not edified.  
 **18** I thank my God I speak with all your tongues.  
 **19** But in the church I had rather speak five words with my understanding, that I may instruct others also: than ten thousand words in a tongue.  
@@ -493,11 +491,11 @@ format: markdown
 **25** For he must reign, until he hath put all his enemies under his feet.  
 **26** And the enemy, death, shall be destroyed last: For he hath put all things under his feet. And whereas he saith:  
 **27** All things are put under him; undoubtedly, he is excepted, who put all things under him.  
-**28** And when all things shall be subdued unto him, then the Son also himself shall be subject unto him that put all things under him, that God may be all in all. be subject to the Father, according to his human nature, even after the general resurrection; and also the whole mystical body of Christ will be entirely subject to God, obeying him in every thing.  
-**29** Otherwise, what shall they do that are baptized for the dead, if the dead rise not again at all? Why are they then baptized for them? a ceremony then in use; but others, more probably, to the prayers and penitential labours, performed by the primitive Christians for the souls of the faithful departed; or to the baptism of afflictions and sufferings undergone for sinners spiritually dead.  
+**28** And when all things shall be subdued unto him, then the Son also himself shall be subject unto him that put all things under him, that God may be all in all.  
+**29** Otherwise, what shall they do that are baptized for the dead, if the dead rise not again at all? Why are they then baptized for them?  
 **30** Why also are we in danger every hour?  
 **31** I die daily, I protest by your glory, brethren, which I have in Christ Jesus our Lord.  
-**32** If (according to man) I fought with beasts at Ephesus, what doth it profit me, if the dead rise not again? Let us eat and drink, for to morrow we shall die. to rise again from the dead, we might live like the impious and wicked, who have no belief in the resurrection.  
+**32** If (according to man) I fought with beasts at Ephesus, what doth it profit me, if the dead rise not again? Let us eat and drink, for to morrow we shall die.  
 **33** Be not seduced: Evil communications corrupt good manners.  
 **34** Awake, ye just, and sin not. For some have not the knowledge of God. I speak it to your shame.  
 **35** But some man will say: How do the dead rise again? Or with what manner of body shall they come?  
@@ -550,7 +548,7 @@ format: markdown
 **19** The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house, with whom I also lodge.  
 **20** All the brethren salute you. Salute one another with a holy kiss.  
 **21** The salutation of me Paul, with my own hand.  
-**22** If any man love not our Lord Jesus Christ, let him be anathema, maranatha. accursed. Maran-atha, which, according to St. Jerome and St. Chrysostom, signify, `The Lord is come' already, and therefore is to be taken as an admonition to those who doubted of the resurrection, and to put them in mind that Christ, the judge of the living and the dead, is come already. punish those with exemplary judgments and punishments, that do not love the Lord Jesus Christ.  
+**22** If any man love not our Lord Jesus Christ, let him be anathema, maranatha.  
 **23** The grace of our Lord Jesus Christ be with you.  
 **24** My charity be with you all in Christ Jesus. Amen.  
 

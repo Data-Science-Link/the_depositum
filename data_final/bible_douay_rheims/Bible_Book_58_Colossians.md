@@ -43,7 +43,7 @@ format: markdown
 **12** Giving thanks to God the Father, who hath made us worthy to be partakers of the lot of the saints in light:  
 **13** Who hath delivered us from the power of darkness and hath translated us into the kingdom of the Son of his love,  
 **14** In whom we have redemption through his blood, the remission of sins:  
-**15** Who is the image of the invisible God, the firstborn of every creature: the only begotten of his Father: hence, St. Chrisostom explains firstborn, not first created, as he was not created at all, but born of his Father before all ages; that is, coeval with the Father and with the Holy Ghost.  
+**15** Who is the image of the invisible God, the firstborn of every creature:  
 **16** For in him were all things created in heaven and on earth, visible and invisible, whether thrones, or dominations, or principalities, or powers. All things were created by him and in him.  
 **17** And he is before all: and by him all things consist.  
 **18** And he is the head of the body, the church: who is the beginning, the firstborn from the dead, that in all things he may hold the primacy:  
@@ -52,7 +52,7 @@ format: markdown
 **21** And you, whereas you were some time alienated and enemies in mind in evil works:  
 **22** Yet now he hath reconciled in the body of his flesh through death, to present you holy and unspotted and blameless before him:  
 **23** If so ye continue in the faith, grounded and settled, and immoveable from the hope of the gospel which you have heard, which is preached in all the creation that is under heaven: whereof I Paul am made a minister.  
-**24** Who now rejoice in my sufferings for you and fill up those things that are wanting of the sufferings of Christ, in my flesh, for his body, which is the church: head: but many sufferings are still wanting, or are still to come, in his body the church, and his members the faithful.  
+**24** Who now rejoice in my sufferings for you and fill up those things that are wanting of the sufferings of Christ, in my flesh, for his body, which is the church:  
 **25** Whereof I am made a minister according to the dispensation of God, which is given me towards you, that I may fulfil the word of God:  
 **26** The mystery which hath been hidden from ages and generations, but now is manifested to his saints,  
 **27** To whom God would make known the riches of the glory of this mystery among the Gentiles, which is Christ, in you the hope of glory.  
@@ -80,10 +80,10 @@ format: markdown
 **15** And despoiling the principalities and powers, he hath exposed them confidently in open shew, triumphing over them in himself.  
 **16** Let no man therefore judge you in meat or in drink or in respect of a festival day or of the new moon or of the sabbaths, In meat, etc... He means with regard to the Jewish observations of the distinction of clean and unclean meats; and of their festivals, new moons, and sabbaths, as being no longer obligatory.  
 **17** Which are a shadow of things to come: but the body is of Christ.  
-**18** Let no man seduce you, willing in humility and religion of angels, walking in the things which he hath not seen, in vain puffed up by the sense of his flesh: worship, falsely pretending humility, but really proceeding from pride. as carriers of intelligence betwixt God and men; pretending humility in so doing, as if God was too great to be addressed by men; and setting aside the mediatorship of Jesus Christ, who is the head both of angels and men. Such also was the worship paid by the ancient heretics, disciples of Simon and Menander, to the angels, whom they believed to be makers and lords of this lower world. This is certain, that they whom the apostle here condemns, did not hold the head, (ver. 19,) that is, Jesus Christ, and his mediatorship; and therefore what he writes here no way touches the Catholic doctrine and practice, of desiring our good angels to pray to God for us, through Jesus Christ. St. Jerome understands by the religion or service of angels, the Jewish teachers, who sought to subject the new Christians to the observance of the Mosaic law.  
+**18** Let no man seduce you, willing in humility and religion of angels, walking in the things which he hath not seen, in vain puffed up by the sense of his flesh:  
 **19** And not holding the head, from which the whole body, by joints and bands, being supplied with nourishment and compacted, groweth into the increase of God.  
 **20** If then you be dead with Christ from the elements of this world, why do you yet decree as though living in the world?  
-**21** Touch not: taste not: handle not. themselves, either to the ordinances of the old law, forbidding touching or tasting things unclean; or to the superstitious invention of heretics, imposing such restraints, under pretence of wisdom, humility, or mortification.  
+**21** Touch not: taste not: handle not.  
 **22** Which all are unto destruction by the very use, according to the precepts and doctrines of men.  
 **23** Which things have indeed a shew of wisdom in superstition and humility, and not sparing the body; not in any honour to the filling of the flesh.  
 
@@ -130,15 +130,15 @@ format: markdown
 **7** All the things that concern me, Tychicus, our dearest brother and faithful minister and fellow servant in the Lord, will make known to you.  
 **8** What I have sent to you for this same purpose, that he may know the things that concern you and comfort your hearts:  
 **9** With Onesimus, a most beloved and faithful brother, who is one of you. All things that are done here, they shall make known to you.  
-**10** Aristarchus, my fellow prisoner, saluteth you: and Mark, the cousin german of Barnabas, touching whom you have received commandments.  
-**11** And Jesus that is called Justus: who are of the circumcision. comfort to me.  
+**10** Aristarchus, my fellow prisoner, saluteth you: and Mark, the cousin german of Barnabas, touching whom you have received commandments. If he come unto you, receive him.  
+**11** And Jesus that is called Justus: who are of the circumcision. These only are my helpers, in the kingdom of God: who have been a comfort to me.  
 **12** Epaphras saluteth you, who is one of you, a servant of Christ Jesus, who is always solicitous for you in prayers, that you may stand perfect and full in all the will of God.  
 **13** For I bear him testimony that he hath much labour for you and for them that are at Laodicea and them at Hierapolis.  
 **14** Luke, the most dear physician, saluteth you: and Demas.  
 **15** Salute the brethren who are at Laodicea: and Nymphas and the church that is in his house.  
-**16** And when this epistle shall have been read with you, cause that it be read also in the church of the Laodiceans: and that you read that which is of the Laodiceans. was is uncertain, and annotators have given different opinions concerning it. Some expound these words of an epistle which St. Paul wrote to the Laodiceans, and is since lost, for that now extant is no more than a collection of sentences out of the other epistles of St. probable that St. Paul wrote an epistle from Rome to the Laodiceans, about the same time that he wrote to the Colossians, as he had them both equally at heart, and that he ordered that epistle to be read by the Colossians for their instructions; and being neighbouring cities, they might communicate to each other what they had received from him; as one epistle might contain some matters not related in the other, and would be equally useful for their concern; and more particularly as they were equally disturbed by intruders and false teachers, against which the apostle was anxious to warn them, lest they should be infected by their pernicious doctrine.  
+**16** And when this epistle shall have been read with you, cause that it be read also in the church of the Laodiceans: and that you read that which is of the Laodiceans.  
 **17** And say to Archippus: Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.  
-**18** The salutation of Paul with my own hand. Be mindful of my bands.  
+**18** The salutation of Paul with my own hand. Be mindful of my bands. Grace be with you. Amen.  
 
 ---
 

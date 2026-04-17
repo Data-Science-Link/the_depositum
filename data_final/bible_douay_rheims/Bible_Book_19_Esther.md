@@ -56,7 +56,7 @@ format: markdown
 **13** Asked the wise men, who according to the custom of the kings, were always near his person, and all he did was by their counsel, who knew the laws, and judgments of their forefathers:  
 **14** (Now the chief and nearest him were, Charsena, and Sethar, and Admatha, and Tharsis, and Mares, and Marsana, and Mamuchan, seven princes of the Persians and of the Medes, who saw the face of the king, and were used to sit first after him:)  
 **15** What sentence ought to pass upon Vasthi the queen, who had refused to obey the commandment of king Assuerus, which he had sent to her by the eunuchs?  
-**16** And Mamuchan answered, in the hearing of the king and the princes: princes that are in all the provinces of king Assuerus.  
+**16** And Mamuchan answered, in the hearing of the king and the princes: Queen Vasthi hath not only injured the king, but also all the people and princes that are in all the provinces of king Assuerus.  
 **17** For this deed of the queen will go abroad to all women, so that they will despise their husbands, and will say: King Assuerus commanded that queen Vasthi should come in to him, and she would not.  
 **18** And by this example all the wives of the princes of the Persians and the Medes will slight the commandments of their husbands: wherefore the king's indignation is just.  
 **19** If it please thee, let an edict go out from thy presence, and let it be written according to the law of the Persians and of the Medes, which must not be altered, that Vasthi come in no more to the king, but another, that is better than her, be made queen in her place.  
@@ -129,7 +129,7 @@ format: markdown
 **11** All the king's servants, and all the provinces that are under his dominion, know, that whosoever, whether man or woman, cometh into the king's inner court, who is not called for, is immediately to be put to death without any delay: except the king shall hold out the golden sceptre to him, in token of clemency, that so he may live. How then can I go in to the king, who for these thirty days now have not been called unto him?  
 **12** And when Mardochai had heard this,  
 **13** He sent word to Esther again, saying: Think not that thou mayst save thy life only, because thou art in the king's house, more than all the Jews:  
-**14** For if thou wilt now hold thy peace, the Jews shall be delivered by some other occasion: and thou, and thy father's house shall perish. thou mightest be ready in such a time as this?  
+**14** For if thou wilt now hold thy peace, the Jews shall be delivered by some other occasion: and thou, and thy father's house shall perish. And who knoweth whether thou art not therefore come to the kingdom, that thou mightest be ready in such a time as this?  
 **15** And again Esther sent to Mardochai in these words:  
 **16** Go, and gather together all the Jews whom thou shalt find in Susan, and pray ye for me. Neither eat nor drink for three days and three nights: and I with my handmaids will fast in like manner, and then I will go in to the king, against the law, not being called, and expose myself to death and to danger.  
 **17** So Mardochai went, and did all that Esther had commanded him.  
@@ -151,7 +151,7 @@ format: markdown
 **11** And he declared to them the greatness of his riches, and the multitude of his children, and with how great glory the king had advanced him above all his princes and servants.  
 **12** And after this he said: Queen Esther also hath invited no other to the banquet with the king, but me: and with her I am also to dine to morrow with the king:  
 **13** And whereas I have all these things, I think I have nothing, so long as I see Mardochai the Jew sitting before the king's gate.  
-**14** Then Zares his wife, and the rest of his friends answered him: speak to the king, that Mardochai may be hanged upon it, and so thou shalt go full of joy with the king to the banquet. The counsel pleased him, and he commanded a high gibbet to be prepared.  
+**14** Then Zares his wife, and the rest of his friends answered him: Order a great beam to be prepared, fifty cubits high, and in the morning speak to the king, that Mardochai may be hanged upon it, and so thou shalt go full of joy with the king to the banquet. The counsel pleased him, and he commanded a high gibbet to be prepared.  
 
 ---
 
@@ -159,17 +159,17 @@ format: markdown
 
 **1** That night the king passed without sleep, and he commanded the histories and chronicles of former times to be brought him. And when they were reading them before him,  
 **2** They came to that place where it was written, how Mardochai had discovered the treason of Bagathan and Thares the eunuchs, who sought to kill king Assuerus.  
-**3** And when the king heard this, he said: What honour and reward hath Mardochai received for this fidelity? His servants and ministers said to him: He hath received no reward at all. but these were so inconsiderable in the opinion of the courtiers, that they esteemed them as nothing at all.  
+**3** And when the king heard this, he said: What honour and reward hath Mardochai received for this fidelity? His servants and ministers said to him: He hath received no reward at all.  
 **4** And the king said immediately: Who is in the court? for Aman was coming in to the inner court of the king's house, to speak to the king, that he might order Mardochai to be hanged upon the gibbet, which was prepared for him.  
 **5** The servants answered: Aman standeth in the court, and the king said: Let him come in.  
 **6** And when he was come in, he said to him: What ought to be done to the man whom the king is desirous to honour? But Aman thinking in his heart, and supposing that the king would honour no other but himself,  
 **7** Answered: The man whom the king desireth to honour,  
 **8** Ought to be clothed with the king's apparel, and to be set upon the horse that the king rideth upon, and to have the royal crown upon his head,  
-**9** And let the first of the king's princes and nobles hold his horse, and going through the street of the city, proclaim before him and say:  
+**9** And let the first of the king's princes and nobles hold his horse, and going through the street of the city, proclaim before him and say: Thus shall he be honoured, whom the king hath a mind to honour.  
 **10** And the king said to him: Make haste and take the robe and the horse, and do as thou hast spoken to Mardochai the Jew, who sitteth before the gates of the palace. Beware thou pass over any of those things which thou hast spoken.  
 **11** So Aman took the robe and the horse, and arraying Mardochai in the street of the city, and setting him on the horse, went before him, and proclaimed: This honour is he worthy of, whom the king hath a mind to honour.  
 **12** But Mardochai returned to the palace gate: and Aman made haste to go to his house, mourning and having his head covered:  
-**13** And he told Zares his wife, and his friends, all that had befallen him. And the wise men whom he had in counsel, and his wife answered him: fall, thou canst not resist him, but thou shalt fall in his sight.  
+**13** And he told Zares his wife, and his friends, all that had befallen him. And the wise men whom he had in counsel, and his wife answered him: If Mardochai be of the seed of the Jews, before whom thou hast begun to fall, thou canst not resist him, but thou shalt fall in his sight.  
 **14** As they were yet speaking, the king's eunuchs came, and compelled him to go quickly to the banquet which the queen had prepared.  
 
 ---
@@ -197,7 +197,7 @@ format: markdown
 **4** But he, as the manner was, held out the golden sceptre with his hand, which was the sign of clemency: and she arose up and stood before him,  
 **5** And said: If it please the king, and if I have found favour in his sight, and my request be not disagreeable to him, I beseech thee, that the former letters of Aman the traitor and enemy of the Jews, by which he commanded that they should be destroyed in all the king's provinces, may be reversed by new letters.  
 **6** For how can I endure the murdering and slaughter of my people?  
-**7** And king Assuerus answered Esther the queen, and Mardochai the Jew: hanged on a gibbet, because he durst lay hands on the Jews.  
+**7** And king Assuerus answered Esther the queen, and Mardochai the Jew: I have given Aman's house to Esther, and I have commanded him to be hanged on a gibbet, because he durst lay hands on the Jews.  
 **8** Write ye therefore to the Jews, as it pleaseth you in the king's name, and seal the letters with my ring. For this was the custom, that no man durst gainsay the letters which were sent in the king's name, and were sealed with his ring.  
 **9** Then the king's scribes and secretaries were called for (now it was the time of the third month which is called Siban) the three and twentieth day of the month, and letters were written, as Mardochai had a mind, to the Jews, and to the governors, and to the deputies, and to the judges, who were rulers over the hundred and twenty-seven provinces, from India even to Ethiopia: to province and province, to people and people, according to their languages and characters, and to the Jews, according as they could read and hear.  
 **10** And these letters which were sent in the king's name, were sealed with his ring, and sent by posts: who were to run through all the provinces, to prevent the former letters with new messages.  
@@ -213,7 +213,7 @@ format: markdown
 
 ## Chapter 9
 
-**1** So on the thirteenth day of the twelfth month, which as we have said above is called Adar, when all the Jews were designed to be massacred, and their enemies were greedy after their blood, the case being altered, the Jews began to have the upper hand, and to revenge themselves of their adversaries. king, were made executioners of the public justice, for punishing by death a crime worthy of death, viz., a malicious conspiracy for extirpating their whole nation.  
+**1** So on the thirteenth day of the twelfth month, which as we have said above is called Adar, when all the Jews were designed to be massacred, and their enemies were greedy after their blood, the case being altered, the Jews began to have the upper hand, and to revenge themselves of their adversaries.  
 **2** And they gathered themselves together in every city, and town, and place, to lay their hands on their enemies, and their persecutors. And no one durst withstand them, for the fear of their power had gone through every people.  
 **3** And the judges of the provinces, and the governors, and lieutenants, and every one in dignity, that presided over every place and work, extolled the Jews for fear of Mardochai:  
 **4** For they knew him to be prince of the palace, and to have great power: and the fame of his name increased daily, and was spread abroad through all men's mouths.  
@@ -229,7 +229,7 @@ format: markdown
 **14** And the king commanded that it should be so done. And forthwith the edict was hung up in Susan, and the ten sons of Aman were hanged.  
 **15** And on the fourteenth day of the month Adar the Jews gathered themselves together, and they killed in Susan three hundred men: but they took not their substance.  
 **16** Moreover through all the provinces which were subject to the king's dominion the Jews stood for their lives, and slew their enemies and persecutors: insomuch that the number of them that were killed amounted to seventy-five thousand, and no man took any of their goods.  
-**17** Now the thirteenth day of the month Adar was the first day with them all of the slaughter, and on the fourteenth day they left off. they should celebrate it with feasting, joy, and banquets.  
+**17** Now the thirteenth day of the month Adar was the first day with them all of the slaughter, and on the fourteenth day they left off. Which they ordained to be kept holy day, so that all times hereafter they should celebrate it with feasting, joy, and banquets.  
 **18** But they that were killing in the city of Susan, were employed in the slaughter on the thirteenth and fourteenth day of the same month: and on the fifteenth day they rested. And therefore they appointed that day to be a holy day of feasting and gladness.  
 **19** But those Jews that dwelt in towns not walled and in villages, appointed the fourteenth day of the month Adar for banquets and gladness, so as to rejoice on that day, and send one another portions of their banquets and meats.  
 **20** And Mardochai wrote all these things, and sent them comprised in letters to the Jews that abode in all the king's provinces, both those that lay near and those afar off,  
@@ -253,8 +253,8 @@ format: markdown
 **1** And king Assuerus made all the land, and all the islands of the sea tributary.  
 **2** And his strength and his empire, and the dignity and greatness wherewith he exalted Mardochai, are written in the books of the Medes, and of the Persians:  
 **3** And how Mardochai of the race of the Jews, was next after king Assuerus: and great among the Jews, and acceptable to the people of his brethren, seeking the good of his people, and speaking those things which were for the welfare of his seed.  
-**4** Then Mardochai said: God hath done these things. follows is not in the Hebrew, but is found in the septuagint Greek edition, which the seventy-two interpreters translated out of the Hebrew, or added by the inspiration of the Holy Ghost.  
-**5** I remember a dream that I saw, which signified these same things: and nothing thereof hath failed. general rule is not to observe dreams.  
+**4** Then Mardochai said: God hath done these things.  
+**5** I remember a dream that I saw, which signified these same things: and nothing thereof hath failed.  
 **6** The little fountain which grew into a river, and was turned into a light, and into the sun, and abounded into many waters, is Esther, whom the king married, and made queen.  
 **7** But the two dragons are I and Aman.  
 **8** The nations that were assembled are they that endeavoured to destroy the name of the Jews.  

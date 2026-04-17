@@ -50,7 +50,7 @@ format: markdown
 **19** For I know that this shall fall out to me unto salvation, through your prayer and the supply of the Spirit of Jesus Christ,  
 **20** According to my expectation and hope; that in nothing I shall be confounded: but with all confidence, as always, so now also, shall Christ be magnified in my body, whether it be by life or by death.  
 **21** For to me, to live is Christ: and to die is gain.  
-**22** And if to live in the flesh: this is to me the fruit of labour. immediately for Christ would be his gain, by putting him presently in possession of heaven; yet he is doubtful what he should choose, because by staying longer in the flesh, he should be more beneficial to the souls of his neighbours.  
+**22** And if to live in the flesh: this is to me the fruit of labour. And what I shall choose I know not.  
 **23** But I am straitened between two: having a desire to be dissolved and to be with Christ, a thing by far the better.  
 **24** But to abide still in the flesh is needful for you.  
 **25** And having this confidence, I know that I shall abide and continue with you all, for your furtherance and joy of faith:  
@@ -75,7 +75,7 @@ format: markdown
 **9** For which cause, God also hath exalted him and hath given him a name which is above all names:  
 **10** That in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth:  
 **11** And that every tongue should confess that the Lord Jesus Christ is in the glory of God the Father.  
-**12** Wherefore, my dearly beloved, (as you have always obeyed, not as in my presence only but much more now in my absence) with fear and trembling work out your salvation. security of modern sectaries.  
+**12** Wherefore, my dearly beloved, (as you have always obeyed, not as in my presence only but much more now in my absence) with fear and trembling work out your salvation.  
 **13** For it is God who worketh in you, both to will and to accomplish, according to his good will.  
 **14** And do ye all things without murmurings and hesitations:  
 **15** That you may be blameless and sincere children of God, without reproof, in the midst of a crooked and perverse generation: among whom you shine as lights in the world.  
@@ -90,7 +90,7 @@ format: markdown
 **24** And I trust in the Lord that I myself also shall come to you shortly.  
 **25** But I have thought it necessary to send to you Epaphroditus, my brother and fellow labourer and fellow soldier, but your apostle: and he that hath ministered to my wants.  
 **26** For indeed he longed after you all: and was sad, for that you had heard that he was sick.  
-**27** For indeed he was sick, nigh unto death: but God had mercy on him. sorrow.  
+**27** For indeed he was sick, nigh unto death: but God had mercy on him. And not only on him, but on me also, lest I should have sorrow upon sorrow.  
 **28** Therefore, I sent him the more speedily: that seeing him again, you may rejoice, and I may be without sorrow.  
 **29** Receive him therefore with all joy in the Lord: and treat with honour such as he is.  
 **30** Because for the work of Christ he came to the point of death: delivering his life, that he might fulfil that which on your part was wanting towards my service.  
@@ -132,7 +132,7 @@ format: markdown
 **5** Let your modesty be known to all men. The Lord is nigh.  
 **6** Be nothing solicitous: but in every thing, by prayer and supplication, with thanksgiving, let your petitions be made known to God.  
 **7** And the peace of God, which surpasseth all understanding, keep your hearts and minds in Christ Jesus.  
-**8** For the rest, brethren, whatsoever things are true, whatsoever modest, whatsoever just, whatsoever holy, whatsoever lovely, whatsoever of good fame, if there be any virtue, if any praise of discipline: think on these things. apostle enumerates general precepts of morality, which they ought to practise. Whatsoever things are true... in words, in promises, in lawful oaths, etc., he commands rectitude of mind, and sincerity of heart. modesty in dress, and decency in conversation. Whatsoever just... That is, in dealing with others, in buying or selling, in trade or business, to be fair and honest. Whatsoever holy... by these words may be understood, that those who are in a religious state professed, or in holy orders, should lead a life of sanctity and chastity, according to the vows they make; but these words being also applied to those in the world, indicate the virtuous life they are bound by the divine commandments to follow. Whatsoever lovely... that is, to practise those good offices in society, that procure us the esteem and good will of our neighbours. Whatsoever of good fame... That is, that by our conduct and behaviour we should edify our neighbours, and give them good example by our actions. If there be any virtue, if any praise of discipline... that those in error, by seeing the morality and good discipline of the true religion, may be converted. And finally, the apostle commands, not only the Philippians, but all Christians, to think on these things... that is, to make it their study and concern that the peace of God might be with them.  
+**8** For the rest, brethren, whatsoever things are true, whatsoever modest, whatsoever just, whatsoever holy, whatsoever lovely, whatsoever of good fame, if there be any virtue, if any praise of discipline: think on these things.  
 **9** The things which you have both learned and received and heard and seen in me, these do ye: and the God of peace shall be with you.  
 **10** Now I rejoice in the Lord exceedingly that now at length your thought for me hath flourished again, as you did also think; but you were busied.  
 **11** I speak not as it were for want. For I have learned, in whatsoever state I am, to be content therewith.  

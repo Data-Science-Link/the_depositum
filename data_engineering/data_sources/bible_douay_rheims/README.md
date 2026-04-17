@@ -1,8 +1,8 @@
 # Douay-Rheims Bible extraction (Project Gutenberg #8300)
 
-Single offline source: **UTF-8 plain text** of [The Bible, Douay-Rheims, Complete](https://www.gutenberg.org/ebooks/8300) (Challoner revision). The committed file is:
+Single offline source: **HTML source** of [The Bible, Douay-Rheims, Complete](https://www.gutenberg.org/ebooks/8300) (Challoner revision). The committed file is:
 
-`raw/pg8300.txt`
+`raw/pg8300.html`
 
 ## What `extract_bible.py` does
 
@@ -16,7 +16,7 @@ Output shape matches the previous pipeline: YAML frontmatter, `# Title`, `## Tab
 
 ## Prerequisites
 
-- `raw/pg8300.txt` present (UTF-8 from Gutenberg #8300; rename e.g. `8300-0.txt` → `pg8300.txt` if needed).
+- `raw/pg8300.html` present (UTF-8 from Gutenberg #8300; rename e.g. `8300-0.txt` → `pg8300.html` if needed).
 
 ## Usage
 
@@ -35,7 +35,7 @@ python data_engineering/data_sources/bible_douay_rheims/extract_bible.py --test
 Override paths:
 
 ```bash
-python data_engineering/data_sources/bible_douay_rheims/extract_bible.py --raw path/to/pg8300.txt --output path/to/out/
+python data_engineering/data_sources/bible_douay_rheims/extract_bible.py --raw path/to/pg8300.html --output path/to/out/
 ```
 
 Pipeline:

@@ -38,8 +38,8 @@ format: markdown
 **8** But with a flood that passeth by, he will make an utter end of the place thereof: and darkness shall pursue his enemies.  
 **9** What do ye devise against the Lord? he will make an utter end: there shall not rise a double affliction.  
 **10** For as thorns embrace one another: so while they are feasting and drinking together, they shall be consumed as stubble that is fully dry.  
-**11** Out of thee shall come forth one that imagineth evil against the Lord, contriving treachery in his mind. his attempt against the people seems to have been prior to the prophecy of Nahum, we may better understand it of Holofernes.  
-**12** Thus saith the Lord: Though they were perfect: and many of them so, yet thus shall they be cut off, and he shall pass: I have afflicted thee, and I will afflict thee no more. their forces may be, they shall be cut off; and their prince or leader shall pass away and disappear.  
+**11** Out of thee shall come forth one that imagineth evil against the Lord, contriving treachery in his mind.  
+**12** Thus saith the Lord: Though they were perfect: and many of them so, yet thus shall they be cut off, and he shall pass: I have afflicted thee, and I will afflict thee no more.  
 **13** And now I will break in pieces his rod with which he struck thy back, and I will burst thy bonds asunder.  
 **14** And the Lord will give a commandment concerning thee, that no more of thy name shall be sown: I will destroy the graven and molten thing out of the house of thy God, I will make it thy grave, for thou art disgraced.  
 **15** Behold upon the mountains the feet of him that bringeth good tidings, and that preacheth peace: O Juda, keep thy festivals, and pay thy vows: for Belial shall no more pass through thee again, he is utterly cut off.  
@@ -49,8 +49,8 @@ format: markdown
 ## Chapter 2
 
 **1** He is come up that shall destroy before thy face, that shall keep the siege: watch the way, fortify thy loins, strengthen thy power exceedingly.  
-**2** For the Lord hath rendered the pride of Jacob, as the pride of Israel: because the spoilers have laid them waste, and have marred their vine branches. pride; and therefore Ninive must not expect to escape. Or else, rendering the pride of Jacob means rewarding, that is, punishing Ninive for the pride they exercised against Jacob.  
-**3** The shield of his mighty men is like fire, the men of the army are clad in scarlet, the reins of the chariot are flaming in the day of his preparation, and the drivers are stupefied. destroy Ninive.-Ibid. Stupefied... consopiti. That is, they drive on furiously like men intoxicated with wine.  
+**2** For the Lord hath rendered the pride of Jacob, as the pride of Israel: because the spoilers have laid them waste, and have marred their vine branches.  
+**3** The shield of his mighty men is like fire, the men of the army are clad in scarlet, the reins of the chariot are flaming in the day of his preparation, and the drivers are stupified.  
 **4** They are in confusion in the ways, the chariots jostle one against another in the streets: their looks are like torches, like lightning running to and fro.  
 **5** He will muster up his valiant men, they shall stumble in their march: they shall quickly get upon the walls thereof: and a covering shall be prepared.  
 **6** The gates of the rivers are opened, and the temple is thrown down to the ground.  
@@ -66,16 +66,16 @@ format: markdown
 
 ## Chapter 3
 
-**1** Woe to thee, O city of blood, all full of lies and violence: rapine shall not depart from thee.  
+**1** Woe to thee, 0 city of blood, all full of lies and violence: rapine shall not depart from thee.  
 **2** The noise of the whip, and the noise of the rattling of the wheels, and of the neighing horse; and of the running chariot, and of the horsemen coming up,  
 **3** And of the shining sword, and of the glittering spear, and of a multitude slain, and of a grievous destruction: and there is no end of carcasses, and they shall fall down on their dead bodies.  
 **4** Because of the multitude of the fornications of the harlot that was beautiful and agreeable, and that made use of witchcraft, that sold nations through her fornications, and families through her witchcrafts.  
 **5** Behold I come against thee, saith the Lord of hosts: and I will discover thy shame to thy face, and will shew thy nakedness to the nations, and thy shame to kingdoms.  
 **6** And I will cast abominations upon thee, and will disgrace thee, and will make an example of thee.  
 **7** And it shall come to pass that every one that shall see thee, shall flee from thee, and shall say: Ninive is laid waste: who shall bemoan thee? whence shall I seek a comforter for thee?  
-**8** Art thou better than the populous Alexandria, that dwelleth among the rivers? waters are round about it: the sea is its riches: the waters are its walls. the Chaldeans, and afterwards rebuilt by Alexander, and called Alexandria. Others suppose No-Ammon to be the same as Diospolis.  
-**9** Ethiopia and Egypt were the strength thereof, and there is no end:  
-**10** Yet she also was removed and carried into captivity: her young children were dashed in pieces at the top of every street, and they cast lots upon her nobles, and all her great men were bound in fetters.  
+**8** Art thou better than the populous Alexandria, that dwelleth among the rivers? waters are round about it: the sea is its riches: the waters are its walls.  
+**9** Ethiopia and Egypt were the strength thereof, and there is no end: Africa and the Libyans were thy helpers.  
+**10** Yet she also was removed and carried into cap-tivity: her young children were dashed in pieces at the top of every street, and they cast lots upon her nobles, and all her great men were bound in fetters.  
 **11** Therefore thou also shalt be made drunk, and shalt be despised: and thou shalt seek help from the enemies.  
 **12** All thy strong holds shall be like fig trees with their green figs: if they be shaken, they shall fall into the mouth of the eater.  
 **13** Behold thy people in the midst of thee are women: the gates of thy land shall be set wide open to thy enemies, the fire shall devour thy bars.  

@@ -133,7 +133,7 @@ alwaysApply: true
 ## Source-Specific Guidelines
 
 ### Bible Extraction (douay_rheims)
-- Read offline `raw/pg8300.txt` (Project Gutenberg #8300 UTF-8)
+- Read offline `raw/pg8300.html` (Project Gutenberg #8300 UTF-8)
 - Validate book count matches expected (73 books)
 - Check for missing chapters or verses after parsing
 

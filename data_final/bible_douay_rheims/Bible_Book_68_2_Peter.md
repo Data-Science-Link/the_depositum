@@ -47,7 +47,7 @@ format: markdown
 **17** For he received from God the Father honour and glory, this voice coming down to him from the excellent glory: This is my beloved Son, in whom I am well pleased. Hear ye him.  
 **18** And this voice, we heard brought from heaven, when we were with him in the holy mount.  
 **19** And we have the more firm prophetical word: whereunto you do well to attend, as to a light that shineth in a dark place, until the day dawn and the day star arise in your hearts.  
-**20** Understanding this first: That no prophecy of scripture is made by private interpretation. shows plainly that the scriptures are not to be expounded by any one's private judgment or private spirit, because every part of the holy scriptures were written by men inspired by the Holy Ghost, and declared as such by the Church; therefore they are not to be interpreted but by the Spirit of God, which he hath left, and promised to remain with his Church to guide her in all truth to the end of the world. Some may tell us, that many of our divines interpret the scriptures: they may do so, but they do it always with a submission to the judgment of the Church, and not otherwise.  
+**20** Understanding this first: That no prophecy of scripture is made by private interpretation.  
 **21** For prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost.  
 
 ---
@@ -64,9 +64,9 @@ format: markdown
 **8** For in sight and hearing he was just, dwelling among them who from day to day vexed the just soul with unjust works.  
 **9** The Lord knoweth how to deliver the godly from temptation, but to reserve the unjust unto the day of judgment to be tormented:  
 **10** And especially them who walk after the flesh in the lust of uncleanness and despise government: audacious, self willed, they fear not to bring in sects, blaspheming.  
-**11** Whereas angels, who are greater in strength and power, bring not against themselves a railing judgment. cursing sentence; not even in their conflicts with the evil angels. See St. Jude, ver. 9.  
+**11** Whereas angels, who are greater in strength and power, bring not against themselves a railing judgment.  
 **12** But these men, as irrational beasts, naturally tending to the snare and to destruction, blaspheming those things which they know not, shall perish in their corruption:  
-**13** Receiving the reward of their injustice, counting for a pleasure the delights of a day: stains and spots, sporting themselves to excess, rioting in their feasts with you: which they place all their happiness.  
+**13** Receiving the reward of their injustice, counting for a pleasure the delights of a day: stains and spots, sporting themselves to excess, rioting in their feasts with you:  
 **14** Having eyes full of adultery and of sin that ceaseth not: alluring unstable souls: having their heart exercised with covetousness: children of malediction.  
 **15** Leaving the right way, they have gone astray, having followed the way of Balaam of Bosor who loved the wages of iniquity,  
 **16** But had a check of his madness, the dumb beast used to the yoke, which, speaking with man's voice, forbade the folly of the prophet.  

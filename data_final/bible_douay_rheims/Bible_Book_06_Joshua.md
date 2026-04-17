@@ -87,7 +87,7 @@ format: markdown
 **13** That you will save my father and mother, my brethren and sisters, and all things that are theirs, and deliver our souls from death.  
 **14** They answered her: Be our lives for you unto death, only if thou betray us not. And when the Lord shall have delivered us the land, we will shew thee mercy and truth.  
 **15** Then she let them down with a cord out of a window: for her house joined close to the wall.  
-**16** And she said to them: Get ye up to the mountains, lest perhaps they meet you as they return: and there lie ye hid three days, till they come back, and so you shall go on your way.  
+**16** And she said to them: Get ye up to the mountains, lest perhaps they meet you as they return: and there lie ye hid three days, till they come back, and so you shall go on yonr way.  
 **17** And they said to her: We shall be blameless of this oath, which thou hast made us swear,  
 **18** If, when we come into the land, this scarlet cord be a sign, and thou tie it in the window, by which thou hast let us down: and gather together thy father and mother, and brethren, and all thy kindred into thy house.  
 **19** Whosoever shall go out of the door of thy house, his blood shall be upon his own head, and we shall be quit. But the blood of all that shall be with thee in the house, shall light upon our head, if any man touch them.  
@@ -136,8 +136,7 @@ format: markdown
 **11** And when they had all passed over, the ark also of the Lord passed over, and the priests went before the people.  
 **12** The children of Ruben also, and Gad, and half the tribe of Manasses, went armed before the children of Israel, as Moses had commanded them.  
 **13** And forty thousand fighting men by their troops and bands, marched through the plains and fields of the city of Jericho.  
-**14** In that day the Lord magnified Josue in the sight of all Israel, that they should fear him, as they had feared Moses, while he lived.  
-**15** And he said to him:  
+**14** In that day the Lord magnified Josue in the sight of all Israel, that they should fear him, as they had feared Moses, while he lived. 4:15. And he said to him:  
 **16** Command the priests, that carry the ark of the covenant, to come up out of the Jordan.  
 **17** And he commanded them, saying: Come ye up out of the Jordan.  
 **18** And when they that carried the ark of the covenant of the Lord, were come up, and began to tread on the dry ground, the waters returned into their channel, and ran as they were wont before.  
@@ -154,10 +153,10 @@ format: markdown
 ## Chapter 5
 
 **1** Now when all the kings of the Amorrhites, who dwelt beyond the Jordan, westward, and all the kings of Chanaan, who possessed the places near the great sea, had heard that the Lord had dried up the waters of the Jordan before the children of Israel, till they passed over, their heart failed them, and there remained no spirit in them, fearing the coming in of the children of Israel.  
-**2** At that time the Lord said to Josue: Make thee knives of stone, and circumcise the second time the children of Israel. be circumcised again; but that they were now to renew, and take up again the practice of circumcision; which had been omitted during their forty years' sojourning in the wilderness; by reason of their being always uncertain when they should be obliged to march.  
+**2** At that time the Lord said to Josue: Make thee knives of stone, and circumcise the second time the children of Israel.  
 **3** He did what the Lord had commanded, and he circumcised the children of Israel in the hill of the foreskins.  
 **4** Now this is the cause of the second circumcision: All the people that came out of Egypt that were males, all the men fit for war, died in the desert, during the time of the long going about in the way:  
-**5** Now these were all circumcised. But the people that were born in the desert,  
+**6** Now these were all circumcised. But the people that were born in the desert,  
 **6** During the forty years of the journey in the wide wilderness, were uncircumcised: till all they were consumed that had not heard the voice of the Lord, and to whom he had sworn before, that he would not shew them the land flowing with milk and honey.  
 **7** The children of these succeeded in the place of their fathers, and were circumcised by Josue: for they were uncircumcised even as they were born, and no one had circumcised them in the way.  
 **8** Now after they were all circumcised, they remained in the same place of the camp, until they were healed.  
@@ -166,8 +165,8 @@ format: markdown
 **11** And they ate on the next day unleavened bread of the corn of the land, and frumenty of the same year.  
 **12** And the manna ceased after they ate of the corn of the land, neither did the children of Israel use that food any more, but they ate of the corn of the present year of the land of Chanaan.  
 **13** And when Josue was in the field of the city of Jericho, he lifted up his eyes, and saw a man standing over against him, holding a drawn sword, and he went to him, and said: Art thou one of ours, or of our adversaries?  
-**14** And he answered: No: but I am prince of the host of the Lord, and now I am come. of the people of Israel, Dan. 10.21.  
-**15** Josue fell on his face to the ground. And worshipping, said: What saith my lord to his servant? of an inferior kind, suitable to the dignity of his person.  
+**14** And he answered: No: but I am prince of the host of the Lord, and now I am come.  
+**15** Josue fell on his face to the ground. And worshipping, said: What saith my lord to his servant?  
 **16** Loose, saith he, thy shoes from off thy feet: for the place whereon thou standest is holy. And Josue did as was commanded him.  
 
 ---
@@ -179,7 +178,7 @@ format: markdown
 **3** Go round about the city all ye fighting men once a day: so shall ye do for six days.  
 **4** And on the seventh day the priests shall take the seven trumpets, which are used in the jubilee, and shall go before the ark of the covenant: and you shall go about the city seven times, and the priests shall sound the trumpets.  
 **5** And when the voice of the trumpet shall give a longer and broken tune, and shall sound in your ears, all the people shall shout together with a very great shout, and the walls of the city shall fall to the ground, and they shall enter in every one at the place against which they shall stand.  
-**6** Then Josue, the son of Nun, called the priests, and said to them: trumpets of the jubilee, and march before the ark of the Lord.  
+**6** Then Josue, the son of Nun, called the priests, and said to them: Take the ark of the covenant: and let seven other priests take the seven trumpets of the jubilee, and march before the ark of the Lord.  
 **7** And he said to the people: Go, and compass the city, armed, marching before the ark of the Lord.  
 **8** And when Josue had ended his words, and the seven priests blew the seven trumpets before the ark of the covenant of the Lord,  
 **9** And all the armed men went before, the rest of the common people followed the ark, and the sound of the trumpets was heard on all sides.  
@@ -199,7 +198,7 @@ format: markdown
 **23** And the young men went in, and brought out Rahab, and her parents, her brethren also, and all her goods, and her kindred, and made them to stay without the camp.  
 **24** But they burned the city, and all things that were therein; except the gold and silver, and vessels of brass and iron, which they consecrated unto the treasury of the Lord.  
 **25** But Josue saved Rahab the harlot, and her father's house, and all she had, and they dwelt in the midst of Israel until this present day: because she hid the messengers whom he had sent to spy out Jericho. At that time, Josue made an imprecation, saying:  
-**26** Cursed be the man before the Lord, that shall raise up and build the city of Jericho. In his firstborn may he lay the foundation thereof, and in the last of his children set up its gates. sounding of the trumpets by the priests, the preaching of the word of God; by which the walls of Jericho are thrown down, when sinners are converted; and a dreadful curse will light on them who build them up again.  
+**26** Cursed be the man before the Lord, that shall raise up and build the city of Jericho. In his firstborn may he lay the foundation thereof, and in the last of his children set up its gates.  
 **27** And the Lord was with Josue, and his name was noised throughout all the land.  
 
 ---
@@ -229,7 +228,7 @@ format: markdown
 **21** For I saw among the spoils a scarlet garment, exceeding good, and two hundred sicles of silver, and a golden rule of fifty sicles: and I coveted them, and I took them away, and hid them in the ground in the midst of my tent, and the silver I covered with the earth that I dug up.  
 **22** Josue therefore sent ministers: who running to his tent, found all hid in the same place, together with the silver.  
 **23** And taking them away out of the tent, they brought them to Josue, and to all the children of Israel, and threw them down before the Lord.  
-**24** Then Josue, and all Israel with him, took Achan, the son of Zare, and the silver, and the garment, and the golden rule, his sons also, and his daughters, his oxen, and asses, and sheep, the tent also, and all the goods: and brought them to the valley of Achor: their father.  
+**24** Then Josue, and all Israel with him, took Achan, the son of Zare, and the silver, and the garment, and the golden rule, his sons also, and his daughters, his oxen, and asses, and sheep, the tent also, and all the goods: and brought them to the valley of Achor:  
 **25** Where Josue said: Because thou hast troubled us, the Lord trouble thee this day. And all Israel stoned him: and all things that were his, were consumed with fire.  
 **26** And they gathered together upon him a great heap of stones, which remaineth until this present day And the wrath of the Lord was turned away from them. And the name of that place was called the Valley of Achor, until this day.  
 
@@ -245,10 +244,10 @@ format: markdown
 **6** Till they pursuing us be drawn farther from the city: for they will think that we flee as before.  
 **7** And whilst we are fleeing, and they pursuing, you shall rise out of the ambush, and shall destroy the city: and the Lord your God will deliver it into your hands.  
 **8** And when you shall have taken it, set it on fire, and you shall do all things so as I have commanded.  
-**9** And he sent them away, and they went on to the place of the ambush, and abode between Bethel and Hai, on the west side of the city of Hai.  
+**9** And he sent them away, and they went on to the place of the ambush, and abode between Bethel and Hai, on the west side of the city of Hai. But Josue staid that night in the midst of the people,  
 **10** And rising early in the morning, he mustered his soldiers, and went up with the ancients in the front of the army, environed with the aid of the fighting men.  
 **11** And when they were come, and were gone up over against the city, they stood on the north side of the city, between which and them there was a valley in the midst.  
-**12** And he had chosen five thousand men, and set them to lie in ambush between Bethel and Hai, on the west side of the same city: ver. 3.  
+**12** And he had chosen five thousand men, and set them to lie in ambush between Bethel and Hai, on the west side of the same city:  
 **13** But all the rest of the army went in battle array on the north side, so that the last of that multitude reached to the west side of the city. So Josue went that night, and stood in the midst of the valley.  
 **14** And when the king of Hai saw this, he made haste in the morning, and went out with all the army of the city, and set it in battle array, toward the desert, not knowing that there lay an ambush behind his back.  
 **15** But Josue, and all Israel gave back, making as if they were afraid, and fleeing by the way of the wilderness.  
@@ -284,7 +283,7 @@ format: markdown
 **5** And very old shoes, which for a show of age were clouted with patches, and old garments upon them: the loaves also, which they carried for provisions by the way, were hard, and broken into pieces:  
 **6** And they went to Josue, who then abode in the camp at Galgal, and said to him, and to all Israel with him: We are come from a far country, desiring to make peace with you. And the children of Israel answered them, and said:  
 **7** Perhaps you dwell in the land which falls to our lot; if so, we can make no league with you.  
-**8** But they said to Josue: We are thy servants. Josue said to them:  
+**8** But they said to Josue: We are thy servants. Josue said to them: Who are you? and whence came you?  
 **9** They answered: From a very far country thy servants are come in the name of the Lord thy God. For we have heard the fame of his power, all the things that he did in Egypt.  
 **10** And to the two kings of the Amorrhites, that were beyond the Jordan, Sehon, king of Hesebon, and Og, king of Basan, that was in Astaroth:  
 **11** And our ancients, and all the inhabitants of our country, said to us: Take with you victuals for a long way, and go meet them, and say: We are your servants, make ye a league with us.  
@@ -297,8 +296,7 @@ format: markdown
 **18** And they slew them not, because the princes of the multitude had sworn in the name of the Lord, the God of Israel. Then all the common people murmured against the princes.  
 **19** And they answered them: We have sworn to them in the name of the Lord, the God of Israel, and therefore we may not touch them.  
 **20** But this we will do to them: Let their lives be saved, lest the wrath of the Lord be stirred up against us, if we should be forsworn:  
-**21** But so let them live, as to serve the whole multitude in hewing wood, and bringing in water. As they were speaking these things,  
-**22** Josue called the Gabaonites, and said to them: Why would you impose upon us, saying: We dwell very far off from you, whereas you are in the midst of us?  
+**21** But so let them live, as to serve the whole multitude in hewing wood, and bringing in water. As they were speaking these things, 9;22. Josue called the Gabaonites, and said to them: Why would you impose upon us, saying: We dwell very far off from you, whereas you are in the midst of us?  
 **23** Therefore you shall be under a curse, and your race shall always be hewers of wood, and carriers of water, into the house of my God.  
 **24** They answered: It was told us, thy servants, that the Lord thy God had promised his servant Moses, to give you all the land, and to destroy all the inhabitants thereof. Therefore we feared exceedingly and provided for our lives, compelled by the dread we had of you, and we took this counsel.  
 **25** And now we are in thy hand: deal with us as it seemeth good and right unto thee.  
@@ -314,14 +312,14 @@ format: markdown
 **3** Therefore Adonisedec, king of Jerusalem, sent to Oham, king of Hebron, and to Pharam, king of Jerimoth, and to Japhia, king of Lachis, and to Dabir, king of Eglon, saying:  
 **4** Come up to me, and bring help, that we may take Gabaon, because it hath gone over to Josue, and to the children of Israel.  
 **5** So the five kings of the Amorrhites being assembled together, went up: the king of Jerusalem, the king of Hebron, the king of Jerimoth, the king of Lachis, the king of Eglon, they and their armies, and camped about Gabaon, laying siege to it.  
-**6** But the inhabitants of the city of Gabaon, which was besieged, sent to Josue, who then abode in the camp at Galgal, and said to him: save us, and bring us succour: for all the kings of the Amorrhites, who dwell in the mountains, are gathered together against us.  
+**6** But the inhabitants of the city of Gabaon, which was besieged, sent to Josue, who then abode in the camp at Galgal, and said to him: Withdraw not thy hands from helping thy servants: come up quickly, and save us, and bring us succour: for all the kings of the Amorrhites, who dwell in the mountains, are gathered together against us.  
 **7** And Josue went up from Galgal, and all the army of the warriors with him, most valiant men.  
 **8** But the Lord said to Josue: Fear them not: for I have delivered them into thy hands: none of them shall be able to stand against thee.  
 **9** So Josue going up from Galgal all the night, came upon them suddenly.  
 **10** And the Lord troubled them, at the sight of Israel: and he slew them with a great slaughter, in Gabaon, and pursued them by the way of the ascent to Bethoron, and cut them off all the way to Azeca and Maceda.  
 **11** And when they were fleeing from the children of Israel, and were in the descent of Bethoron, the Lord cast down upon them great stones from heaven, as far as Azeca: and many more were killed with the hailstones, than were slain by the swords of the children of Israel,  
 **12** Then Josue spoke to the Lord, in the day that he delivered the Amorrhite in the sight of the children of Israel, and he said before them: Move not, O sun, toward Gabaon, nor thou, O moon, toward the valley of Ajalon.  
-**13** And the sun and the moon stood still, till the people revenged themselves of their enemies. Is not this written in the book of the just? So the sun stood still in the midst of heaven, and hasted not to go down the space of one day. lost.  
+**13** And the sun and the moon stood still, till the people revenged themselves of their enemies. Is not this written in the book of the just? So the sun stood still in the midst of heaven, and hasted not to go down the space of one day.  
 **14** There was not before, nor after, so long a day, the Lord obeying the voice of a man, and fighting for Israel.  
 **15** And Josue returned, with all Israel, into the camp of Galgal.  
 **16** For the five kings were fled, and had hid themselves in a cave of the city of Maceda.  
@@ -348,7 +346,7 @@ format: markdown
 **37** Took it, and destroyed it with the edge of the sword: the king also thereof, and all the towns of that country, and all the souls that dwelt in it: he left not therein any remains: as he had done to Eglon, so did he also to Hebron, putting to the sword all that he found in it.  
 **38** Returning from thence to Dabir,  
 **39** He took it, and destroyed it: the king also thereof, and all the towns round about, he destroyed with the edge of the sword: he left not in it any remains: as he had done to Hebron and Lebna, and to their kings, so did he to Dabir, and to the king thereof.  
-**40** So Josue conquered all the country of the hills, and of the south, and of the plain, and of Asedoth, with their kings: he left not any remains therein, but slew all that breathed, as the Lord, the God of Israel, had commanded him. utterly destroyed, in punishment of their manifold abomination; and that they might not draw the Israelites into the like sins.  
+**40** So Josue conquered all the country of the hills, and of the south, and of the plain, and of Asedoth, with their kings: he left not any remains therein, but slew all that breathed, as the Lord, the God of Israel, had commanded him.  
 **41** From Cadesbarne even to Gaza. All the land of Gosen even to Gabaon,  
 **42** And all their kings, and their lands he took and wasted at one onset: for the Lord the God of Israel fought for him.  
 **43** And he returned with all Israel to the place of the camp in Galgal.  
@@ -362,7 +360,7 @@ format: markdown
 **3** To the Chanaanites also on the east and on the west, and the Amorrhite, and the Hethite, and the Pherezite, and the Jebusite in the mountains: to the Hevite also who dwelt at the foot of Hermon in the land of Maspha.  
 **4** And they all came out with their troops, a people exceeding numerous as the sand that is on the sea shore, their horses also and chariots a very great multitude,  
 **5** And all these kings assembled together at the waters of Merom, to fight against Israel.  
-**6** And the Lord said to Josue: Fear them not: for to morrow at this same hour I will deliver all these to be slain in the sight of Israel: thou shalt hamstring their horses, and thou shalt burn their chariots with fire. ordained, that his people might not trust in chariots and horses, but in him.  
+**6** And the Lord said to Josue: Fear them not: for to morrow at this same hour I will deliver all these to be slain in the sight of Israel: thou shalt hamstring their horses, and thou shalt burn their chariots with fire.  
 **7** And Josue came, and all the army with him, against them to the waters of Merom on a sudden, and fell upon them.  
 **8** And the Lord delivered them into the hands of Israel. And they defeated them, and chased them as far as the great Sidon and the waters of Maserophot, and the field of Masphe, which is on the east thereof. He slew them all, so as to leave no remains of them:  
 **9** And he did as the Lord had commanded him, he hamstringed their horses and burned their chariots.  
@@ -376,7 +374,7 @@ format: markdown
 **17** And part of the mountain that goeth up to Seir as far as Baalgad, by the plain of Libanus under mount Hermon: all their kings he took, smote and slew.  
 **18** Josue made war a long time against these kings.  
 **19** There was not a city that delivered itself to the children of Israel, except the Hevite, who dwelt in Gabaon: for he took all by fight.  
-**20** For it was the sentence of the Lord, that their hearts should be hardened, and they should fight against Israel, and fall, and should not deserve any clemency, and should be destroyed as the Lord had commanded Moses. of yielding or submitting: which was a sentence or judgment of God upon them in punishment of their enormous crimes.  
+**20** For it was the sentence of the Lord, that their hearts should be hardened, and they should fight against Israel, and fall, and should not deserve any clemency, and should be destroyed as the Lord had commanded Moses.  
 **21** At that time Josue came and cut off the Enancims from the mountains, from Hebron, and Dabir, and Anab, and from all the mountain of Juda and Israel, and destroyed their cities.  
 **22** He left not any of the stock of the Enacims, in the land of the children of Israel: except the cities of Gaza, and Geth, and Azotus, in which alone they were left.  
 **23** So Josue took all the land, as the Lord spoke to Moses, and delivered it in possession to the children of Israel, according to their divisions and tribes. And the land rested from wars.  
@@ -414,7 +412,7 @@ format: markdown
 
 ## Chapter 13
 
-**1** Josue was old, and far advanced in years, and the Lord said to him: Thou art grown old, and advanced in age, and there is a very large country left, which is not yet divided by lot: hundred and one years old.-And their is a very large country left, which is not yet divided by lot... Not yet possessed by the children of Israel.  
+**1** Josue was old, and far advanced in years, and the Lord said to him: Thou art grown old, and advanced in age, and there is a very large country left, which is not yet divided by lot:  
 **2** To wit, all Galilee, Philistia, and all Gessuri.  
 **3** From the troubled river, that watereth Egypt, unto the border of Accaron northward: the land of Chanaan, which is divided among the lords of the Philistines, the Gazites, the Azotians, the Ascalonites, the Gethites, and the Accronites.  
 **4** And on the south side are the Hevites, all the land of Chanaan, and Maara of the Sidonians as far as Apheca, and the borders of the Amorrhite,  
@@ -430,13 +428,13 @@ format: markdown
 **14** But to the tribe of Levi he gave no possession: but the sacrifices and victims of thee Lord God of Israel, are his inheritance, as he spoke to him.  
 **15** And Moses gave a possession to the children of Ruben according to their kindreds.  
 **16** And their border was from Aroer, which is on the bank of the torrent Arnon, and in the midst of the valley of the same torrent: all the plain, that leadeth to Medaba,  
-**17** And Hesebon, and all their villages, which are in the plains.  
+**17** And Hesebon, and all their villages, which are in the plains. Dibon also, and Bamothbaal, and the town of Baalmaon,  
 **18** And Jassa, and Cidimoth, and Mephaath,  
 **19** And Cariathaim, and Sabama, and Sarathasar in the mountain of the valley.  
 **20** Bethphogor and Asedoth, Phasga and Bethiesimoth,  
-**21** And all the cities of the plain, and all the kingdoms of Sehon king of the Amorrhites, that reigned in Hesebon, whom Moses slew with the princes of Madian: Hevi, and Recem, and Sur and Hur, and Rebe, dukes of Sehon inhabitants of the land. of king Sehon: they are said to have been slain with him, that is, about the same time, but not in the same battle.  
+**21** And all the cities of the plain, and all the kingdoms of Sehon king of the Amorrhites, that reigned in Hesebon, whom Moses slew with the princes of Madian: Hevi, and Recem, and Sur and Hur, and Rebe, dukes of Sehon inhabitants of the land.  
 **22** Balaam also the son of Beor the soothsayer, the children of Israel slew with the sword among the rest that were slain.  
-**23** And the river Jordan was the border of the children of Ruben. and villages.  
+**23** And the river Jordan was the border of the children of Ruben. This is the possession of the Rubenites, by their kindreds, of cities and villages.  
 **24** And Moses gave to the tribe of Gad and to his children by their kindreds a possession, of which this is the division.  
 **25** The border of Jaser, and all the cities of Galaad, and half the land of the children of Ammon: as far as Aroer which is over against Rabba:  
 **26** And from Hesebon unto Ramoth, Masphe and Betonim: and from Manaim unto the borders of Dabir.  
@@ -455,7 +453,7 @@ format: markdown
 **1** This is what the children of Israel possessed in the land of Chanaan, which Eleazar the priest, and Josue the son of Nun, and the princes of the families by the tribes of Israel gave to them.  
 **2** Dividing all by lot, as the Lord had commanded the hand of Moses, to the nine tribes, and the half tribe.  
 **3** For to two tribes and a half Moses had given possession beyond the Jordan: besides the Levites, who received no land among their brethren:  
-**4** But in their place succeeded the children of Joseph divided into two tribes, of Manasses and Ephraim: neither did the Levites receive other portion of land, but cities to dwell in, and their suburbs to feed their beasts and flocks. one of those that were given to the priests to dwell in.  
+**4** But in their place succeeded the children of Joseph divided into two tribes, of Manasses and Ephraim: neither did the Levites receive other portion of land, but cities to dwell in, and their suburbs to feed their beasts and flocks.  
 **5** As the Lord had commanded Moses so did the children of Israel, and they divided the land.  
 **6** Then the children of Juda came to Josue in Galgal, and Caleb the son of Jephone the Cenezite spoke to him: Thou knowest what the Lord spoke to Moses the man of God concerning me and thee in Cadesbarne.  
 **7** I was forty years old when Moses the servant of the Lord sent me from Cadesbarne, to view the land, and I brought him word again as to me seemed true,  
@@ -472,7 +470,7 @@ format: markdown
 
 ## Chapter 15
 
-**1** Now the lot of the children of Juda by their kindreds was this: uttermost part of the south coast.  
+**1** Now the lot of the children of Juda by their kindreds was this: From the frontier of Edom, to the desert of Sin southward, and to the uttermost part of the south coast.  
 **2** Its beginning was from the top of the most salt sea, and from the bay thereof, that looketh to the south.  
 **3** And it goeth out towards the ascent of the Scorpion, and passeth on to Sina: and ascendeth into Cadesbarne, and reacheth into Esron, going up to Addar, and compassing Carcaa.  
 **4** And from thence passing along into Asemona, and reaching the torrent of Egypt: and the bounds thereof shall be the great sea, this shall be the limit of the south coast.  
@@ -545,7 +543,7 @@ format: markdown
 **3** And goeth down westward, by the border of Jephleti, unto the borders of Beth-horon the nether, and to Gazer: and the countries of it are ended by the great sea:  
 **4** And Manasses and Ephraim the children of Joseph possessed it.  
 **5** And the border of the children of Ephraim was according to their kindreds: and their possession towards the east was Ataroth-addar unto Beth-horon the upper.  
-**6** And the confines go out unto the sea: but Machmethath looketh to the north, and it goeth round the borders eastward into Thanath-selo: and passeth along on the east side to Janoe. towards the north, by Machmethath; and then turned eastward to Thanath- selo.  
+**6** And the confines go out unto the sea: but Machmethath looketh to the north, and it goeth round the borders eastward into Thanath-selo: and passeth along on the east side to Janoe.  
 **7** And it goeth down from Janoe into Ataroth and Naaratha: and it cometh to Jericho, and goeth out to the Jordan.  
 **8** From Taphua it passeth on towards the sea into the valley of reeds, and the goings out thereof are at the most salt sea. This is the possession of the tribe of the children of Ephraim by their families.  
 **9** And there were cities with their villages separated for the children of Ephraim in the midst of the possession of the children of Manasses.  
@@ -571,7 +569,7 @@ format: markdown
 **14** And the children of Joseph spoke to Josue, and said: Why hast thou given me but one lot and one portion to possess, whereas I am of so great a multitude, and the Lord hath blessed me?  
 **15** And Josue said to them: If thou be a great people, go up into the woodland, and cut down room for thyself in the land of the Pherezite and the Raphaims: because the possession of mount Ephraim is too narrow for thee.  
 **16** And the children of Joseph answered him: We cannot go up to the mountains, for the Chanaanites that dwell in the low lands, wherein are situate Bethsan with its towns, and Jezrael in the midst of the valley, have chariots of iron.  
-**17** And Josue said to the house of Joseph, to Ephraim and Manasses: lot only:  
+**17** And Josue said to the house of Joseph, to Ephraim and Manasses: Thou art a great people, and of great strength, thou shalt not have one lot only:  
 **18** But thou shalt pass to the mountain, and shalt cut down the wood, and make thyself room to dwell in: and mayst proceed farther, when thou hast destroyed the Chanaanites, who as thou sayest have iron chariots, and are very strong.  
 
 ---
@@ -583,7 +581,7 @@ format: markdown
 **3** And Josue said to them: How long are you indolent and slack, and go not in to possess the land which the Lord the God of your fathers hath given you?  
 **4** Choose of every tribe three men, that I may send them, and they may go and compass the land, and mark it out according to the number of each multitude: and bring back to me what they have marked out.  
 **5** Divide to yourselves the land into seven parts: let Juda be in his bounds on the south side, and the house of Joseph on the north.  
-**6** The land in the midst between these mark ye out into seven parts; and you shall come hither to me, that I may cast lots for you before the Lord your God. is to say, the rest of the land, which is not already assigned to Juda or Joseph.  
+**6** The land in the midst between these mark ye out into seven parts; and you shall come hither to me, that I may cast lots for you before the Lord your God.  
 **7** For the Levites have no part among you, but the priesthood of the Lord is their inheritance. And Gad and Ruben, and the half tribe of Manasses have already received their possessions beyond the Jordan eastward: which Moses the servant of the Lord gave them.  
 **8** And when the men were risen up, to go to mark out the land, Josue commanded them saying: Go round the land and mark it out, and return to me: that I may cast lots for you before the Lord in Silo.  
 **9** So they went and surveying it divided it into seven parts, writing them down in a book. And they returned to Josue, to the camp in Silo.  
@@ -650,7 +648,7 @@ format: markdown
 **37** And Cedes and Edri, Enhasor,  
 **38** And Jeron and Magdalel, Horem, and Bethanath and Bethsames: nineteen cities, and their villages.  
 **39** This is the possession of the tribe of the children of Nephtali by their kindreds, the cities and their villages.  
-**40** The seventh lot came out to the tribe of the children of Dan by their families:  
+**40** The seventh lot came out to the tribe of the children of Dan by their families,  
 **41** And the border of their possession was Saraa and Esthaol, and Hirsemes, that is, the city of the sun,  
 **42** Selebin and Aialon and Jethela,  
 **43** Elon and Themna and Acron,  
@@ -682,7 +680,7 @@ format: markdown
 ## Chapter 21
 
 **1** Then the princes of the families of Levi came to Eleazar the priest, and to Josue the son of Nun, and to the princes of the kindreds of all the tribes of the children of Israel.  
-**2** And they spoke to them in Silo in the land of Chanaan, and said: to dwell in, and their suburbs to feed our cattle.  
+**2** And they spoke to them in Silo in the land of Chanaan, and said: The Lord commanded by the hand of Moses, that cities should be given us to dwell in, and their suburbs to feed our cattle.  
 **3** And the children of Israel gave out of their possessions according to the commandment of the Lord, cities and their suburbs.  
 **4** And the lot came out for the family of Caath of the children of Aaron the priest out of the tribes of Juda, and of Simeon, and of Benjamin, thirteen cities.  
 **5** And to the rest of the children of Caath, that is, to thee Levites, who remained, out of the tribes of Ephraim, and of Dan, and the half tribe of Manasses, ten cities.  
@@ -716,7 +714,7 @@ format: markdown
 **33** All the cities of the families of Gerson, were thirteen, with their suburbs.  
 **34** And to the children of Merari, Levites of the inferior degree, by their families were given of the tribe of Zabulon, Jecnam and Cartha,  
 **35** And Damna and Naalol, four cities with their suburbs.  
-**36** Of the tribe of Ruben beyond the Jordan over against Jericho, Bosor in the wilderness, one of the cities of refuge, Misor and Jaser and Jethson and Mephaath, four cities with their suburbs. is the same city as Bosor, which is to be observed in some other places, where the number of names exceeds the number of cities.  
+**36** Of the tribe of Ruben beyond the Jordan over against Jericho, Bosor in the wilderness, one of the cities of refuge, Misor and Jaser and Jethson and Mephaath, four cities with their suburbs.  
 **37** Of the tribe of Gad, Ramoth in Galaad, one of the cities of refuge, and Manaim and Hesebon and Jaser, four cities with their suburbs,  
 **38** All the cities of the children of Merari by their families and kindreds, were twelve.  
 **39** So all the cities of the Levites within the possession of the children of Israel were forty-eight,  
@@ -752,7 +750,7 @@ format: markdown
 **21** And the children of Ruben, and of Gad, and of the half tribe of Manasses answered the princes of the embassage of Israel:  
 **22** The Lord the most mighty God, the Lord the most mighty God, he knoweth, and Israel also shall understand: If with the design of transgression we have set up this altar, let him not save us, but punish us immediately:  
 **23** And if we did it with that mind, that we might lay upon it holocausts, and sacrifice, and victims of peace offerings, let him require and judge:  
-**24** And not rather with this thought and design, that we should say: with the Lord the God of Israel?  
+**24** And not rather with this thought and design, that we should say: To morrow your children will say to our children: What have you to do with the Lord the God of Israel?  
 **25** The Lord hath put the river Jordan for a border between us and you, O ye children of Ruben, and ye children of Gad: and therefore you have no part in the Lord. And by this occasion your children shall turn away our children from the fear of the Lord. We therefore thought it best,  
 **26** And said: Let us build us an altar, not for holocausts, nor to offer victims,  
 **27** But for a testimony between us and you, and our posterity and yours, that we may serve the Lord, and that we may have a right to offer both holocausts, and victims and sacrifices of peace offerings: and that your children to morrow may not say to our children: You have no part in the Lord.  
@@ -768,7 +766,7 @@ format: markdown
 
 ## Chapter 23
 
-**1** And when a long time was passed, after that the Lord had given peace to Israel, all the nations round about being subdued, and Josue being now old, and far advanced in years:  
+**1** And when a long time was passed, after that the Lord had given peace to Israel, all the nations round about being subdued and Josue being now old, and far advanced in years:  
 **2** Josue called for all Israel, and for the elders, and for the princes, and for the judges, and for the masters, and said to them: I am old, and far advanced in years,  
 **3** And you see all that the Lord your God hath done to all the nations round about, how he himself hath fought for you:  
 **4** And now since he hath divided to you by lot all the land, from the east of the Jordan unto the great sea, ant many nations yet remain:  
@@ -807,7 +805,7 @@ format: markdown
 **16** And the people answered, and said, God forbid we should leave the Lord, and serve strange gods.  
 **17** The Lord our God he brought us and our fathers out of the land of Egypt, out of the house of bondage: and did very great signs in our sight, and preserved us in all the way by which we journeyed, and among all the people through whom we passed.  
 **18** And he hath cast out all the nations, the Amorrhite the inhabitant of the land into which we are come. Therefore we will serve the Lord, for he is our God.  
-**19** And Josue said to the people: You will not be able to serve the Lord: for he is a holy God, and mighty and jealous, and will not forgive your wickedness and sins. of discouraging them; but rather to make them more earnest and resolute, by setting before them the greatness of the undertaking, and the courage and constancy necessary to go through with it.  
+**19** And Josue said to the people: You will not be able to serve the Lord: for he is a holy God, and mighty and jealous, and will not forgive your wickedness and sins.  
 **20** If you leave the Lord, and serve strange gods, he will turn, and will afflict you, and will destroy you after all the good he hath done you.  
 **21** And the people said to Josue: No, it shall not be so as thou sayest, but we will serve the Lord.  
 **22** And Josue said to the people, You are witnesses, that you yourselves have chosen you the Lord to serve him. And they answered: We are witnesses.  
@@ -815,9 +813,9 @@ format: markdown
 **24** And the people said to Josue: We will serve the Lord our God, and we will be obedient to his commandments.  
 **25** Josue therefore on that day made a covenant, and set before the people commandments and judgments in Sichem.  
 **26** And he wrote all these things in the volume of the law of the Lord: and he took a great stone, and set it under the oak that was in the sanctuary of the Lord.  
-**27** And he said to all the people: Behold this stone shall be a testimony unto you, that it hath heard all the words of the Lord, which he hath spoken to you: lest perhaps hereafter you will deny it, and lie to the Lord your God. attributed to inanimate things; and they are called upon, as it were, to bear witness in favour of the great Creator, whom they on their part constantly obey.  
+**27** And he said to all the people: Behold this stone shall be a testimony unto you, that it hath heard all the words of the Lord, which he hath spoken to you: lest perhaps hereafter you will deny it, and lie to the Lord your God.  
 **28** And he sent the people away every one to their own possession,  
-**29** And after these things Josue the son of Nun the servant of the Lord died, being a hundred and ten years old: these last verses were added by Samuel, or some other prophet.  
+**29** And after these things Josue the son of Nun the servant of the Lord died, being a hundred and ten years old:  
 **30** And they buried him in the border of his possession in Thamnathsare, which is situate in mount Ephraim, on the north side of mount Gaas.  
 **31** And Israel served the Lord all the days of Josue, and of the ancients that lived a long time after Josue, and that had known all the works of the Lord which he had done in Israel.  
 **32** And the bones of Joseph which the children of Israel had taken out of Egypt, they buried in Sichem, in that part of the field which Jacob had bought of the sons of Hemor the father of Sichem, for a hundred young ewes, and it was in the possession of the sons of Joseph.  
