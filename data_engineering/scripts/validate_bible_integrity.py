@@ -4,13 +4,16 @@
 from __future__ import annotations
 
 import json
+import random
 import re
+from difflib import SequenceMatcher
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Optional, Tuple
 
 from bs4 import BeautifulSoup
+import requests
 
 from data_engineering.data_sources.bible_douay_rheims import extract_bible as html_parser
 from data_engineering.data_sources.canonical_books import CATHOLIC_BIBLE_CANON
@@ -22,6 +25,26 @@ VERSE_RE = re.compile(r"^\*\*(\d+)\*\*\s+(.*)\s*$")
 HISTORY_JSONL = Path("data_engineering/logs/bible_integrity_history.jsonl")
 AUDIT_LOG = Path("data_engineering/logs/bible_extraction_audit.log")
 TREND_ALERT_THRESHOLD = 0.20  # 20%
+VALIDATION_LATEST_MD = Path(
+    "data_engineering/data_sources/bible_douay_rheims/accuracy_reports/bible_parsing_accuracy_report.md"
+)
+VALIDATION_LATEST_JSON = Path(
+    "data_engineering/data_sources/bible_douay_rheims/accuracy_reports/bible_parsing_accuracy_report.json"
+)
+VALIDATION_ARCHIVE_DIR = Path(
+    "data_engineering/data_sources/bible_douay_rheims/accuracy_reports/validation_reports"
+)
+DEFAULT_SPOTCHECK_SAMPLE_SIZE = 100
+DEFAULT_SPOTCHECK_BASE_URL = "https://www.drbo.org"
+NEAR_MATCH_THRESHOLD = 0.985
+CANONICAL_VARIANT_MAPPINGS: List[Tuple[str, str]] = [
+    ("to morrow", "tomorrow"),
+    ("bloodofferings", "blood offerings"),
+    ("mayst", "mayest"),
+    ("fulfil", "fulfill"),
+    ("fahter", "father"),
+    ("begot", "beget"),
+]
 
 
 @dataclass
@@ -29,7 +52,22 @@ class IntegrityResult:
     ok: bool
     errors: List[str]
     warnings: List[str]
-    summary: Dict[str, int]
+    summary: Dict[str, object]
+
+
+@dataclass
+class SpotCheckSample:
+    canonical_position: int
+    book: str
+    chapter: int
+    verse: int
+    local_text: str
+    remote_text: Optional[str]
+    local_norm: str
+    remote_norm: Optional[str]
+    similarity: Optional[float]
+    match: Optional[bool]
+    note: str
 
 
 def _norm_text(s: str) -> str:
@@ -37,6 +75,19 @@ def _norm_text(s: str) -> str:
     s = re.sub(r"[^a-z0-9\s]", "", s)
     s = re.sub(r"\s+", " ", s)
     return s
+
+
+def _apply_canonical_variant_mappings(s: str) -> str:
+    text = s
+    for src, dst in CANONICAL_VARIANT_MAPPINGS:
+        text = re.sub(rf"\b{re.escape(src)}\b", dst, text)
+    return text
+
+
+def _normalized_compare_text(s: str) -> str:
+    lowered = s.lower().strip()
+    mapped = _apply_canonical_variant_mappings(lowered)
+    return _norm_text(mapped)
 
 
 def _book_filename(book_meta: Dict[str, object]) -> str:
@@ -61,6 +112,347 @@ def _parse_markdown_book(path: Path) -> Dict[int, List[Tuple[int, str]]]:
             verse_text = vm.group(2)
             chapters[current_chapter].append((verse_num, verse_text))
     return chapters
+
+
+def _collect_output_verses(output_dir: Path) -> List[Dict[str, object]]:
+    entries: List[Dict[str, object]] = []
+    for book_meta in CATHOLIC_BIBLE_CANON:
+        canonical_position = int(book_meta["canonical_position"])
+        book_name = str(book_meta["name"])
+        md_path = output_dir / _book_filename(book_meta)
+        if not md_path.is_file():
+            continue
+        chapters = _parse_markdown_book(md_path)
+        for chapter_num, verses in chapters.items():
+            for verse_num, verse_text in verses:
+                entries.append(
+                    {
+                        "canonical_position": canonical_position,
+                        "book": book_name,
+                        "chapter": chapter_num,
+                        "verse": verse_num,
+                        "text": verse_text,
+                    }
+                )
+    return entries
+
+
+def _canonical_position_to_drbo_book_id(canonical_position: int) -> int:
+    canon_idx = canonical_position - 1
+    try:
+        pg_idx = html_parser.PG_ORDER_TO_CANON_INDEX.index(canon_idx)
+    except ValueError as exc:
+        raise ValueError(f"Unable to map canonical position {canonical_position} to DRBO book ID") from exc
+    return pg_idx + 1
+
+
+def _drbo_chapter_url(base_url: str, canonical_position: int, chapter_num: int) -> str:
+    drbo_book_id = _canonical_position_to_drbo_book_id(canonical_position)
+    return f"{base_url.rstrip('/')}/chapter/{drbo_book_id:02d}{chapter_num:03d}.htm"
+
+
+def _parse_drbo_chapter_verses(html_text: str) -> Dict[int, str]:
+    soup = BeautifulSoup(html_text, "html.parser")
+    verses: Dict[int, str] = {}
+    body = soup.select_one("td.textarea")
+    if body is None:
+        return verses
+
+    for paragraph in body.find_all("p"):
+        classes = paragraph.get("class", [])
+        if "note" in classes or "desc" in classes:
+            continue
+
+        for anchor in paragraph.find_all("a", class_="vn"):
+            href = anchor.get("href", "")
+            verse_num_match = re.search(r"[?&]l=(\d+)-", href)
+            if not verse_num_match:
+                continue
+            verse_num = int(verse_num_match.group(1))
+            text_parts: List[str] = []
+            for sib in anchor.next_siblings:
+                if getattr(sib, "name", None) == "a" and "vn" in (sib.get("class", []) if hasattr(sib, "get") else []):
+                    break
+                if hasattr(sib, "get_text"):
+                    text_parts.append(sib.get_text(" ", strip=True))
+                else:
+                    text_parts.append(str(sib).strip())
+            verse_text = " ".join(part for part in text_parts if part).strip()
+            verse_text = re.sub(r"\s+", " ", verse_text).strip()
+            if verse_text:
+                verses[verse_num] = verse_text
+    return verses
+
+
+def _run_drbo_spot_check(
+    output_dir: Path,
+    sample_size: int,
+    base_url: str,
+    seed: int,
+) -> Tuple[List[SpotCheckSample], Dict[str, object], List[str]]:
+    warnings: List[str] = []
+    all_verses = _collect_output_verses(output_dir)
+    if not all_verses:
+        warnings.append("DRBO spot-check skipped: no local Bible verses found.")
+        return [], {"sampled": 0, "matched": 0, "near_matched": 0, "mismatched": 0, "unavailable": 0}, warnings
+
+    sample_n = min(sample_size, len(all_verses))
+    rng = random.Random(seed)
+    shuffled = all_verses[:]
+    rng.shuffle(shuffled)
+
+    chapter_cache: Dict[Tuple[int, int], Dict[int, str]] = {}
+    session = requests.Session()
+    session.headers.update({"User-Agent": "the-depositum-validation/1.0"})
+
+    samples: List[SpotCheckSample] = []
+    unavailable = 0
+    used_refs: set[Tuple[int, int, int]] = set()
+    cursor = 0
+    while len(samples) < sample_n and cursor < len(shuffled):
+        row = shuffled[cursor]
+        cursor += 1
+        ref_key = (int(row["canonical_position"]), int(row["chapter"]), int(row["verse"]))
+        if ref_key in used_refs:
+            continue
+        used_refs.add(ref_key)
+
+        canon_pos = int(row["canonical_position"])
+        chapter_num = int(row["chapter"])
+        verse_num = int(row["verse"])
+        local_text = str(row["text"])
+        cache_key = (canon_pos, chapter_num)
+        if cache_key not in chapter_cache:
+            url = _drbo_chapter_url(base_url, canon_pos, chapter_num)
+            try:
+                response = session.get(url, timeout=30)
+                response.raise_for_status()
+                chapter_cache[cache_key] = _parse_drbo_chapter_verses(response.text)
+            except requests.exceptions.RequestException as exc:
+                warnings.append(f"DRBO fetch failed for book={canon_pos} chapter={chapter_num}: {exc}")
+                chapter_cache[cache_key] = {}
+
+        remote_chapter = chapter_cache[cache_key]
+        remote_text = remote_chapter.get(verse_num)
+        if remote_text is None:
+            unavailable += 1
+            continue
+
+        local_norm = _normalized_compare_text(local_text)
+        remote_norm = _normalized_compare_text(remote_text)
+        similarity = SequenceMatcher(None, local_norm, remote_norm).ratio()
+        is_exact_match = local_norm == remote_norm
+        is_near_match = (not is_exact_match) and similarity >= NEAR_MATCH_THRESHOLD
+        samples.append(
+            SpotCheckSample(
+                canonical_position=canon_pos,
+                book=str(row["book"]),
+                chapter=chapter_num,
+                verse=verse_num,
+                local_text=local_text,
+                remote_text=remote_text,
+                local_norm=local_norm,
+                remote_norm=remote_norm,
+                similarity=similarity,
+                match=(is_exact_match or is_near_match),
+                note="exact_match" if is_exact_match else ("near_match" if is_near_match else "text mismatch"),
+            )
+        )
+
+    exact_matched = sum(1 for s in samples if s.note == "exact_match")
+    near_matched = sum(1 for s in samples if s.note == "near_match")
+    matched = exact_matched + near_matched
+    mismatched = sum(1 for s in samples if s.note == "text mismatch")
+    exact_pct = (100.0 * exact_matched / len(samples)) if samples else 0.0
+    near_plus_exact_pct = (100.0 * matched / len(samples)) if samples else 0.0
+    summary = {
+        "sampled": len(samples),
+        "exact_matched": exact_matched,
+        "exact_match_percent": round(exact_pct, 2),
+        "near_matched": near_matched,
+        "matched": matched,
+        "near_plus_exact_percent": round(near_plus_exact_pct, 2),
+        "mismatched": mismatched,
+        "unavailable": unavailable,
+        "attempted_refs": len(used_refs),
+        "seed": seed,
+        "near_match_threshold": NEAR_MATCH_THRESHOLD,
+    }
+    return samples, summary, warnings
+
+
+def _escape_md_cell(value: str) -> str:
+    return value.replace("|", "\\|").replace("\n", " ").strip()
+
+
+def _write_validation_report(
+    result: IntegrityResult,
+    spot_samples: List[SpotCheckSample],
+    spot_summary: Dict[str, object],
+    report_timestamp: datetime,
+) -> str:
+    VALIDATION_LATEST_MD.parent.mkdir(parents=True, exist_ok=True)
+
+    lines: List[str] = []
+    lines.append("# Bible Validation Report")
+    lines.append("")
+    lines.append(f"- Generated (UTC): `{report_timestamp.isoformat()}`")
+    lines.append(f"- Overall status: `{'PASS' if result.ok else 'FAIL'}`")
+    lines.append("")
+    lines.append("## Integrity Summary")
+    lines.append("")
+    lines.append(
+        "Plain-English: this section reports the core structural and parser-health checks for the Bible output."
+    )
+    lines.append(
+        "- `files_found`: whether all 73 expected Bible book files exist."
+    )
+    lines.append(
+        "- `verses_checked`: total verses compared against parsed source `c:v.` paragraphs."
+    )
+    lines.append(
+        "- `skipped_commentary` / `skipped_preface`: non-scripture blocks detected and excluded."
+    )
+    lines.append(
+        "- `joined_continuations`: wrapped verse lines merged back into one verse."
+    )
+    lines.append("")
+    for key in ("files_found", "verses_checked", "skipped_commentary", "skipped_preface", "joined_continuations"):
+        if key in result.summary:
+            lines.append(f"- {key}: `{result.summary[key]}`")
+    lines.append("")
+    lines.append("## Trend / Warnings")
+    lines.append("")
+    lines.append(
+        "Plain-English: this checks run-to-run drift in parser behavior (especially skipped block counts)."
+    )
+    lines.append(
+        "If this says `None`, no drift crossed the configured alert threshold, and no external spot-check fetch warnings were raised."
+    )
+    lines.append("")
+    if result.warnings:
+        for warning in result.warnings:
+            lines.append(f"- {warning}")
+    else:
+        lines.append("- None")
+    lines.append("")
+    lines.append("## Integrity Errors")
+    lines.append("")
+    lines.append(
+        "Plain-English: this is where hard validation failures appear."
+    )
+    lines.append(
+        "Checks include: expected filenames, chapter counts, monotonic verse numbering, duplicate detection, verse-number set equality vs source, and normalized verse-text equality vs source."
+    )
+    lines.append(
+        "If this says `None`, all those checks passed on this run."
+    )
+    lines.append("")
+    if result.errors:
+        for err in result.errors[:50]:
+            lines.append(f"- {err}")
+        if len(result.errors) > 50:
+            lines.append(f"- ... and {len(result.errors) - 50} more")
+    else:
+        lines.append("- None")
+    lines.append("")
+    lines.append("## DRBO Spot Check")
+    lines.append("")
+    lines.append(
+        "Plain-English: this samples random verse references and compares normalized local output to DRBO for external confidence."
+    )
+    lines.append(
+        "Before comparison, canonical variant mappings are applied to BOTH sides to reduce false negatives from spelling variants."
+    )
+    lines.append("- Canonical variant mappings in use:")
+    for src, dst in CANONICAL_VARIANT_MAPPINGS:
+        lines.append(f"  - `{src}` -> `{dst}`")
+    lines.append(
+        "- `exact_matched`: normalized texts are exactly equal after mapping."
+    )
+    lines.append(
+        "- `near_matched`: normalized texts are not exact but are above the near-match similarity threshold."
+    )
+    lines.append(
+        "- `mismatched`: same reference found in both, but remains below the near-match threshold."
+    )
+    lines.append(
+        "- `unavailable`: DRBO text for that sampled reference could not be retrieved/parsing-ready."
+    )
+    lines.append(
+        "If `unavailable` is `0`, none of the attempted references failed DRBO retrieval/parsing."
+    )
+    lines.append("")
+    if spot_summary.get("sampled", 0) > 0:
+        lines.append(
+            f"- Sample size: `{spot_summary['sampled']}` | exact: `{spot_summary['exact_matched']}` "
+            f"({spot_summary['exact_match_percent']}%) | near: `{spot_summary['near_matched']}` | "
+            f"exact+near: `{spot_summary['matched']}` ({spot_summary['near_plus_exact_percent']}%) | "
+            f"mismatched: `{spot_summary['mismatched']}` | unavailable: `{spot_summary['unavailable']}` | "
+            f"attempted_refs: `{spot_summary['attempted_refs']}` | seed: `{spot_summary['seed']}` | "
+            f"near-threshold: `{spot_summary['near_match_threshold']}`"
+        )
+        lines.append(
+            "- Replacement sampling is enabled: if a sampled ref is unavailable, we keep sampling additional refs "
+            "until target sample size is reached or candidates are exhausted."
+        )
+        lines.append("")
+        lines.append("| Book | Ref | Result | Similarity | Local norm | DRBO norm |")
+        lines.append("| --- | --- | --- | --- | --- | --- |")
+        result_rank = {"text mismatch": 0, "near_match": 1, "exact_match": 2}
+        sorted_samples = sorted(
+            spot_samples,
+            key=lambda s: (
+                result_rank.get(s.note, 99),
+                0.0 if s.similarity is None else s.similarity,
+                s.book,
+                s.chapter,
+                s.verse,
+            ),
+        )
+        for sample in sorted_samples:
+            ref = f"{sample.chapter}:{sample.verse}"
+            remote_norm = sample.remote_norm or ""
+            similarity_text = f"{sample.similarity:.4f}" if sample.similarity is not None else ""
+            lines.append(
+                "| "
+                f"{_escape_md_cell(sample.book)} | {ref} | {_escape_md_cell(sample.note)} | {similarity_text} | "
+                f"{_escape_md_cell(sample.local_norm)} | {_escape_md_cell(remote_norm)} |"
+            )
+    else:
+        lines.append("- Spot-check not run.")
+
+    report_text = "\n".join(lines) + "\n"
+    VALIDATION_LATEST_MD.write_text(report_text, encoding="utf-8")
+
+    json_payload = {
+        "generated_utc": report_timestamp.isoformat(),
+        "integrity_ok": result.ok,
+        "summary": result.summary,
+        "warnings": result.warnings,
+        "errors": result.errors,
+        "spotcheck": {
+            "summary": spot_summary,
+            "samples": [
+                {
+                    "canonical_position": s.canonical_position,
+                    "book": s.book,
+                    "chapter": s.chapter,
+                    "verse": s.verse,
+                    "match": s.match,
+                    "note": s.note,
+                    "local_text": s.local_text,
+                    "remote_text": s.remote_text,
+                    "local_norm": s.local_norm,
+                    "remote_norm": s.remote_norm,
+                    "similarity": s.similarity,
+                }
+                for s in spot_samples
+            ],
+        },
+    }
+    VALIDATION_LATEST_JSON.write_text(json.dumps(json_payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    return str(VALIDATION_LATEST_MD)
 
 
 def _source_book_chapters(raw_html_path: Path) -> List[Dict[int, Dict[int, str]]]:
@@ -141,6 +533,7 @@ def validate_bible_integrity(config: Dict[str, object]) -> IntegrityResult:
 
     output_dir = Path(str(config["paths"]["final_output"]["douay_rheims"]))
     raw_html = Path(str(config["paths"]["raw_data"]["douay_rheims"]))
+    validation_cfg = dict(config.get("validation", {}).get("douay_rheims", {}))
 
     if not output_dir.is_dir():
         return IntegrityResult(False, [f"Bible output directory missing: {output_dir}"], [], {})
@@ -213,12 +606,63 @@ def validate_bible_integrity(config: Dict[str, object]) -> IntegrityResult:
     trend_warnings = _append_and_check_trend(audit_summary)
     warnings.extend(trend_warnings)
 
-    summary = {
+    report_timestamp = datetime.now(timezone.utc)
+
+    spot_cfg = validation_cfg.get("drbo_spot_check", {})
+    if not isinstance(spot_cfg, dict):
+        spot_cfg = {}
+    spot_enabled = bool(spot_cfg.get("enabled", True))
+    spot_size = int(spot_cfg.get("sample_size", DEFAULT_SPOTCHECK_SAMPLE_SIZE))
+    spot_base_url = str(spot_cfg.get("base_url", DEFAULT_SPOTCHECK_BASE_URL))
+    spot_seed = int(spot_cfg.get("seed", int(report_timestamp.timestamp())))
+
+    spot_samples: List[SpotCheckSample] = []
+    spot_summary: Dict[str, object] = {
+        "sampled": 0,
+        "exact_matched": 0,
+        "exact_match_percent": 0.0,
+        "near_matched": 0,
+        "matched": 0,
+        "near_plus_exact_percent": 0.0,
+        "mismatched": 0,
+        "unavailable": 0,
+        "seed": spot_seed,
+        "near_match_threshold": NEAR_MATCH_THRESHOLD,
+    }
+    if spot_enabled:
+        sampled, sampled_summary, sampled_warnings = _run_drbo_spot_check(
+            output_dir=output_dir,
+            sample_size=spot_size,
+            base_url=spot_base_url,
+            seed=spot_seed,
+        )
+        spot_samples = sampled
+        spot_summary = sampled_summary
+        warnings.extend(sampled_warnings)
+
+    summary: Dict[str, object] = {
         "files_found": len(md_files),
         "verses_checked": checked_verses,
         "skipped_commentary": audit_summary.get("skipped_commentary", -1),
         "skipped_preface": audit_summary.get("skipped_preface", -1),
         "joined_continuations": audit_summary.get("joined_continuations", -1),
+        "spotcheck_sampled": spot_summary.get("sampled", 0),
+        "spotcheck_exact_matched": spot_summary.get("exact_matched", 0),
+        "spotcheck_exact_match_percent": spot_summary.get("exact_match_percent", 0.0),
+        "spotcheck_near_matched": spot_summary.get("near_matched", 0),
+        "spotcheck_matched": spot_summary.get("matched", 0),
+        "spotcheck_near_plus_exact_percent": spot_summary.get("near_plus_exact_percent", 0.0),
+        "spotcheck_mismatched": spot_summary.get("mismatched", 0),
+        "spotcheck_unavailable": spot_summary.get("unavailable", 0),
+        "spotcheck_seed": spot_summary.get("seed", spot_seed),
+        "spotcheck_near_match_threshold": spot_summary.get("near_match_threshold", NEAR_MATCH_THRESHOLD),
     }
+    report_path = _write_validation_report(
+        IntegrityResult(ok=(len(errors) == 0), errors=errors, warnings=warnings, summary=summary),
+        spot_samples=spot_samples,
+        spot_summary=spot_summary,
+        report_timestamp=report_timestamp,
+    )
+    summary["report_path"] = report_path
     return IntegrityResult(ok=(len(errors) == 0), errors=errors, warnings=warnings, summary=summary)
 

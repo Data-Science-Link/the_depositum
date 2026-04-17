@@ -154,6 +154,17 @@ def validate_outputs(config):
                 integrity.summary.get("skipped_preface"),
                 integrity.summary.get("joined_continuations"),
             )
+            logger.info(
+                "✅ Bible spot-check: sampled=%s matched=%s mismatched=%s unavailable=%s seed=%s",
+                integrity.summary.get("spotcheck_sampled"),
+                integrity.summary.get("spotcheck_matched"),
+                integrity.summary.get("spotcheck_mismatched"),
+                integrity.summary.get("spotcheck_unavailable"),
+                integrity.summary.get("spotcheck_seed"),
+            )
+            report_path = integrity.summary.get("report_path")
+            if report_path:
+                logger.info("Validation markdown report: %s", report_path)
         else:
             all_valid = False
             logger.error("❌ Bible integrity checks failed:")

@@ -57,6 +57,10 @@ validation:
       - "Genesis"
       - "Exodus"
       - "Revelation"
+    drbo_spot_check:
+      enabled: true
+      sample_size: 100
+      base_url: "https://www.drbo.org"
 
   haydock:
     min_files: 1
