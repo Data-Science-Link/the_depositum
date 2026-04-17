@@ -62,7 +62,7 @@ ENV/
 data_engineering/data_sources/*/raw/*
 !data_engineering/data_sources/*/raw/.gitkeep
 # Project Gutenberg #8300 — committed canonical source for Douay-Rheims extraction
-!data_engineering/data_sources/bible_douay_rheims/raw/pg8300.txt
+!data_engineering/data_sources/bible_douay_rheims/raw/*
 data_engineering/processed_data/*
 !data_engineering/processed_data/.gitkeep
 
