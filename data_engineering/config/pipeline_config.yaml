@@ -1,17 +1,18 @@
 # Pipeline Configuration
 # Configuration file for The Depositum data extraction pipeline
 
-# API Settings
+# API Settings (legacy; Bible text comes from offline Project Gutenberg #8300)
 api:
   bible:
     base_url: "https://bible-api.com/data/dra"
     translation_id: "dra"
-    rate_limit_delay: 2.0  # seconds between requests (increased to avoid rate limits)
+    rate_limit_delay: 2.0
     timeout: 30
 
 # File Paths
 paths:
   raw_data:
+    douay_rheims: "data_engineering/data_sources/bible_douay_rheims/raw/pg8300.txt"
     haydock: "data_engineering/data_sources/bible_commentary_haydock/Haydock Catholic Bible Comment - Haydock, George Leo_3948.epub"
     catechism: "data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf"
 
@@ -50,12 +51,12 @@ output:
 # Validation
 validation:
   douay_rheims:
-    # Complete 73-book Catholic canon (66 from API + 7 Deuterocanonical from GitHub)
+    # Complete 73-book Catholic canon from Project Gutenberg #8300 (single source)
     expected_books: 73
     required_books:
       - "Genesis"
       - "Exodus"
-      - "Apocalypse"
+      - "Revelation"
 
   haydock:
     min_files: 1

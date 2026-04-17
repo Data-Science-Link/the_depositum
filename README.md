@@ -30,7 +30,7 @@ This pipeline produces Markdown files specifically optimized for AI tools and No
 
 ## 🎯 What This Project Provides
 
-- **📖 Douay-Rheims Bible**: Complete 73-book Catholic canon extracted via patchwork approach (66 books from bible-api.com, 7 Deuterocanonical books from GitHub) - see bible_douay_rheims/README.md for details
+- **📖 Douay-Rheims Bible**: Complete 73-book Catholic canon from Project Gutenberg #8300 — see `bible_douay_rheims/README.md`
 - **📚 Haydock Bible Commentary**: Full commentary extracted from EPUB format
 - **✝️ Roman Catechism (McHugh & Callan)**: Catechism of the Council of Trent converted from PDF to Markdown
 - **🔄 Reproducible Pipeline**: Complete automation for data extraction and transformation
@@ -128,13 +128,12 @@ This pipeline extracts and processes three foundational Catholic texts that toge
 
 ### Pillar A: Douay-Rheims Bible (1899 American Edition)
 - **Source**: Patchwork approach (MVP solution)
-  - 66 books from bible-api.com (ebible.org data)
+  - Offline UTF-8 text (Project Gutenberg #8300, Challoner revision)
   - 7 Deuterocanonical books from GitHub repository (xxruyle/Bible-DouayRheims)
 - **Format**: API/JSON → Markdown
 - **Output**: 73 individual Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md) - Complete Catholic canon
 - **Scripts**:
-  - `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` (66 books)
-  - `data_engineering/data_sources/bible_douay_rheims/extract_deuterocanonical.py` (7 books)
+  - `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` (73 books)
 - **No prerequisites**: Downloads directly from API and GitHub
 - **Note**: This is an MVP patchwork approach. While functional and complete, it requires two separate scripts. Future improvements may include migration to a unified API source for better robustness. See bible_douay_rheims/README.md for details.
 - **Historical Significance**: First officially authorized Catholic Bible in English, translated from the Latin Vulgate. The 1899 American Edition represents the Challoner revision, which became the standard English Catholic Bible for centuries.
@@ -206,7 +205,6 @@ the_depositum/
     │   ├── README.md           # Data sources overview
     │   ├── bible_douay_rheims/
     │   │   ├── extract_bible.py
-    │   │   ├── extract_deuterocanonical.py
     │   │   └── README.md
     │   ├── bible_commentary_haydock/
     │   │   ├── extract_commentary.py
@@ -237,8 +235,7 @@ the_depositum/
 - `data_engineering/config/pipeline_config.yaml` - Pipeline configuration
 - `data_engineering/scripts/run_pipeline.py` - Main pipeline orchestrator
 - `data_engineering/data_sources/README.md` - Data sources overview
-- `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` - Bible extraction script (66 books from API)
-- `data_engineering/data_sources/bible_douay_rheims/extract_deuterocanonical.py` - Deuterocanonical books extraction script (7 books from GitHub)
+- `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` - Bible extraction from Gutenberg #8300 (73 books)
 - `data_engineering/data_sources/bible_douay_rheims/README.md` - Bible extraction guide
 - `data_engineering/data_sources/bible_commentary_haydock/extract_commentary.py` - Commentary extraction script
 - `data_engineering/data_sources/bible_commentary_haydock/README.md` - Commentary extraction guide
@@ -369,7 +366,7 @@ All source texts (Douay-Rheims, Haydock Commentary, Roman Catechism) are in the 
 
 ## 🙏 Acknowledgments
 
-- **bible-api.com**: For providing structured Bible data
+- **Project Gutenberg**: For eBook #8300 (Douay-Rheims, complete)
 - **ebible.org**: For maintaining public domain Bible texts
 - **Isidore E-Book Library / JohnBlood GitLab**: For Haydock Commentary EPUB
 - **SaintsBooks.net**: For McHugh & Callan Catechism PDF

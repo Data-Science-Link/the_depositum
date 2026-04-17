@@ -55,8 +55,9 @@ This document provides a complete listing of all files in The Depositum reposito
 #### Douay-Rheims Bible
 | File | Description |
 |------|-------------|
-| `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` | Extraction script that downloads from bible-api.com and converts to Markdown |
-| `data_engineering/data_sources/bible_douay_rheims/README.md` | Extraction guide with API details and configuration |
+| `data_engineering/data_sources/bible_douay_rheims/extract_bible.py` | Parses Project Gutenberg #8300 UTF-8 text into Markdown books |
+| `data_engineering/data_sources/bible_douay_rheims/raw/pg8300.txt` | Source text (Gutenberg #8300); tracked via `.gitignore` exception |
+| `data_engineering/data_sources/bible_douay_rheims/README.md` | Extraction guide and usage |
 
 #### Haydock Commentary
 | File | Description |
@@ -95,7 +96,7 @@ These directories are created by the pipeline and contain generated files:
   - `catholic_catechism_trent/` - Intermediate catechism file
 
 - `data_final/` - Final output directories
-  - `bible_douay_rheims/` - 66 Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - currently missing 7 deuterocanonical books)
+  - `bible_douay_rheims/` - 73 Markdown files (`Bible_Book_01_Genesis.md` … `Bible_Book_73_Revelation.md`)
   - `bible_commentary_haydock/` - Commentary Markdown files
   - `catholic_catechism_trent/` - Catholic_Catechism_Trent.md
   - `00_Project_Prompt_and_Sources.md` - Project constitution and source documentation for AI tools
@@ -117,7 +118,7 @@ These directories are created by the pipeline and contain generated files:
 - **Other**: LICENSE, .gitignore
 
 ### Generated Files (Not Version Controlled)
-- **Bible output**: 66 Markdown files (currently missing 7 deuterocanonical books: Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees - see bible_douay_rheims/README.md for details)
+- **Bible output**: 73 Markdown files (single Gutenberg #8300 source; see `bible_douay_rheims/README.md`)
 - **Commentary output**: 73 Markdown files (one per book of the Catholic canon)
 - **Catechism output**: 1 Markdown file (after running pipeline)
 

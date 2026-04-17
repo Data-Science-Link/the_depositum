@@ -1,541 +1,480 @@
 #!/usr/bin/env python3
 """
-Douay-Rheims Bible Extraction Script
+Douay-Rheims Bible extraction from Project Gutenberg eBook #8300.
 
-This script downloads the Douay-Rheims 1899 American Edition directly from
-bible-api.com and converts it into clean, formatted Markdown files.
-
-The API sources its text from ebible.org, a standard for public domain Bible data.
-This ensures data integrity and canonical accuracy (73 books for Catholic translation).
-
-Usage:
-    python extract_bible.py
+Parses the UTF-8 plain-text file into Markdown books matching the pipeline SOP:
+Bible_Book_XX_Name.md with YAML frontmatter, Table of Contents, chapters, and
+**verse** lines (same structure as the legacy bible-api extractor).
 """
 
-import sys
-import time
-import logging
-from pathlib import Path
-from typing import List, Dict, Any, Optional
-import yaml
-import requests
+from __future__ import annotations
 
-# Add parent directory to path to import shared canonical_books module
+import argparse
+import logging
+import re
+import sys
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Tuple
+
+import yaml
+
+# Shared canon (73 books, filenames, sections)
 canonical_books_path = Path(__file__).parent.parent
 sys.path.insert(0, str(canonical_books_path))
-from canonical_books import CATHOLIC_BIBLE_CANON, DEUTEROCANONICAL_BOOKS, get_canonical_info
+from canonical_books import CATHOLIC_BIBLE_CANON  # noqa: E402
 
-# Set up logging to both console and file
 LOG_DIR = Path(__file__).parent.parent.parent.parent / "data_engineering" / "logs"
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 LOG_FILE = LOG_DIR / "bible_extraction.log"
 
-# Configure logger
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
-logger.handlers.clear()  # Prevent duplicate handlers if script is imported
+logger.handlers.clear()
+_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+_fh = logging.FileHandler(LOG_FILE, encoding="utf-8")
+_fh.setLevel(logging.INFO)
+_fh.setFormatter(_formatter)
+logger.addHandler(_fh)
+_ch = logging.StreamHandler()
+_ch.setLevel(logging.INFO)
+_ch.setFormatter(_formatter)
+logger.addHandler(_ch)
 
-# Create formatter (shared between handlers)
-formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-
-# File handler
-file_handler = logging.FileHandler(LOG_FILE, encoding='utf-8')
-file_handler.setLevel(logging.INFO)
-file_handler.setFormatter(formatter)
-logger.addHandler(file_handler)
-
-# Console handler
-console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.INFO)
-console_handler.setFormatter(formatter)
-logger.addHandler(console_handler)
-
-# Load configuration
 CONFIG_PATH = Path(__file__).parent.parent.parent / "config" / "pipeline_config.yaml"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent.parent
+
 try:
-    with open(CONFIG_PATH, 'r') as f:
-        config = yaml.safe_load(f)
-    API_BASE = config['api']['bible']['base_url']
-    RATE_LIMIT_DELAY = config['api']['bible'].get('rate_limit_delay', 2.0)  # Default to 2 seconds for safety
-    OUTPUT_DIR = Path(config['paths']['final_output']['douay_rheims'])
-except (FileNotFoundError, yaml.YAMLError, KeyError) as e:
-    logger.warning(f"Could not load config, using defaults: {e}")
-    API_BASE = "https://bible-api.com/data/dra"
-    RATE_LIMIT_DELAY = 0.5
-    OUTPUT_DIR = Path(__file__).parent.parent.parent.parent / "data_final" / "bible_douay_rheims"
+    with open(CONFIG_PATH, encoding="utf-8") as _cf:
+        _cfg = yaml.safe_load(_cf)
+    RAW_TEXT_PATH = PROJECT_ROOT / _cfg["paths"]["raw_data"]["douay_rheims"]
+    OUTPUT_DIR = PROJECT_ROOT / _cfg["paths"]["final_output"]["douay_rheims"]
+except (OSError, yaml.YAMLError, KeyError, TypeError) as e:
+    logger.warning("Could not load pipeline config, using defaults: %s", e)
+    RAW_TEXT_PATH = PROJECT_ROOT / "data_engineering/data_sources/bible_douay_rheims/raw/pg8300.txt"
+    OUTPUT_DIR = PROJECT_ROOT / "data_final/bible_douay_rheims"
 
-# Constants
-REQUEST_TIMEOUT = 30
-MAX_RETRIES = 5
-INITIAL_RETRY_WAIT = 5  # seconds
+# Exact title lines as they appear in PG #8300 (73 books, Catholic order).
+PG_BOOK_HEADERS: List[str] = [
+    "THE BOOK OF GENESIS",
+    "THE BOOK OF EXODUS",
+    "THE BOOK OF LEVITICUS",
+    "THE BOOK OF NUMBERS",
+    "THE BOOK OF DEUTERONOMY",
+    "THE BOOK OF JOSUE",
+    "THE BOOK OF JUDGES",
+    "THE BOOK OF RUTH",
+    "THE FIRST BOOK OF SAMUEL, OTHERWISE CALLED THE FIRST BOOK OF KINGS",
+    "THE SECOND BOOK OF KINGS",
+    "THE THIRD BOOK OF KINGS",
+    "THE FOURTH BOOK OF KINGS",
+    "THE FIRST BOOK OF PARALIPOMENON",
+    "THE SECOND BOOK OF PARALIPOMENON",
+    "THE FIRST BOOK OF ESDRAS",
+    "THE BOOK OF NEHEMIAS, WHICH IS CALLED THE SECOND OF ESDRAS",
+    "THE BOOK OF TOBIAS",
+    "THE BOOK OF JUDITH",
+    "THE BOOK OF ESTHER",
+    "THE BOOK OF JOB",
+    "THE BOOK OF PSALMS",
+    "THE BOOK OF PROVERBS",
+    "ECCLESIASTES",
+    "SOLOMON'S CANTICLE OF CANTICLES",
+    "THE BOOK OF WISDOM",
+    "ECCLESIASTICUS",
+    "THE PROPHECY OF ISAIAS",
+    "THE PROPHECY OF JEREMIAS",
+    "THE LAMENTATIONS OF JEREMIAS",
+    "THE PROPHECY OF BARUCH",
+    "THE PROPHECY OF EZECHIEL",
+    "THE PROPHECY OF DANIEL",
+    "THE PROPHECY OF OSEE",
+    "THE PROPHECY OF JOEL",
+    "THE PROPHECY OF AMOS",
+    "THE PROPHECY OF ABDIAS",
+    "THE PROPHECY OF JONAS",
+    "THE PROPHECY OF MICHEAS",
+    "THE PROPHECY OF NAHUM",
+    "THE PROPHECY OF HABACUC",
+    "THE PROPHECY OF SOPHONIAS",
+    "THE PROPHECY OF AGGEUS",
+    "THE PROPHECY OF ZACHARIAS",
+    "THE PROPHECY OF MALACHIAS",
+    "THE FIRST BOOK OF MACHABEES",
+    "THE SECOND BOOK OF MACHABEES",
+    "THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO SAINT MATTHEW",
+    "THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. MARK",
+    "THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. LUKE",
+    "THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. JOHN",
+    "THE ACTS OF THE APOSTLES",
+    "THE EPISTLE OF ST. PAUL THE APOSTLE TO THE ROMANS",
+    "THE FIRST EPISTLE OF ST. PAUL TO THE CORINTHIANS",
+    "THE SECOND EPISTLE OF ST. PAUL TO THE CORINTHIANS",
+    "THE EPISTLE OF ST. PAUL TO THE GALATIANS",
+    "THE EPISTLE OF ST. PAUL TO THE EPHESIANS",
+    "THE EPISTLE OF ST. PAUL TO THE PHILIPPIANS",
+    "THE EPISTLE OF ST. PAUL TO THE COLOSSIANS",
+    "THE FIRST EPISTLE OF ST. PAUL TO THE THESSALONIANS",
+    "THE SECOND EPISTLE OF ST. PAUL TO THE THESSALONIANS",
+    "THE FIRST EPISTLE OF ST. PAUL TO TIMOTHY",
+    "THE SECOND EPISTLE OF ST. PAUL TO TIMOTHY",
+    "THE EPISTLE OF ST. PAUL TO TITUS",
+    "THE EPISTLE OF ST. PAUL TO PHILEMON",
+    "THE EPISTLE OF ST. PAUL TO THE HEBREWS",
+    "THE CATHOLIC EPISTLE OF ST. JAMES THE APOSTLE",
+    "THE FIRST EPISTLE OF ST. PETER THE APOSTLE",
+    "THE SECOND EPISTLE OF ST. PETER THE APOSTLE",
+    "THE FIRST EPISTLE OF ST. JOHN THE APOSTLE",
+    "THE SECOND EPISTLE OF ST. JOHN THE APOSTLE",
+    "THE THIRD EPISTLE OF ST. JOHN THE APOSTLE",
+    "THE CATHOLIC EPISTLE OF ST. JUDE",
+    "THE APOCALYPSE OF ST. JOHN THE APOSTLE",
+]
 
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+# PG #8300 file order differs from Catholic canon order (Job & Psalms–Sirach
+# appear before 1–2 Maccabees). Map each PG book index 0..72 -> index into
+# CATHOLIC_BIBLE_CANON (same canonical_position / filenames as before).
+PG_ORDER_TO_CANON_INDEX: List[int] = (
+    list(range(19))  # Genesis–Esther
+    + [21]  # Job
+    + [22, 23, 24, 25, 26, 27]  # Psalms–Sirach
+    + list(range(28, 46))  # Isaiah–Malachi
+    + [19, 20]  # 1–2 Maccabees
+    + list(range(46, 73))  # Matthew–Revelation
+)
+
+VERSE_START_RE = re.compile(r"^(\d+):(\d+)\.\s*(.*)$")
+CHAPTER_HEADING_RE = re.compile(r"^(.+?)\s+Chapter\s+(\d+)\s*$")
+# Footnotes / bracketed notes (Challoner annotations in brackets)
+BRACKETED_RE = re.compile(r"\[[^\]]*\]")
+# Emphasis asterisks often used around words in the PG text
+EMPHASIS_ASTERISKS_RE = re.compile(r"\*+([^*]+?)\*+")
 
 
-def get_canonical_position(book_id: str, book_name: str = None) -> Optional[int]:
-    """Get the canonical position for a book in the Catholic Bible.
-
-    Args:
-        book_id: The book identifier (e.g., 'GEN', 'EXO')
-        book_name: Optional book name for fallback matching
-
-    Returns:
-        Canonical position (1-73), or None if not found
-    """
-    info = get_canonical_info(book_id, book_name)
-    return info['canonical_position'] if info else None
-
-
-def get_deuterocanonical_books() -> List[Dict[str, Any]]:
-    """Returns the list of deuterocanonical books that should be included in the Catholic canon.
-
-    Returns:
-        List of book dictionaries with 'id', 'name', and 'canonical_position' keys
-    """
-    return DEUTEROCANONICAL_BOOKS.copy()
+def trim_gutenberg_ebook(text: str) -> str:
+    """Keep only the body between PG START and END markers."""
+    upper = text.upper()
+    start_tag = "*** START OF THE PROJECT GUTENBERG EBOOK"
+    end_tag = "*** END OF THE PROJECT GUTENBERG EBOOK"
+    si = upper.find(start_tag)
+    if si == -1:
+        raise ValueError("Missing Project Gutenberg START marker in source text")
+    # Content begins after the first line containing START
+    start_line_end = text.find("\n", si)
+    if start_line_end == -1:
+        body_start = si
+    else:
+        body_start = start_line_end + 1
+    ei = upper.find(end_tag, body_start)
+    if ei == -1:
+        raise ValueError("Missing Project Gutenberg END marker in source text")
+    return text[body_start:ei]
 
 
-def fetch_book_list() -> List[Dict[str, Any]]:
-    """Fetches the list of books officially supported by the API for this translation.
+def sanitize_verse_text(text: str) -> str:
+    """Audio-first cleanup: bracketed notes, editorial asterisks, whitespace."""
+    s = BRACKETED_RE.sub("", text)
+    s = EMPHASIS_ASTERISKS_RE.sub(r"\1", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
-    Returns:
-        List of book dictionaries with 'id' and 'name' keys
-    """
-    logger.info(f"Fetching book list from {API_BASE}...")
-    try:
-        response = requests.get(API_BASE, timeout=REQUEST_TIMEOUT)
-        response.raise_for_status()
-        data = response.json()
-        books = data.get('books', [])
-        logger.info(f"Found {len(books)} books")
-        return books
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Error fetching book list: {e}")
+
+def _is_continuation_line(stripped: str, acc_lines: List[str]) -> bool:
+    """Heuristic: wrapped verse vs interlinear Challoner commentary (no verse prefix)."""
+    if not stripped:
+        return False
+    first = stripped[0]
+    if first in "\"'(":
+        return True
+    if first.islower():
+        return True
+    chunk = " ".join(acc_lines).rstrip()
+    if chunk:
+        last = chunk[-1]
+        if last not in ".!?;:)\"'" and not chunk.endswith("etc"):
+            return True
+    return False
+
+
+def parse_verses_from_lines(lines: List[str]) -> List[Tuple[str, str]]:
+    """Return (verse_display_number, text) for scripture lines only."""
+    verses: List[Tuple[str, str]] = []
+    current_num: Optional[str] = None
+    current_parts: Optional[List[str]] = None
+
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            continue
+        m = VERSE_START_RE.match(stripped)
+        if m:
+            if current_num is not None and current_parts is not None:
+                raw = " ".join(current_parts)
+                verses.append((current_num, sanitize_verse_text(raw)))
+            # Second number is always the verse index in this edition (incl. Psalms).
+            current_num = m.group(2)
+            current_parts = [m.group(3)] if m.group(3) else []
+            continue
+        if current_num is None:
+            continue
+        assert current_parts is not None
+        if _is_continuation_line(stripped, current_parts):
+            current_parts.append(stripped)
+        # Else: commentary line — skip until next numbered verse
+    if current_num is not None and current_parts is not None:
+        raw = " ".join(current_parts)
+        verses.append((current_num, sanitize_verse_text(raw)))
+    return verses
+
+
+def split_book_into_chapters(
+    book_lines: List[str],
+) -> List[Tuple[int, List[str]]]:
+    """Return list of (chapter_number, lines for that chapter body)."""
+    chapter_indices: List[Tuple[int, int, str]] = []
+    for i, line in enumerate(book_lines):
+        s = line.strip()
+        m = CHAPTER_HEADING_RE.match(s)
+        if m:
+            ch_num = int(m.group(2))
+            chapter_indices.append((i, ch_num, m.group(1).strip()))
+
+    if not chapter_indices:
+        logger.warning("No chapter headings found in book slice (first lines may be intro only)")
         return []
 
-
-def fetch_book_info(book_id: str, max_retries: int = MAX_RETRIES) -> Optional[Dict[str, Any]]:
-    """Fetches book information and chapter list for a specific book with retry logic.
-
-    Args:
-        book_id: The book identifier (e.g., 'GEN', 'EXO')
-        max_retries: Maximum number of retry attempts
-
-    Returns:
-        Dictionary with 'name' and 'chapters' keys, or None if fetch failed
-    """
-    url = f"{API_BASE}/{book_id}"
-    logger.info(f"Fetching book info for {book_id}...")
-
-    for attempt in range(max_retries):
-        try:
-            response = requests.get(url, timeout=REQUEST_TIMEOUT)
-
-            # Handle rate limiting with exponential backoff
-            if response.status_code == 429:
-                wait_time = INITIAL_RETRY_WAIT * (2 ** attempt)
-                if attempt < max_retries - 1:
-                    logger.warning(f"Rate limited on book {book_id}, waiting {wait_time}s before retry (attempt {attempt + 1}/{max_retries})...")
-                    time.sleep(wait_time)
-                    continue
-                else:
-                    logger.error(f"Rate limited on book {book_id} after {max_retries} attempts")
-                    return None
-
-            response.raise_for_status()
-            data = response.json()
-
-            # Extract book name from first chapter (all chapters have same book name)
-            chapters = data.get('chapters', [])
-            book_name = chapters[0].get('book', 'Unknown') if chapters else 'Unknown'
-
-            return {
-                'name': book_name,
-                'chapters': chapters
-            }
-        except requests.exceptions.RequestException as e:
-            if attempt < max_retries - 1:
-                wait_time = INITIAL_RETRY_WAIT * (2 ** attempt)
-                logger.warning(f"Request failed for book {book_id}, retrying in {wait_time}s...")
-                time.sleep(wait_time)
-            else:
-                logger.error(f"Failed to fetch book info for {book_id} after {max_retries} attempts: {e}")
-                return None
-
-    return None
+    chapters: List[Tuple[int, List[str]]] = []
+    for j, (line_idx, ch_num, _title) in enumerate(chapter_indices):
+        end = chapter_indices[j + 1][0] if j + 1 < len(chapter_indices) else len(book_lines)
+        body = book_lines[line_idx + 1 : end]
+        chapters.append((ch_num, body))
+    return chapters
 
 
-def fetch_chapter_verses(book_id: str, chapter_num: int, max_retries: int = MAX_RETRIES) -> Optional[List[Dict[str, Any]]]:
-    """Fetches verses for a specific chapter with aggressive retry logic for rate limiting.
-
-    Args:
-        book_id: The book identifier (e.g., 'GEN', 'EXO')
-        chapter_num: The chapter number
-        max_retries: Maximum number of retry attempts
-
-    Returns:
-        List of verse dictionaries, or None if fetch failed
-    """
-    url = f"{API_BASE}/{book_id}/{chapter_num}"
-
-    for attempt in range(max_retries):
-        try:
-            response = requests.get(url, timeout=REQUEST_TIMEOUT)
-
-            # Handle rate limiting with exponential backoff
-            if response.status_code == 429:
-                wait_time = INITIAL_RETRY_WAIT * (2 ** attempt)
-                if attempt < max_retries - 1:
-                    logger.warning(f"Rate limited on chapter {chapter_num}, waiting {wait_time}s before retry (attempt {attempt + 1}/{max_retries})...")
-                    time.sleep(wait_time)
-                    continue
-                else:
-                    logger.error(f"Rate limited on chapter {chapter_num} after {max_retries} attempts")
-                    return None
-
-            response.raise_for_status()
-            data = response.json()
-            verses = data.get('verses', [])
-            if verses:
-                return verses
-            else:
-                logger.warning(f"No verses returned for chapter {chapter_num}, retrying...")
-                if attempt < max_retries - 1:
-                    time.sleep(RATE_LIMIT_DELAY * 2)
-                    continue
-                return None
-        except requests.exceptions.RequestException as e:
-            if attempt < max_retries - 1:
-                wait_time = INITIAL_RETRY_WAIT * (2 ** attempt)
-                logger.warning(f"Request failed for chapter {chapter_num}, retrying in {wait_time}s...")
-                time.sleep(wait_time)
-            else:
-                logger.error(f"Failed to fetch chapter {chapter_num} for {book_id} after {max_retries} attempts: {e}")
-                return None
-
-    return None
+def find_book_header_line_indices(lines: List[str]) -> List[int]:
+    """0-based line indices where each PG book title appears (in order)."""
+    want = 0
+    found: List[int] = []
+    for i, line in enumerate(lines):
+        if want >= len(PG_BOOK_HEADERS):
+            break
+        if line.strip() == PG_BOOK_HEADERS[want]:
+            found.append(i)
+            want += 1
+    if want != len(PG_BOOK_HEADERS):
+        raise ValueError(
+            f"Expected {len(PG_BOOK_HEADERS)} book headers in order, matched {want}"
+        )
+    return found
 
 
-def generate_markdown(book_name: str, book_id: str, canonical_position: Optional[int], chapters: List[Dict[str, Any]], output_folder: Path, max_chapters: Optional[int] = None) -> bool:
-    """Converts a book's data into Markdown by fetching verses for each chapter.
+def safe_filename_component(name: str) -> str:
+    safe = "".join(c for c in name if c.isalnum() or c in (" ", "-", "_")).strip()
+    return safe.replace(" ", "_")
 
-    Args:
-        book_name: The name of the book (e.g., 'Genesis')
-        book_id: The book identifier (e.g., 'GEN')
-        canonical_position: The canonical position in Catholic Bible (1-73), or None to auto-detect
-        chapters: List of chapter dictionaries with chapter numbers
-        output_folder: Directory to save the Markdown file
-        max_chapters: Maximum number of chapters to process (for testing), None for all chapters
 
-    Returns:
-        True if successful, False otherwise
-    """
-    if not book_name or not chapters:
-        logger.warning(f"Invalid book data for {book_name}")
-        return False
-
-    # Get canonical info if not provided (using shared module)
-    canonical_info = None
-    if canonical_position is None:
-        canonical_info = get_canonical_info(book_id=book_id, book_name=book_name)
-        if canonical_info:
-            canonical_position = canonical_info['canonical_position']
-        else:
-            logger.warning(f"Could not determine canonical position for {book_name} ({book_id}), using fallback")
-            canonical_position = 99  # Fallback for unknown books
-    else:
-        # Get section info even if position is provided
-        canonical_info = get_canonical_info(book_id=book_id, book_name=book_name)
-
-    # Get section label from canonical info
-    section = canonical_info.get('section', '') if canonical_info else ''
-
-    # Determine testament (Old Testament: 1-46, New Testament: 47-73)
+def write_book_markdown(
+    book_meta: Dict[str, Any],
+    chapters_data: List[Tuple[int, List[Tuple[str, str]]]],
+    output_folder: Path,
+    max_chapters: Optional[int] = None,
+) -> bool:
+    """Write one Bible_Book_XX_Name.md file."""
+    book_name = book_meta["name"]
+    book_id = book_meta["id"]
+    canonical_position = book_meta["canonical_position"]
+    section = book_meta.get("section") or ""
     testament = "Old Testament" if canonical_position <= 46 else "New Testament"
 
-    # Limit chapters if max_chapters is specified
-    chapters_to_process = chapters[:max_chapters] if max_chapters else chapters
-    total_chapters_in_book = len(chapters)
-    chapters_processed = len(chapters_to_process)
+    total_chapters_in_book = len(chapters_data)
+    chapters_to_write = chapters_data[:max_chapters] if max_chapters else chapters_data
+    chapters_processed = len(chapters_to_write)
 
-    # Clean filename with zero-padded canonical position and Bible_Book_ prefix
-    # Format: Bible_Book_01_Genesis.md, Bible_Book_02_Exodus.md, etc.
-    safe_filename = "".join(c for c in book_name if c.isalnum() or c in (' ', '-', '_')).strip()
-    safe_filename = safe_filename.replace(' ', '_')
-    filename = f"Bible_Book_{canonical_position:02d}_{safe_filename}.md"
+    filename = f"Bible_Book_{canonical_position:02d}_{safe_filename_component(book_name)}.md"
     filepath = output_folder / filename
 
     try:
         with open(filepath, "w", encoding="utf-8") as f:
-            # Enhanced frontmatter following markdown best practices
-            f.write(f"---\n")
+            f.write("---\n")
             f.write(f"title: {book_name}\n")
             f.write(f"canonical_position: {canonical_position}\n")
             f.write(f"testament: {testament}\n")
             if section:
                 f.write(f"section: {section}\n")
             f.write(f"book_id: {book_id}\n")
-            f.write(f"translation: Douay-Rheims 1899 American Edition\n")
+            f.write(
+                "translation: Douay-Rheims (Challoner revision, Project Gutenberg #8300)\n"
+            )
             f.write(f"total_chapters: {total_chapters_in_book}\n")
             if max_chapters and chapters_processed < total_chapters_in_book:
-                f.write(f"chapters_included: {chapters_processed} (test mode, limited from {total_chapters_in_book})\n")
-            f.write(f"tags:\n")
-            f.write(f"  - bible\n")
-            f.write(f"  - douay-rheims\n")
+                f.write(
+                    f"chapters_included: {chapters_processed} "
+                    f"(test mode, limited from {total_chapters_in_book})\n"
+                )
+            f.write("tags:\n")
+            f.write("  - bible\n")
+            f.write("  - douay-rheims\n")
             f.write(f"  - {testament.lower().replace(' ', '-')}\n")
             if section:
-                # Add section as a tag (lowercase, hyphenated)
-                section_tag = section.lower().replace(' ', '-')
-                f.write(f"  - {section_tag}\n")
-            f.write(f"  - catholic-canon\n")
-            f.write(f"language: en\n")
-            f.write(f"format: markdown\n")
-            f.write(f"---\n\n")
+                f.write(f"  - {section.lower().replace(' ', '-')}\n")
+            f.write("  - catholic-canon\n")
+            f.write("language: en\n")
+            f.write("format: markdown\n")
+            f.write("---\n\n")
 
-            # Book title
             f.write(f"# {book_name}\n\n")
+            f.write("## Table of Contents\n\n")
+            for ch_num, _ in chapters_to_write:
+                anchor = f"chapter-{ch_num}".lower()
+                f.write(f"- [Chapter {ch_num}](#{anchor})\n")
+            f.write("\n---\n\n")
 
-            # Table of Contents
-            f.write(f"## Table of Contents\n\n")
-            for chapter_info in chapters_to_process:
-                chapter_num = chapter_info.get('chapter')
-                if chapter_num is not None:
-                    # Standard markdown anchor format (lowercase, hyphens)
-                    chapter_anchor = f"chapter-{chapter_num}".lower()
-                    f.write(f"- [Chapter {chapter_num}](#{chapter_anchor})\n")
-            f.write(f"\n---\n\n")
-
-            # Process each chapter with validation
-            total_chapters = len(chapters_to_process)
-            successful_chapters = 0
-
-            for chapter_info in chapters_to_process:
-                chapter_num = chapter_info.get('chapter')
-                if chapter_num is None:
-                    continue
-
-                logger.info(f"  Fetching chapter {chapter_num} ({successful_chapters + 1}/{total_chapters})...")
-
-                # Fetch verses for this chapter with retries
-                verses = fetch_chapter_verses(book_id, chapter_num)
-
-                if not verses:
-                    logger.error(f"  ❌ FAILED to fetch {book_name} chapter {chapter_num} after all retries")
-                    logger.error(f"❌ Cannot proceed without all chapters. Skipping this book.")
-                    return False
-
-                # Use anchor-friendly heading for TOC links (standard markdown format)
-                f.write(f"## Chapter {chapter_num}\n\n")
-
-                # Write verses in continuous flow (no paragraph breaks)
-                for verse in verses:
-                    verse_num = verse.get('verse')
-                    text = verse.get('text', '').strip()
-
-                    if not verse_num or not text:
-                        logger.error(f"❌ Missing verse data in {book_name} chapter {chapter_num}")
-                        logger.error(f"   Verse data: {verse}")
-                        logger.error(f"❌ Cannot proceed without all verses. Skipping this book.")
-                        return False
-
-                    # Format: **1** In the beginning...
-                    f.write(f"**{verse_num}** {text}  \n")
-
-                # Horizontal rule between chapters
+            for ch_num, verse_list in chapters_to_write:
+                f.write(f"## Chapter {ch_num}\n\n")
+                for vnum, vtext in verse_list:
+                    if not vtext:
+                        continue
+                    f.write(f"**{vnum}** {vtext}  \n")
                 f.write("\n---\n\n")
 
-                successful_chapters += 1
-
-                # Rate limiting delay between chapters
-                time.sleep(RATE_LIMIT_DELAY)
-
-            # Validate that we got all chapters
-            if successful_chapters < total_chapters:
-                logger.error(f"❌ INCOMPLETE: Only got {successful_chapters}/{total_chapters} chapters for {book_name}")
-                logger.error(f"❌ Skipping this book.")
-                return False
-
-            if max_chapters and chapters_processed < total_chapters_in_book:
-                logger.info(f"✅ Saved: {book_name} ({successful_chapters}/{total_chapters_in_book} chapters, test mode limited to {max_chapters})")
-            else:
-                logger.info(f"✅ Saved: {book_name} ({successful_chapters} chapters, all complete)")
-            return True
-    except (IOError, OSError) as e:
-        logger.error(f"Error writing {book_name}: {e}", exc_info=True)
+        logger.info("Saved %s (%s chapters)", book_name, chapters_processed)
+        return True
+    except OSError as e:
+        logger.error("Error writing %s: %s", book_name, e, exc_info=True)
         return False
 
 
-def main(test_mode: bool = False, test_limit: int = 4, max_chapters: Optional[int] = 3) -> int:
-    """Main extraction function.
+def extract_single_book(
+    book_lines: List[str],
+    book_meta: Dict[str, Any],
+    max_chapters: Optional[int],
+) -> Optional[List[Tuple[int, List[Tuple[str, str]]]]]:
+    """Parse chapters and verses for one book."""
+    chapter_slices = split_book_into_chapters(book_lines)
+    if not chapter_slices:
+        return None
 
-    Args:
-        test_mode: If True, only process the first N books (default: False)
-        test_limit: Number of books to process in test mode (default: 4)
-        max_chapters: Maximum number of chapters per book in test mode (default: 3, None for all chapters)
+    chapters_out: List[Tuple[int, List[Tuple[str, str]]]] = []
+    for ch_num, ch_body in chapter_slices:
+        verses = parse_verses_from_lines(ch_body)
+        if not verses:
+            logger.error("No verses parsed for %s chapter %s", book_meta["name"], ch_num)
+            return None
+        chapters_out.append((ch_num, verses))
 
-    Returns:
-        Exit code: 0 for success, 1 for failure
-    """
-    if test_mode:
-        chapters_info = f" (max {max_chapters} chapters per book)" if max_chapters else ""
-        logger.info(f"🧪 TEST MODE: Processing only first {test_limit} books{chapters_info}...")
-    logger.info("Starting Douay-Rheims Bible extraction...")
+    if max_chapters:
+        chapters_out = chapters_out[:max_chapters]
+    return chapters_out
 
-    # Create output directory
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    logger.info(f"Output directory: {OUTPUT_DIR}")
 
-    # Step 1: Get the list of books from API
-    books = fetch_book_list()
-
-    if not books:
-        logger.error("Could not retrieve book list. Aborting.")
+def run_extraction(
+    raw_path: Path,
+    output_folder: Path,
+    test_mode: bool = False,
+    test_limit: int = 4,
+    max_chapters: Optional[int] = None,
+) -> int:
+    """Run full extraction. Returns 0 on success."""
+    if not raw_path.is_file():
+        logger.error("Source file not found: %s", raw_path)
         return 1
 
-    logger.info(f"Found {len(books)} books from API")
+    text = raw_path.read_text(encoding="utf-8")
+    try:
+        body = trim_gutenberg_ebook(text)
+    except ValueError as e:
+        logger.error("%s", e)
+        return 1
 
-    # Create a mapping of book IDs to book info from API
-    api_books_map = {book.get('id'): book for book in books if book.get('id')}
+    lines = body.splitlines()
+    boundaries = find_book_header_line_indices(lines)
 
-    # Step 2: Process books in canonical order (1-73)
-    # This ensures files are created in the correct Catholic Bible order
-    success_count = 0
-    skipped_books = []  # Books that couldn't be found or processed
-    failed_books = []  # Books that failed during processing
+    output_folder.mkdir(parents=True, exist_ok=True)
 
-    # Determine how many books to process
-    canonical_books_to_process = CATHOLIC_BIBLE_CANON[:test_limit] if test_mode else CATHOLIC_BIBLE_CANON
-
-    logger.info(f"Processing {len(canonical_books_to_process)} books in canonical order...")
-    logger.info(f"⚠️  Using {RATE_LIMIT_DELAY}s delay between requests to avoid rate limits")
-    logger.info(f"📝 Logging to: {LOG_FILE}")
-
-    for idx, canonical_book in enumerate(canonical_books_to_process, start=1):
-        canonical_position = canonical_book['canonical_position']
-        book_id = canonical_book['id']
-        canonical_name = canonical_book['name']
-
-        logger.info(f"\n📖 Processing {canonical_name} ({book_id}) - Canonical position: {canonical_position:02d} - Book {idx}/{len(canonical_books_to_process)}...")
-
-        # Check if book is available in API
-        api_book = api_books_map.get(book_id)
-
-        if not api_book:
-            # Try to fetch book info directly (might be available but not in list)
-            logger.info(f"  Book {book_id} not in API list, attempting direct fetch...")
-            book_info = fetch_book_info(book_id)
-
-            if not book_info:
-                logger.warning(f"  ⚠️  Skipping {canonical_name} ({book_id}) - not available in API")
-                skipped_books.append({
-                    'name': canonical_name,
-                    'id': book_id,
-                    'position': canonical_position,
-                    'reason': 'Not available in API'
-                })
-                time.sleep(RATE_LIMIT_DELAY)  # Still wait to respect rate limits
-                continue
-
-            # Use the fetched info
-            api_book_name = book_info['name']
-            chapters = book_info['chapters']
-        else:
-            # Book is in API list, fetch full info
-            api_book_name = api_book.get('name', canonical_name)
-            book_info = fetch_book_info(book_id)
-
-            if not book_info:
-                logger.warning(f"  ⚠️  Skipping {canonical_name} ({book_id}) - failed to fetch book info")
-                skipped_books.append({
-                    'name': canonical_name,
-                    'id': book_id,
-                    'position': canonical_position,
-                    'reason': 'Failed to fetch book info'
-                })
-                time.sleep(RATE_LIMIT_DELAY)
-                continue
-
-            chapters = book_info['chapters']
-
-        # Rate limiting delay after fetching book info
-        time.sleep(RATE_LIMIT_DELAY)
-
-        # Generate markdown (this will fetch chapters individually)
-        # Limit chapters in test mode
-        chapters_to_use = chapters[:max_chapters] if (test_mode and max_chapters) else chapters
-        try:
-            if generate_markdown(
-                book_name=book_info['name'],
-                book_id=book_id,
-                canonical_position=canonical_position,
-                chapters=chapters,
-                output_folder=OUTPUT_DIR,
-                max_chapters=max_chapters if test_mode else None
-            ):
-                success_count += 1
-                logger.info(f"  ✅ Successfully saved {canonical_name}")
-            else:
-                logger.warning(f"  ⚠️  Failed to generate markdown for {canonical_name}")
-                failed_books.append({
-                    'name': canonical_name,
-                    'id': book_id,
-                    'position': canonical_position,
-                    'reason': 'Failed to generate markdown'
-                })
-        except Exception as e:
-            logger.error(f"  ❌ Error processing {canonical_name}: {e}", exc_info=True)
-            failed_books.append({
-                'name': canonical_name,
-                'id': book_id,
-                'position': canonical_position,
-                'reason': f'Exception: {str(e)}'
-            })
-
-        # Polite delay to respect API rate limits between books
-        time.sleep(RATE_LIMIT_DELAY * 2)  # Longer delay between books
-
-    # Final summary
-    logger.info(f"\n{'='*60}")
-    logger.info(f"📊 EXTRACTION SUMMARY")
-    logger.info(f"{'='*60}")
-    logger.info(f"✅ Successfully processed: {success_count}/{len(canonical_books_to_process)} books")
-
-    if skipped_books:
-        logger.warning(f"\n⚠️  SKIPPED BOOKS ({len(skipped_books)}):")
-        for book in skipped_books:
-            logger.warning(f"   - {book['name']} ({book['id']}) - Position {book['position']:02d} - {book['reason']}")
-
-    if failed_books:
-        logger.error(f"\n❌ FAILED BOOKS ({len(failed_books)}):")
-        for book in failed_books:
-            logger.error(f"   - {book['name']} ({book['id']}) - Position {book['position']:02d} - {book['reason']}")
-
-    total_expected = len(canonical_books_to_process)
-    if success_count == total_expected:
-        logger.info(f"\n🎉 All {total_expected} books completed successfully!")
-        logger.info(f"Files saved in '{OUTPUT_DIR}/'")
-        return 0
+    success = 0
+    if test_mode:
+        pg_indices_to_run = list(range(min(test_limit, 73)))
     else:
-        missing_count = len(skipped_books) + len(failed_books)
-        logger.warning(f"\n⚠️  INCOMPLETE: {success_count}/{total_expected} books extracted successfully")
-        logger.warning(f"   {missing_count} books were skipped or failed")
-        if skipped_books:
-            logger.warning(f"   Missing books are not available from bible-api.com and must be obtained from an alternative source")
-            logger.warning(f"   See README.md for information on alternative sources")
-        logger.info(f"Files saved in '{OUTPUT_DIR}/'")
-        return 1 if missing_count > 0 else 0
+        pg_indices_to_run = list(range(73))
+
+    for run_i, pg_idx in enumerate(pg_indices_to_run):
+        canon_idx = PG_ORDER_TO_CANON_INDEX[pg_idx]
+        book_meta = CATHOLIC_BIBLE_CANON[canon_idx]
+        start = boundaries[pg_idx] + 1
+        end = boundaries[pg_idx + 1] if pg_idx + 1 < len(boundaries) else len(lines)
+        slice_lines = lines[start:end]
+
+        logger.info(
+            "Processing %s (%s) PG %s/%s",
+            book_meta["name"],
+            book_meta["id"],
+            run_i + 1,
+            len(pg_indices_to_run),
+        )
+
+        chapters_data = extract_single_book(slice_lines, book_meta, max_chapters)
+        if not chapters_data:
+            logger.error("Failed to parse book %s", book_meta["name"])
+            return 1
+
+        if not write_book_markdown(
+            book_meta, chapters_data, output_folder, max_chapters=max_chapters
+        ):
+            return 1
+        success += 1
+
+    expected = len(pg_indices_to_run)
+    logger.info("Finished: %s books written to %s", success, output_folder)
+    return 0 if success == expected else 1
+
+
+def main(
+    test_mode: bool = False,
+    test_limit: int = 4,
+    max_chapters: Optional[int] = None,
+    raw_path: Optional[Path] = None,
+    output_dir: Optional[Path] = None,
+) -> int:
+    rp = raw_path or RAW_TEXT_PATH
+    od = output_dir or OUTPUT_DIR
+    logger.info("Source: %s", rp)
+    logger.info("Output: %s", od)
+    return run_extraction(rp, od, test_mode=test_mode, test_limit=test_limit, max_chapters=max_chapters)
 
 
 if __name__ == "__main__":
-    import argparse
-
-    parser = argparse.ArgumentParser(description='Extract Douay-Rheims Bible to Markdown')
-    parser.add_argument('--test', action='store_true', help='Test mode: process only first N books with limited chapters')
-    parser.add_argument('--test-limit', type=int, default=4, help='Number of books to process in test mode (default: 4)')
-    parser.add_argument('--max-chapters', type=int, default=3, help='Maximum number of chapters per book in test mode (default: 3, use 0 for all chapters)')
-
+    parser = argparse.ArgumentParser(
+        description="Extract Douay-Rheims Bible (PG #8300) to Markdown"
+    )
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help="Process only first N books (see --test-limit)",
+    )
+    parser.add_argument("--test-limit", type=int, default=4)
+    parser.add_argument(
+        "--max-chapters",
+        type=int,
+        default=None,
+        help="With --test: limit chapters per book (default 3; 0 = all chapters)",
+    )
+    parser.add_argument("--raw", type=Path, default=None, help="Override path to pg8300.txt")
+    parser.add_argument("--output", type=Path, default=None, help="Override output directory")
     args = parser.parse_args()
-    # Convert 0 to None (meaning no limit)
-    max_chapters = None if args.max_chapters == 0 else args.max_chapters
-    sys.exit(main(test_mode=args.test, test_limit=args.test_limit, max_chapters=max_chapters))
-
+    if args.test:
+        if args.max_chapters == 0:
+            mc: Optional[int] = None
+        elif args.max_chapters is not None:
+            mc = args.max_chapters
+        else:
+            mc = 3
+    else:
+        mc = None
+    sys.exit(
+        main(
+            test_mode=args.test,
+            test_limit=args.test_limit,
+            max_chapters=mc,
+            raw_path=args.raw,
+            output_dir=args.output,
+        )
+    )
