@@ -184,7 +184,7 @@ format: markdown
 **2** Our inheritance is turned to aliens: our houses to strangers.  
 **3** We are become orphans without a father: our mothers are as widows.  
 **4** We have drunk our water for money: we have bought our wood.  
-**6** We were dragged by the necks, we were weary and no rest was given us.  
+**5** We were dragged by the necks, we were weary and no rest was given us.  
 **6** We have given our hand to Egypt, and to the Assyrians, that we might be satisfied with bread.  
 **7** Our fathers have sinned, and are not: and we have borne their iniquities.  
 **8** Servants have ruled over us: there was none to redeem us out of their hand.  

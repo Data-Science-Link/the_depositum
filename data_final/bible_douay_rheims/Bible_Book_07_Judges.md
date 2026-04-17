@@ -310,6 +310,7 @@ format: markdown
 **16** So he took the ancients of the city, and thorns and briers of the desert, and tore them with the same, and cut in pieces the men of Soccoth.  
 **17** And he demolished the tower of Phanuel, and slew the men of the city.  
 **18** And he said to Zebee and Salmana: What manner of men were they, whom you slew in Thabor? They answered: They were like thee, and one of them as the son of a king.  
+**19** He answered them: They were my brethren, the sons of my mother. As the Lord liveth, if you had saved them, I would not kill you.  
 **20** And he said to Jether, his eldest son: Arise, and slay them. But he drew not his sword: for he was afraid, being but yet a boy.  
 **21** And Zebee and Salmana said: Do thou rise and run upon us: because the strength of a man is according to his age: Gedeon rose up, and slew Zebee and Salmana: and he took the ornaments and bosses, with which the necks of the camels of kings are wont to be adorned.  
 **22** And all the men of Israel said to Gedeon: Rule thou over us, and thy son, and thy son's son: because thou hast delivered us from the hand of Madian.  
@@ -485,7 +486,7 @@ format: markdown
 **2** Now there was a certain man of Saraa, and of the race of Dan, whose name was Manue, and his wife was barren.  
 **3** And an angel of the Lord appeared to her, and said: Thou art barren and without children: but thou shalt conceive and bear a son.  
 **4** Now therefore beware, and drink no wine nor strong drink, and eat not any unclean thing.  
-**6** Because thou shalt conceive, and bear a son, and no razor shall touch his head: for he shall be a Nazarite of God, from his infancy, and from his mother's womb, and he shall begin to deliver Israel from the hands of the Philistines.  
+**5** Because thou shalt conceive, and bear a son, and no razor shall touch his head: for he shall be a Nazarite of God, from his infancy, and from his mother's womb, and he shall begin to deliver Israel from the hands of the Philistines.  
 **6** And when she was come to her husband, she said to him: A man of God came to me, having the countenance of an angel, very awful. And when I asked him whence he came, and by what name he was called, he would not tell me:  
 **7** But he answered thus: Behold thou shalt conceive and bear a son: beware thou drink no wine, nor strong drink, nor eat any unclean thing: for the child shall be a Nazarite of God from his infancy, from his mother's womb until the day of his death.  
 **8** Then Manue prayed to the Lord, and said: I beseech thee, O Lord, that the man of God, whom thou didst send, may come again, and teach us what we ought to do concerning the child, that shall be born.  
@@ -540,7 +541,7 @@ format: markdown
 **2** I thought thou hadst hated her, and therefore I gave her to thy friend: but she hath a sister, who is younger and fairer than she, take her to wife instead of her.  
 **3** And Samson answered him: From this day I shall be blameless in what I do against the Philistines: for I will do you evils.  
 **4** And he went and caught three hundred foxes, and coupled them tail to tail, and fastened torches between the tails:  
-**6** And setting them on fire he let the foxes go, that they might run about hither and thither. And they presently went into the standing corn of the Philistines. Which being set on fire, both the corn that was already carried together, and that which was yet standing, was all burnt, insomuch that the flame consumed also the vineyards and the oliveyards.  
+**5** And setting them on fire he let the foxes go, that they might run about hither and thither. And they presently went into the standing corn of the Philistines. Which being set on fire, both the corn that was already carried together, and that which was yet standing, was all burnt, insomuch that the flame consumed also the vineyards and the oliveyards.  
 **6** Then the Philistines said: Who hath done this thing? And it was answered: Samson, the son in law of the Thamnathite, because he took away his wife, and gave her to another, hath done these things. And the Philistines went up and burnt both the woman and her father.  
 **7** But Samson said to them: Although you have done this, yet will I be revenged of you, and then I will be quiet.  
 **8** And he made a great slaughter of them, so that in astonishment they laid the calf of the leg upon the thigh. And going down he dwelt in a cavern of the rock Etam.  

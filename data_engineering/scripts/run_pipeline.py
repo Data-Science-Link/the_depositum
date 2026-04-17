@@ -25,6 +25,7 @@ sys.path.insert(0, str(project_root))
 from data_engineering.data_sources.bible_douay_rheims.extract_bible import main as extract_bible
 from data_engineering.data_sources.bible_commentary_haydock.extract_commentary import main as extract_commentary
 from data_engineering.data_sources.catholic_catechism_trent.extract_catechism import main as extract_catechism
+from data_engineering.scripts.validate_bible_integrity import validate_bible_integrity
 
 # Set up logging
 logging.basicConfig(
@@ -140,6 +141,26 @@ def validate_outputs(config):
         all_valid = False
     else:
         logger.info(f"✅ Bible: Found {len(bible_files)} books")
+        integrity = validate_bible_integrity(config)
+        for warn in integrity.warnings:
+            logger.warning(f"Bible integrity trend warning: {warn}")
+        if integrity.ok:
+            logger.info(
+                "✅ Bible integrity: files=%s verses_checked=%s skipped_commentary=%s "
+                "skipped_preface=%s joined_continuations=%s",
+                integrity.summary.get("files_found"),
+                integrity.summary.get("verses_checked"),
+                integrity.summary.get("skipped_commentary"),
+                integrity.summary.get("skipped_preface"),
+                integrity.summary.get("joined_continuations"),
+            )
+        else:
+            all_valid = False
+            logger.error("❌ Bible integrity checks failed:")
+            for err in integrity.errors[:20]:
+                logger.error("  - %s", err)
+            if len(integrity.errors) > 20:
+                logger.error("  ... and %s more integrity errors", len(integrity.errors) - 20)
 
     # Validate Commentary
     commentary_dir = Path(config['paths']['processed_data']['haydock'])

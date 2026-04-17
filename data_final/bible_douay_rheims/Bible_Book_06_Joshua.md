@@ -156,7 +156,7 @@ format: markdown
 **2** At that time the Lord said to Josue: Make thee knives of stone, and circumcise the second time the children of Israel.  
 **3** He did what the Lord had commanded, and he circumcised the children of Israel in the hill of the foreskins.  
 **4** Now this is the cause of the second circumcision: All the people that came out of Egypt that were males, all the men fit for war, died in the desert, during the time of the long going about in the way:  
-**6** Now these were all circumcised. But the people that were born in the desert,  
+**5** Now these were all circumcised. But the people that were born in the desert,  
 **6** During the forty years of the journey in the wide wilderness, were uncircumcised: till all they were consumed that had not heard the voice of the Lord, and to whom he had sworn before, that he would not shew them the land flowing with milk and honey.  
 **7** The children of these succeeded in the place of their fathers, and were circumcised by Josue: for they were uncircumcised even as they were born, and no one had circumcised them in the way.  
 **8** Now after they were all circumcised, they remained in the same place of the camp, until they were healed.  

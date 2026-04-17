@@ -47,6 +47,7 @@ format: markdown
 **16** She answered: Be not against me, to desire that I should leave thee and depart: for whithersoever thou shalt go, I will go: and where thou shalt dwell, I also will dwell. Thy people shall be my people, and thy God my God.  
 **17** The land that shall receive thee dying, in the same will I die: and there will I be buried. The Lord do so and so to me, and add more also, if aught but death part me and thee.  
 **18** Then Noemi seeing that Ruth was steadfastly determined to go with her, would not be against it, nor persuade her any more to return to her friends:  
+**19** So they went together, and came to Bethlehem. And when they were come into the city, the report was quickly spread among all: and the women said: This is that Noemi.  
 **20** But she said to them: Call me not Noemi (that is, beautiful,) but call me Mara (that is, bitter), for the Almighty hath quite filled me with bitterness.  
 **21** I went out full and the Lord hath brought me back empty. Why then do you call me Noemi, whom the Lord hath humbled, and the Almighty hath afflicted?  
 **22** So Noemi came with Ruth, the Moabitess, her daughter in law, from the land of her sojournment: and returned into Bethlehem, in the beginning of the barley harvest.  
@@ -56,7 +57,7 @@ format: markdown
 ## Chapter 2
 
 **1** Now her husband Elimelech had a kinsman, a powerful man, and very rich, whose name was Booz.  
-**3** And Ruth, the Moabitess, said to her mother in law: If thou wilt, I will go into the field, and glean the ears of corn that escape the hands of the reapers, wheresoever I shall find grace with a householder, that will be favourable to me. And she answered her: Go, my daughter.  
+**2** And Ruth, the Moabitess, said to her mother in law: If thou wilt, I will go into the field, and glean the ears of corn that escape the hands of the reapers, wheresoever I shall find grace with a householder, that will be favourable to me. And she answered her: Go, my daughter.  
 **3** She went, therefore, and gleaned the ears of corn after the reapers. And it happened that the owner of that field was Booz, who was of the kindred of Elimelech.  
 **4** And behold, he came out of Bethlehem, and said to the reapers: The Lord be with you. And they answered him: The Lord bless thee.  
 **5** And Booz said to the young man that was set over the reapers: Whose maid is this?  
@@ -64,6 +65,7 @@ format: markdown
 **7** And she desired leave to glean the ears of corn that remain, following the steps of the reapers: and she hath been in the field from morning till now, and hath not gone home for one moment.  
 **8** And Booz said to Ruth: Hear me, daughter, do not go to glean in any other field, and do not depart from this place: but keep with my maids,  
 **9** And follow where they reap. For I have charged my young men, not to molest thee: and if thou art thirsty, go to the vessels, and drink of the waters whereof the servants drink.  
+**10** She fell on her face, and worshipping upon the ground, said to him: Whence cometh this to me, that I should find grace before thy eyes, and that thou shouldst vouchsafe to take notice of me, a woman of another country?  
 **11** And he answered her: All hath been told me, that thou hast done to thy mother in law after the death of thy husband: and how thou hast left thy parents, and the land wherein thou wast born, and art come to a people which thou knewest not heretofore.  
 **12** The Lord render unto thee for thy work, and mayst thou receive a full reward of the Lord the God of Israel, to whom thou art come, and under whose wings thou art fled.  
 **13** And she said: I have found grace in thy eyes, my lord, who hast comforted me, and hast spoken to the heart of thy handmaid, who am not like to one of thy maids.  

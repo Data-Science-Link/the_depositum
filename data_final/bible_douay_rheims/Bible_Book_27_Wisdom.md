@@ -177,7 +177,7 @@ format: markdown
 **2** Hear, therefore, ye kings, and understand, learn ye that are judges of the ends of the earth.  
 **3** Give ear, you that rule the people, and that please yourselves in multitudes of nations:  
 **4** For power is given you by the Lord, and strength by the most High, who will examine your works: and search out your thoughts:  
-**6** Because being ministers of his kingdom, you have not judged rightly, nor kept the law of justice, nor walked according to the will of God.  
+**5** Because being ministers of his kingdom, you have not judged rightly, nor kept the law of justice, nor walked according to the will of God.  
 **6** Horribly and speedily will he appear to you: for a most severe judgment shall be for them that bear rule.  
 **7** For to him that is little, mercy is granted: but the mighty shall be mightily tormented.  
 **8** For God will not except any man's person, neither will he stand in awe of any man's greatness: for he made the little and the great, and he hath equally care of all.  

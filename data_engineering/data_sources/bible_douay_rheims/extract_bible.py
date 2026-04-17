@@ -58,7 +58,7 @@ PG_ORDER_TO_CANON_INDEX: List[int] = (
     + list(range(46, 73))
 )
 
-VERSE_START_RE = re.compile(r"^(\d+):(\d+)\.\s*(.*)$")
+VERSE_START_RE = re.compile(r"^(\d+):([0-9lI]+)\.\s*(.*)$")
 CHAPTER_HEADING_RE = re.compile(r"^(.+?)\s+Chapter\s+(\d+)\s*$")
 BRACKETED_RE = re.compile(r"\[[^\]]*\]")
 EMPHASIS_ASTERISKS_RE = re.compile(r"\*+([^*]+?)\*+")
@@ -157,8 +157,135 @@ def parse_book_chapters_from_html(
         if verse_match:
             if current_chapter_num is None:
                 continue
+            verse_chapter_num = int(verse_match.group(1))
+            raw_verse_token = verse_match.group(2)
+            normalized_verse_token = raw_verse_token.replace("l", "1").replace("I", "1")
+            try:
+                verse_num_candidate = int(normalized_verse_token)
+            except ValueError:
+                stats.skipped_commentary_blocks += 1
+                stats.audit_events.append(
+                    {
+                        "type": "skipped_unparseable_verse_token",
+                        "book": book_name,
+                        "chapter": current_chapter_num,
+                        "verse": current_verse_num,
+                        "text": block,
+                    }
+                )
+                continue
+
+            if raw_verse_token != normalized_verse_token:
+                stats.audit_events.append(
+                    {
+                        "type": "recovered_ocr_verse_token",
+                        "book": book_name,
+                        "chapter": current_chapter_num,
+                        "verse": current_verse_num,
+                        "text": block,
+                    }
+                )
+            if (
+                current_verse_num is None
+                and verse_num_candidate == 1
+                and verse_chapter_num == current_chapter_num - 1
+            ):
+                # PG #8300 occasionally mislabels the first verse in a chapter
+                # with the previous chapter number (e.g., 3 Kings Chapter 2 starts
+                # with "1:1. ..."). Recover it as current chapter verse 1.
+                stats.audit_events.append(
+                    {
+                        "type": "recovered_first_verse_chapter_mismatch",
+                        "book": book_name,
+                        "chapter": current_chapter_num,
+                        "verse": None,
+                        "text": block,
+                    }
+                )
+                verse_chapter_num = current_chapter_num
+            elif (
+                current_verse_num is not None
+                and verse_chapter_num == current_chapter_num - 1
+                and verse_num_candidate == int(current_verse_num)
+            ):
+                # Another Gutenberg OCR pattern: the chapter number is one less, and the
+                # verse number repeats the current verse (e.g., Psalm 6 has "5:5." where
+                # context requires current chapter verse +1). Recover as the next verse.
+                verse_chapter_num = current_chapter_num
+                verse_num_candidate = int(current_verse_num) + 1
+                stats.audit_events.append(
+                    {
+                        "type": "recovered_prev_chapter_same_verse_label",
+                        "book": book_name,
+                        "chapter": current_chapter_num,
+                        "verse": current_verse_num,
+                        "text": block,
+                    }
+                )
+            if verse_chapter_num != current_chapter_num:
+                # Commentary blocks sometimes cite c:v references from elsewhere.
+                stats.skipped_commentary_blocks += 1
+                stats.audit_events.append(
+                    {
+                        "type": "skipped_crossref_paragraph",
+                        "book": book_name,
+                        "chapter": current_chapter_num,
+                        "verse": current_verse_num,
+                        "text": block,
+                    }
+                )
+                continue
+            if current_verse_num is not None and verse_num_candidate <= int(current_verse_num):
+                # Gutenberg occasionally repeats a verse label by mistake (e.g., 2:3 then 2:3
+                # where the second is contextually verse 4). If it's exactly repeated, recover
+                # to next verse number; otherwise treat as cross-reference commentary.
+                if verse_num_candidate == int(current_verse_num):
+                    adjusted_current = int(current_verse_num)
+                    if current_chapter_verses:
+                        prev_committed_num = int(current_chapter_verses[-1][0])
+                        if adjusted_current - prev_committed_num == 2:
+                            # Fix pattern like 1,3,3 where the first "3" is really "2".
+                            adjusted_current = adjusted_current - 1
+                    current_verse_num = str(adjusted_current)
+                    verse_num_candidate = int(current_verse_num) + 1
+                    stats.audit_events.append(
+                        {
+                            "type": "recovered_duplicate_verse_label",
+                            "book": book_name,
+                            "chapter": current_chapter_num,
+                            "verse": current_verse_num,
+                            "text": block,
+                        }
+                    )
+                else:
+                    # Gutenberg OCR can occasionally drop the tens digit by one near chapter
+                    # ends (e.g., 30:19 where context indicates 30:29). Recover when this
+                    # looks like the immediate next verse.
+                    if verse_num_candidate + 10 == int(current_verse_num) + 1:
+                        verse_num_candidate = int(current_verse_num) + 1
+                        stats.audit_events.append(
+                            {
+                                "type": "recovered_tens_digit_ocr_verse_label",
+                                "book": book_name,
+                                "chapter": current_chapter_num,
+                                "verse": current_verse_num,
+                                "text": block,
+                            }
+                        )
+                    else:
+                        stats.skipped_commentary_blocks += 1
+                        stats.audit_events.append(
+                            {
+                                "type": "skipped_nonincreasing_crossref",
+                                "book": book_name,
+                                "chapter": current_chapter_num,
+                                "verse": current_verse_num,
+                                "text": block,
+                            }
+                        )
+                        continue
             flush_verse()
-            current_verse_num = verse_match.group(2)
+            current_verse_num = str(verse_num_candidate)
             current_verse_parts = [verse_match.group(3)] if verse_match.group(3) else []
             continue
 

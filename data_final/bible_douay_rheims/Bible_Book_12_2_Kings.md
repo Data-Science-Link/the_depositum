@@ -91,6 +91,7 @@ format: markdown
 **16** And they said to him: Behold, there are with thy servants, fifty strong men, that can go, and seek thy master, lest, perhaps, the spirit of the Lord, hath taken him up and cast him upon some monntain, or into some valley. And he said: Do not send.  
 **17** But they pressed him, till he consented, and said: Send. And they sent fifty men: and they sought three days, but found him not.  
 **18** And they came back to him: for he abode at Jericho, and he said to them: Did I not say to you? Do not send.  
+**19** And the men of the city, said to Eliseus: Behold the situation of this city is very good, as thou, my lord, seest: but the waters are very bad, and the ground barren.  
 **20** And he said: Bring me a new vessel, and put salt into it. And when they had brought it,  
 **21** He went out to the spring of the waters, and cast the salt into it, and said: Thus saith the Lord: I have healed these waters, and there shall be no more in them death or barrenness.  
 **22** And the waters were healed unto this day, according to the word of Eliseus, which he spoke.  

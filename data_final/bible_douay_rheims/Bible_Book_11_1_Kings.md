@@ -745,7 +745,6 @@ format: markdown
 **16** The pot of meal wasted not, and the cruise of oil was not diminished according to the word of the Lord, which he spoke in the hand of Elias.  
 **17** And it came to pass after this, that the son of the woman, the mistress of the house, fell sick, and the sickness was very grievous, so that there was no breath left in him.  
 **18** And she said to Elias: What have I to do with thee, thou man of God? art thou come to me, that my iniquities should be remembered, and that thou shouldst kill my son?  
-**11** And Elias said to her: Give me thy son. And he took him out of her bosom, and carried him into the upper chamber where he abode, and laid him upon his own bed.  
 **20** And he cried to the Lord, and said: O Lord, my God, hast thou afflicted also the widow, with whom I am after a sort maintained, so as to kill her son?  
 **21** And he stretched, and measured himself upon the child three times, and cried to the Lord, and said: O Lord, my God, let the soul of this child, I beseech thee, return into his body.  
 **22** And the Lord heard the voice of Elias: and the soul of the child returned into him, and he revived.  

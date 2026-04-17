@@ -254,7 +254,7 @@ format: markdown
 **3** Have mercy on me, O Lord, for I am weak: heal me, O Lord, for my bones are troubled.  
 **4** And my soul is troubled exceedingly: but thou, O Lord, how long?  
 **5** Turn to me, O Lord, and deliver my soul: O save me for thy mercy's sake.  
-**5** For there is no one indeath, that is mindful of thee: and who shall confess to thee in hell?  
+**6** For there is no one indeath, that is mindful of thee: and who shall confess to thee in hell?  
 **7** I have laboured in my groanings, every night I will wash my bed: I will water my couch with my tears.  
 **8** My eye is troubled through indignation: I have grown old amongst all my enemies.  
 **9** Depart from em, all ye workers of iniquity: for the Lord hath heard the voice of my weeping.  
@@ -324,24 +324,13 @@ format: markdown
 **19** For the poor man shall not be forgotten to the end: the patience of the poor shall not perish for ever.  
 **20** Arise, O Lord, let not man be strengthened: let the Gentiles be judged in thy sight.  
 **21** Appoint, O Lord, a lawgiver over them: that the Gentiles may know themselves to be but men. (Psalm Chapter 10 according to the Hebrews.)  
-**1** Why, O Lord, hast thou retired afar off? why dost thou slight us in our wants, in the time of trouble?  
-**2** Whilst the wicked man is proud, the poor is set on fire: they are caught in the counsels which they devise.  
-**3** For the sinner is praised in the desires of his soul: and the unjust man is blessed.  
-**4** The sinner hath provoked the Lord, according to the multitude of his wrath, he will not seek him:  
-**5** God is not before his eyes: his ways are filthy at all times. Thy judgments are removed form his sight: he shall rule over all his enemies.  
-**6** For he hath said in his heart: I shall not be moved from generation to generation, and shall be without evil.  
-**7** His mouth is full of cursing, and of bitterness, and of deciet: under his tongue are labour and sorrow.  
-**8** He sitteth in ambush with the rich, in private places, that he may kill the innocent.  
-**9** His eyes are upon the poor man: he lieth in wait, in secret, like a lion in his den. He lieth in ambush, that he may catch the poor man: so catch the poor, whilst he draweth him to him.  
-**10** In his net he will bring him down, he will crouch and fall, when he shall have power over the poor.  
-**11** For he hath said in his heart: God hath forgotten, he hath turned away his face, not to see to the end.  
-**12** Arise, O Lord God, let thy hand be exalted: forget not the poor.  
-**13** Wherefore hath the wicked provoked God? for he hath said in his heart: He will not require it.  
-**14** Thou seest it, for thou considerest labour and sorrow: that thou mayst deliver them into thy hands. To thee is the poor man left: thou wilt be a helper to the orphan.  
-**15** Break thou the arm of the sinner and of the malignant: his sin shall be sought, and shall not be found.  
-**16** The Lord shall reign to eternity, yea, for ever and ever: ye Gentiles shall perish from his land.  
-**17** The Lord hath heard the desire of the poor: thy ear hath heard the preparatgion of their heart.  
-**18** To judge for the fatherless and for the humble, that man may no more presume to magnify himself upon earth.  
+**22** Arise, O Lord God, let thy hand be exalted: forget not the poor.  
+**23** Wherefore hath the wicked provoked God? for he hath said in his heart: He will not require it.  
+**24** Thou seest it, for thou considerest labour and sorrow: that thou mayst deliver them into thy hands. To thee is the poor man left: thou wilt be a helper to the orphan.  
+**25** Break thou the arm of the sinner and of the malignant: his sin shall be sought, and shall not be found.  
+**26** The Lord shall reign to eternity, yea, for ever and ever: ye Gentiles shall perish from his land.  
+**27** The Lord hath heard the desire of the poor: thy ear hath heard the preparatgion of their heart.  
+**28** To judge for the fatherless and for the humble, that man may no more presume to magnify himself upon earth.  
 
 ---
 

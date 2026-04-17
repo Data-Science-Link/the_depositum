@@ -289,7 +289,7 @@ format: markdown
 **2** But one of them, who was the eldest, said thus: What wouldst thou ask, or learn of us? we are ready to die, rather than to transgress the laws of God, received from our fathers.  
 **3** Then the king being angry, commanded fryingpans and brazen caldrons to be made hot: which forthwith being heated,  
 **4** He commanded to cut out the tongue of him that had spoken first: and the skin of his head being drawn off, to chop off also the extremities of his hands and feet, the rest of his brethren and his mother looking on.  
-**6** And when he was now maimed in all parts, he commanded him, being yet alive, to be brought to the fire, and to be fried in the fryingpan: and while he was suffering therein long torments, the rest, together with the mother, exhorted one another to die manfully,  
+**5** And when he was now maimed in all parts, he commanded him, being yet alive, to be brought to the fire, and to be fried in the fryingpan: and while he was suffering therein long torments, the rest, together with the mother, exhorted one another to die manfully,  
 **6** Saying: The Lord God will look upon the truth, and will take pleasure in us, as Moses declared in the profession of the canticle; And in his servants he will take pleasure.  
 **7** So when the first was dead after this manner, they brought the next to make him a mocking stock: and when they had pulled off the skin of his head with the hair, they asked him if he would eat, before he were punished throughout the whole body in every limb.  
 **8** But he answered in his own language, and said: I will not do it. Wherefore he also, in the next place, received the torments of the first:  
@@ -431,7 +431,7 @@ format: markdown
 **22** So he put these traitors to death, and forthwith took the two towers.  
 **23** And having good success in arms, and all things he took in hand, he slew more than twenty thousand in the two holds.  
 **24** But Timotheus, who before had been overcome by the Jews, having called together a multitude of foreign troops, and assembled horsemen out of Asia, came as though he would take Judea by force of arms.  
-**26** But Machabeus, and they that were with him, when he drew near, prayed to the Lord, sprinkling earth upon their heads, and girding their loins with haircloth,  
+**25** But Machabeus, and they that were with him, when he drew near, prayed to the Lord, sprinkling earth upon their heads, and girding their loins with haircloth,  
 **26** And lying prostrate at the foot of the altar, besought him to be merciful to them, and to be an enemy to their enemies, and an adversary to their adversaries, as the law saith.  
 **27** And so after prayer taking their arms, they went forth further from the city, and when they were come very near the enemies they rested.  
 **28** But as soon as the sun was risen both sides joined battle: the one part having, with their valour, the Lord for a surety of victory, and success: but the other side making their rage their leader in battle.  

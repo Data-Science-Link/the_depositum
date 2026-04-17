@@ -442,23 +442,23 @@ format: markdown
 **10** The just regardeth the lives of his beasts: but the bowels of the wicked are cruel.  
 **11** He that tilleth his land shall be satisfied with bread: but he that pursueth idleness is very foolish.  
 **12** He that is delighted in passing his time over wine, leaveth a reproach in his strong holds.  
-**12** The desire of the wicked is the fortification of evil men: but the root of the just shall prosper.  
-**13** For the sins of the lips ruin draweth nigh to the evil man: but the just shall escape out of distress.  
-**14** By the fruit of his own mouth shall a man be filled with good things, and according to the works of his hands it shall be repaid him.  
-**15** The way of a fool is right in his own eyes: but he that is wise hearkeneth unto counsels.  
-**16** A fool immediately sheweth his anger: but he that dissembleth injuries is wise.  
-**17** He that speaketh that which he knoweth, sheweth forth justice: but he that lieth, is a deceitful witness.  
-**18** There is that promiseth, and is pricked as it were with a sword of conscience: but the tongue of the wise is health.  
-**19** The lip of truth shall be steadfast for ever: but he that is a hasty witness, frameth a lying tongue.  
-**20** Deceit is in the heart of them that think evil things: but joy followeth them that take counsels of peace.  
-**21** Whatsoever shall befall the just man, shall not make him sad: but the wicked shall be filled with mischief.  
-**22** Lying lips are an abomination to the Lord: but they that deal faithfully, please him.  
-**23** A cautious man concealeth knowledge: and the heart of fools publisheth folly.  
-**24** The hand of the valiant shall bear rule: but that which is slothful shall be under tribute.  
-**25** Grief in the heart of a man shall bring him low, but with a good word he shall be made glad.  
-**26** He that neglecteth a loss for the sake of a friend, is just: but the way of the wicked shall deceive them.  
-**27** The deceitful man shall not find gain: but the substance of a just man shall be precious gold.  
-**28** In the path of justice is life: but the bye-way leadeth to death.  
+**13** The desire of the wicked is the fortification of evil men: but the root of the just shall prosper.  
+**14** For the sins of the lips ruin draweth nigh to the evil man: but the just shall escape out of distress.  
+**15** By the fruit of his own mouth shall a man be filled with good things, and according to the works of his hands it shall be repaid him.  
+**16** The way of a fool is right in his own eyes: but he that is wise hearkeneth unto counsels.  
+**17** A fool immediately sheweth his anger: but he that dissembleth injuries is wise.  
+**18** He that speaketh that which he knoweth, sheweth forth justice: but he that lieth, is a deceitful witness.  
+**19** There is that promiseth, and is pricked as it were with a sword of conscience: but the tongue of the wise is health.  
+**20** The lip of truth shall be steadfast for ever: but he that is a hasty witness, frameth a lying tongue.  
+**21** Deceit is in the heart of them that think evil things: but joy followeth them that take counsels of peace.  
+**22** Whatsoever shall befall the just man, shall not make him sad: but the wicked shall be filled with mischief.  
+**23** Lying lips are an abomination to the Lord: but they that deal faithfully, please him.  
+**24** A cautious man concealeth knowledge: and the heart of fools publisheth folly.  
+**25** The hand of the valiant shall bear rule: but that which is slothful shall be under tribute.  
+**26** Grief in the heart of a man shall bring him low, but with a good word he shall be made glad.  
+**27** He that neglecteth a loss for the sake of a friend, is just: but the way of the wicked shall deceive them.  
+**28** The deceitful man shall not find gain: but the substance of a just man shall be precious gold.  
+**29** In the path of justice is life: but the bye-way leadeth to death.  
 
 ---
 
@@ -1012,7 +1012,7 @@ format: markdown
 **22** A man that maketh haste to be rich, and envieth others, is ignorant that poverty shall come upon him.  
 **23** He that rebuketh a man, shall afterward find favour with him, more than he that by a flattering tongue deceiveth him.  
 **24** He that stealeth any thing from his father, or from his mother: and saith, This is no sin, is the partner of a murderer.  
-**26** He that boasteth and puffeth up himself, stirreth up quarrels: but he that trusteth in the Lord, shall be healed.  
+**25** He that boasteth and puffeth up himself, stirreth up quarrels: but he that trusteth in the Lord, shall be healed.  
 **26** He that trusteth in his own heart, is a fool: but he that walketh wisely, he shall be saved.  
 **27** He that giveth to the poor shall not want: he that despiseth his intreaty, shall suffer indigence.  
 **28** When the wicked rise up, men shall hide themselves: when they perish, the just shall be multiplied.  
@@ -1081,7 +1081,7 @@ format: markdown
 **26** The rabbit, a weak people, which maketh its bed in the rock:  
 **27** The locust hath no king, yet they all go out by their bands:  
 **28** The stellio supporteth itself on hands, and dwelleth in kings' houses.  
-**19** There are three things, which go well, and the fourth that walketh happily:  
+**29** There are three things, which go well, and the fourth that walketh happily:  
 **30** A lion, the strongest of beasts, who hath no fear of any thing he meeteth:  
 **31** A cock girded about the loins: and a ram: and a king, whom none can resist.  
 **32** There is that hath appeared a fool after he was lifted up on high: for if he had understood, he would have laid his hand upon his mouth.  
