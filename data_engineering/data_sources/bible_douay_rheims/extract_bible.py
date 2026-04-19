@@ -59,6 +59,9 @@ PG_ORDER_TO_CANON_INDEX: List[int] = (
 )
 
 VERSE_START_RE = re.compile(r"^(\d+):([0-9lI]+)\.\s*(.*)$")
+# PG #8300 sometimes omits "chapter:" after the first verses in a section, e.g. Neh. 3 uses
+# "4. ..." / "5. ..." instead of "3:4." / "3:5.". Only accept when consecutive (next verse).
+BARE_VERSE_ONLY_RE = re.compile(r"^([0-9lI]{1,3})\.\s+(.*)$")
 CHAPTER_HEADING_RE = re.compile(r"^(.+?)\s+Chapter\s+(\d+)\s*$")
 BRACKETED_RE = re.compile(r"\[[^\]]*\]")
 EMPHASIS_ASTERISKS_RE = re.compile(r"\*+([^*]+?)\*+")
@@ -302,6 +305,34 @@ def parse_book_chapters_from_html(
             current_verse_num = str(verse_num_candidate)
             current_verse_parts = [verse_match.group(3)] if verse_match.group(3) else []
             continue
+
+        bare_match = BARE_VERSE_ONLY_RE.match(block)
+        if bare_match and current_chapter_num is not None and current_verse_num is not None:
+            normalized_bare = bare_match.group(1).replace("l", "1").replace("I", "1")
+            bare_body = bare_match.group(2)
+            try:
+                bare_next = int(normalized_bare)
+            except ValueError:
+                bare_next = None
+            if bare_next is not None:
+                prev_n = int(current_verse_num)
+                if (
+                    bare_next == prev_n + 1
+                    and not _looks_like_challoner_commentary_paragraph(block)
+                ):
+                    flush_verse()
+                    current_verse_num = str(bare_next)
+                    current_verse_parts = [bare_body] if bare_body else []
+                    stats.audit_events.append(
+                        {
+                            "type": "bare_verse_label",
+                            "book": book_name,
+                            "chapter": current_chapter_num,
+                            "verse": current_verse_num,
+                            "text": block,
+                        }
+                    )
+                    continue
 
         if current_chapter_num is None:
             stats.skipped_preface_blocks += 1

@@ -1451,6 +1451,7 @@ format: markdown
 **27** And in the day that he goeth into the sanctuary, to the inner court, to minister unto me in the sanctuary, he shall offer for his sin, saith the Lord God.  
 **28** And they shall have no inheritance, I am their inheritance: neither shall you give them any possession in Israel, for I am their possession.  
 **29** They shall eat the victim both for sin and for trespass: and every vowed thing in Israel shall be theirs.  
+**30** And the firstfruits of all the firstborn, and all the libations of all things that are offered, shall be the priest's: and you shall give the firstfruits of your meats to the priest, that he may return a blessing upon thy house.  
 **31** The priests shall not eat of any thing that is dead of itself or caught by a beast, whether it be fowl or cattle.  
 
 ---

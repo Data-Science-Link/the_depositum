@@ -41,6 +41,19 @@ SAMPLE_HTML_LEV_COMMENTARY = """
 </body></html>
 """
 
+# PG sometimes uses "4." / "5." instead of "3:4." between full "chapter:verse." labels (see Nehemiah 3).
+SAMPLE_HTML_BARE_VERSES = """
+<html><body>
+<a id="Book01"></a>
+<p>X Chapter 3</p>
+<p>3:3. But the fish gate the sons of Asnaa built.</p>
+<p>4. And next to him built Mosollam the son of Barachias.</p>
+<p>5. And next to them the Thecuites built.</p>
+<p>3:6. And Joiada the son of Phasea built the old gate.</p>
+<a id="Book02"></a>
+</body></html>
+"""
+
 
 def test_iter_book_anchors_and_blocks() -> None:
     soup = eb.BeautifulSoup(SAMPLE_HTML, "html.parser")
@@ -85,6 +98,20 @@ def test_skips_challoner_note_after_comma_ended_verse() -> None:
     assert "sanctuary of heaven" not in text2
     assert "oracle" in text2
     assert stats.skipped_commentary_blocks >= 1
+
+
+def test_bare_verse_only_mid_chapter() -> None:
+    soup = eb.BeautifulSoup(SAMPLE_HTML_BARE_VERSES, "html.parser")
+    first = soup.find("a", id="Book01")
+    second = soup.find("a", id="Book02")
+    assert first is not None and second is not None
+    stats = eb.ParseStats()
+    chapters = eb.parse_book_chapters_from_html(first, second, stats, "Nehemiah")
+    assert len(chapters) == 1
+    _, verses = chapters[0]
+    assert [v[0] for v in verses] == ["3", "4", "5", "6"]
+    assert "Mosollam" in next(t for n, t in verses if n == "4")
+    assert any(e["type"] == "bare_verse_label" for e in stats.audit_events)
 
 
 def test_looks_like_challoner_commentary_paragraph() -> None:

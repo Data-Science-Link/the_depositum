@@ -160,6 +160,7 @@ format: markdown
 **6** Your glorying is not good. Know you not that a little leaven corrupteth the whole lump?  
 **7** Purge out the old leaven, that you may be a new paste, as you are unleavened. For Christ our pasch is sacrificed.  
 **8** Therefore, let us feast, not with the old leaven, nor with the leaven of malice and wickedness: but with the unleavened bread of sincerity and truth.  
+**9** I wrote to you in an epistle not to keep company with fornicators.  
 **10** I mean not with the fornicators of this world or with the covetous or the extortioners or the servers of idols: otherwise you must needs go out of this world.  
 **11** But now I have written to you, not to keep company, if any man that is named a brother be a fornicator or covetous or a server of idols or a railer or a drunkard or an extortioner: with such a one, not so much as to eat.  
 **12** For what have I to do to judge them that are without? Do not you judge them that are within?  
