@@ -661,7 +661,9 @@ def _source_book_chapters(raw_html_path: Path) -> List[Dict[int, Dict[int, str]]
         stats = html_parser.ParseStats()
         current = anchors[pg_idx]
         nxt = anchors[pg_idx + 1] if pg_idx + 1 < len(anchors) else None
-        chapters_raw = html_parser.parse_book_chapters_from_html(current, nxt, stats, f"PGBook{pg_idx+1}")
+        canon_idx = html_parser.PG_ORDER_TO_CANON_INDEX[pg_idx]
+        book_name = str(CATHOLIC_BIBLE_CANON[canon_idx]["name"])
+        chapters_raw = html_parser.parse_book_chapters_from_html(current, nxt, stats, book_name)
         chapter_map: Dict[int, Dict[int, str]] = {}
         for ch_num, verses in chapters_raw:
             chapter_map[ch_num] = {int(vnum): vtext for vnum, vtext in verses}

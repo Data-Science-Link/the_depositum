@@ -2973,7 +2973,7 @@ format: markdown
 
 ## Chapter 121
 
-**1** A gradual canticle.  
+**1** A gradual canticle. I rejoiced at the things that were said to me: We shall go into the house of the Lord.  
 **2** Our feet were standing in thy courts, O Jerusalem.  
 **3** Jerusalem, which is built as a city, which is compact together.  
 **4** For thither did the tribes go up, the tribes of the Lord: the testimony of Israel, to praise the name of the Lord.  

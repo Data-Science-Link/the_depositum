@@ -54,6 +54,29 @@ SAMPLE_HTML_BARE_VERSES = """
 </body></html>
 """
 
+# Missing "Chapter 2" heading; next verse is only labeled 2:1.
+SAMPLE_HTML_IMPLICIT_CHAPTER = """
+<html><body>
+<a id="Book01"></a>
+<p>X Chapter 1</p>
+<p>1:40. Last verse of chapter one.</p>
+<p>2:1. First verse of chapter two without heading.</p>
+<a id="Book02"></a>
+</body></html>
+"""
+
+# Psalm title in 121:1., verse body in following <p> (PG #8300 pattern).
+SAMPLE_HTML_PSALM_TITLE = """
+<html><body>
+<a id="Book01"></a>
+<p>Psalms Chapter 121</p>
+<p>121:1. A gradual canticle.</p>
+<p>I rejoiced at the things that were said to me: We shall go into the house of the Lord.</p>
+<p>121:2. Our feet were standing in thy courts, O Jerusalem.</p>
+<a id="Book02"></a>
+</body></html>
+"""
+
 
 def test_iter_book_anchors_and_blocks() -> None:
     soup = eb.BeautifulSoup(SAMPLE_HTML, "html.parser")
@@ -100,6 +123,29 @@ def test_skips_challoner_note_after_comma_ended_verse() -> None:
     assert stats.skipped_commentary_blocks >= 1
 
 
+def test_implicit_chapter_heading_from_verse_label() -> None:
+    soup = eb.BeautifulSoup(SAMPLE_HTML_IMPLICIT_CHAPTER, "html.parser")
+    first = soup.find("a", id="Book01")
+    second = soup.find("a", id="Book02")
+    stats = eb.ParseStats()
+    chapters = eb.parse_book_chapters_from_html(first, second, stats, "TestBook")
+    assert [(c[0], [v[0] for v in c[1]]) for c in chapters] == [(1, ["40"]), (2, ["1"])]
+    assert any(e["type"] == "recovered_implicit_chapter_heading" for e in stats.audit_events)
+
+
+def test_psalms_superscription_merged_into_verse_one() -> None:
+    soup = eb.BeautifulSoup(SAMPLE_HTML_PSALM_TITLE, "html.parser")
+    first = soup.find("a", id="Book01")
+    second = soup.find("a", id="Book02")
+    stats = eb.ParseStats()
+    chapters = eb.parse_book_chapters_from_html(first, second, stats, "Psalms")
+    ch121 = next(c for c in chapters if c[0] == 121)
+    v1 = next(t for n, t in ch121[1] if n == "1")
+    assert "gradual canticle" in v1.lower()
+    assert "I rejoiced" in v1
+    assert "house of the Lord" in v1
+
+
 def test_bare_verse_only_mid_chapter() -> None:
     soup = eb.BeautifulSoup(SAMPLE_HTML_BARE_VERSES, "html.parser")
     first = soup.find("a", id="Book01")
@@ -117,6 +163,9 @@ def test_bare_verse_only_mid_chapter() -> None:
 def test_looks_like_challoner_commentary_paragraph() -> None:
     assert eb._looks_like_challoner_commentary_paragraph(
         "Enter not... No one but the high priest."
+    )
+    assert eb._looks_like_challoner_commentary_paragraph(
+        "All scripture,... Every part of divine scripture is certainly profitable."
     )
     assert not eb._looks_like_challoner_commentary_paragraph(
         "and darkness was upon the face of the deep."

@@ -69,6 +69,8 @@ EMPHASIS_ASTERISKS_RE = re.compile(r"\*+([^*]+?)\*+")
 # They almost always begin with a short quotation from the verse (opening words) and an
 # ellipsis before the explanatory sentence, e.g. "Enter not... No one but...".
 CHALLONER_NOTE_LEAD_RE = re.compile(r"^[^\n.]{1,200}\.\.\.")
+# Marginal notes that quote the verse with "Word,... rest of gloss" (comma + ellipsis).
+CHALLONER_COMMA_ELLIPSIS_RE = re.compile(r"^[^\n]{1,150},\.\.\.")
 
 
 class ParseStats:
@@ -82,6 +84,9 @@ class ParseStats:
 def sanitize_verse_text(text: str) -> str:
     s = BRACKETED_RE.sub("", text)
     s = EMPHASIS_ASTERISKS_RE.sub(r"\1", s)
+    # If a marginal gloss replay was concatenated into the verse, drop common tails (PG + DRBO QC).
+    s = re.sub(r"\s+\d{1,3}\.\s+all\s+scripture\b.*$", "", s, flags=re.I)
+    s = re.sub(r"\s+\d{1,3}\.\s+the\s+graves\s+of\s+lust\b.*$", "", s, flags=re.I)
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
@@ -91,14 +96,51 @@ def _looks_like_challoner_commentary_paragraph(block: str) -> bool:
     s = block.strip()
     if not s:
         return False
-    return bool(CHALLONER_NOTE_LEAD_RE.match(s))
+    if CHALLONER_NOTE_LEAD_RE.match(s):
+        return True
+    if CHALLONER_COMMA_ELLIPSIS_RE.match(s):
+        return True
+    return False
 
 
-def _is_continuation_block(block: str, current_parts: List[str]) -> bool:
+def _is_psalm_superscription_only_chunk(chunk: str) -> bool:
+    """True when verse 1 text is only a title line and the body is in the next <p> (PG #8300)."""
+    t = chunk.strip()
+    if len(t) > 220:
+        return False
+    if re.search(
+        r"(?i)\b(canticle|instruction|maskil|maschil|degrees|title|for david|"
+        r"chief musician|song of|praise of a canticle|understanding for)\b",
+        t,
+    ):
+        return True
+    if re.match(r"(?i)^a\s+gradual\s+canticle\.?$", t):
+        return True
+    # Short clause-only openings used as headings before the body paragraph.
+    return len(t) < 90 and t.endswith(".")
+
+
+def _is_continuation_block(
+    block: str,
+    current_parts: List[str],
+    book_name: str,
+    current_verse_num: Optional[str],
+) -> bool:
     if not block:
         return False
     if _looks_like_challoner_commentary_paragraph(block):
         return False
+    # Psalms: PG often puts only the superscription in 121:1., with verse body in the next <p>.
+    if (
+        book_name == "Psalms"
+        and current_verse_num == "1"
+        and current_parts
+        and not VERSE_START_RE.match(block)
+        and not BARE_VERSE_ONLY_RE.match(block)
+    ):
+        chunk = " ".join(current_parts).strip()
+        if _is_psalm_superscription_only_chunk(chunk) and block[0].isupper():
+            return True
     first = block[0]
     if first in "\"'(":
         return True
@@ -240,18 +282,35 @@ def parse_book_chapters_from_html(
                     }
                 )
             if verse_chapter_num != current_chapter_num:
-                # Commentary blocks sometimes cite c:v references from elsewhere.
-                stats.skipped_commentary_blocks += 1
-                stats.audit_events.append(
-                    {
-                        "type": "skipped_crossref_paragraph",
-                        "book": book_name,
-                        "chapter": current_chapter_num,
-                        "verse": current_verse_num,
-                        "text": block,
-                    }
-                )
-                continue
+                # Missing chapter heading in PG: next section starts with "32:1." while still on ch 31.
+                if verse_chapter_num > current_chapter_num and verse_num_candidate == 1:
+                    flush_verse()
+                    if current_chapter_num is not None and current_chapter_verses:
+                        chapters.append((current_chapter_num, current_chapter_verses.copy()))
+                    current_chapter_verses = []
+                    current_chapter_num = verse_chapter_num
+                    stats.audit_events.append(
+                        {
+                            "type": "recovered_implicit_chapter_heading",
+                            "book": book_name,
+                            "chapter": current_chapter_num,
+                            "verse": current_verse_num,
+                            "text": block,
+                        }
+                    )
+                else:
+                    # Commentary blocks sometimes cite c:v references from elsewhere.
+                    stats.skipped_commentary_blocks += 1
+                    stats.audit_events.append(
+                        {
+                            "type": "skipped_crossref_paragraph",
+                            "book": book_name,
+                            "chapter": current_chapter_num,
+                            "verse": current_verse_num,
+                            "text": block,
+                        }
+                    )
+                    continue
             if current_verse_num is not None and verse_num_candidate <= int(current_verse_num):
                 # Gutenberg occasionally repeats a verse label by mistake (e.g., 2:3 then 2:3
                 # where the second is contextually verse 4). If it's exactly repeated, recover
@@ -360,7 +419,9 @@ def parse_book_chapters_from_html(
             )
             continue
 
-        if _is_continuation_block(block, current_verse_parts):
+        if _is_continuation_block(
+            block, current_verse_parts, book_name, current_verse_num
+        ):
             current_verse_parts.append(block)
             stats.joined_continuation_blocks += 1
             stats.audit_events.append(
