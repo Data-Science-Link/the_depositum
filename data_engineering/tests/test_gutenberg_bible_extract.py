@@ -180,9 +180,13 @@ def test_sanitize_verse_text() -> None:
 
 
 def test_find_all_book_anchors_full_file() -> None:
-    raw = Path("data_engineering/data_sources/bible_douay_rheims/raw/pg8300.html")
+    raw_adjusted = Path(
+        "data_engineering/data_sources/bible_douay_rheims/raw/pg8300_adjusted.html"
+    )
+    raw_plain = Path("data_engineering/data_sources/bible_douay_rheims/raw/pg8300.html")
+    raw = raw_adjusted if raw_adjusted.is_file() else raw_plain
     if not raw.is_file():
-        pytest.skip("pg8300.html not present")
+        pytest.skip("pg8300_adjusted.html or pg8300.html not present")
     soup = eb.BeautifulSoup(raw.read_text(encoding="utf-8"), "html.parser")
     anchors = eb._iter_book_anchors(soup)
     assert len(anchors) == 73

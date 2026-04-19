@@ -45,7 +45,9 @@ try:
     OUTPUT_DIR = PROJECT_ROOT / _cfg["paths"]["final_output"]["douay_rheims"]
 except (OSError, yaml.YAMLError, KeyError, TypeError) as e:
     logger.warning("Could not load pipeline config, using defaults: %s", e)
-    RAW_HTML_PATH = PROJECT_ROOT / "data_engineering/data_sources/bible_douay_rheims/raw/pg8300.html"
+    RAW_HTML_PATH = PROJECT_ROOT / (
+        "data_engineering/data_sources/bible_douay_rheims/raw/pg8300_adjusted.html"
+    )
     OUTPUT_DIR = PROJECT_ROOT / "data_final/bible_douay_rheims"
 
 # PG #8300 HTML order differs from Catholic canonical filename order for Job/Maccabees.
@@ -657,7 +659,12 @@ if __name__ == "__main__":
         default=None,
         help="With --test: limit chapters per book (default 3; 0 = all chapters)",
     )
-    parser.add_argument("--raw", type=Path, default=None, help="Override path to pg8300.html")
+    parser.add_argument(
+        "--raw",
+        type=Path,
+        default=None,
+        help="Override path to pg8300_adjusted.html / pg8300.html",
+    )
     parser.add_argument("--output", type=Path, default=None, help="Override output directory")
     parser.add_argument(
         "--audit-log",

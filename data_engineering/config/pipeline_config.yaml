@@ -12,7 +12,8 @@ api:
 # File Paths
 paths:
   raw_data:
-    douay_rheims: "data_engineering/data_sources/bible_douay_rheims/raw/pg8300.html"
+    # Use pg8300_adjusted.html for minor editorial fixes (see raw/README.md); pristine PG is pg8300.html.
+    douay_rheims: "data_engineering/data_sources/bible_douay_rheims/raw/pg8300_adjusted.html"
     haydock: "data_engineering/data_sources/bible_commentary_haydock/Haydock Catholic Bible Comment - Haydock, George Leo_3948.epub"
     catechism: "data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf"
 
