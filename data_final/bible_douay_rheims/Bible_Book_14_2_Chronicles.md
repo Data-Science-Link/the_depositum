@@ -897,27 +897,39 @@ format: markdown
 
 ## Chapter 32
 
-**1** And when these things had been duly celebrated, all Israel that were found in the cities of Juda, went out, and they broke the idols, and cut down the groves, demolished the high places, and destroyed the altars, not only out of all Juda and Benjamin, but out of Ephraim also and Manasses, till they had utterly destroyed them: then all the children of Israel returned to their possessions and cities.  
-**2** And Ezechias appointed companies of the priests, and the Levites, by their courses, every man in his own office, to wit, both of the priests, and of the Levites, for holocausts, and for peace offerings, to minister, and to praise, and to sing in the gates of the camp of the Lord.  
-**3** And the king's part was, that of his proper substance the holocaust should be offered always morning and evening, and on the sabbaths, and the new moons and the other solemnities, as it is written in the law of Moses.  
-**4** He commanded also the people that dwelt in Jerusalem, to give to the priests, and the Levites their portion, that they might attend to the law of the Lord.  
-**5** Which when it was noised abroad in the ears of the people, the children of Israel offered in abundance the firstfruits of corn, wine, and oil, and honey: and brought the tithe of all things which the ground bringeth forth.  
-**6** Moreover the children of Israel and Juda, that dwelt in the cities of Juda, brought in the tithes of oxen, and sheep, and the tithes of holy things, which they had vowed to the Lord their God: and carrying them all, made many heaps.  
-**7** In the third month they began to lay the foundations of the heaps, and in the seventh month, they finished them.  
-**8** And when Ezechias and his princes came in, they saw the heaps, and they blessed the Lord and the people of Israel.  
-**9** And Ezechias asked the priests and the Levites, why the heaps lay so.  
-**10** Azarias the chief priest of the race of Sadoc answered him, saying: Since the firstfruits began to be offered in the house of the Lord, we have eaten, and have been filled, and abundance is left, because the Lord hath blessed his people: and of that which is left is this great store which thou seest.  
-**11** Then Ezechias commanded to prepare storehouses in the house of the Lord. And when they had done so,  
-**12** They brought in faithfully both the firstfruits, and the tithes, and all they had vowed. And the overseer of them was Chonenias the Levite, and Semei his brother was the second,  
-**13** And after him Jehiel, and Azarias, and Nahath, and Asael, and Jerimoth, and Jozabad, and Eliel, and Jesmachias, and Mahath, and Banaias, overseers under the hand of Chonenias, and Semei his brother, by the commandment of Ezechias the king, and Azarias the high priest of the house of God, to whom all things appertained.  
-**14** But Core the son of Jemna the Levite, the porter of the east gate, was overseer of the things which were freely offered to the Lord, and of the firstfruits and the things dedicated for the holy of holies.  
-**15** And under his charge were Eden, and Benjamin, Jesue, and Semeias, and Amarias, and Sechenias, in the cities of the priests, to distribute faithfully portions to their brethren, both little and great:  
-**16** Besides the males from three years old and upward, to all that went into the temple of the Lord, and whatsoever there was need of in the ministry, and their offices according to their courses, day by day.  
-**17** To the priests by their families, and to the Levites from the twentieth year and upward, by their classes and companies.  
-**18** And to all the multitude, both to their wives, and to their children of both sexes, victuals were given faithfully out of the things that had been sanctified.  
-**19** Also of the sons of Aaron who were in the fields and in the suburbs of each city, there were men appointed, to distribute portions to all the males, among the priests and the Levites.  
-**20** So Ezechias did all things which we have said in all Juda, and wrought that which was good, and right, and truth, before the Lord his God,  
-**21** In all the service of the house of the Lord according to the law and the ceremonies, desiring to seek his God with all his heart, and he did it and prospered.  
+**1** After these things, and this truth, Sennacherib king of the Assyrians came and entered into Juda, and besieged the fenced cities, desiring to take them.  
+**2** And when Ezechias saw that Sennacherib was come, and that the whole force of the war was turning against Jerusalem,  
+**3** He took counsel with the princes, and the most valiant men, to stop up the heads of the springs, that were without the city: and as they were all of this mind,  
+**4** He gathered together a very great multitude, and they stopped up all the springs, and the brook, that ran through the midst of the land, saying: Lest the kings of the Assyrians should come, and find abundance of water.  
+**5** He built up also with great diligence all the wall that had been broken down, and built towers upon it, and another wall without: and he repaired Mello in the city of David, and made all sorts of arms and shields:  
+**6** And he appointed captains of the soldiers of the army: and he called them all together in the street of the gate of the city, and spoke to their heart, saying:  
+**7** Behave like men, and take courage: be not afraid nor dismayed for the king of the Assyrians, nor for all the multitude that is with him: for there are many more with us than with him.  
+**8** For with him is an arm of flesh: with us the Lord our God, who is our helper, and fighteth for us. And the people were encouraged with these words of Ezechias king of Juda.  
+**9** After this, Sennacherib king of the Assyrians sent his servants to Jerusalem, (for he with all his army was besieging Lachis,) to Ezechias king of Juda, and to all the people that were in the city, saying:  
+**10** Thus saith Sennacherib king of the Assyrians: In whom do you trust, that you sit still besieged in Jerusalem?  
+**11** Doth not Ezechias deceive you, to give you up to die by hunger and thirst, affirming that the Lord your God shall deliver you from the hand of the king of the Assyrians?  
+**12** Is it not this same Ezechias, that hath destroyed his high places, and his altars, and commanded Juda and Jerusalem, saying: You shall worship before one altar, and upon it you shall burn incense?  
+**13** Know you not what I and my fathers have done to all the people of the lands? have the gods of any nations and lands been able to deliver their country out of my hand?  
+**14** Who is there among all the gods of the nations, which my fathers have destroyed, that could deliver his people out of my hand, that your God should be able to deliver you out of this hand?  
+**15** Therefore let not Ezechias deceive you, nor delude you with a vain persuasion, and do not believe him. For if no god of all the nations and kingdoms, could deliver his people out of my hand, and out of the hand of my fathers, consequently neither shall your God be able to deliver you out of my hand.  
+**16** And many other things did his servants speak against the Lord God, and against Ezechias his servant.  
+**17** He wrote also letters full of blasphemy against the Lord the God of Israel, and he spoke against him: As the gods of other nations could not deliver their people out of my hand, so neither can the God of Ezechias deliver his people out of this hand.  
+**18** Moreover he cried out with a loud voice, in the Jews' tongue, to the people that sat on the walls of Jerusalem, that he might frighten them, and take the city.  
+**19** And he spoke against the God of Jerusalem, as against the gods of the people of the earth, the works of the hands of men.  
+**20** And Ezechias the king, and Isaias the prophet the son of Amos, prayed against this blasphemy, and cried out to heaven.  
+**21** And the Lord sent an angel who cut off all the stout men and the warriors, and the captains of the army of the king of the Assyrians: and he returned with disgrace into his own country. And when he was come into the house of his god, his sons that came out of his bowels, slew him with the sword.  
+**22** And the Lord saved Ezechias and the inhabitants of Jerusalem, out of the hand of Sennacherib king of the Assyrians, and out of the hand of all, and gave them treasures on every side.  
+**23** Many also brought victims, and sacrifices to the Lord to Jerusalem, and presents to Ezechias king of Juda: and he was magnified thenceforth in the sight of all nations.  
+**24** In those days Ezechias was sick even to death, and he prayed to the Lord: and he heard him, and gave him a sign.  
+**25** But he did not render again according to the benefits which he had received, for his heart was lifted up: and wrath was enkindled against him, and against Juda and Jerusalem.  
+**26** And he humbled himself afterwards, because his heart had been lifted up, both he and the inhabitants of Jerusalem: and therefore the wrath of the Lord came not upon them in the days of Ezechias.  
+**27** And Ezechias was rich, and very glorious, and he gathered himself great treasures of silver and of gold, and of precious stones, of spices, and of arms, of all kinds, and of vessels of great price.  
+**28** Storehouses also of corn, of wine, and of oil, and stalls for all beasts, and folds for cattle.  
+**29** And he built himself cities: for he had flocks of sheep, and herds without number, for the Lord had given him very much substance.  
+**30** This same Ezechias was, he that stopped the upper source of the waters of Gihon, and turned them away underneath toward the west of the city of David: in all his works he did prosperously what he would.  
+**31** But yet in the embassy of the princes of Babylon, that were sent to him, to inquire of the wonder that had happened upon the earth, God left him that he might be tempted, and all things might be made known that were in his heart.  
+**32** Now the rest of the acts of Ezechias, and of his mercies are written in the book of the kings of Juda and Israel.  
+**33** And Ezechias slept with his fathers, and they buried him above the sepulchres of the sons of David: and all Juda, and all the inhabitants of Jerusalem celebrated his funeral: and Manasses his son reigned in his stead.  
 
 ---
 
