@@ -213,7 +213,7 @@ format: markdown
 **20** He added this also above all and shut up John in prison.  
 **21** Now it came to pass, when all the people were baptized, that Jesus also being baptized and praying, heaven was opened.  
 **22** And the Holy Ghost descended in a bodily shape, as a dove, upon him. And a voice came from heaven: Thou art my beloved Son. In thee I am well pleased.  
-**23** And Jesus himself was beginning about the age of thirty years: being (as it was supposed) the son of Joseph, who was of Heli, who was of Mathat, Who was of Heli... St. Joseph, who by nature was the son of Jacob, (St. Matt. 1. 16,) in the account of the law, was son of Heli. For Heli and Jacob were brothers, by the same mother; and Heli, who was the elder, dying without issue, Jacob, as the law directed, married his widow: in consequence of such marriage, his son Joseph was reputed in the law the son of Heli.  
+**23** And Jesus himself was beginning about the age of thirty years: being (as it was supposed) the son of Joseph, who was of Heli, who was of Mathat,  
 **24** Who was of Levi, who was of Melchi. who was of Janne, who was of Joseph,  
 **25** Who was of Mathathias, who was of Amos, who was of Nahum, who was of Hesli, who was of Nagge,  
 **26** Who was of Mahath, who was of Mathathias, who was of Semei, who was of Joseph, who was of Juda,  

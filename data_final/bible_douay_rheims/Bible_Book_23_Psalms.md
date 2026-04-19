@@ -973,7 +973,7 @@ format: markdown
 **13** For evils without number have surrounded me; my iniquities have overtaken me, and I was not able to see. They are multiplied above the hairs of my head: and my heart hath forsaken me.  
 **14** Be pleased, O Lord, to deliver me. Look down, O Lord, to help me.  
 **15** Let them be confounded and ashamed together, that seek after my soul to take it away. Let them be turned backward and be ashamed that desire evils to me.  
-**16** Let them immediately bear their confusion, that say to me: 'T is well, t' is well. 'T is well... The Hebrew here is an interjection of insult and derision, like the Vah. Matt. 27.49.  
+**16** Let them immediately bear their confusion, that say to me: 'T is well, t' is well.  
 **17** Let all that seek thee rejoice and be glad in thee: and let such as love thy salvation say always: The Lord be magnified.  
 **18** But I am a beggar and poor: the Lord is careful for me. Thou art my helper and my protector: O my God, be not slack.  
 
@@ -1140,9 +1140,9 @@ format: markdown
 **4** My mouth shall speak wisdom: and the meditation of my heart understanding.  
 **5** I will incline my ear to a parable; I will open my proposition on the psaltery.  
 **6** Why shall I fear in the evil day? the iniquity of my heel shall encompass me.  
-**7** They that trust in their own strength, and glory in the multitude of their riches, They that trust, etc... As much as to say, let them fear that trust in their strength or riches: for they have great reason to fear: seeing no brother or other man, how much a friend soever, can by any price or labour rescue them from death.  
+**7** They that trust in their own strength, and glory in the multitude of their riches,  
 **8** No brother can redeem, nor shall man redeem: he shall not give to God his ransom,  
-**9** Nor the price of the redemption of his soul: and shall labour for ever, And shall labour for ever, etc... This seems to be a continuation of the foregoing sentence: as much as to say no man can by any price or ransom prolong his life, that so he may still continue to labour here, and live to the end of the world. Others understand it of the eternal sorrows, and dying life of hell, which is the dreadful consequence of dying in sin.  
+**9** Nor the price of the redemption of his soul: and shall labour for ever,  
 **10** And shall still live unto the end.  
 **11** He shall not see destruction, when he shall see the wise dying: the senseless and the fool shall perish together: And they shall leave their riches to strangers:  
 **12** And their sepulchres shall be their houses for ever. Their dwelling places to all generations: they have called their lands by their names.  
@@ -1292,7 +1292,7 @@ format: markdown
 **5** In God I will praise my words, in God I have put my trust: I will not fear what flesh can do against me.  
 **6** All the day long they detested my words: all their thoughts were against me unto evil.  
 **7** They will dwell and hide themselves: they will watch my heel. As they have waited for my soul,  
-**8** For nothing shalt thou save them: in thy anger thou shalt break the people in pieces. O God, For nothing shalt thou save them... That is, since they lie in wait to ruin my soul, thou shalt for no consideration favour or assist them, but execute thy justice upon them.  
+**8** For nothing shalt thou save them: in thy anger thou shalt break the people in pieces. O God,  
 **9** I have declared to thee my life: thou hast set me tears in thy sight, As also in thy promise.  
 **10** Then shall my enemies be turned back. In what day soever I shall call upon thee, behold I know thou art my God.  
 **11** In God will I praise the word, in the Lord will I praise his speech. In God have I hoped, I will not fear what man can do to me.  
@@ -1303,7 +1303,7 @@ format: markdown
 
 ## Chapter 56
 
-**1** Unto the end, destroy not, for David, for an inscription of a title, when he fled from Saul into the cave. Destroy not... Suffer me not to be destroyed.  
+**1** Unto the end, destroy not, for David, for an inscription of a title, when he fled from Saul into the cave.  
 **2** Have mercy on me, O God, have mercy on me: for my soul trusteth in thee. And in the shadow of thy wings will I hope, until iniquity pass away.  
 **3** I will cry to God the most high; to God who hath done good to me.  
 **4** He hath sent from heaven and delivered me: he hath made them a reproach that trod upon me. God hath sent his mercy and his truth,  
@@ -1505,7 +1505,7 @@ format: markdown
 **2** Let God arise, and let his enemies be scattered: and let them that hate him flee from before his face.  
 **3** As smoke vanisheth, so let them vanish away: as wax melteth before the fire, so let the wicked perish at the presence of God.  
 **4** And let the just feast, and rejoice before God: and be delighted with gladness.  
-**5** Sing ye to God, sing a psalm to his name, make a way for him who ascendeth upon the west: the Lord is his name. Rejoice ye before him: but the wicked shall be troubled at his presence, Who ascendeth upon the west... Super occasum. St. Gregory understands it of Christ, who after his going down, like the sun, in the west, by his passion and death, ascended more glorious, and carried all before him. St. Jerome renders it, who ascendeth, or cometh up, through the deserts.  
+**5** Sing ye to God, sing a psalm to his name, make a way for him who ascendeth upon the west: the Lord is his name. Rejoice ye before him: but the wicked shall be troubled at his presence,  
 **6** Who is the father of orphans, and the judge of widows. God in his holy place:  
 **7** God who maketh men of one manner to dwell in a house: Who bringeth out them that were bound in strength; in like manner them that provoke, that dwell in sepulchres.  
 **8** O God, when thou didst go forth in the sight of thy people, when thou didst pass through the desert:  
@@ -1587,7 +1587,7 @@ format: markdown
 **1** Unto the end, a psalm for David, to bring to remembrance that the Lord saved him.  
 **2** O God, come to my assistance; O Lord, make haste to help me.  
 **3** Let them be confounded and ashamed that seek my soul:  
-**4** Let them be turned backward, and blush for shame that desire evils to me: Let them be presently turned away blushing for shame that say to me: 'Tis well, 'tis well. 'T is well, 't is well... Euge, euge. St. Jerome renders it, vah, vah! which is the voice of one insulting and deriding. Some understand it as a detestation of deceitful flatterers.  
+**4** Let them be turned backward, and blush for shame that desire evils to me: Let them be presently turned away blushing for shame that say to me: 'Tis well, 'tis well.  
 **5** Let all that seek thee rejoice and be glad in thee; and let such as love thy salvation say always: The Lord be magnified.  
 **6** But I am needy and poor; O God, help me. Thou art my helper and my deliverer: O lord, make no delay.  
 
@@ -1609,7 +1609,7 @@ format: markdown
 **12** O God, be not thou far from me: O my God, make haste to my help.  
 **13** Let them be confounded and come to nothing that detract my soul; let them be covered with confusion and blame that seek my hurt.  
 **14** But I will always hope; and will add to all thy praise.  
-**15** My mouth shall shew forth thy justice; thy salvation all the day long. Because I have not known learning, Learning... As much as to say, I build not upon human learning, but only on the power and justice of God.  
+**15** My mouth shall shew forth thy justice; thy salvation all the day long. Because I have not known learning,  
 **16** I will enter into the powers of the Lord: O Lord, I will be mindful of thy justice alone.  
 **17** Thou hast taught me, O God, from my youth: and till now I will declare thy wonderful works.  
 **18** And unto old age and grey hairs: O God, forsake me not, Until I shew forth thy arm to all the generation that is to come: Thy power,  
@@ -1685,7 +1685,7 @@ format: markdown
 **1** Understanding for Asaph. O God, why hast thou cast us off unto the end: why is thy wrath enkindled against the sheep of thy pasture?  
 **2** Remember thy congregation, which thou hast possessed from the beginning. The sceptre of thy inheritance which thou hast redeemed: mount Sion in which thou hast dwelt.  
 **3** Lift up thy hands against their pride unto the end; see what things the enemy hath done wickedly in the sanctuary.  
-**4** And they that hate thee have made their boasts, in the midst of thy solemnity. They have set up their ensigns for signs, Their ensigns, etc... They have fixed their colours for signs and trophies, both on the gates, and on the highest top of the temple: and they knew not, that is, they regarded not the sanctity of the place. This psalm manifestly foretells the time of the Machabees, and the profanation of the temple by Antiochus.  
+**4** And they that hate thee have made their boasts, in the midst of thy solemnity. They have set up their ensigns for signs,  
 **5** And they knew not both in the going out and on the highest top. As with axes in a wood of trees,  
 **6** They have cut down at once the gates thereof, with axe and hatchet they have brought it down.  
 **7** They have set fire to thy sanctuary: they have defiled the dwelling place of thy name on the earth.  
@@ -1953,7 +1953,7 @@ format: markdown
 **3** my soul longeth and fainteth for the courts of the Lord. My heart and my flesh have rejoiced in the living God.  
 **4** For the sparrow hath found herself a house, and the turtle a nest for herself where she may lay her young ones: Thy altars, O Lord of hosts, my king and my God.  
 **5** Blessed are they that dwell in thy house, O Lord: they shall praise thee for ever and ever.  
-**6** Blessed is the man whose help is from thee: in his heart he hath disposed to ascend by steps, In his heart he hath disposed to ascend by steps, etc... Ascensiones in corde suo disposuit. As by steps men ascended to the temple of God situated on a hill; so the good Christian ascends towards the eternal temple by certain steps of virtue disposed or ordered within the heart: and this whilst he lives as yet in the body, in this vale of tears, the place which man hath set: that is, which he hath brought himself to: being cast out of paradise for his sin.  
+**6** Blessed is the man whose help is from thee: in his heart he hath disposed to ascend by steps,  
 **7** In the vale of tears, in the place which he hath set.  
 **8** For the lawgiver shall give a blessing, they shall go from virtue to virtue: the God of gods shall be seen in Sion.  
 **9** O Lord God of hosts, hear my prayer: give ear, O God of Jacob.  
@@ -3032,7 +3032,7 @@ format: markdown
 ## Chapter 126
 
 **1** A gradual canticle of Solomon. Unless the Lord build the house, they labour in vain that build it. Unless the Lord keep the city, he watcheth in vain that keepeth it.  
-**2** It is vain for you to rise before light, rise ye after you have sitten, you that eat the bread of sorrow. When he shall give sleep to his beloved, It is vain for you to rise before light... That is, your early rising, your labour and worldly solicitude, will be vain, that is, will avail you nothing, without the light, grace, and blessing of God.  
+**2** It is vain for you to rise before light, rise ye after you have sitten, you that eat the bread of sorrow. When he shall give sleep to his beloved,  
 **3** Behold the inheritance of the Lord are children: the reward, the fruit of the womb.  
 **4** As arrows in the hand of the mighty, so the children of them that have been shaken.  
 **5** Blessed is the man that hath filled the desire with them; he shall not be confounded when he shall speak to his enemies in the gate.  

@@ -179,7 +179,7 @@ format: markdown
 **1** Then Gorgias took five thousand men, and a thousand of the best horsemen; and they removed out of the camp by night.  
 **2** That they might come upon the camp of the Jews and strike them suddenly: and the men that were of the castle were their guides.  
 **3** And Judas heard of it, and rose up, he and the valiant men, to attack the king's forces that were in Emmaus.  
-**4** For as yet the army was dispersed from the camp The army was dispersed... That is, in different divisions, not altogether encamped.  
+**4** For as yet the army was dispersed from the camp  
 **5** And Gorgias came by night into the camp of Judas, and found no man; and he sought them in the mountains: for he said: These men flee from us.  
 **6** And when it was day, Judas shewed himself in the plain with three thousand men only, who neither had armour nor swords:  
 **7** And they saw the camp of the Gentiles that it was strong, and the men in breastplates, and the horsemen round about them, and these were trained up to war.  
@@ -917,7 +917,7 @@ format: markdown
 **19** It hath seemed good therefore to us, to write to the kings and countries, that they should do them no harm, nor fight against them, their cities, or countries: and that they should give no aid to them that fight against them.  
 **20** And it hath seemed good to us to receive the shield of them.  
 **21** If, therefore, any pestilent men are fled out of their country to you, deliver them to Simon, the high priest, that he may punish them according to their law.  
-**22** These same things were written to king Demetrius, and to Attalus, and to Ariarathes, and to Arsaces, Attalus, etc... Attalus was king of Pergamus; Ariarathes was king of Cappadocia; and Arsaces was king of the Parthians.  
+**22** These same things were written to king Demetrius, and to Attalus, and to Ariarathes, and to Arsaces,  
 **23** And to all the countries: and to Lampsacus and to the Spartans, and to Delus, and Myndus, and Sicyon, and Caria, and Samus, and Pamphylia, and Lycia, and Alicarnassus, and Cos, and Side, and Aradus, and Rhodes, and Phaselis, and Gortyna, and Gnidus, and Cyprus, and Cyrene.  
 **24** And they wrote a copy thereof to Simon, the high priest, and to the people of the Jews.  
 **25** But king Antiochus moved his camp to Dora the second time, assaulting it continually, and making engines: and he shut up Tryphon, that he could not go out.  

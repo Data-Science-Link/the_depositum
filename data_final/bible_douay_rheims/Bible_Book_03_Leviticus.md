@@ -584,7 +584,7 @@ format: markdown
 ## Chapter 16
 
 **1** And the Lord spoke to Moses, after the death of the two sons of Aaron when they were slain upon their offering strange fire:  
-**2** And he commanded him, saying: Speak to Aaron thy brother, that he enter not at all into the sanctuary, which is within the veil before the propitiatory, with which the ark is covered, lest he die, (for I will appear in a cloud over the oracle), Enter not... No one but the high priest, and he but once a year, could enter into the sanctuary; to signify that no one could enter into the sanctuary of heaven, till Christ our high priest opened it by his passion. Heb. 10.8.  
+**2** And he commanded him, saying: Speak to Aaron thy brother, that he enter not at all into the sanctuary, which is within the veil before the propitiatory, with which the ark is covered, lest he die, (for I will appear in a cloud over the oracle),  
 **3** Unless he first do these things. He shall offer a calf for sin, and a ram for a holocaust.  
 **4** He shall be vested with a linen tunick: he shall cover his nakedness with linen breeches: he shall be girded with a linen girdle, and he shall put a linen mitre upon his head. For these are holy vestments: all which he shall put on, after he is washed.  
 **5** And he shall receive from the whole multitude of the children of Israel two buck goats for sin, and one ram for a holocaust.  
@@ -624,7 +624,7 @@ format: markdown
 
 **1** And the Lord spoke to Moses, saying:  
 **2** Speak to Aaron and his sons, and to all the children of Israel, saying to them: This is the word, which the Lord hath commanded, saying:  
-**3** Any man whosoever of the house of Israel, if he kill an ox, or a sheep, or a goat in the camp, or without the camp, If he kill, etc... That is, in order to sacrifice. The law of God forbids sacrifices to be offered in any other place but at the tabernacle or temple of the Lord; to signify that no sacrifice would be acceptable to God, out of his true temple, the one holy, catholic, apostolic church.  
+**3** Any man whosoever of the house of Israel, if he kill an ox, or a sheep, or a goat in the camp, or without the camp,  
 **4** And offer it not at the door of the tabernacle an oblation to the Lord, shall be guilty of blood. As if he had shed blood, so shall he perish from the midst of his people.  
 **5** Therefore the children of Israel shall bring to the priest their victims, which they kill in the field, that they may be sanctified to the Lord before the door of the tabernacle of the testimony: and they may sacrifice them for peace offerings to the Lord.  
 **6** And the priest shall pour the blood upon the altar of the Lord, at the door of the tabernacle of the testimony: and shall burn the fat for a sweet odour to the Lord.  

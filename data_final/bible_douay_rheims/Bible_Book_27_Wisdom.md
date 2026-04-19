@@ -352,7 +352,7 @@ format: markdown
 **2** And therefore thou chastisest them that err, by little and little: and admonishest them, and speakest to them, concerning the things wherein they offend: that leaving their wickedness, they may believe in thee, O Lord.  
 **3** For those ancient inhabitants of thy holy land, whom thou didst abhor,  
 **4** Because they did works hateful to thee by their sorceries, and wicked sacrifices,  
-**5** And those merciless murderers of their own children, and eaters of men's bowels, and devourers of blood from the midst of thy consecration, From the midst of thy consecration... Literally, sacrament. That is, the land sacred to thee, in which thy temple was to be established, and man's redemption to be wrought.  
+**5** And those merciless murderers of their own children, and eaters of men's bowels, and devourers of blood from the midst of thy consecration,  
 **6** And those parents sacrificing with their own hands helpless souls, it was thy will to destroy by the hands of our parents,  
 **7** That the land which of all is most dear to thee, might receive a worthy colony of the children of God.  
 **8** Yet even those thou sparedst as men, and didst send wasps forerunners of thy host, to destroy them by little and little.  

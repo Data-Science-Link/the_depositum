@@ -1722,7 +1722,7 @@ format: markdown
 
 ## Chapter 46
 
-**1** Valiant in war was Jesus the son of Nave, who was successor of Moses among the prophets, who was great according to his name, Jesus the son of Nave... So Josue is named in the Greek Bibles. For Josue and Jesus signify the same thing, viz., a saviour.  
+**1** Valiant in war was Jesus the son of Nave, who was successor of Moses among the prophets, who was great according to his name,  
 **2** Very great for the saving the elect of God, to overthrow the enemies that rose up against them, that he might get the inheritance for Israel.  
 **3** How great glory did he gain when he lifted up his hands, and stretched out swords against the cities?  
 **4** Who before him hath so resisted? for the Lord himself brought the enemies.  

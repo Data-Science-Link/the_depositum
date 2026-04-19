@@ -140,7 +140,7 @@ format: markdown
 **5** Then the devil took him up into the holy city, and set him upon the pinnacle of the temple,  
 **6** And said to him: If thou be the Son of God, cast thyself down, for it is written: That he hath given his angels charge over thee, and in their hands shall they bear thee up, lest perhaps thou dash thy foot against a stone.  
 **7** Jesus said to him: It is written again: Thou shalt not tempt the Lord thy God.  
-**8** Again the devil took him up into a very high mountain, and shewed him all the kingdoms of the world, and the glory of them, Shewed him, etc... That is, pointed out to him where each kingdom lay; and set forth in words what was most glorious and admirable in each of them. Or also set before his eyes, as it were in a large map, a lively representation of all those kingdoms.  
+**8** Again the devil took him up into a very high mountain, and shewed him all the kingdoms of the world, and the glory of them,  
 **9** And said to him: All these will I give thee, if falling down thou wilt adore me.  
 **10** Then Jesus saith to him: Begone, Satan: for it is written: The Lord thy God shalt thou adore, and him only shalt thou serve.  
 **11** Then the devil left him; and behold angels came and ministered to him.  
@@ -964,7 +964,7 @@ format: markdown
 **26** Thou blind Pharisee, first make clean the inside of the cup and of the dish, that the outside may become clean.  
 **27** Woe to you, scribes and Pharisees, hypocrites; because you are like to whited sepulchres, which outwardly appear to men beautiful but within are full of dead men's bones and of all filthiness.  
 **28** So you also outwardly indeed appear to men just: but inwardly you are full of hypocrisy and iniquity.  
-**29** Woe to you, scribes and Pharisees, hypocrites, that build the sepulchres of the prophets and adorn the monuments of the just, Build the sepulchres, etc... This is not blamed, as if it were in itself evil to build or adorn the monuments of the prophets: but the hypocrisy of the Pharisees is here taxed; who, whilst they pretended to honour the memory of the prophets, were persecuting even unto death the Lord of the prophets.  
+**29** Woe to you, scribes and Pharisees, hypocrites, that build the sepulchres of the prophets and adorn the monuments of the just,  
 **30** And say: If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.  
 **31** Wherefore you are witnesses against yourselves, that you are the sons of them that killed the prophets.  
 **32** Fill ye up then the measure of your fathers.  
@@ -1228,7 +1228,7 @@ format: markdown
 **59** And Joseph taking the body wrapped it up in a clean linen cloth:  
 **60** And laid it in his own new monument, which he had hewed out in a rock. And he rolled a great stone to the door of the monument and went his way.  
 **61** And there was there Mary Magdalen and the other Mary, sitting over against the sepulchre.  
-**62** And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate, The day of preparation... The eve of the sabbath; so called, because on that day they prepared all things necessary; not being allowed so much as to dress their meat on the sabbath day.  
+**62** And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate,  
 **63** Saying: Sir, we have remembered, that that seducer said, while he was yet alive: After three days I will rise again.  
 **64** Command therefore the sepulchre to be guarded until the third day: lest perhaps his disciples come and steal him away and say to the people: He is risen from the dead. And the last error shall be worse than the first.  
 **65** Pilate saith to them: You have a guard. Go, guard it as you know.  

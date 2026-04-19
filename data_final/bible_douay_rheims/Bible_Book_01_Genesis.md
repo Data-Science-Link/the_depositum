@@ -242,7 +242,7 @@ format: markdown
 **3** And God said: My spirit shall not remain in man for ever, because he is flesh, and his days shall be a hundred and twenty years.  
 **4** Now giants were upon the earth in those days. For after the sons of God went in to the daughters of men, and they brought forth children, these are the mighty men of old, men of renown.  
 **5** And God seeing that the wickedness of men was great on the earth, and that all the thought of their heart was bent upon evil at all times,  
-**6** It repented him that he had made man on the earth. And being touched inwardly with sorrow of heart, It repented him, etc... God, who is unchangeable, is not capable of repentance, grief, or any other passion. But these expressions are used to declare the enormity of the sins of men, which was so provoking as to determine their Creator to destroy these his creatures, whom before he had so much favoured.  
+**6** It repented him that he had made man on the earth. And being touched inwardly with sorrow of heart,  
 **7** He said: I will destroy man, whom I have created, from the face of the earth, from man even to beasts, from the creeping thing even to the fowls of the air, for it repenteth me that I have made them.  
 **8** But Noe found grace before the Lord.  
 **9** These are the generations of Noe: Noe was a just and perfect man in his generations, he walked with God.  
@@ -1372,7 +1372,7 @@ format: markdown
 **32** Sending some to carry it to their father, and to say: This we have found: see whether it be thy son's coat, or not.  
 **33** And the father acknowledging it, said: It is my son's coat, an evil wild beast hath eaten him, a beast hath devoured Joseph.  
 **34** And tearing his garments, he put on sackcloth, mourning for his son a long time.  
-**35** And all his children being gathered together to comfort their father in his sorrow, he would not receive comfort, but said: I will go down to my son into hell, mourning. And whilst he continued weeping, Into hell... That is, into limbo, the place where the souls of the just were received before the death of our Redeemer. For allowing that the word hell sometimes is taken for the grave, it cannot be so taken in this place; since Jacob did not believe his son to be in the grave, (whom he supposed to be devoured by a wild beast,) and therefore could not mean to go down to him thither: but certainly meant the place of rest where he believed his soul to be.  
+**35** And all his children being gathered together to comfort their father in his sorrow, he would not receive comfort, but said: I will go down to my son into hell, mourning. And whilst he continued weeping,  
 **36** The Madianites sold Joseph in Egypt to Putiphar, an eunuch of Pharao, captain of the soldiers.  
 
 ---
@@ -1686,7 +1686,7 @@ format: markdown
 
 ## Chapter 46
 
-**1** And Israel taking his journey, with all that he had, came to the well of the oath, and killing victims there to the God of his father Isaac, The well of the oath... Bersabee.  
+**1** And Israel taking his journey, with all that he had, came to the well of the oath, and killing victims there to the God of his father Isaac,  
 **2** He heard him, by a vision in the night, calling him, and saying to him: Jacob, Jacob. And he answered him: Lo, here I am.  
 **3** God said to him: I am the most mighty God of thy father; fear not, go down into Egypt, for I will make a great nation of thee there.  
 **4** I will go down with thee thither, and will bring thee back again from thence: Joseph also shall put his hands upon thy eyes.  
@@ -1816,7 +1816,7 @@ format: markdown
 **26** The blessings of thy father are strengthened with the blessings of his fathers: until the desire of the everlasting hills should come: may they be upon the head of Joseph, and upon the crown of the Nazarite among his brethren.  
 **27** Benjamin a ravenous wolf, in the morning shall eat the prey, and in the evening shall divide the spoil.  
 **28** All these are the twelve tribes of Israel: these things their father spoke to them, and he blessed every one with their proper blessings.  
-**29** And he charged them, saying: I am now going to be gathered to my people: bury me with my fathers in the double cave, which is in the field of Ephron the Hethite, To be gathered to my people... That is, I am going to die, and so to follow my ancestors that are gone before me, and to join their company in another world.  
+**29** And he charged them, saying: I am now going to be gathered to my people: bury me with my fathers in the double cave, which is in the field of Ephron the Hethite,  
 **30** Over against Mambre, in the land of Chanaan, which Abraham bought together with the field, of Ephron the Hethite, for a possession to bury in.  
 **31** There they buried him, and Sara his wife: there was Isaac buried with Rebecca, his wife: there also Lia doth lie buried.  
 **32** And when he had ended the commandments, wherewith he instructed his sons, he drew up his feet upon the bed, and died: and he was gathered to his people.  

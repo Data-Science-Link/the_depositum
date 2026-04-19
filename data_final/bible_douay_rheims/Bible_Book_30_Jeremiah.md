@@ -690,7 +690,7 @@ format: markdown
 
 ## Chapter 22
 
-**1** Thus saith the Lord: Go down to the house of the king of Juda, and there thou shalt speak this word, Go down, etc... The contents of this chapter are of a more ancient date than those of the foregoing chapter: for the order of time is not always observed in the writings of the prophets.  
+**1** Thus saith the Lord: Go down to the house of the king of Juda, and there thou shalt speak this word,  
 **2** And thou shalt say: Hear the word of the Lord, king of Juda, that sittest upon the throne of David: thou and thy servants, and thy people, who enter in by these gates.  
 **3** Thus saith the Lord: Execute judgment and justice, and deliver him that is oppressed out of the hand of the oppressor: and afflict not the stranger, the fatherless, and the widow, nor oppress them unjustly: and shed not innocent blood in this place.  
 **4** For if you will do this thing indeed, then shall there enter in by the gates of this house, kings of the race of David sitting upon his throne, and riding in chariots and on horses, they and their servants, and their people.  

@@ -424,7 +424,7 @@ format: markdown
 **1** And it came to pass when Solomon had finished the building of the house of the Lord, and the king's house, and all that he desired and was pleased to do,  
 **2** That the Lord appeared to him the second time, as he had appeared to him in Gabaon.  
 **3** And the Lord said to him: I have heard thy prayer and thy supplication, which thou hast made before me: I have sanctified this house, which thou hast built, to put my name there for ever; and my eyes, and my heart, shall be there always.  
-**4** And if thou wilt walk before me, as thy father walked, in simplicity of heart, and in uprightness: and wilt do all that I have commanded thee, and wilt keep my ordinances, and my judgments, As thy father walked, in simplicity of heart... That is, in the sincerity and integrity of a single heart, as opposite to all double dealing and deceit.  
+**4** And if thou wilt walk before me, as thy father walked, in simplicity of heart, and in uprightness: and wilt do all that I have commanded thee, and wilt keep my ordinances, and my judgments,  
 **5** I will establish the throne of thy kingdom over Israel for ever, as I promised David, thy father, saying: There shall not fail a man of thy race upon the throne of Israel.  
 **6** But if you and your children, revolting, shall turn away from following me, and will not keep my commandments, and my ceremonies, which I have set before you, but will go and worship strange gods, and adore them:  
 **7** I will take away Israel from the face of the land which I have given them; and the temple which I have sanctified to my name, I will cast out of my sight; and Israel shall be a proverb, and a byword among all people.  
@@ -591,7 +591,7 @@ format: markdown
 **15** And he said to him: Come home with me to eat bread.  
 **16** But he said: I must not return, nor go with thee, neither will I eat bread, or drink water in this place:  
 **17** Because the Lord spoke to me, in the word of the Lord, saying: Thou shalt not eat bread, and thou shalt not drink water there, nor return by the way thou wentest.  
-**18** He said to him: I also am a prophet like unto thee: and an angel spoke to me, in the word of the Lord, saying: Bring him back with thee into thy house, that he may eat bread, and drink water. He deceived him, An angel spoke to me, etc... This old man of Bethel was indeed a prophet, but he sinned in thus deceiving the man of God; the more because he pretended a revelation for what he did.  
+**18** He said to him: I also am a prophet like unto thee: and an angel spoke to me, in the word of the Lord, saying: Bring him back with thee into thy house, that he may eat bread, and drink water. He deceived him,  
 **19** And brought him back with him: so he ate bread, and drank water in his house.  
 **20** And as they sat at table, the word of the Lord came to the prophet that brought him back:  
 **21** And he cried out to the man of God who came out of Juda, saying: Thus saith the Lord: Because thou hast not been obedient to the Lord, and hast not kept the commandment which the Lord thy God commanded thee,  

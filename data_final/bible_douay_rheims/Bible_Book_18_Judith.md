@@ -41,11 +41,11 @@ format: markdown
 
 ## Chapter 1
 
-**1** Now Arphaxad king of the Medes had brought many nations under his dominions, and he built a very strong city, which he called Ecbatana, Arphaxad... He was probably the same as is called Dejoces by Herodotus; to whom he attributes the building of Ecbatana, the capital city of Media.  
+**1** Now Arphaxad king of the Medes had brought many nations under his dominions, and he built a very strong city, which he called Ecbatana,  
 **2** Of stones squared and hewed: he made the walls thereof seventy cubits broad, and thirty cubits high, and the towers thereof he made a hundred cubits high. But on the square of them, each side was extended the space of twenty feet.  
 **3** And he made the gates thereof according to the height of the towers:  
 **4** And he gloried as a mighty one in the force of his army and in the glory of his chariots.  
-**5** Now in the twelfth year of his reign, Nabuchodonosor king of the Assyrians, who reigned in Ninive the great city, fought against Arphaxad and overcame him, Nabuchodonosor... Not the king of Babylon, who took and destroyed Jerusalem, but another of the same name, who reigned in Ninive: and is called by profane historians Saosduchin. He succeeded Asarhaddan in the kingdom of the Assyrians, and was contemporary with Manasses king of Juda.  
+**5** Now in the twelfth year of his reign, Nabuchodonosor king of the Assyrians, who reigned in Ninive the great city, fought against Arphaxad and overcame him,  
 **6** In the great plain which is called Ragua, about the Euphrates, and the Tigris, and the Jadason, in the plain of Erioch the king of the Elicians.  
 **7** Then was the kingdom of Nabuchodonosor exalted, and his heart was elevated: and he sent to all that dwelt in Cilicia and Damascus, and Libanus,  
 **8** And to the nations that are in Carmelus, and Cedar, and to the inhabitants of Galilee in the great plain of Asdrelon,  

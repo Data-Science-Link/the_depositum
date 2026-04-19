@@ -320,7 +320,7 @@ format: markdown
 **42** And God turned and gave them up to serve the host of heaven, as it is written in the books of the prophets: Did you offer victims and sacrifices to me for forty years, in the desert, O house of Israel?  
 **43** And you took unto you the tabernacle of Moloch and the star of your god Rempham, figures which you made to adore them. And I will carry you away beyond Babylon.  
 **44** The tabernacle of the testimony was with our fathers in the desert, as God ordained for them, speaking to Moses, that he should make it according to the form which he had seen.  
-**45** Which also our fathers receiving, brought in with Jesus, into the possession of the Gentiles: whom God drove out before the face of our fathers, unto the days of David, Jesus... That is Josue, so called in Greek.  
+**45** Which also our fathers receiving, brought in with Jesus, into the possession of the Gentiles: whom God drove out before the face of our fathers, unto the days of David,  
 **46** Who found grace before God and desired to find a tabernacle for the God of Jacob.  
 **47** But Solomon built him a house,  
 **48** Yet the most High dwelleth not in houses made by hands, as the prophet saith:  

@@ -47,7 +47,7 @@ format: markdown
 
 **1** And we beseech you, brethren, by the coming of our Lord Jesus Christ and of our gathering together unto him:  
 **2** That you be not easily moved from your sense nor be terrified, neither by spirit nor by word nor by epistle as sent from us, as if the day of the Lord were at hand.  
-**3** Let no man deceive you by any means: for unless there come a revolt first, and the man of sin be revealed, the son of perdition A revolt... This revolt, or falling off, is generally understood, by the ancient fathers, of a revolt from the Roman empire, which was first to be destroyed, before the coming of Antichrist. It may, perhaps, be understood also of a revolt of many nations from the Catholic Church; which has, in part, happened already, by means of Mahomet, Luther, &c., and it may be supposed, will be more general in the days of the Antichrist. The man of sin... Here must be meant some particular man, as is evident from the frequent repetition of the Greek article , the man of sin, the son of perdition, the adversary or opposer. It agrees to the wicked and great Antichrist, who will come before the end of the world.  
+**3** Let no man deceive you by any means: for unless there come a revolt first, and the man of sin be revealed, the son of perdition  
 **4** Who opposeth and is lifted up above all that is called God or that is worshipped, so that he sitteth in the temple of God, shewing himself as if he were God.  
 **5** Remember you not that, when I was yet with you, I told you these things?  
 **6** And now you know what withholdeth, that he may be revealed in his time.  

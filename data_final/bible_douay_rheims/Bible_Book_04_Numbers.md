@@ -282,7 +282,7 @@ format: markdown
 **11** And the Lord spoke to Moses, saying:  
 **12** Speak to the children of Israel, and thou shalt say to them: The man whose wife shall have gone astray, and contemning her husband,  
 **13** Shall have slept with another man, and her husband cannot discover it, but the adultery is secret, and cannot be proved by witnesses, because she was not found in the adultery:  
-**14** If the spirit of jealousy stir up the husband against his wife, who either is defiled, or is charged with false suspicion, The spirit of jealousy, etc... This ordinance was designed to clear the innocent, and to prevent jealous husbands from doing mischief to their wives: as likewise to give all a horror of adultery, by punishing it in so remarkable a manner.  
+**14** If the spirit of jealousy stir up the husband against his wife, who either is defiled, or is charged with false suspicion,  
 **15** He shall bring her to the priest, and shall offer an oblation for her, the tenth part of a measure of barley meal: he shall not pour oil thereon, nor put frankincense upon it: because it is a sacrifice of jealousy, and an oblation searching out adultery.  
 **16** The priest therefore shall offer it, and set it before the Lord.  
 **17** And he shall take holy water in an earthen vessel, and he shall cast a little earth of the pavement of the tabernacle into it.  
@@ -437,7 +437,7 @@ format: markdown
 **4** Now this was the work of the candlestick, it was of beaten gold, both the shaft in the middle, and all that came out of both sides of the branches: according to the pattern which the Lord had shewn to Moses, so he made the candlestick.  
 **5** And the Lord spoke to Moses, saying:  
 **6** Take the Levites out of the midst of the children of Israel, and thou shalt purify them,  
-**7** According to this rite: Let them be sprinkled with the water of purification, and let them shave all the hairs of their flesh. And when they shall have washed their garments, and are cleansed, Let them be sprinkled with the water of purification... This was the holy water mixed with the ashes of the red cow, Num. 19., appointed for purifying all that were unclean. It was a figure of the blood of Christ, applied to our souls by his holy sacraments.  
+**7** According to this rite: Let them be sprinkled with the water of purification, and let them shave all the hairs of their flesh. And when they shall have washed their garments, and are cleansed,  
 **8** They shall take an ox of the herd, and for the offering thereof fine flour tempered with oil: and thou shalt take another ox of the herd for a sin offering:  
 **9** And thou shalt bring the Levites before the tabernacle of the covenant, calling together all the multitude of the children of Israel:  
 **10** And when the Levites are before the Lord, the children of Israel shall put their hands upon them:  
@@ -463,11 +463,11 @@ format: markdown
 ## Chapter 9
 
 **1** The Lord spoke to Moses in the desert of Sinai, the second year after they were come out of the land of Egypt, in the first month, saying:  
-**2** Let the children of Israel make the phase in its due time, Make the phase... That is, keep the paschal solemnity, and eat the paschal lamb.  
+**2** Let the children of Israel make the phase in its due time,  
 **3** The fourteenth day of this month in the evening, according to all the ceremonies and justifications thereof.  
 **4** And Moses commanded the children of Israel that they should make the phase.  
 **5** And they made it in its proper time: the fourteenth day of the month at evening, in mount Sinai. The children of Israel did according to all things that the Lord had commanded Moses.  
-**6** But behold some who were unclean by occasion of the soul of a man, who could not make the phase on that day, coming to Moses and Aaron, Behold some who were unclean by occasion of the soul of a man, etc... That is, by having touched or come near a dead body, out of which the soul was departed.  
+**6** But behold some who were unclean by occasion of the soul of a man, who could not make the phase on that day, coming to Moses and Aaron,  
 **7** Said to them: We are unclean by occasion of the soul of a man. Why are we kept back that we may not offer in its season the offering to the Lord among the children of Israel?  
 **8** And Moses answered them: Stay that I may consult the Lord what he will ordain concerning you.  
 **9** And the Lord spoke to Moses, saying:  
@@ -546,7 +546,7 @@ format: markdown
 **13** Whence should I have flesh to give to so great a multitude? They weep against me, saying: Give us flesh that we may eat.  
 **14** I am not able alone to bear all this people, because it is too heavy for me.  
 **15** But if it seem unto thee otherwise, I beseech thee to kill me, and let me find grace in thy eyes, that I be not afflicted with so great evils.  
-**16** And the Lord said to Moses: Gather unto me seventy men of the ancients of Israel, whom thou knowest to be ancients and masters of the people: and thou shalt bring them to the door of the tabernacle of the covenant, and shalt make them stand there with thee, Seventy men... This was the first institution of the council or senate, called the Sanhedrin, consisting of seventy or seventy-two senators or counsellors.  
+**16** And the Lord said to Moses: Gather unto me seventy men of the ancients of Israel, whom thou knowest to be ancients and masters of the people: and thou shalt bring them to the door of the tabernacle of the covenant, and shalt make them stand there with thee,  
 **17** That I may come down and speak with thee: and I will take of thy spirit, and will give to them, that they may bear with thee the burden of the people, and thou mayest not be burthened alone.  
 **18** And thou shalt say to the people: Be ye sanctified: to morrow you shall eat flesh: for I have heard you say: Who will give us flesh to eat? It was well with us in Egypt. That the Lord may give you flesh, and you may eat:  
 **19** Not for one day, nor two, nor five, nor ten, no nor for twenty.  
@@ -570,7 +570,7 @@ format: markdown
 
 ## Chapter 12
 
-**1** And Mary and Aaron spoke against Moses, because of his wife the Ethiopian, Ethiopian... Sephora the wife of Moses was of Madian, which bordered upon the land of Chus or Ethiopia: where note, that the Ethiopia here spoken of is not that of Africa but that of Arabia.  
+**1** And Mary and Aaron spoke against Moses, because of his wife the Ethiopian,  
 **2** And they said: Hath the Lord spoken by Moses only? Hath he not also spoken to us in like manner? And when the Lord heard this,  
 **3** (For Moses was a man exceeding meek above all men that dwelt upon earth)  
 **4** Immediately he spoke to him, and to Aaron and Mary: Come out you three only to the tabernacle of the covenant. And when they were come out,  
@@ -661,7 +661,7 @@ format: markdown
 **30** Shall not enter into the land, over which I lifted up my hand to make you dwell therein, except Caleb the son of Jephone, and Josue the son of Nun.  
 **31** But your children, of whom you said, that they should be a prey to the enemies, will I bring in: that they may see the land which you have despised.  
 **32** Your carcasses shall lie in the wilderness.  
-**33** Your children shall wander in the desert forty years, and shall bear your fornication, until the carcasses of their fathers be consumed in the desert, Shall bear your fornication... That is, shall bear the punishment of your disloyalty to God, which in the scripture language is here called a fornication, in a spiritual sense.  
+**33** Your children shall wander in the desert forty years, and shall bear your fornication, until the carcasses of their fathers be consumed in the desert,  
 **34** According to the number of the forty days, wherein you viewed the land: a year shall be counted for a day. And forty years you shall receive your iniquities, and shall know my revenge:  
 **35** For as I have spoken, so will I do to all this wicked multitude, that hath risen up together against me: in this wilderness shall it faint away and die.  
 **36** Therefore all the men, whom Moses had sent to view the land, and who at their return had made the whole multitude to murmur against him, speaking ill of the land that it was naught,  
@@ -819,7 +819,7 @@ format: markdown
 **19** All the firstfruits of the sanctuary which the children of Israel offer to the Lord, I have given to thee and to thy sons and daughters, by a perpetual ordinance. It is a covenant of salt for ever before the Lord, to thee and to thy sons.  
 **20** And the Lord said to Aaron: You shall possess nothing in their land, neither shall you have a portion among them: I am thy portion and inheritance in the midst of the children of Israel.  
 **21** And I have given to the sons of Levi all the tithes of Israel for a possession, for the ministry wherewith they serve me in the tabernacle of the covenant:  
-**22** That the children of Israel may not approach any more to the tabernacle, nor commit deadly sin, Deadly sin... That is, sin which will bring death after it.  
+**22** That the children of Israel may not approach any more to the tabernacle, nor commit deadly sin,  
 **23** But only the sons of Levi may serve me in the tabernacle, and bear the sins of the people. It shall be an everlasting ordinance in your generations. They shall not possess any other thing,  
 **24** But be content with the oblation or tithes, which I have separated for their uses and necessities.  
 **25** And the Lord spoke to Moses, saying:  
@@ -872,7 +872,7 @@ format: markdown
 **8** Take the rod, and assemble the people together, thou and Aaron thy brother, and speak to the rock before them, and it shall yield waters. And when thou hast brought forth water out of the rock, all the multitude and their cattle shall drink.  
 **9** Moses therefore took the rod, which was before the Lord, as he had commanded him,  
 **10** And having gathered together the multitude before the rock, he said to them: Hear, ye rebellious and incredulous: Can we bring you forth water out of this rock?  
-**11** And when Moses bad lifted up his hand, and struck the rock twice with the rod, there came forth water in great abundance, so that the people and their cattle drank, The rock... This rock was a figure of Christ, and the water that issued out from the rock, of his precious blood, the source of all our good.  
+**11** And when Moses bad lifted up his hand, and struck the rock twice with the rod, there came forth water in great abundance, so that the people and their cattle drank,  
 **12** And the Lord said to Moses and Aaron: Because you have not believed me, to sanctify me before the children of Israel, you shall not bring these people into the land, which I will give them.  
 **13** This is the Water of contradiction, where the children of Israel strove with words against the Lord, and he was sanctified in them.  
 **14** In the mean time Moses sent messengers from Cades to the king of Edom, to say: Thus saith thy brother Israel: Thou knowest all the labour that hath come upon us:  
@@ -1050,7 +1050,7 @@ format: markdown
 
 **1** And Israel at that time abode in Settim, and the people committed fornication with the daughters of Moab,  
 **2** Who called them to their sacrifices. And they ate of them, and adored their gods.  
-**3** And Israel was initiated to Beelphegor: upon which the Lord being angry, Initiated to Beelphegor... That is, they took to the worship of Beelphegor, an obscene idol of the Moabites, and were consecrated, as it were, to him.  
+**3** And Israel was initiated to Beelphegor: upon which the Lord being angry,  
 **4** Said to Moses: Take all the princes of the people, and hang them up on gibbets against the sun: that my fury may be turned away from Israel.  
 **5** And Moses said to the judges of Israel: Let every man kill his neighbours, that have been initiated to Beelphegor.  
 **6** And behold one of the children of Israel went in before his brethren to a harlot of Madian, in the sight of Moses and of all the children of Israel, who were weeping before the door of the tabernacle.  
@@ -1377,7 +1377,7 @@ format: markdown
 
 ## Chapter 33
 
-**1** These are the mansions of the children of Israel, who went out of Egypt by their troops under the conduct of Moses and Aaron, The mansions... These mansions, or journeys of the children of Israel from Egypt to the land of promise, were figures, according to the fathers, of the steps and degrees by which Christians leaving sin are to advance from virtue to virtue, till they come to the heavenly mansions, after this life, to see and enjoy God.  
+**1** These are the mansions of the children of Israel, who went out of Egypt by their troops under the conduct of Moses and Aaron,  
 **2** Which Moses wrote down according to the places of their encamping, which they changed by the commandment of the Lord.  
 **3** Now the children of Israel departed from Ramesses the first month, on the fifteenth day of the first month, the day after the phase, with a mighty hand, in the sight of all the Egyptians,  
 **4** Who were burying their firstborn, whom the Lord had slain (upon their gods also he had executed vengeance,)  
@@ -1444,11 +1444,11 @@ format: markdown
 **4** Which limits shall go round on the south side by the ascent of the Scorpion and so into Senna, and reach toward the south as far as Cadesbarne, from whence the frontiers shall go out to the town called Adar, and shall reach as far as Asemona.  
 **5** And the limits shall fetch a compass from Asemona to the torrent of Egypt, and shall end in the shore of the great sea.  
 **6** And the west side shall begin from the great sea, and the same shall be the end thereof.  
-**7** But toward the north side the borders shall begin from the great sea, reaching to the most high mountain, The most high mountain... Libanus.  
+**7** But toward the north side the borders shall begin from the great sea, reaching to the most high mountain,  
 **8** From which they shall come to Emath, as far as the borders of Sedada:  
 **9** And the limits shall go as far as Zephrona, and the village of Enan. These shall be the borders on the north side.  
 **10** From thence they shall mark out the grounds towards the east side from the village of Enan unto Sephama.  
-**11** And from Sephama the bounds shall go down to Rebla over against the fountain of Daphnis: from thence they shall come eastward to the sea of Cenereth, Sea of Cenereth... This is the sea of Galilee, illustrated by the miracles of our Lord.  
+**11** And from Sephama the bounds shall go down to Rebla over against the fountain of Daphnis: from thence they shall come eastward to the sea of Cenereth,  
 **12** And shall reach as far as the Jordan, and at the last shall be closed in by the most salt sea. This shall be your land with its borders round about.  
 **13** And Moses commanded the children of Israel, saying: This shall be the land which you shall possess by lot, and which the Lord hath commanded to be given to the nine tribes, and to the half tribe.  
 **14** For the tribe of the children of Ruben by their families, and the tribe of the children of Gad according to the number of their kindreds, and half of the tribe of Manasses,  

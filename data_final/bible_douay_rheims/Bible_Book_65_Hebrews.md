@@ -144,10 +144,10 @@ format: markdown
 
 ## Chapter 6
 
-**1** Wherefore, leaving the word of the beginning of Christ, let us go on to things more perfect: not laying again the foundation of penance from dead works and of faith towards God, The word of the beginning... The first rudiments of the Christian doctrine.  
+**1** Wherefore, leaving the word of the beginning of Christ, let us go on to things more perfect: not laying again the foundation of penance from dead works and of faith towards God,  
 **2** Of the doctrine of baptisms and imposition of hands, and of the resurrection of the dead, and of eternal judgment.  
 **3** And this will we do, if God permit.  
-**4** For it is impossible for those who were once illuminated, have tasted also the heavenly gift and were made partakers of the Holy Ghost, It is impossible, etc... The meaning is, that it is impossible for such as have fallen after baptism, to be again baptized; and very hard for such as have apostatized from the faith, after having received many graces, to return again to the happy state from which they fell.  
+**4** For it is impossible for those who were once illuminated, have tasted also the heavenly gift and were made partakers of the Holy Ghost,  
 **5** Have moreover tasted the good word of God and the powers of the world to come,  
 **6** And are fallen away: to be renewed again to penance, crucifying again to themselves the Son of God and making him a mockery.  
 **7** For the earth, that drinketh in the rain which cometh often upon it and bringeth forth herbs meet for them by whom it is tilled, receiveth blessing from God.  

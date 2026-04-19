@@ -26,7 +26,7 @@ format: markdown
 
 ## Chapter 1
 
-**1** The Ancient to the lady Elect and her children, whom I love in the truth: and not I only, but also all they that have known the truth, The ancient... That is, the ancient bishop St. John, being the only one of the twelve apostles then living. To the lady Elect... Some conjecture that Electa might be the name of a family, or of a particular church; but the general opinion is, that it is the proper name of a lady, so eminent for her piety and great charity, as to merit this Epistle from St. John.  
+**1** The Ancient to the lady Elect and her children, whom I love in the truth: and not I only, but also all they that have known the truth,  
 **2** For the sake of the truth which dwelleth in us and shall be with us for ever.  
 **3** Grace be with you, mercy and peace from God the Father and from Christ Jesus the Son of the Father: in truth and charity.  
 **4** I was exceeding glad that I found of thy children walking in truth, as we have received a commandment from the Father.  

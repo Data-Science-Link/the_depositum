@@ -162,7 +162,7 @@ format: markdown
 **8** Behold I have encompassed thee with bands: and thou shalt not turn thyself from one side to the other, till thou hast ended the days of thy siege.  
 **9** And take to thee wheat and barley, and beans, and lentils, and millet, and fitches, and put them in one vessel, and make thee bread thereof according to the number of the days that thou shalt lie upon thy side: three hundred and ninety days shalt thou eat thereof.  
 **10** And thy meat that thou shalt eat, shall be in weight twenty staters a day: from time to time thou shalt eat it.  
-**11** And thou shalt drink water by measure, the sixth part of a hin: from time to time thou shalt drink it, Hin... That is, a measure of liquids containing about ten pints.  
+**11** And thou shalt drink water by measure, the sixth part of a hin: from time to time thou shalt drink it,  
 **12** And thou shalt eat it as barley bread baked under the ashes: and thou shalt cover it, in their sight, with the dung that cometh out of a man.  
 **13** And the Lord said: So shall the children of Israel eat their bread all filthy among the nations whither I will cast them out.  
 **14** And I said: Ah, ah, ah, O Lord God, behold my soul hath not been defiled, and from my infancy even till now, I have not eaten any thing that died of itself, or was torn by beasts, and no unclean flesh hath entered into my mouth.  
@@ -679,7 +679,7 @@ format: markdown
 **25** But thou profane wicked prince of Israel, whose day is come that hath been appointed in the time of iniquity:  
 **26** Thus saith the Lord God: Remove the diadem, take off the crown: is it not this that hath exalted the low one, and brought down him that was high?  
 **27** I will shew it to be iniquity, iniquity, iniquity: but this was not done till he came to whom judgment belongeth, and I will give it him.  
-**28** And thou son of man, prophesy, and say: Thus saith the Lord God concerning the children of Ammon, and concerning their reproach, and thou shalt say: O sword, O sword, come out of the scabbard to kill, be furbished to destroy, and to glitter, Concerning their reproach... By which they had reproached and insulted over the Jews, at the time of the destruction of Jerusalem.  
+**28** And thou son of man, prophesy, and say: Thus saith the Lord God concerning the children of Ammon, and concerning their reproach, and thou shalt say: O sword, O sword, come out of the scabbard to kill, be furbished to destroy, and to glitter,  
 **29** Whilst they see vain things in thy regard, and they divine lies: to bring thee upon the necks of the wicked that are wounded, whose appointed day is come in the time of iniquity.  
 **30** Return into thy sheath. I will judge thee in the place wherein thou wast created, in the land of thy nativity.  
 **31** And I will pour out upon thee my indignation: in the fire of my rage will I blow upon thee, and will give thee into the hands of men that are brutish and contrive thy destruction.  
@@ -729,7 +729,7 @@ format: markdown
 **2** Son of man, there were two women, daughters of one mother.  
 **3** And they committed fornication in Egypt, in their youth they committed fornication: there were their breasts pressed down, and the teats of their virginity were bruised.  
 **4** And their names were Oolla the elder, and Ooliba her younger sister: and I took them, and they bore sons and daughters. Now for their names, Samaria is Oolla, and Jerusalem is Ooliba.  
-**5** And Oolla committed fornication against me, and doted on her lovers, on the Assyrians that came to her, On the Assyraians, etc... That is, the idols of the Assyrians: for all that is said in this chapter of the fornications of Israel and Juda, is to be understood in a spiritual sense, of their disloyalty to the Lord, by worshipping strange gods.  
+**5** And Oolla committed fornication against me, and doted on her lovers, on the Assyrians that came to her,  
 **6** Who were clothed with blue, princes, and rulers, beautiful youths, all horsemen, mounted upon horses.  
 **7** And she committed her fornications with those chosen men, all sons of the Assyrians: and she defiled herself with the uncleanness of all them on whom she doted.  
 **8** Moreover also she did not forsake her fornications which she had committed in Egypt: for they also lay with her in her youth, and they bruised the breasts of her virginity, and poured out their fornication upon her.  
@@ -1219,7 +1219,7 @@ format: markdown
 ## Chapter 38
 
 **1** And the word of the Lord came to me, saying:  
-**2** Son of man, set thy face against Gog, the land of Magog, the chief prince of Mosoch and Thubal: and prophesy of him, Gog... This name, which signifies hidden or covered, is taken in this place, either for the persecutors of the church of God in general, or some arch-persecutor in particular: such as Antichrist shall be in the latter days. See Apoc. 20.8. And what is said of the punishment of Gog, is verified by the unhappy ends of persecutors.-Ibid. Magog... Scythia or Tartary, from whence the Turks, and other enemies of the church of Christ, originally sprung.  
+**2** Son of man, set thy face against Gog, the land of Magog, the chief prince of Mosoch and Thubal: and prophesy of him,  
 **3** And say to him: Thus saith the Lord God: Behold, I come against thee, O Gog, the chief prince of Mosoch and Thubal.  
 **4** And I will turn thee about, and I will put a bit in thy jaws: and I will bring thee forth, and all thy army, horses and horsemen all clothed with coats of mail, a great multitude, armed with spears and shields and swords.  
 **5** The Persians, Ethiopians, and Libyans with them, all with shields and helmets.  
@@ -1342,7 +1342,7 @@ format: markdown
 **6** And the side chambers one by another, were twice thirty-three: and they bore outwards, that they might enter in through the wall of the house in the sides round about, to hold in, and not to touch the wall of the temple.  
 **7** And there was a broad passage round about, going up by winding stairs, and it led into the upper loft of the temple all round: therefore was the temple broader in the higher parts: and so from the lower parts they went to the higher by the midst.  
 **8** And I saw in the house the height round about, the foundations of the side chambers which were the measure of a reed the space of six cubits:  
-**9** And the thickness of the wall for the side chamber without, which was five cubits: and the inner house was within the side chambers of the house, And the inner house was within the side chambers of the house... Because these side chambers were in the very walls of the temple all round. Or, it may also be rendered (more agreeably to the Hebrew) so as to signify that the thickness of the wall for the side chamber within, was the same as that of the wall without; that is, equally five cubits.  
+**9** And the thickness of the wall for the side chamber without, which was five cubits: and the inner house was within the side chambers of the house,  
 **10** And between the chambers was the breadth of twenty cubits round about the house on every side.  
 **11** And the door of the side chambers was turned towards the place of prayer: one door was toward the north, and another door was toward the south: and the breadth of the place for prayer, was five cubits round about.  
 **12** And the building that was separate, and turned to the way that looked toward the sea, was seventy cubits broad and the wall of the building, five cubits thick round about: and ninety cubits long.  

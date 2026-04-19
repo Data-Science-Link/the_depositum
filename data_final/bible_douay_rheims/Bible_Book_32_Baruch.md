@@ -251,7 +251,7 @@ format: markdown
 **53** They determine no causes, nor deliver countries from oppression: because they can do nothing, and are as daws between heaven and earth.  
 **54** For when fire shall fall upon the house of these gods of wood, and of silver, and of gold, their priests indeed will flee away, and be saved: but they themselves shall be burnt in the midst like beams.  
 **55** And they cannot withstand a king and war. How then can it be supposed, or admitted, that they are gods?  
-**56** Neither are these gods of wood, and of stone, and laid over with gold, and with silver, able to deliver themselves from thieves or robbers: they that are stronger than them, They that are stronger than them... That is, robbers and thieves are stronger than these idols, being things without life or motion.  
+**56** Neither are these gods of wood, and of stone, and laid over with gold, and with silver, able to deliver themselves from thieves or robbers: they that are stronger than them,  
 **57** Shall take from them the gold, and silver, and the raiment wherewith they are clothed, and shall go their way, neither shall they help themselves.  
 **58** Therefore it is better to be a king that sheweth his power: or else a profitable vessel in the house, with which the owner thereof will be well satisfied: or a door in the house, to keep things safe that are therein, than such false gods.  
 **59** The sun, and the moon, and the stars being bright, and sent forth for profitable uses, are obedient.  

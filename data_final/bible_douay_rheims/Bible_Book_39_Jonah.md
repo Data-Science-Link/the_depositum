@@ -31,7 +31,7 @@ format: markdown
 
 **1** Now the word of the Lord came to Jonas, the son of Amathi, saying:  
 **2** Arise and go to Ninive, the great city, and preach in it: For the wickedness thereof is come up before me.  
-**3** And Jonas rose up to flee into Tharsis from the face of the Lord, and he went down to Joppe, and found a ship going to Tharsis: and he paid the fare thereof, and went down into it, to go with them to Tharsis from the face of the Lord, Tharsis... Which some take to be Tharsus of Cilicia, others to be Tartessus of Spain, others to be Carthage.  
+**3** And Jonas rose up to flee into Tharsis from the face of the Lord, and he went down to Joppe, and found a ship going to Tharsis: and he paid the fare thereof, and went down into it, to go with them to Tharsis from the face of the Lord,  
 **4** But the Lord sent a great wind to the sea: and a great tempest was raised in the sea, and the ship was in danger to be broken.  
 **5** And the mariners were afraid, and the men cried to their god: and they cast forth the wares that were in the ship, into the sea, to lighten it of them: and Jonas went down into the inner part of the ship, and fell into a deep sleep.  
 **6** And the ship master came to him and said to him: Why art thou fast asleep? rise up call upon thy God, if so be that God will think of us that we may not perish.  

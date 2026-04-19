@@ -287,7 +287,7 @@ format: markdown
 **23** And not only it, but ourselves also, who have the firstfruits of the Spirit: even we ourselves groan within ourselves, waiting for the adoption of the sons of God, the redemption of our body.  
 **24** For we are saved by hope. But hope that is seen is not hope. For what a man seeth, why doth he hope for?  
 **25** But if we hope for that which we see not, we wait for it with patience.  
-**26** Likewise, the Spirit also helpeth our infirmity. For, we know not what we should pray for as we ought: but the Spirit himself asketh for us with unspeakable groanings, Asketh for us... The Spirit is said to ask, and desire for the saints, and to pray in us; inasmuch as he inspireth prayer, and teacheth us to pray.  
+**26** Likewise, the Spirit also helpeth our infirmity. For, we know not what we should pray for as we ought: but the Spirit himself asketh for us with unspeakable groanings,  
 **27** And he that searcheth the hearts knoweth what the Spirit desireth: because he asketh for the saints according to God.  
 **28** And we know that to them that love God all things work together unto good: to such as, according to his purpose, are called to be saints.  
 **29** For whom he foreknew, he also predestinated to be made conformable to the image of his Son: that he might be the Firstborn amongst many brethren.  
@@ -299,7 +299,7 @@ format: markdown
 **35** Who then shall separate us from the love of Christ? Shall tribulation? Or distress? Or famine? Or nakedness? Or danger? Or persecution? Or the sword?  
 **36** (As it is written: For thy sake, we are put to death all the day long. We are accounted as sheep for the slaughter.)  
 **37** But in all these things we overcome, because of him that hath loved us.  
-**38** For I am sure that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor might, I am sure... That is, I am persuaded; as it is in the Greek, pepeismai.  
+**38** For I am sure that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor might,  
 **39** Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God which is in Christ Jesus our Lord.  
 
 ---

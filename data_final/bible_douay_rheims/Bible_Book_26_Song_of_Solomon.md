@@ -33,7 +33,7 @@ format: markdown
 
 ## Chapter 1
 
-**1** Let him kiss me with the kiss of his mouth: for thy breasts are better than wine, Let him kiss me... The church, the spouse of Christ, prays that he may love and have peace with her, which the spouse prefers to every thing delicious: and therefore expresses (ver. 2) that young maidens, that is the souls of the faithful, have loved thee.  
+**1** Let him kiss me with the kiss of his mouth: for thy breasts are better than wine,  
 **2** Smelling sweet of the best ointments. Thy name is as oil poured out: therefore young maidens have loved thee.  
 **3** Draw me: we will run after thee to the odour of thy ointments. The king hath brought me into his storerooms: we will be glad and rejoice in thee, remembering thy breasts more than wine: the rightous love thee.  
 **4** I am black but beautiful, O ye daughters of Jerusalem, as the tents of Cedar, as the curtains of Solomon.  

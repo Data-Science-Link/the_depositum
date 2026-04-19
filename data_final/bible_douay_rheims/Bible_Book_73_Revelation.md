@@ -47,7 +47,7 @@ format: markdown
 
 ## Chapter 1
 
-**1** The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John, The things which must shortly come... and again it is said, ver. 3, The time is at hand... This can not be meant of all the things prophesied in the Apocalypse, where mention is made also of the day of judgment, and of the glory of heaven at the end of the world. That some things were to come to pass shortly, is evident, by what is said to the Seven Churches, chap. 2 and 3, Or that the persecutions foretold should begin shortly. Or that these words signified, that all time is short, and that from the coming of Christ, we are now in the last age or last hour. See 1 John 2.18.  
+**1** The Revelation of Jesus Christ, which God gave unto him, to make known to his servants the things which must shortly come to pass: and signified, sending by his angel to his servant John,  
 **2** Who hath given testimony to the word of God and the testimony of Jesus Christ, what things soever he hath seen.  
 **3** Blessed is he that readeth and heareth the words of this prophecy: and keepeth those things which are written in it. For the time is at hand.  
 **4** John to the seven churches which are in Asia. Grace be unto you and peace, from him that is and that was and that is to come: and from the seven spirits which are before his throne:  

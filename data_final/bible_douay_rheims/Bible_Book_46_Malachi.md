@@ -30,7 +30,7 @@ format: markdown
 ## Chapter 1
 
 **1** The burden of the word of the Lord to Israel by the hand of Malachias.  
-**2** I have loved you, saith the Lord: and you have said: Wherein hast thou loved us? Was not Esau brother to Jacob, saith the Lord, and I have loved Jacob, I have loved Jacob, etc... I have preferred his posterity, to make them my chosen people, and to lead them with my blessings, without any merit on their part, and though they have been always ungrateful; whilst I have rejected Esau, and executed severe judgments upon his posterity. Not that God punished Esau, or his posterity, beyond their desert: but that by his free election and grace he loved Jacob, and favoured his posterity above their deserts. See the annotations upon Rom. 9.  
+**2** I have loved you, saith the Lord: and you have said: Wherein hast thou loved us? Was not Esau brother to Jacob, saith the Lord, and I have loved Jacob,  
 **3** But have hated Esau? and I have made his mountains a wilderness, and given his inheritance to the dragons of the desert.  
 **4** But if Edom shall say: We are destroyed, but we will return and build up what hath been destroyed: thus saith the Lord of hosts: They shall build up, and I will throw down: and they shall be called the borders of wickedness, and the people with whom the Lord is angry for ever.  
 **5** And your eyes shall see: and you shall say: The Lord be magnified upon the border of Israel.  

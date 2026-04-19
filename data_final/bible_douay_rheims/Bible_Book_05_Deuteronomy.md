@@ -353,7 +353,7 @@ format: markdown
 **12** Lest after thou hast eaten and art filled, hast built goodly houses, and dwelt in them,  
 **13** And shalt have herds of oxen and flocks of sheep, and plenty of gold and of silver, and of all things,  
 **14** Thy heart be lifted up, and thou remember not the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage:  
-**15** And was thy leader in the great and terrible wilderness, wherein there was the serpent burning with his breath, and the scorpion and the dipsas, and no waters at all: who brought forth streams out of the hardest rock, The Dipsas... A serpent whose bite causeth a violent thirst; from whence it has its name, for in Greek dipsa signifies thirst.  
+**15** And was thy leader in the great and terrible wilderness, wherein there was the serpent burning with his breath, and the scorpion and the dipsas, and no waters at all: who brought forth streams out of the hardest rock,  
 **16** And fed thee in the wilderness with manna which thy fathers knew not. And after he had afflicted and proved thee, at the last he had mercy on thee,  
 **17** Lest thou shouldst say in thy heart: My own might, and the strength of my own hand have achieved all these things for me.  
 **18** But remember the Lord thy God, that he hath given thee strength, that he might fulfil his covenant, concerning which he swore to thy fathers, as this present day sheweth.  
@@ -1144,7 +1144,7 @@ format: markdown
 **6** Let Ruben live, and not die, and be he small in number.  
 **7** This is the blessing of Juda. Hear, O Lord, the voice of Juda, and bring him in unto his people: his hands shall fight for him, and he shall be his helper against his enemies.  
 **8** To Levi also he said: Thy perfection, and thy doctrine be to thy holy man, whom thou hast proved in the temptation, and judged at the waters of contradiction:  
-**9** Who hath said to his father, and to his mother: I do not know you; and to his bretheren: I know you not: and their own children they have not known. These have kept thy word, and observed thy covenant, Who hath said, etc... It is the duty of the priestly tribe to prefer God's honour and service before all considerations of flesh and blood: in such manner as to behave as strangers to their nearest akin, when these would withdraw them from the business of their calling.  
+**9** Who hath said to his father, and to his mother: I do not know you; and to his bretheren: I know you not: and their own children they have not known. These have kept thy word, and observed thy covenant,  
 **10** Thy judgments, O Jacob, and thy law, O Israel: they shall put incense in thy wrath and holocaust upon thy altar.  
 **11** Bless, O Lord, his strength, and receive the works of his hands. Strike the backs of his enemies, and let not them that hate him rise.  
 **12** And to Benjamin he said: The best beloved of the Lord shall dwell confidently in him: as in a bride chamber shall he abide all the day long, and between his shoulders shall be rest.  

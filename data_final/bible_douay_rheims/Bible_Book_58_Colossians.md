@@ -78,7 +78,7 @@ format: markdown
 **13** And you, when you were dead in your sins and the uncircumcision of your flesh, he hath quickened together with him, forgiving you all offences:  
 **14** Blotting out the handwriting of the decree that was against us, which was contrary to us. And he hath taken the same out of the way, fastening it to the cross.  
 **15** And despoiling the principalities and powers, he hath exposed them confidently in open shew, triumphing over them in himself.  
-**16** Let no man therefore judge you in meat or in drink or in respect of a festival day or of the new moon or of the sabbaths, In meat, etc... He means with regard to the Jewish observations of the distinction of clean and unclean meats; and of their festivals, new moons, and sabbaths, as being no longer obligatory.  
+**16** Let no man therefore judge you in meat or in drink or in respect of a festival day or of the new moon or of the sabbaths,  
 **17** Which are a shadow of things to come: but the body is of Christ.  
 **18** Let no man seduce you, willing in humility and religion of angels, walking in the things which he hath not seen, in vain puffed up by the sense of his flesh:  
 **19** And not holding the head, from which the whole body, by joints and bands, being supplied with nourishment and compacted, groweth into the increase of God.  

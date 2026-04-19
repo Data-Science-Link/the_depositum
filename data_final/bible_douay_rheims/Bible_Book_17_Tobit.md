@@ -103,7 +103,7 @@ format: markdown
 **4** For we have not obeyed thy commandments, therefore are we delivered to spoil and to captivity, and death, and are made a fable, and a reproach to all nations, amongst which thou hast scattered us.  
 **5** And now, O Lord, great are thy judgments, because we have not done according to thy precepts, and have not walked sincerely before thee.  
 **6** And now, O Lord, do with me according to thy will, and command my spirit to be received in peace: for it is better for me to die, than to live.  
-**7** Now it happened on the same day, that Sara daughter of Raguel, in Rages a city of the Medes, received a reproach from one of her father's servant maids, Rages... In the Greek it is Ecbatana, which was also called Rages. For there were two cities in Media of the name of Rages. Raguel dwelt in one of them, and Gabelus in the other.  
+**7** Now it happened on the same day, that Sara daughter of Raguel, in Rages a city of the Medes, received a reproach from one of her father's servant maids,  
 **8** Because she had been given to seven husbands and a devil named Asmodeus had killed them, at their first going in unto her.  
 **9** So when she reproved the maid for her fault, she answered her, saying: May we never see son, or daughter of thee upon the earth, thou murderer of thy husbands.  
 **10** Wilt thou kill me also, as thou hast already killed seven husbands? At these words, she went into an upper chamber of her house: and for three days and three nights did neither eat nor drink:  

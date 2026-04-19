@@ -365,7 +365,7 @@ format: markdown
 
 **1** In the third year of the reign of king Baltasar, a vision appeared to me. I, Daniel, after what I had seen in the beginning,  
 **2** Saw in my vision when I was in the castle of Susa, which is in the province of Elam: and I saw in the vision that I was over the gate of Ulai.  
-**3** And I lifted up my eyes, and saw: and behold a ram stood before the water, having two high horns, and one higher than the other, and growing up. Afterward A ram... The empire of the Medes and Persians.  
+**3** And I lifted up my eyes, and saw: and behold a ram stood before the water, having two high horns, and one higher than the other, and growing up. Afterward  
 **4** I saw the ram pushing with his horns against the west, and against the north, and against the south: and no beasts could withstand him, nor be delivered out of his hand: and he did according to his own will, and became great.  
 **5** And I understood: and behold a he goat came from the west on the face of the whole earth, and he touched not the ground, and the he goat had a notable horn between his eyes.  
 **6** And he went up to the ram that had the horns, which I had seen standing before the gate, and he ran towards him in the force of his strength.  

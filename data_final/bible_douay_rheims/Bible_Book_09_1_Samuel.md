@@ -156,7 +156,7 @@ format: markdown
 
 ## Chapter 4
 
-**1** And it came to pass in those days, that the Philistines gathered themselves together to fight: and Israel went out to war against the Philistines, and camped by the Stone of help. And the Philistines came to Aphec, The Stone of help... In Hebrew Eben-ezer; so called from the help which the Lord was pleased afterwards to give to his people Israel in that place, by the prayers of Samuel, chap. 7.12.  
+**1** And it came to pass in those days, that the Philistines gathered themselves together to fight: and Israel went out to war against the Philistines, and camped by the Stone of help. And the Philistines came to Aphec,  
 **2** And put their army in array against Israel. And when they had joined battle, Israel turned their backs to the Philistines: and there were slain in that fight, here and there in the fields, about four thousand men.  
 **3** And the people returned to the camp: and the ancients of Israel said: Why hath the Lord defeated us to day before the Philistines? Let us fetch unto us the ark of the covenant of the Lord from Silo, and let it come in the midst of us, that it may save us from the hand of our enemies.  
 **4** So the people sent to Silo, and they brought from thence the ark of the covenant of the Lord of hosts, sitting upon the cherubims: and the two sons of Heli, Ophni and Phinees, were with the ark of the covenant of God.  
@@ -612,7 +612,7 @@ format: markdown
 **7** And the women sung as they played, and they said: Saul slew his thousands, and David his ten thousands.  
 **8** And Saul was exceeding angry, and this word was displeasing in his eyes, and he said: They have given David ten thousands, and to me they have given but a thousand, what can he have more but the kingdom?  
 **9** And Saul did not look on David with a good eye from that day and forward.  
-**10** And the day after, the evil spirit from God came upon Saul, and he prophesied in the midst of his house. And David played with his hand as at other times. And Saul held a spear in his hand, Prophesied... Acted the prophet in a mad manner.  
+**10** And the day after, the evil spirit from God came upon Saul, and he prophesied in the midst of his house. And David played with his hand as at other times. And Saul held a spear in his hand,  
 **11** And threw it, thinking to nail David to the wall: and David stept aside out of his presence twice.  
 **12** And Saul feared David, because the Lord was with him, and was departed from Saul himself.  
 **13** Therefore Saul removed him from him, and made him a captain over a thousand men, and he went out and came in before the people.  

@@ -39,7 +39,7 @@ format: markdown
 **6** From which things some, going astray, are turned aside unto vain babbling:  
 **7** Desiring to be teachers of the law: understanding neither the things they say, nor whereof they affirm.  
 **8** But we know that the law is good, if a man use it lawfully.  
-**9** Knowing this: That the law is not made for the just man but for the unjust and disobedient, for the ungodly and for sinners, for the wicked and defiled, for murderers of fathers and murderers of mothers, for manslayers, The law is not... He means, that the just man doth good, and avoideth evil, not as compelled by the law, and merely for fear of the punishment appointed for transgressors; but voluntarily, and out of the love of God and virtue; and would do so, though there were no law.  
+**9** Knowing this: That the law is not made for the just man but for the unjust and disobedient, for the ungodly and for sinners, for the wicked and defiled, for murderers of fathers and murderers of mothers, for manslayers,  
 **10** For fornicators, for them who defile themselves with mankind, for menstealers, for liars, for perjured persons, and whatever other thing is contrary to sound doctrine:  
 **11** Which is according to the gospel of the glory of the blessed God which hath been committed to my trust.  
 **12** I give him thanks who hath strengthened me, even to Christ Jesus our Lord, for that he hath counted me faithful, putting me in the ministry:  
@@ -77,7 +77,7 @@ format: markdown
 ## Chapter 3
 
 **1** A faithful saying: If a man desire the office of a bishop, he desireth good work.  
-**2** It behoveth therefore a bishop to be blameless, the husband of one wife, sober, prudent, of good behaviour, chaste, given to hospitality, a teacher, Of one wife.... The meaning is not that every bishop should have a wife (for St. Paul himself had none), but that no one should be admitted to the holy orders of bishop, priest, or deacon, who had been married more than once.  
+**2** It behoveth therefore a bishop to be blameless, the husband of one wife, sober, prudent, of good behaviour, chaste, given to hospitality, a teacher,  
 **3** Not given to wine, no striker, but modest, not quarrelsome, not covetous, but  
 **4** One that ruleth well his own house, having his children in subjection with all chastity.  
 **5** But if a man know not how to rule his own house, how shall he take care of the church of God?  

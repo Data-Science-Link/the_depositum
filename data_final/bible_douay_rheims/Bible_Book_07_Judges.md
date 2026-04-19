@@ -98,7 +98,7 @@ format: markdown
 **9** And they buried him in the borders of his possession in Thamnathsare, in Mount Ephraim, on the north side of Mount Gaas.  
 **10** And all that generation was gathered to their fathers: and there arose others that knew not the Lord and the works which he had done for Israel.  
 **11** And the children of Israel did evil in the sight of the Lord, and they served Baalim,  
-**12** And they left the Lord, the God of their fathers, who had brought them out of the land of Egypt: and they followed strange gods, and the gods of the people that dwelt round about them, and they adored them: and they provoked the Lord to anger, They followed strange gods... What is here said of the children of Israel, as to their falling so often into idolatry, is to be understood of a great part of them; but not so universally, as if the true worship of God was ever quite abolished among them: for the succession of the true church and religion was kept up all this time by the priests and Levites, at least in the house of God in Silo.  
+**12** And they left the Lord, the God of their fathers, who had brought them out of the land of Egypt: and they followed strange gods, and the gods of the people that dwelt round about them, and they adored them: and they provoked the Lord to anger,  
 **13** Forsaking him, and serving Baal and Astaroth  
 **14** And the Lord being angry against Israel, delivered them into the hands of plunderers: who took them and sold them to their enemies, that dwelt round about: neither could they stand against their enemies:  
 **15** But whithersoever they meant to go, the hand of the Lord was upon them, as he had said, and as he had sworn to them: and they were greatly distressed.  

@@ -111,7 +111,7 @@ format: markdown
 
 ## Chapter 3
 
-**1** After this, Job opened his mouth, and cursed his day, Cursed his day... Job cursed the day of his birth, not by way of wishing evil to any thing of God's creation; but only to express in a stronger manner his sense of human miseries in general, and of his own calamities in particular.  
+**1** After this, Job opened his mouth, and cursed his day,  
 **2** And he said:  
 **3** Let the day perish wherein I was born, and the night in which it was said: A man child is conceived.  
 **4** Let that day be turned into darkness, let not God regard it from above, and let not the light shine upon it.  
