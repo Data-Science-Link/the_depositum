@@ -314,14 +314,33 @@ def parse_book_chapters_from_html(
                     )
                     continue
             if current_verse_num is not None and verse_num_candidate <= int(current_verse_num):
-                # Gutenberg occasionally repeats a verse label by mistake (e.g., 2:3 then 2:3
-                # where the second is contextually verse 4). If it's exactly repeated, recover
-                # to next verse number; otherwise treat as cross-reference commentary.
+                # PG #8300 sometimes emits the same c:v label twice in a row (two <p> blocks),
+                # e.g. Proverbs 12:12 twice — one verse split, not verse N and verse N+1.
+                # Only merge when this verse is still the strict successor of the last *committed*
+                # verse (no numbering gap). If there is a gap (e.g. ... 1, then 3, then 3 again),
+                # treat the second label as the next verse (legacy OCR recovery).
                 if verse_num_candidate == int(current_verse_num):
+                    prev_committed_num = (
+                        int(current_chapter_verses[-1][0]) if current_chapter_verses else 0
+                    )
+                    extra = (verse_match.group(3) or "").strip()
+                    if prev_committed_num + 1 == verse_num_candidate:
+                        if extra:
+                            current_verse_parts.append(extra)
+                        stats.audit_events.append(
+                            {
+                                "type": "merged_duplicate_verse_label",
+                                "book": book_name,
+                                "chapter": current_chapter_num,
+                                "verse": current_verse_num,
+                                "text": block,
+                            }
+                        )
+                        continue
                     adjusted_current = int(current_verse_num)
                     if current_chapter_verses:
-                        prev_committed_num = int(current_chapter_verses[-1][0])
-                        if adjusted_current - prev_committed_num == 2:
+                        pcm = int(current_chapter_verses[-1][0])
+                        if adjusted_current - pcm == 2:
                             # Fix pattern like 1,3,3 where the first "3" is really "2".
                             adjusted_current = adjusted_current - 1
                     current_verse_num = str(adjusted_current)

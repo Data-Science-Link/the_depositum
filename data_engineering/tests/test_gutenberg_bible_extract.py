@@ -195,3 +195,28 @@ def test_find_all_book_anchors_full_file() -> None:
 def test_pg_order_mapping_length() -> None:
     assert len(eb.PG_ORDER_TO_CANON_INDEX) == 73
     assert len(set(eb.PG_ORDER_TO_CANON_INDEX)) == 73
+
+
+def test_proverbs_chapter_12_duplicate_verse_labels_merge_not_shift() -> None:
+    """PG #8300 repeats '12:12.' twice (split <p>); merging avoids off-by-one shift through ch.22+."""
+    raw_adjusted = Path(
+        "data_engineering/data_sources/bible_douay_rheims/raw/pg8300_adjusted.html"
+    )
+    if not raw_adjusted.is_file():
+        pytest.skip("pg8300_adjusted.html not present")
+    soup = eb.BeautifulSoup(raw_adjusted.read_text(encoding="utf-8"), "html.parser")
+    anchors = eb._iter_book_anchors(soup)
+    canon_idx_proverbs = 23  # 24th canon book
+    pg_idx = eb.PG_ORDER_TO_CANON_INDEX.index(canon_idx_proverbs)
+    stats = eb.ParseStats()
+    chapters = eb.parse_book_chapters_from_html(
+        anchors[pg_idx], anchors[pg_idx + 1], stats, "Proverbs"
+    )
+    by_num = {c[0]: dict(c[1]) for c in chapters}
+    ch12 = by_num[12]
+    assert len(ch12) == 28
+    assert "tilleth" in ch12["11"].lower() and "wine" in ch12["11"].lower()
+    assert "desire of the wicked" in ch12["12"].lower()
+    assert "wine" not in ch12["12"].lower()
+    assert ch12["22"].startswith("Lying lips")
+    assert ch12["23"].startswith("A cautious")

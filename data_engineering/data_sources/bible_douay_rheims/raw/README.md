@@ -25,6 +25,12 @@ If you add new fixes, edit **`pg8300_adjusted.html`** only; retain **`pg8300.htm
 
 **Verification:** Re-run extraction and open `data_final/bible_douay_rheims/Bible_Book_14_2_Chronicles.md`: Chapter 32 should begin with Sennacherib’s invasion (not the Chapter 31 tithe passage), through verse 33 and Manasses succeeding Ezechias.
 
+### 2026-04-19 — Proverbs, Chapter 12 (verses 11–12)
+
+**Why:** In stock `#8300`, the clause “He that is delighted in passing his time over wine…” is tagged **`12:12.`** even though it continues **verse 11** on [DRBO Proverbs 12](https://www.drbo.org/chapter/24012.htm); the following verse is only “The desire of the wicked…”. PG then duplicated **`12:12.`** for that second sentence. Without a source fix, the extractor either shifted numbering or merged two distinct verses into one.
+
+**What we did:** Relabeled the **wine** paragraph from `12:12.` to **`12:11.`** (second `12:11` block, merged by the parser with the first `12:11` line). The **desire of the wicked** paragraph remains **`12:12.`**
+
 ---
 
 ## Policy

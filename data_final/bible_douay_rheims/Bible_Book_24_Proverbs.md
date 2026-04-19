@@ -440,25 +440,24 @@ format: markdown
 **8** A man shall be known by his learning: but he that is vain and foolish, shall be exposed to contempt.  
 **9** Better is the poor man that provideth for himself, than he that is glorious and wanteth bread.  
 **10** The just regardeth the lives of his beasts: but the bowels of the wicked are cruel.  
-**11** He that tilleth his land shall be satisfied with bread: but he that pursueth idleness is very foolish.  
-**12** He that is delighted in passing his time over wine, leaveth a reproach in his strong holds.  
-**13** The desire of the wicked is the fortification of evil men: but the root of the just shall prosper.  
-**14** For the sins of the lips ruin draweth nigh to the evil man: but the just shall escape out of distress.  
-**15** By the fruit of his own mouth shall a man be filled with good things, and according to the works of his hands it shall be repaid him.  
-**16** The way of a fool is right in his own eyes: but he that is wise hearkeneth unto counsels.  
-**17** A fool immediately sheweth his anger: but he that dissembleth injuries is wise.  
-**18** He that speaketh that which he knoweth, sheweth forth justice: but he that lieth, is a deceitful witness.  
-**19** There is that promiseth, and is pricked as it were with a sword of conscience: but the tongue of the wise is health.  
-**20** The lip of truth shall be steadfast for ever: but he that is a hasty witness, frameth a lying tongue.  
-**21** Deceit is in the heart of them that think evil things: but joy followeth them that take counsels of peace.  
-**22** Whatsoever shall befall the just man, shall not make him sad: but the wicked shall be filled with mischief.  
-**23** Lying lips are an abomination to the Lord: but they that deal faithfully, please him.  
-**24** A cautious man concealeth knowledge: and the heart of fools publisheth folly.  
-**25** The hand of the valiant shall bear rule: but that which is slothful shall be under tribute.  
-**26** Grief in the heart of a man shall bring him low, but with a good word he shall be made glad.  
-**27** He that neglecteth a loss for the sake of a friend, is just: but the way of the wicked shall deceive them.  
-**28** The deceitful man shall not find gain: but the substance of a just man shall be precious gold.  
-**29** In the path of justice is life: but the bye-way leadeth to death.  
+**11** He that tilleth his land shall be satisfied with bread: but he that pursueth idleness is very foolish. He that is delighted in passing his time over wine, leaveth a reproach in his strong holds.  
+**12** The desire of the wicked is the fortification of evil men: but the root of the just shall prosper.  
+**13** For the sins of the lips ruin draweth nigh to the evil man: but the just shall escape out of distress.  
+**14** By the fruit of his own mouth shall a man be filled with good things, and according to the works of his hands it shall be repaid him.  
+**15** The way of a fool is right in his own eyes: but he that is wise hearkeneth unto counsels.  
+**16** A fool immediately sheweth his anger: but he that dissembleth injuries is wise.  
+**17** He that speaketh that which he knoweth, sheweth forth justice: but he that lieth, is a deceitful witness.  
+**18** There is that promiseth, and is pricked as it were with a sword of conscience: but the tongue of the wise is health.  
+**19** The lip of truth shall be steadfast for ever: but he that is a hasty witness, frameth a lying tongue.  
+**20** Deceit is in the heart of them that think evil things: but joy followeth them that take counsels of peace.  
+**21** Whatsoever shall befall the just man, shall not make him sad: but the wicked shall be filled with mischief.  
+**22** Lying lips are an abomination to the Lord: but they that deal faithfully, please him.  
+**23** A cautious man concealeth knowledge: and the heart of fools publisheth folly.  
+**24** The hand of the valiant shall bear rule: but that which is slothful shall be under tribute.  
+**25** Grief in the heart of a man shall bring him low, but with a good word he shall be made glad.  
+**26** He that neglecteth a loss for the sake of a friend, is just: but the way of the wicked shall deceive them.  
+**27** The deceitful man shall not find gain: but the substance of a just man shall be precious gold.  
+**28** In the path of justice is life: but the bye-way leadeth to death.  
 
 ---
 
