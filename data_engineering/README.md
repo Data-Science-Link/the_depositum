@@ -16,10 +16,9 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 ## 📁 Contents
 
 ### Data Sources
-- `data_sources/bible_douay_rheims/` - Douay-Rheims Bible extraction (patchwork approach)
-  - `extract_bible.py` - Main extraction script (66 books from bible-api.com)
-  - `extract_deuterocanonical.py` - Deuterocanonical books extraction (7 books from GitHub)
-  - `README.md` - Extraction guide and documentation
+- `data_sources/bible_douay_rheims/` - Douay-Rheims Bible (Project Gutenberg #8300)
+  - `extract_bible.py` - Parses `raw/pg8300.html` into 73 Markdown books
+  - `README.md` - Extraction guide and usage
 - `data_sources/bible_commentary_haydock/` - Haydock Commentary extraction from EPUB
   - `extract_commentary.py` - Main extraction script
   - `README.md` - Extraction guide and documentation
@@ -43,7 +42,7 @@ The three datasets (Bible, Commentary, Catechism) represent the Deposit of Faith
 
 - Python 3.10+
 - **uv** (fast Python package manager) - [Installation instructions below](#installing-uv)
-- Internet connection (for Bible API)
+- Internet connection (optional; Bible uses committed Gutenberg text)
 - EPUB file for Haydock Commentary (download separately)
 - PDF file for Catechism (download separately)
 
@@ -113,6 +112,9 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
      - **Direct Download**: [Haydock Catholic Bible Commentary - Haydock, George Leo.epub](https://isidore.co/CalibreLibrary/Haydock,%20George%20Leo/Haydock%20Catholic%20Bible%20Commentary%20(3948)/Haydock%20Catholic%20Bible%20Commentary%20-%20Haydock,%20George%20Leo.epub) (~4.6MB)
      - Place in `data_sources/bible_commentary_haydock/`
      - See [bible_commentary_haydock/README.md](data_sources/bible_commentary_haydock/README.md) for detailed instructions
+   - **Douay-Rheims Bible**:
+     - Use the HTML source of [Gutenberg #8300](https://www.gutenberg.org/ebooks/8300) as `data_sources/bible_douay_rheims/raw/pg8300.html` (tracked in git).
+     - See [bible_douay_rheims/README.md](data_sources/bible_douay_rheims/README.md).
    - **Catechism**:
      - **Direct Download**: [The Roman Catechism.pdf](https://www.saintsbooks.net/books/The%20Roman%20Catechism.pdf) (~1.6MB)
      - Place `The Roman Catechism.pdf` in `data_sources/catholic_catechism_trent/`
@@ -124,30 +126,14 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ### Douay-Rheims Bible
 
-**Note:** The Bible extraction uses a **patchwork approach** (MVP solution):
-- **66 books** extracted from `bible-api.com` (Protestant canon)
-- **7 Deuterocanonical books** extracted from GitHub repository (Catholic canon completion)
-- This approach avoids API subscription costs and works for MVP, but may be improved with a unified source in the future
+Single source: **Project Gutenberg #8300** (`raw/pg8300.html`). Produces **73** Markdown files in `data_final/bible_douay_rheims/`.
 
-**Extract 66 books from API:**
 ```bash
-cd data_sources/bible_douay_rheims
-python extract_bible.py
+# From project root
+python data_engineering/data_sources/bible_douay_rheims/extract_bible.py
 ```
 
-**Extract 7 Deuterocanonical books from GitHub:**
-```bash
-cd data_sources/bible_douay_rheims
-python extract_deuterocanonical.py
-```
-
-**Output**: 73 Markdown files in `data_final/bible_douay_rheims/` (complete Catholic canon)
-
-**Configuration**:
-- API endpoint: `https://bible-api.com/data/dra`
-- Translation ID: `dra` (Douay-Rheims 1899 American Edition)
-- GitHub source: `https://github.com/xxruyle/Bible-DouayRheims/tree/main/Douay-Rheims`
-- Rate limiting: 0.5 second delay between requests
+**Configuration**: `paths.raw_data.douay_rheims` and `paths.final_output.douay_rheims` in `config/pipeline_config.yaml`.
 
 ### Haydock Commentary
 
@@ -198,9 +184,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 ### Expected Outputs
 
 **Douay-Rheims Bible**:
-- 73 files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - complete Catholic canon)
-- 66 books extracted from bible-api.com
-- 7 Deuterocanonical books extracted from GitHub (Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees)
+- 73 files (`Bible_Book_01_Genesis.md` … `Bible_Book_73_Revelation.md`) from Project Gutenberg #8300
 - Each file contains frontmatter, book title, chapters, and verses
 - Format: `**verse_number** verse_text`
 
@@ -224,7 +208,7 @@ python data_engineering/scripts/run_pipeline.py --validate
 python -m pytest tests/
 
 # Run specific test suite
-python -m pytest tests/test_bible_extraction.py
+python -m pytest data_engineering/tests/test_gutenberg_bible_extract.py
 python -m pytest tests/test_commentary_extraction.py
 python -m pytest tests/test_catechism_extraction.py
 ```
@@ -251,10 +235,6 @@ Edit `data_engineering/config/pipeline_config.yaml` to customize:
 Create `.env` file at project root (optional):
 
 ```bash
-# API Configuration
-BIBLE_API_BASE_URL=https://bible-api.com/data/dra
-API_RATE_LIMIT_DELAY=0.5
-
 # File Paths
 HAYDOCK_EPUB_PATH=data_engineering/data_sources/bible_commentary_haydock/Haydock Catholic Bible Comment - Haydock, George Leo_3948.epub
 CATECHISM_PDF_PATH=data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf
@@ -274,11 +254,10 @@ LOG_DIR=logs
 
 ### Bible Extraction Issues
 
-- **API Timeouts**: Increase delay between requests in config
-- **Missing Books**: Verify API endpoint is accessible
+- **Missing `pg8300.html`**: Download UTF-8 text from [Gutenberg #8300](https://www.gutenberg.org/ebooks/8300) into `data_sources/bible_douay_rheims/raw/pg8300.html`
+- **Wrong chapter counts**: Ensure the source file matches #8300 and is not truncated
 - **Encoding Errors**: Ensure UTF-8 encoding throughout
-- **Deuterocanonical Books**: If GitHub extraction fails, check network connectivity and verify the repository is accessible
-- **Verse Ordering**: If verses appear out of order, re-run the extraction script (recently fixed)
+- **Verse ordering**: If verses appear out of order, re-run `extract_bible.py` with an intact `pg8300.html`
 
 ### Commentary Extraction Issues
 
@@ -302,20 +281,16 @@ LOG_DIR=logs
 ## 📈 Data Flow
 
 ```
-Raw Sources → Extraction Scripts → Validation → Processed Data
+Raw Sources → Extraction Scripts → Validation → Final Markdown
      ↓              ↓                  ↓              ↓
-  API/EPUB/PDF   Python Scripts    Quality Checks  Markdown Files
-  GitHub/JSON
+  Gutenberg/EPUB/PDF   Python Scripts    Quality Checks  data_final/
 ```
 
-**Bible Extraction Flow:**
-- 66 books: `bible-api.com` → `extract_bible.py` → Markdown
-- 7 Deuterocanonical books: `GitHub JSON` → `extract_deuterocanonical.py` → Markdown
-- Both output to same directory with consistent formatting
+**Bible extraction:** `raw/pg8300.html` → `extract_bible.py` → `data_final/bible_douay_rheims/`
 
 ## 🔒 Security & Privacy
 
-- **No API Keys Required**: Bible API is public
+- **No API keys required** for Scripture (offline Gutenberg text)
 - **No PII**: All texts are public domain
 - **Local Processing**: All extraction happens locally
 - **Source Verification**: Scripts verify data integrity

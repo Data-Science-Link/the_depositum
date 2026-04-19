@@ -4,7 +4,7 @@ canonical_position: 25
 testament: Old Testament
 section: Wisdom Books
 book_id: ECC
-translation: Douay-Rheims 1899 American Edition
+translation: Douay-Rheims (Challoner revision, Project Gutenberg #8300)
 total_chapters: 12
 tags:
   - bible
@@ -38,7 +38,7 @@ format: markdown
 ## Chapter 1
 
 **1** The words of Ecclesiastes, the son of David, king of Jerusalem.  
-**2** Vanity of vanities, said Ecclesiastes vanity of vanities, and all is vanity.  
+**2** Vanity of vanities, said Ecclesiastes: vanity of vanities, and all is vanity.  
 **3** What hath a man more of all his labour, that he taketh under the sun?  
 **4** One generation passeth away, and another generation cometh: but the earth standeth for ever.  
 **5** The sun riseth, and goeth down, and returneth to his place: and there rising again,  
@@ -54,7 +54,7 @@ format: markdown
 **15** The perverse are hard to be corrected, and the number of fools is infinite.  
 **16** I have spoken in my heart, saying: Behold I am become great, and have gone beyond all in wisdom, that were before me in Jerusalem: and my mind hath contemplated many things wisely, and I have learned.  
 **17** And I have given my heart to know prudence, and learning, and errors, and folly: and I have perceived that in these also there was labour, and vexation of spirit,  
-**18** Because In much wisdom there is much indignation: and he that addeth knowledge, addeth also labour.  
+**18** Because in much wisdom there is much indignation: and he that addeth knowledge, addeth also labour.  
 
 ---
 
@@ -71,18 +71,18 @@ format: markdown
 **9** And I surpassed in riches all that were before me in Jerusalem: my wisdom also remained with me.  
 **10** And whatsoever my eyes desired, I refused them not: and I withheld not my heart from enjoying every pleasure, and delighting itself in the things which I had prepared: and esteemed this my portion, to make use of my own labour.  
 **11** And when I turned myself to all the works which my hands had wrought, and to the labours wherein I had laboured in vain, I saw in all things vanity, and vexation of mind, and that nothing was lasting under the sun.  
-**12** I passed further to behold wisdom, and errors and folly, (What is man, said I, that he can follow the King his maker?)  
+**12** I passed further to behold wisdom, and errors and folly, (What is man, said I that he can follow the King his maker?)  
 **13** And I saw that wisdom excelled folly, as much as light differeth from darkness.  
 **14** The eyes of a wise man are in his head: the fool walketh in darkness: and I learned that they were to die both alike.  
 **15** And I said in my heart: If the death of the fool and mine shall be one, what doth it avail me, that I have applied myself more to the study of wisdom? And speaking with my own mind, I perceived that this also was vanity.  
-**16** For there shall be no remembrance of the wise no more than of the fool for ever, and the times to come shall cover all things together with oblivion: the learned dieth in like manner as the unlearned.  
+**16** For there shall be no remembrance of the wise no more than of the fool forever, and the times to come shall cover all things together with oblivion: the learned dieth in like manner as the unlearned.  
 **17** And therefore I was weary of my life, when I saw that all things under the sun are evil, and all vanity and vexation of spirit.  
 **18** Again I hated all my application wherewith I had earnestly laboured under the sun, being like to have an heir after me,  
-**19** Whom I know not whether he will be a wise man or a fool, and he shall have rule over all my labours with which I have laboured and been solicitous: and is there any thing so vain?  
-**20** Wherefore I left off and my heart renounced labouring any more under the sun.  
+**19** Whom I know not whether he will be a wise man or a fool, and he shall have rule over all my labours with which I have laboured and been solicitous: and is there anything so vain?  
+**20** Wherefore I left off and my heart renounced labouring anymore under the sun.  
 **21** For when a man laboureth in wisdom, and knowledge, and carefulness, he leaveth what he hath gotten to an idle man: so this also is vanity, and a great evil.  
-**22** For what profit shall a man have of all his labour, and vexation of spirit, with which he bath been tormented under the sun?  
-**23** All his days axe full of sorrows and miseries, even in the night he doth not rest in mind: and is not this vanity?  
+**22** For what profit shall a man have of all his labour, and vexation of spirit, with which he hath been tormented under the sun?  
+**23** All his days are full of sorrows and miseries, even in the night he doth not rest in mind: and is not this vanity?  
 **24** Is it not better to eat and drink, and to shew his soul good things of his labours? and this is from the hand of God.  
 **25** Who shall so feast and abound with delights as I?  
 **26** God hath given to a man that is good in his sight, wisdom, and knowledge, and joy: but to the sinner he hath given vexation, and superfluous care, to heap up and to gather together, and to give it to him that hath pleased God: but this also is vanity, and a fruitless solicitude of the mind.  
@@ -101,7 +101,7 @@ format: markdown
 **8** A time of love, and a time of hatred. A time of war, and a time of peace.  
 **9** What hath man more of his labour?  
 **10** I have seen the trouble, which God hath given the sons of men to be exercised in it.  
-**11** He hath made all things good in their time, and hath delivered the world to their consideration, so that man cannot flnd out the work which God hath made from the beginning to the end.  
+**11** He hath made all things good in their time, and hath delivered the world to their consideration, so that man cannot find out the work which God hath made from the beginning to the end.  
 **12** And I have known that there was no better thing than to rejoice, and to do well in this life.  
 **13** For every man that eateth and drinketh, and seeth good of his labour, this is the gift of God.  
 **14** I have learned that all the works which God hath made, continue for ever: we cannot add any thing, nor take away from those things which God hath made that he may be feared.  
@@ -121,7 +121,7 @@ format: markdown
 **1** I turned myself to other things, and I saw the oppressions that are done under the sun, and the tears of the innocent, and they had no comforter; and they were not able to resist their violence, being destitute of help from any.  
 **2** And I praised the dead rather than the living:  
 **3** And I judged him happier than them both, that is not yet born, nor hath seen the evils that are done under the sun.  
-**4** Again I considered all the labours of men, and I remarked that their industries are exposed to the envy of their neighhour: so in this also there is vanity, and fruitless care.  
+**4** Again I considered all the labours of men, and I remarked that their industries are exposed to the envy of their neighbour: so in this also there is vanity, and fruitless care.  
 **5** The fool foldeth his hands together, and eateth his own flesh, saying:  
 **6** Better is a handful with rest, than both hands full with labour, and vexation of mind.  
 **7** Considering I found also another vanity under the sun:  
@@ -150,7 +150,7 @@ format: markdown
 **8** Moreover there is the king that reigneth over all the land subject to him.  
 **9** A covetous man shall not be satisfied with money: and he that loveth riches shall reap no fruit from them: so this also is vanity.  
 **10** Where there are great riches, there are also many to eat them. And what doth it profit the owner, but that he seeth the riches with his eyes?  
-**11** Sleep is sweet to a labouring man, whether he eat lttle or much: but the fulness of the rich will not suffer him to sleep.  
+**11** Sleep is sweet to a labouring man, whether he eat little or much: but the fulness of the rich will not suffer him to sleep.  
 **12** There is also another grievous evil, which I have seen under the sun: riches kept to the hurt of the owner.  
 **13** For they are lost with very great affliction: he hath begotten a son, who shall be in extremity of want.  
 **14** As he came forth naked from his mother's womb, so shall he return, and shall take nothing away with him of his labour.  
@@ -158,7 +158,7 @@ format: markdown
 **16** All the days of his life he eateth in darkness, and in many cares, and in misery, and sorrow.  
 **17** This therefore hath seemed good to me, that a man should eat and drink, and enjoy the fruit of his labour, wherewith he hath laboured under the sun, all the days of his life, which God hath given him: and this is his portion.  
 **18** And every man to whom God hath given riches, and substance, and hath given him power to eat thereof, and to enjoy his portion, and to rejoice of his labour: this is the gift of God.  
-**19** For he shall not much remember the days of his life, because God entertaineth his heart with delight,  
+**19** For he shall not much remember the days of his life, because God entertaineth his heart with delight.  
 
 ---
 
@@ -173,7 +173,7 @@ format: markdown
 **7** All the labour of man is for his mouth, but his soul shall not be filled.  
 **8** What hath the wise man more than the fool? and what the poor man, but to go thither, where there is life?  
 **9** Better it is to see what thou mayst desire, than to desire that which thou canst not know. But this also is vanity, and presumption of spirit.  
-**10** He that shall be, his name is already called: and it is known, that he is man, and cannot contend in judgment with him that is stronger than himself.  
+**10** He that shall be, his name is already called: and it is known, that he is a man, and cannot contend in judgment with him that is stronger than himself.  
 **11** There are many words that have much vanity in disputing.  
 
 ---
@@ -192,7 +192,7 @@ format: markdown
 **10** Be not quickly angry: for anger resteth in the bosom of a fool.  
 **11** Say not: What thinkest thou is the cause that former times were better than they are now? for this manner of question is foolish.  
 **12** Wisdom with riches is more profitable, and bringeth more advantage to them that see the sun.  
-**13** For as wisdom is a defence, so money is a defence : but learning and wisdom excel in this, that they give life to him that possesseth them.  
+**13** For as wisdom is a defence, so money is a defence: but learning and wisdom excel in this, that they give life to him that possesseth them.  
 **14** Consider the works of God, that no man can correct whom he hath despised.  
 **15** In the good day enjoy good things, and beware beforehand of the evil day: for God hath made both the one and the other, that man may not find against him any just complaint.  
 **16** These things also I saw in the days of my vanity: A just man perisheth in his justice, and a wicked man liveth a long time in his wickedness.  
@@ -219,7 +219,7 @@ format: markdown
 **2** I observe the mouth of the king, and the commandments of the oath of God.  
 **3** Be not hasty to depart from his face, and do not continue in an evil work: for he will do all that pleaseth him:  
 **4** And his word is full of power: neither can any man say to him: Why dost thou so?  
-**5** He that keepeth the commandments shall find no evil. The heart of a wise man understandeth time and answer.  
+**5** He that keepeth the commandment, shall find no evil. The heart of a wiser man understandeth time and answer.  
 **6** There is a time and opportunity for every business, and great affliction for man:  
 **7** Because he is ignorant of things past, and things to come he cannot know by any messenger.  
 **8** It is not in man's power to stop the spirit, neither hath he power in the day of death, neither is he suffered to rest when war is at hand, neither shall wickedness save the wicked.  
@@ -228,7 +228,7 @@ format: markdown
 **11** For because sentence is not speedily pronounced against the evil, the children of men commit evils without any fear.  
 **12** But though a sinner do evil a hundred times, and by patience be borne withal, I know from thence that it shall be well with them that fear God, who dread his face.  
 **13** But let it not be well with the wicked, neither let his days be prolonged, but as a shadow let them pass away that fear not the face of the Lord.  
-**14** There is also another vanity, which is done upon the earth. There are just men to whom evils happen, as though they had done the works of the wicked: and there are wicked men, who are as secure, as though they had the deeds of the just: but this also I judge most vain.  
+**14** There is also another vanity, which is done upon the earth. There are just men to whom evils happen, as though they had done the works of the wicked: and there are wicked men, who are as secure as though they had the deeds of the just: but this also I judge most vain.  
 **15** Therefore I commended mirth, because there was no good for a man under the sun, but to eat, and drink, and be merry, and that he should take nothing else with him of his labour in the days of his life, which God hath given him under the sun.  
 **16** And I applied my heart to know wisdom, and to understand the distraction that is upon earth: for there are some that day and night take no sleep with their eyes.  
 **17** And I understood that man can find no reason of all those works of God that are done under the sun: and the more he shall labour to seek, so much the less shall he find: yea, though the wise man shall say, that he knoweth it, he shall not be able to find it.  
@@ -262,7 +262,7 @@ format: markdown
 
 **1** Dying flies spoil the sweetness of the ointment. Wisdom and glory is more precious than a small and shortlived folly.  
 **2** The heart of a wise man is in his right hand, and the heart of a fool is in his left hand.  
-**3** Yea, and the fool when he walketh in the way, whereas be himself is a fool, esteemeth all men fools.  
+**3** Yea, and the fool when he walketh in the way, whereas he himself is a fool, esteemeth all men fools.  
 **4** If the spirit of him that hath power, ascend upon thee, leave not thy place: because care will make the greatest sins to cease.  
 **5** There is an evil that I have seen under the sun, as it were by an error proceeding from the face of the prince:  
 **6** A fool set in high dignity, and the rich sitting beneath.  
@@ -274,7 +274,7 @@ format: markdown
 **12** The words of the mouth of a wise man are grace: but the lips of a fool shall throw him down headlong.  
 **13** The beginning of his words is folly, and the end of his talk is a mischievous error.  
 **14** A fool multiplieth words. A man cannot tell what hath been before him: and what shall be after him, who can tell him?  
-**15** The labour of fools shall afflict them that know not bow to go to the city.  
+**15** The labour of fools shall afflict them that know not how to go to the city.  
 **16** Woe to thee, O land, when thy king is a child, and when the princes eat in the morning.  
 **17** Blessed is the land, whose king is noble, and whose princes eat in due season for refreshment, and not for riotousness.  
 **18** By slothfulness a building shall be brought down, and through the weakness of hands, the house shall drop through.  
@@ -290,7 +290,7 @@ format: markdown
 **3** If the clouds be full, they will pour out rain upon the earth. If the tree fall to the south, or to the north, in what place soever it shall fall, there shall it be.  
 **4** He that observeth the wind, shall not sow: and he that considereth the clouds, shall never reap.  
 **5** As thou knowest not what is the way of the spirit, nor how the bones are joined together in the womb of her that is with child: so thou knowest not the works of God, who is the maker of all.  
-**6** In the morning sow thy seed, and In the evening let not thy hand cease: for thou knowest not which may rather spring up, this or that: and if both together, it shall be the better.  
+**6** In the morning sow thy seed, and in the evening let not thy hand cease: for thou knowest not which may rather spring up, this or that: and if both together, it shall be the better.  
 **7** The light is sweet, and it is delightful for the eyes to see the sun.  
 **8** If a man live many years, and have rejoiced in them all, he must remember the darksome time, and the many days: which when they shall come, the things past shall be accused of vanity.  
 **9** Rejoice therefore, O young man, in thy youth, and let thy heart be in that which is good in the days of thy youth, and walk in the ways of thy heart, and in the sight of thy eyes: and know that for all these God will bring thee into judgment.  

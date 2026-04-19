@@ -3,7 +3,7 @@
 Main Pipeline Runner
 
 Orchestrates the complete data extraction pipeline for all three sources:
-1. Douay-Rheims Bible (66 books from API + 7 Deuterocanonical books from GitHub)
+1. Douay-Rheims Bible (Project Gutenberg #8300, 73 books)
 2. Haydock Commentary
 3. Roman Catechism
 
@@ -23,9 +23,9 @@ project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root))
 
 from data_engineering.data_sources.bible_douay_rheims.extract_bible import main as extract_bible
-from data_engineering.data_sources.bible_douay_rheims.extract_deuterocanonical import main as extract_deuterocanonical
 from data_engineering.data_sources.bible_commentary_haydock.extract_commentary import main as extract_commentary
 from data_engineering.data_sources.catholic_catechism_trent.extract_catechism import main as extract_catechism
+from data_engineering.scripts.validate_bible_integrity import validate_bible_integrity
 
 # Set up logging
 logging.basicConfig(
@@ -39,7 +39,7 @@ def load_config():
     """Load pipeline configuration."""
     config_path = Path(__file__).parent.parent / "config" / "pipeline_config.yaml"
     try:
-        with open(config_path, 'r') as f:
+        with open(config_path, encoding="utf-8") as f:
             return yaml.safe_load(f)
     except Exception as e:
         logger.error(f"Error loading config: {e}")
@@ -72,61 +72,22 @@ def copy_to_final_output(source_dir: Path, dest_dir: Path, description: str):
 
 
 def run_bible_extraction():
-    """Run Douay-Rheims Bible extraction (patchwork approach).
-
-    Extracts 66 books from bible-api.com and 7 Deuterocanonical books from GitHub
-    to complete the 73-book Catholic canon.
-    """
+    """Run Douay-Rheims Bible extraction from offline Gutenberg #8300 text."""
     logger.info("=" * 60)
-    logger.info("Extracting Douay-Rheims Bible (Complete 73-book Catholic canon)...")
+    logger.info("Extracting Douay-Rheims Bible (Project Gutenberg #8300, 73 books)...")
     logger.info("=" * 60)
 
-    success = True
-
-    # Step 1: Extract 66 books from API
-    logger.info("Step 1/2: Extracting 66 books from bible-api.com...")
     try:
         result = extract_bible()
         if result != 0:
-            logger.warning("Bible API extraction completed with warnings")
-            success = False
+            logger.warning("Bible extraction completed with warnings (non-zero exit)")
+            return False
     except Exception as e:
-        logger.error(f"Bible API extraction failed: {e}", exc_info=True)
-        success = False
+        logger.error("Bible extraction failed: %s", e, exc_info=True)
+        return False
 
-    # Step 2: Extract 7 Deuterocanonical books from GitHub
-    logger.info("Step 2/2: Extracting 7 Deuterocanonical books from GitHub...")
-    try:
-        result = extract_deuterocanonical()
-        if result != 0:
-            logger.warning("Deuterocanonical extraction completed with warnings")
-            success = False
-    except Exception as e:
-        logger.error(f"Deuterocanonical extraction failed: {e}", exc_info=True)
-        success = False
-
-    # Step 3: Repair dummy placeholders / verse numbering gaps (post-processing)
-    logger.info("=" * 60)
-    logger.info("Step 3/3: Repairing bible-api.com dummy verses (post-processing)...")
-    try:
-        from data_engineering.scripts.post_process_repair_douay_rheims_dummy_verses import (
-            main as repair_douay_rheims_dummy_verses,
-        )
-
-        repair_result = repair_douay_rheims_dummy_verses()
-        if repair_result != 0:
-            logger.warning("Bible dummy-verse repair completed with issues")
-            success = False
-    except Exception as e:
-        logger.error(f"Dummy-verse repair failed: {e}", exc_info=True)
-        success = False
-
-    if success:
-        logger.info("✅ Complete: All 73 books extracted successfully")
-    else:
-        logger.warning("⚠️  Bible extraction completed with some issues")
-
-    return success
+    logger.info("✅ Complete: All 73 books extracted to final output")
+    return True
 
 
 def run_commentary_extraction():
@@ -170,8 +131,8 @@ def validate_outputs(config):
 
     all_valid = True
 
-    # Validate Bible
-    bible_dir = Path(config['paths']['processed_data']['douay_rheims'])
+    # Validate Bible (extractor writes directly to final_output)
+    bible_dir = Path(config["paths"]["final_output"]["douay_rheims"])
     expected_books = config['validation']['douay_rheims']['expected_books']
     bible_files = list(bible_dir.glob("*.md")) if bible_dir.exists() else []
 
@@ -180,6 +141,44 @@ def validate_outputs(config):
         all_valid = False
     else:
         logger.info(f"✅ Bible: Found {len(bible_files)} books")
+        integrity = validate_bible_integrity(config)
+        for warn in integrity.warnings:
+            logger.warning(f"Bible integrity trend warning: {warn}")
+        if integrity.ok:
+            logger.info(
+                "✅ Bible integrity: files=%s verses_checked=%s skipped_commentary=%s "
+                "skipped_preface=%s joined_continuations=%s",
+                integrity.summary.get("files_found"),
+                integrity.summary.get("verses_checked"),
+                integrity.summary.get("skipped_commentary"),
+                integrity.summary.get("skipped_preface"),
+                integrity.summary.get("joined_continuations"),
+            )
+            logger.info(
+                "✅ Bible spot-check: sampled=%s matched=%s mismatched=%s unavailable=%s seed=%s",
+                integrity.summary.get("spotcheck_sampled"),
+                integrity.summary.get("spotcheck_matched"),
+                integrity.summary.get("spotcheck_mismatched"),
+                integrity.summary.get("spotcheck_unavailable"),
+                integrity.summary.get("spotcheck_seed"),
+            )
+            logger.info(
+                "✅ DRBO mismatch hunt: sampled=%s true_mismatches=%s stopped=%s hunt_seed=%s",
+                integrity.summary.get("mismatch_hunt_sampled"),
+                integrity.summary.get("mismatch_hunt_true_mismatches"),
+                integrity.summary.get("mismatch_hunt_stopped_because"),
+                integrity.summary.get("mismatch_hunt_seed"),
+            )
+            report_path = integrity.summary.get("report_path")
+            if report_path:
+                logger.info("Validation markdown report: %s", report_path)
+        else:
+            all_valid = False
+            logger.error("❌ Bible integrity checks failed:")
+            for err in integrity.errors[:20]:
+                logger.error("  - %s", err)
+            if len(integrity.errors) > 20:
+                logger.error("  ... and %s more integrity errors", len(integrity.errors) - 20)
 
     # Validate Commentary
     commentary_dir = Path(config['paths']['processed_data']['haydock'])
@@ -257,11 +256,6 @@ def main():
         logger.info("=" * 60)
 
         config = load_config()
-        copy_to_final_output(
-            Path(config['paths']['processed_data']['douay_rheims']),
-            Path(config['paths']['final_output']['douay_rheims']),
-            "Bible"
-        )
         copy_to_final_output(
             Path(config['paths']['processed_data']['haydock']),
             Path(config['paths']['final_output']['haydock']),

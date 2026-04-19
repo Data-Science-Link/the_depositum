@@ -4,7 +4,7 @@ canonical_position: 37
 testament: Old Testament
 section: Prophetic Books
 book_id: AMO
-translation: Douay-Rheims 1899 American Edition
+translation: Douay-Rheims (Challoner revision, Project Gutenberg #8300)
 total_chapters: 9
 tags:
   - bible
@@ -34,7 +34,7 @@ format: markdown
 
 ## Chapter 1
 
-**1** The words of Amos, who was among herdsmen of Thecua: which he saw concerning Israel in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel two years before the earthquake.  
+**1** The words of Amos, who was among the herdsmen of Thecua: which he saw concerning Israel in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel two years before the earthquake.  
 **2** And he said: The Lord will roar from Sion, and utter his voice from Jerusalem: and the beautiful places of the shepherds have mourned, and the top of Carmel is withered.  
 **3** Thus saith the Lord: For three crimes of Damascus, and for four I will not convert it: because they have thrashed Galaad with iron wains.  
 **4** And I will send a fire into the house of Azael, and it shall devour the houses of Benadad.  
@@ -44,7 +44,7 @@ format: markdown
 **8** And I will cut off the inhabitant from Azotus, and him that holdeth the sceptre from Ascalon: and I will turn my hand against Accaron, and the rest of the Philistines shall perish, saith the Lord God.  
 **9** Thus saith the Lord: For three crimes of Tyre, and for four I will not convert it: because they have shut up an entire captivity in Edom, and have not remembered the covenant of brethren.  
 **10** And I will send a fire upon the wall of Tyre, and it shall devour the houses thereof.  
-**11** Thus saith the Lord: For three crimes of Edom, and for four I will not convert him: because he hath pursued his brother with the sword, and hath cast off all pity, and hath carried on his fury, and hath kept his wrath to the end.  
+**11** Thus saith the Lord: For three crimes of Edom, and for four I will not convert him: because he hath pursued his brother with the sword, and hath carried on his fury, and hath kept his wrath to the end.  
 **12** I will send a fire into Theman: and it shall devour the houses of Bosra.  
 **13** Thus saith the Lord: For three crimes of the children of Ammon, and for four I will not convert him: because he hath ripped up the women with child of Galaad to enlarge his border.  
 **14** And I will kindle a fire in the wall of Rabba: and it shall devour the houses thereof with shouting in the day of battle, and with a whirlwind in the day of trouble.  
@@ -55,7 +55,7 @@ format: markdown
 ## Chapter 2
 
 **1** Thus saith the Lord: For three crimes of Moab, and for four I will not convert him: because he hath burnt the bones of the king of Edom even to ashes.  
-**2** And I will seed a fire into Moab, and it shall devour the houses of Carioth: and Moab shall die with a noise, with the sound of the trumpet:  
+**2** And I will send a fire into Moab, and it shall devour the houses of Carioth: and Moab shall die with a noise, with the sound of the trumpet:  
 **3** And I will cut off the judge from the midst thereof, and will slay all his princes with him, saith the Lord.  
 **4** Thus saith the Lord: For three crimes of Juda, and for four I will not convert him: because he hath cast away the law of the Lord, and hath not kept his commandments: for their idols have caused them to err, after which their fathers have walked.  
 **5** And I will send a fire into Juda, and it shall devour the houses of Jerusalem.  
@@ -78,15 +78,15 @@ format: markdown
 **1** Hear the word that the Lord hath spoken concerning you, O ye children of Israel: concerning the whole family that I brought up out of the land of Egypt, saying:  
 **2** You only have I known of all the families of the earth: therefore will I visit upon you all your iniquities.  
 **3** Shall two walk together except they be agreed?  
-**4** Will a lion roar in the forest, if he have no prey? will the lion's whelp cry out of his den, if he have taken nothing ?  
-**5** Will the bird fall into the snare upon the earth, if there be no fowler? Shall the snare be taken up from the earth, before it hath taken somewhat ?  
+**4** Will a lion roar in the forest, if he have no prey? will the lion's whelp cry out of his den, if he have taken nothing?  
+**5** Will the bird fall into the snare upon the earth, if there be no fowler? Shall the snare be taken up from the earth, before it hath taken somewhat?  
 **6** Shall the trumpet sound in a city, and the people not be afraid? Shall there be evil in a city, which the Lord hath not done?  
 **7** For the Lord God doth nothing without revealing his secret to his servants the prophets.  
 **8** The lion shall roar, who will not fear? The Lord God hath spoken, who shall not prophesy?  
 **9** Publish it in the houses of Azotus, and in the houses of the land of Egypt, and say: Assemble yourselves upon the mountains of Samaria, and behold the many follies in the midst thereof, and them that suffer oppression in the inner rooms thereof.  
 **10** And they have not known to do the right thing, saith the Lord, storing up iniquity, and robberies in their houses.  
 **11** Therefore thus saith the Lord God: The land shall be in tribulation, and shall be compassed about: and thy strength shall be taken away from thee, and thy houses shall be spoiled.  
-**12** Thus saith the Lord: As if a shepherd should get out of the lion's mouth two legs, or the tip of the ear: so shall the children of Israel be taken out that dwell in Samaria, in a piece of a bed, and in the couch of Damascus.  
+**12** Thus saith the Lord: As if a shepherd should get out of the lion's mouth two legs, or the tip of the ear: so shall the children of Israel be taken out that dwell in Samaria, in a place of a bed, and in the couch of Damascus.  
 **13** Hear ye, and testify in the house of Jacob, saith the Lord the God of hosts:  
 **14** That in the day when I shall begin to visit the transgressions of Israel, I will visit upon him, and upon the altars of Bethel: and the horns of the altars shall be cut off, and shall fall to the ground.  
 **15** And I will strike the winter house with the summer house: and the houses of ivory shall perish, and many houses shall be destroyed, saith the Lord.  
@@ -101,7 +101,7 @@ format: markdown
 **4** Come ye to Bethel, and do wickedly: to Galgal, and multiply transgressions: and bring in the morning your victims, your tithes in three days.  
 **5** And offer a sacrifice of praise with leaven: and call free offerings, and proclaim it: for so you would do, O children of Israel, saith the Lord God.  
 **6** Whereupon I also have given you dulness of teeth in all your cities, and want of bread in all your places: yet you have not returned to me, saith the Lord.  
-**7** I also have withholden the rain from you, when there were yet three months to the harvest: and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon: and the piece whereupon I rained not, withered.  
+**7** I also have withholden the rain from you, when there were yet three months to the harvest: and I caused it to rain upon on city, and caused it not to rain upon another city: one piece was rained upon: and the piece whereupon I rained not, withered.  
 **8** And two and three cities went to one city to drink water, and were not filled: yet you returned not to me, saith the Lord.  
 **9** I struck you with a burning wind, and with mildew, the palmerworm hath eaten up your many gardens, and your vineyards: your olive groves, and fig groves: yet you returned not to me, saith the Lord.  
 **10** I sent death upon you in the way of Egypt, I slew your young men with the sword, even to the captivity of your horses: and I made the stench of your camp to come up into your nostrils: yet you returned not to me, saith the Lord.  
@@ -124,7 +124,7 @@ format: markdown
 **9** He that with a smile bringeth destruction upon the strong, and waste upon the mighty.  
 **10** They have hated him that rebuketh in the gate: and have abhorred him that speaketh perfectly.  
 **11** Therefore because you robbed the poor, and took the choice prey from him: you shall build houses with square stone, and shall not dwell in them: you shall plant most delightful vineyards, and shall not drink the wine of them.  
-**12** Because I know your manifold crimes, and your grievous sine: enemies of the just, taking bribes, and oppressing the poor in the gate.  
+**12** Because I know your manifold crimes, and your grievous sins: enemies of the just, taking bribes, and oppressing the poor in the gate.  
 **13** Therefore the prudent shall keep silence at that time, for it is an evil time.  
 **14** Seek ye good, and not evil, that you may live: and the Lord the God of hosts will be with you, as you have said.  
 **15** Hate evil, and love good, and establish judgment in the gate: it may be the Lord the God of hosts may have mercy on the remnant of Joseph.  
@@ -155,7 +155,7 @@ format: markdown
 **8** The Lord God hath sworn by his own soul, saith the Lord the God of hosts: I detest the pride of Jacob, and I hate his houses, and I will deliver up the city with the inhabitants thereof.  
 **9** And if there remain ten men in one house, they also shall die.  
 **10** And a man's kinsman shall take him up, and shall burn him, that he may carry the bones out of the house; and he shall say to him that is in the inner rooms of the house: Is there yet any with thee?  
-**11** And he shall answer: There is an end. And he shall any to him: Hold thy peace, and mention not the name of the Lord.  
+**11** And he shall answer: There is an end. And he shall say to him: Hold thy peace, and mention not the name of the Lord.  
 **12** For behold the Lord hath commanded, and he will strike the greater house with breaches, and the lesser house with clefts.  
 **13** Can horses run upon the rocks, or can any one plough with buffles? for you have turned judgment into bitterness, and the fruit of justice into wormwood.  
 **14** You that rejoice in a thing of nought: you that say: Have we not taken unto us horns by our own strength?  
@@ -208,13 +208,13 @@ format: markdown
 
 **1** I saw the Lord standing upon the altar, and he said: Strike the hinges, and let the lintels be shook: for there is covetousness in the head of them all, and I will slay the last of them with the sword: there shall be no flight for them: they shall flee, and he that shall flee of them shall not be delivered.  
 **2** Though they go down even to hell, thence shall my hand bring them out: and though they climb up to heaven, thence will I bring them down.  
-**3** And though they be hid in the top of Carmel, I will search and take them away from thence : and though they hide themselves from my eyes in the depth of the sea, there will I command the serpent and he shall bite them.  
+**3** And though they be hid in the top of Carmel, I will search and take them away from thence: and though they hide themselves from my eyes in the depth of the sea, there will I command the serpent and he shall bite them.  
 **4** And if they go into captivity before their enemies, there will I command the sword, and it shall kill them. And I will set my eyes upon them for evil, and not for good.  
 **5** And the Lord the God of hosts is he who toucheth the earth, and it shall melt: and all that dwell therein shall mourn: and it shall rise up as a river, and shall run down as the river of Egypt.  
 **6** He that buildeth his ascension in heaven, and hath founded his bundle upon the earth: who calleth the waters of the sea, and poureth them out upon the face of the earth, the Lord is his name.  
 **7** Are not you as the children of the Ethiopians unto me, O children of Israel, saith the Lord? did not I bring up Israel, out of the land of Egypt: and the Philistines out of Cappadocia, and the Syrians out of Cyrene?  
 **8** Behold the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from the face of the earth: but yet I will not utterly destroy the house of Jacob, saith the Lord.  
-**9** For behold I will command, and I will sift the house of Israel among all nations, as corn is sifted in a sieve: and there shall not a little stone fall to the ground.  
+**9** For behold I will command, and I will sift the house of Israel among all nations, as corn is sifted in a sleve: and there shall not a little stone fall to the ground.  
 **10** All the sinners of my people shall fall by the sword: who say: The evils shall not approach, and shall not come upon us.  
 **11** In that day I will raise up the tabernacle of David, that is fallen: and I will close up the breaches of the walls thereof, and repair what was fallen: and I will rebuild it as in the days of old.  
 **12** That they may possess the remnant of Edom, and all nations, because my name is invoked upon them: saith the Lord that doth these things.  

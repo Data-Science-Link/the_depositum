@@ -4,7 +4,7 @@ canonical_position: 26
 testament: Old Testament
 section: Wisdom Books
 book_id: SNG
-translation: Douay-Rheims 1899 American Edition
+translation: Douay-Rheims (Challoner revision, Project Gutenberg #8300)
 total_chapters: 8
 tags:
   - bible
@@ -35,7 +35,7 @@ format: markdown
 
 **1** Let him kiss me with the kiss of his mouth: for thy breasts are better than wine,  
 **2** Smelling sweet of the best ointments. Thy name is as oil poured out: therefore young maidens have loved thee.  
-**3** Draw me: we will run after thee to the odour of thy ointments. The king hath brought me into his storerooms: we will be glad and rejoice in thee, remembering thy breasts more than wine: the righteous love thee.  
+**3** Draw me: we will run after thee to the odour of thy ointments. The king hath brought me into his storerooms: we will be glad and rejoice in thee, remembering thy breasts more than wine: the rightous love thee.  
 **4** I am black but beautiful, O ye daughters of Jerusalem, as the tents of Cedar, as the curtains of Solomon.  
 **5** Do not consider me that I am brown, because the sun hath altered my colour: the sons of my mother have fought against me, they have made me the keeper in the vineyards: my vineyard I have not kept.  
 **6** Shew me, O thou whom my soul loveth, where thou feedest, where thou liest in the midday, lest I begin to wander after the flocks of thy companions.  
@@ -46,7 +46,7 @@ format: markdown
 **11** While the king was at his repose, my spikenard sent forth the odour thereof.  
 **12** A bundle of myrrh is my beloved to me, he shall abide between my breasts.  
 **13** A cluster of cypress my love is to me, in the vineyards of Engaddi.  
-**14** Behold thou art fair, O my love, behold thou art fair, thy eyes are as those of doves.  
+**14** Behold thou are fair, O my love, behold thou are fair, thy eyes are as those of doves.  
 **15** Behold thou art fair, my beloved, and comely. Our bed is flourishing.  
 **16** The beams of our houses are of cedar, our rafters of cypress trees.  
 
@@ -60,7 +60,7 @@ format: markdown
 **4** He brought me into the cellar of wine, he set in order charity in me.  
 **5** Stay me up with flowers, compass me about with apples: because I languish with love.  
 **6** His left hand is under my head, and his right hand shall embrace me.  
-**7** I adjure you, O ye daughters of Jerusalem, by the roes, and the harts of the, fields, that you stir not up, nor make the beloved to awake, till she please.  
+**7** I adjure you, O ye daughters of Jerusalem, by the roes, and the harts of the field, that you stir not up, nor make the beloved to awake, till she please.  
 **8** The voice of my beloved, behold he cometh leaping upon the mountains, skipping over the hills.  
 **9** My beloved is like a roe, or a young hart. Behold he standeth behind our wall, looking through the windows, looking through the lattices.  
 **10** Behold my beloved speaketh to me: Arise, make haste, my love, my dove, my beautiful one, and come.  
@@ -83,17 +83,17 @@ format: markdown
 **5** I adjure you, O daughters of Jerusalem, by the roes and the harts of the fields, that you stir not up, nor awake my beloved, till she please.  
 **6** Who is she that goeth up by the desert, as a pillar of smoke of aromatical spices, of myrrh, and frankincense, and of all the powders of the perfumer?  
 **7** Behold threescore valiant ones of the most valiant of Israel, surrounded the bed of Solomon?  
-**8** All holding swords, and most expert in war : every man's sword upon his thigh, because of fears in the night.  
+**8** All holding swords, and most expert in war: every man's sword upon his thigh, because of fears in the night.  
 **9** King Solomon hath made him a litter of the wood of Libanus:  
-**10** The pillars thereof he made of silver, the seat of gold, the going up of purple : the midst he covered with charity for the daughters of Jerusalem.  
-**11** Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of his espousals, and in the day of the joy of his heart.  
+**10** The pillars thereof he made of silver, the seat of gold, the going up of purple: the midst he covered with charity for the daughters of Jerusalem.  
+**11** Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of the joy of his heart.  
 
 ---
 
 ## Chapter 4
 
-**1** How beautiful art thou, my love, how beautiful art thou! thy eyes are doves' eyes, besides what is hid within. Thy hair is as flocks of goats, which Come up from mount Galaad.  
-**2** Thy teeth as flocks of sheep, that are shorn which come up from the washing, all with twins, and there is none barren among them.  
+**1** How beautiful art thou, my love, how beautiful art thou! thy eyes are doves' eyes, besides what is hid within. Thy hair is as flocks of goats, which come up from mount Galaad.  
+**2** Thy teeth as flocks of sheep, that are shorn, which come up from the washing, all with twins, and there is none barren among them.  
 **3** Thy lips are as a scarlet lace: and thy speech sweet. Thy cheeks are as a piece of a pomegranate, besides that which lieth hid within.  
 **4** Thy neck, is as the tower of David, which is built with bulwarks: a thousand bucklers hang upon it, all the armour of valiant men.  
 **5** Thy two breasts like two young roes that are twins, which feed among the lilies.  
@@ -114,7 +114,7 @@ format: markdown
 ## Chapter 5
 
 **1** Let my beloved come into his garden, and eat the fruit of his apple trees. I am come into my garden, O my sister, my spouse, I have gathered my myrrh, with my aromatical spices: I have eaten the honeycomb with my honey, I have drunk my wine with my milk: eat, O friends, and drink, and be inebriated, my dearly beloved.  
-**2** I sleep, and my heart watcheth; the voice of my beloved knocking: Open to me, my sister, my love, my dove, my undefiled: for my head is full of dew, and my locks of the drops of the nights.  
+**2** I sleep, and my heart watcheth: the voice of my beloved knocking: Open to me, my sister, my love, my dove, my undefiled: for my head is full of dew, and my locks of the drops of the nights.  
 **3** I have put off my garment, how shall I put it on? I have washed my feet, how shall I defile them?  
 **4** My beloved put his hand through the key hole, and my bowels were moved at his touch.  
 **5** I arose up to open to my beloved: my hands dropped with myrrh, and my fingers were full of the choicest myrrh.  
@@ -125,7 +125,7 @@ format: markdown
 **10** My beloved is white and ruddy, chosen out of thousands.  
 **11** His head is as the finest gold: his locks as branches of palm trees, black as a raven.  
 **12** His eyes as doves upon brooks of waters, which are washed with milk, and sit beside the plentiful streams.  
-**13** His cheeks are as beds of aromatical spices set by the perfumers. His lips are as lilies dropping choice myrrb.  
+**13** His cheeks are as beds of aromatical spices set by the perfumers. His lips are as lilies dropping choice myrrh.  
 **14** His hands are turned and as of gold, full of hyacinths. His belly as of ivory, set with sapphires.  
 **15** His legs as pillars of marble, that are set upon bases of gold. His form as of Libanus, excellent as the cedars.  
 **16** His throat most sweet, and he is all lovely: such is my beloved, and he is my friend, O ye daughters of Jerusalem.  
@@ -137,7 +137,7 @@ format: markdown
 
 **1** My beloved is gone down into his garden, to the bed of aromatical spices, to feed in the gardens, and to gather lilies.  
 **2** I to my beloved, and my beloved to me, who feedeth among the lilies.  
-**3** Thou art beautiful, O my love, sweet and comely as Jerusalem: terrible as an army set in array.  
+**3** Thou art beautiful, O my love, sweet and comely as Jerusalem terrible as an army set in array.  
 **4** Turn away thy eyes from me, for they have made me flee away. Thy hair is as a flock of goats, that appear from Galaad.  
 **5** Thy teeth as a flock of sheep, which come up from the washing, all with twins, and there is none barren among them.  
 **6** Thy cheeks are as the bark of a pomegranate, beside what is hidden within thee.  
@@ -146,7 +146,7 @@ format: markdown
 **9** Who is she that cometh forth as the morning rising, fair as the moon, bright as the sun, terrible as an army set in array?  
 **10** I went down into the garden of nuts, to see the fruits of the valleys, and to look if the vineyard had flourished, and the pomegranates budded.  
 **11** I knew not: my soul troubled me for the chariots of Aminadab.  
-**12** Return, return, O Sulamitess : return, return that we may behold thee.  
+**12** Return, return, O Sulamitess: return, return that we may behold thee.  
 
 ---
 
@@ -171,14 +171,14 @@ format: markdown
 ## Chapter 8
 
 **1** Who shall give thee to me for my brother, sucking the breasts of my mother, that I may find thee without, and kiss thee, and now no man may despise me?  
-**2** I will take hold of thee, and bring thee Into my mother's house: there thou shalt teach me, and I will give thee a cup of spiced wine and new wine of my pomegranates.  
+**2** I will take hold of thee, and bring thee into my mother's house: there thou shalt teach me, and I will give thee a cup of spiced wine and new wine of my pomegranates.  
 **3** His left hand under my head, and his right hand shall embrace me.  
 **4** I adjure you, O daughters of Jerusalem, that you stir not up, nor awake my love till she please.  
 **5** Who is this that cometh up from the desert, flowing with delights, leaning upon her beloved? Under the apple tree I raised thee up: there thy mother was corrupted, there she was defloured that bore thee.  
 **6** Put me as a seal upon thy heart, as a seal upon thy arm, for love is strong as death, jealousy as hard as hell, the lamps thereof are fire and flames.  
 **7** Many waters cannot quench charity, neither can the floods drown it: if a man should give all the substance of his house for love, he shall despise it as nothing.  
 **8** Our sister is little, and hath no breasts. What shall we do to our sister in the day when she is to be spoken to?  
-**9** If she be a wall: let us build upon it bulwarks of silver: if she be a door, let us join it together with boards or cedar.  
+**9** If she be a wall: let us build upon it bulwarks of silver: if she be a door, let us join it together with boards of cedar.  
 **10** I am a wall: and my breasts are as a tower since I am become in his presence as one finding peace.  
 **11** The peaceable had a vineyard, in that which hath people: he let out the same to keepers, every man bringeth for the fruit thereof a thousand pieces of silver.  
 **12** My vineyard is before me. A thousand are for thee, the peaceable, and two hundred for them that keep the fruit thereof.  
