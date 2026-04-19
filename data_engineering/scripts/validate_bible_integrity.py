@@ -37,6 +37,11 @@ VALIDATION_ARCHIVE_DIR = Path(
 DEFAULT_SPOTCHECK_SAMPLE_SIZE = 100
 DEFAULT_SPOTCHECK_BASE_URL = "https://www.drbo.org"
 NEAR_MATCH_THRESHOLD = 0.985
+# After the fixed-size random sample: keep drawing until this many true mismatches (below
+# near-match threshold) or this many successful comparisons—whichever comes first.
+MISMATCH_HUNT_TARGET_MISMATCHES = 20
+MISMATCH_HUNT_MAX_SAMPLES = 400
+MISMATCH_HUNT_SEED_OFFSET = 1_000_003
 CANONICAL_VARIANT_MAPPINGS: List[Tuple[str, str]] = [
     ("to morrow", "tomorrow"),
     ("bloodofferings", "blood offerings"),
@@ -184,6 +189,81 @@ def _parse_drbo_chapter_verses(html_text: str) -> Dict[int, str]:
     return verses
 
 
+def _build_spot_sample_from_verse_row(
+    row: Dict[str, object],
+    chapter_cache: Dict[Tuple[int, int], Dict[int, str]],
+    session: requests.Session,
+    base_url: str,
+    warnings: List[str],
+) -> Optional[SpotCheckSample]:
+    """Compare one local verse to DRBO; return None if that verse is unavailable remotely."""
+    canon_pos = int(row["canonical_position"])
+    chapter_num = int(row["chapter"])
+    verse_num = int(row["verse"])
+    local_text = str(row["text"])
+    cache_key = (canon_pos, chapter_num)
+    if cache_key not in chapter_cache:
+        url = _drbo_chapter_url(base_url, canon_pos, chapter_num)
+        try:
+            response = session.get(url, timeout=30)
+            response.raise_for_status()
+            chapter_cache[cache_key] = _parse_drbo_chapter_verses(response.text)
+        except requests.exceptions.RequestException as exc:
+            warnings.append(f"DRBO fetch failed for book={canon_pos} chapter={chapter_num}: {exc}")
+            chapter_cache[cache_key] = {}
+
+    remote_chapter = chapter_cache[cache_key]
+    remote_text = remote_chapter.get(verse_num)
+    if remote_text is None:
+        return None
+
+    local_norm = _normalized_compare_text(local_text)
+    remote_norm = _normalized_compare_text(remote_text)
+    similarity = SequenceMatcher(None, local_norm, remote_norm).ratio()
+    is_exact_match = local_norm == remote_norm
+    is_near_match = (not is_exact_match) and similarity >= NEAR_MATCH_THRESHOLD
+    return SpotCheckSample(
+        canonical_position=canon_pos,
+        book=str(row["book"]),
+        chapter=chapter_num,
+        verse=verse_num,
+        local_text=local_text,
+        remote_text=remote_text,
+        local_norm=local_norm,
+        remote_norm=remote_norm,
+        similarity=similarity,
+        match=(is_exact_match or is_near_match),
+        note="exact_match" if is_exact_match else ("near_match" if is_near_match else "text mismatch"),
+    )
+
+
+def _spot_check_summary_from_samples(
+    samples: List[SpotCheckSample],
+    unavailable: int,
+    seed: int,
+    attempted_refs: int,
+) -> Dict[str, object]:
+    exact_matched = sum(1 for s in samples if s.note == "exact_match")
+    near_matched = sum(1 for s in samples if s.note == "near_match")
+    matched = exact_matched + near_matched
+    mismatched = sum(1 for s in samples if s.note == "text mismatch")
+    exact_pct = (100.0 * exact_matched / len(samples)) if samples else 0.0
+    near_plus_exact_pct = (100.0 * matched / len(samples)) if samples else 0.0
+    return {
+        "sampled": len(samples),
+        "exact_matched": exact_matched,
+        "exact_match_percent": round(exact_pct, 2),
+        "near_matched": near_matched,
+        "matched": matched,
+        "near_plus_exact_percent": round(near_plus_exact_pct, 2),
+        "mismatched": mismatched,
+        "unavailable": unavailable,
+        "attempted_refs": attempted_refs,
+        "seed": seed,
+        "near_match_threshold": NEAR_MATCH_THRESHOLD,
+    }
+
+
 def _run_drbo_spot_check(
     output_dir: Path,
     sample_size: int,
@@ -217,68 +297,178 @@ def _run_drbo_spot_check(
             continue
         used_refs.add(ref_key)
 
-        canon_pos = int(row["canonical_position"])
-        chapter_num = int(row["chapter"])
-        verse_num = int(row["verse"])
-        local_text = str(row["text"])
-        cache_key = (canon_pos, chapter_num)
-        if cache_key not in chapter_cache:
-            url = _drbo_chapter_url(base_url, canon_pos, chapter_num)
-            try:
-                response = session.get(url, timeout=30)
-                response.raise_for_status()
-                chapter_cache[cache_key] = _parse_drbo_chapter_verses(response.text)
-            except requests.exceptions.RequestException as exc:
-                warnings.append(f"DRBO fetch failed for book={canon_pos} chapter={chapter_num}: {exc}")
-                chapter_cache[cache_key] = {}
-
-        remote_chapter = chapter_cache[cache_key]
-        remote_text = remote_chapter.get(verse_num)
-        if remote_text is None:
+        sample = _build_spot_sample_from_verse_row(
+            row, chapter_cache, session, base_url, warnings
+        )
+        if sample is None:
             unavailable += 1
             continue
+        samples.append(sample)
 
-        local_norm = _normalized_compare_text(local_text)
-        remote_norm = _normalized_compare_text(remote_text)
-        similarity = SequenceMatcher(None, local_norm, remote_norm).ratio()
-        is_exact_match = local_norm == remote_norm
-        is_near_match = (not is_exact_match) and similarity >= NEAR_MATCH_THRESHOLD
-        samples.append(
-            SpotCheckSample(
-                canonical_position=canon_pos,
-                book=str(row["book"]),
-                chapter=chapter_num,
-                verse=verse_num,
-                local_text=local_text,
-                remote_text=remote_text,
-                local_norm=local_norm,
-                remote_norm=remote_norm,
-                similarity=similarity,
-                match=(is_exact_match or is_near_match),
-                note="exact_match" if is_exact_match else ("near_match" if is_near_match else "text mismatch"),
-            )
+    summary = _spot_check_summary_from_samples(
+        samples, unavailable, seed, len(used_refs)
+    )
+    return samples, summary, warnings
+
+
+def _run_drbo_mismatch_hunt(
+    output_dir: Path,
+    target_mismatches: int,
+    max_samples: int,
+    base_url: str,
+    seed: int,
+) -> Tuple[List[SpotCheckSample], Dict[str, object], List[str]]:
+    """
+    Keep sampling (new shuffle) until `target_mismatches` true DRBO text mismatches
+    (not near matches) or `max_samples` successful comparisons—whichever is first.
+    """
+    warnings: List[str] = []
+    all_verses = _collect_output_verses(output_dir)
+    if not all_verses:
+        warnings.append("DRBO mismatch-hunt skipped: no local Bible verses found.")
+        return [], {"sampled": 0, "matched": 0, "near_matched": 0, "mismatched": 0, "unavailable": 0}, warnings
+
+    cap = min(max_samples, len(all_verses))
+    rng = random.Random(seed)
+    shuffled = all_verses[:]
+    rng.shuffle(shuffled)
+
+    chapter_cache: Dict[Tuple[int, int], Dict[int, str]] = {}
+    session = requests.Session()
+    session.headers.update({"User-Agent": "the-depositum-validation/1.0"})
+
+    samples: List[SpotCheckSample] = []
+    unavailable = 0
+    used_refs: set[Tuple[int, int, int]] = set()
+    cursor = 0
+    true_mismatches = 0
+    while (
+        true_mismatches < target_mismatches
+        and len(samples) < cap
+        and cursor < len(shuffled)
+    ):
+        row = shuffled[cursor]
+        cursor += 1
+        ref_key = (int(row["canonical_position"]), int(row["chapter"]), int(row["verse"]))
+        if ref_key in used_refs:
+            continue
+        used_refs.add(ref_key)
+
+        sample = _build_spot_sample_from_verse_row(
+            row, chapter_cache, session, base_url, warnings
+        )
+        if sample is None:
+            unavailable += 1
+            continue
+        samples.append(sample)
+        if sample.note == "text mismatch":
+            true_mismatches += 1
+
+    summary = _spot_check_summary_from_samples(
+        samples, unavailable, seed, len(used_refs)
+    )
+    extra: Dict[str, object] = {
+        "target_mismatches": target_mismatches,
+        "max_samples": cap,
+        "true_mismatches": true_mismatches,
+        "stopped_because": (
+            "target_mismatches"
+            if true_mismatches >= target_mismatches
+            else ("max_samples" if len(samples) >= cap else "exhausted_candidates")
+        ),
+    }
+    merged = {**summary, **extra}
+    return samples, merged, warnings
+
+
+def _append_drbo_sample_table(
+    lines: List[str],
+    spot_samples: List[SpotCheckSample],
+    spot_summary: Dict[str, object],
+    *,
+    variant: str,
+) -> None:
+    """Append summary bullets + markdown table for one DRBO comparison pass."""
+    if spot_summary.get("sampled", 0) <= 0:
+        lines.append(
+            "- Spot-check not run." if variant == "random" else "- Mismatch hunt not run."
+        )
+        return
+
+    if variant == "mismatch_hunt":
+        trg = spot_summary.get("target_mismatches")
+        mcap = spot_summary.get("max_samples")
+        why = spot_summary.get("stopped_because", "")
+        tm = spot_summary.get("true_mismatches")
+        lines.append(
+            f"- Stop rule: stop after `{trg}` **text mismatch** results (strict; not near match) "
+            f"or after `{mcap}` successful comparisons—whichever happens first. "
+            f"Observed text mismatches in this table: `{tm}`. "
+            f"Stopped because: `{why}`."
         )
 
-    exact_matched = sum(1 for s in samples if s.note == "exact_match")
-    near_matched = sum(1 for s in samples if s.note == "near_match")
-    matched = exact_matched + near_matched
-    mismatched = sum(1 for s in samples if s.note == "text mismatch")
-    exact_pct = (100.0 * exact_matched / len(samples)) if samples else 0.0
-    near_plus_exact_pct = (100.0 * matched / len(samples)) if samples else 0.0
-    summary = {
-        "sampled": len(samples),
-        "exact_matched": exact_matched,
-        "exact_match_percent": round(exact_pct, 2),
-        "near_matched": near_matched,
-        "matched": matched,
-        "near_plus_exact_percent": round(near_plus_exact_pct, 2),
-        "mismatched": mismatched,
-        "unavailable": unavailable,
-        "attempted_refs": len(used_refs),
-        "seed": seed,
-        "near_match_threshold": NEAR_MATCH_THRESHOLD,
-    }
-    return samples, summary, warnings
+    lines.append(
+        f"- Sample size: `{spot_summary['sampled']}` | exact: `{spot_summary['exact_matched']}` "
+        f"({spot_summary['exact_match_percent']}%) | near: `{spot_summary['near_matched']}` | "
+        f"exact+near: `{spot_summary['matched']}` ({spot_summary['near_plus_exact_percent']}%) | "
+        f"mismatched: `{spot_summary['mismatched']}` | unavailable: `{spot_summary['unavailable']}` | "
+        f"attempted_refs: `{spot_summary['attempted_refs']}` | seed: `{spot_summary['seed']}` | "
+        f"near-threshold: `{spot_summary['near_match_threshold']}`"
+    )
+    repl_tail = (
+        "until target sample size is reached or candidates are exhausted."
+        if variant == "random"
+        else "until the stop rule is satisfied or candidates are exhausted."
+    )
+    lines.append(
+        "- Replacement sampling is enabled: if a sampled ref is unavailable, we keep sampling additional refs "
+        + repl_tail
+    )
+    lines.append("")
+    result_rank = {"text mismatch": 0, "near_match": 1, "exact_match": 2}
+    if variant == "mismatch_hunt":
+        table_samples = [s for s in spot_samples if s.note == "text mismatch"]
+        lines.append(
+            "- **Table:** only **text mismatch** rows (strict; below near-match threshold). "
+            "Exact and near matches are omitted here but remain in the aggregate counts above."
+        )
+        lines.append("")
+        sorted_samples = sorted(
+            table_samples,
+            key=lambda s: (
+                0.0 if s.similarity is None else s.similarity,
+                s.book,
+                s.chapter,
+                s.verse,
+            ),
+        )
+    else:
+        sorted_samples = sorted(
+            spot_samples,
+            key=lambda s: (
+                result_rank.get(s.note, 99),
+                0.0 if s.similarity is None else s.similarity,
+                s.book,
+                s.chapter,
+                s.verse,
+            ),
+        )
+
+    if variant == "mismatch_hunt" and not sorted_samples:
+        lines.append("*No strict text mismatches occurred in this extended hunt.*")
+        return
+
+    lines.append("| Book | Ref | Result | Similarity | Local norm | DRBO norm |")
+    lines.append("| --- | --- | --- | --- | --- | --- |")
+    for sample in sorted_samples:
+        ref = f"{sample.chapter}:{sample.verse}"
+        remote_norm = sample.remote_norm or ""
+        similarity_text = f"{sample.similarity:.4f}" if sample.similarity is not None else ""
+        lines.append(
+            "| "
+            f"{_escape_md_cell(sample.book)} | {ref} | {_escape_md_cell(sample.note)} | {similarity_text} | "
+            f"{_escape_md_cell(sample.local_norm)} | {_escape_md_cell(remote_norm)} |"
+        )
 
 
 def _escape_md_cell(value: str) -> str:
@@ -289,6 +479,8 @@ def _write_validation_report(
     result: IntegrityResult,
     spot_samples: List[SpotCheckSample],
     spot_summary: Dict[str, object],
+    mismatch_hunt_samples: List[SpotCheckSample],
+    mismatch_hunt_summary: Dict[str, object],
     report_timestamp: datetime,
 ) -> str:
     VALIDATION_LATEST_MD.parent.mkdir(parents=True, exist_ok=True)
@@ -383,44 +575,30 @@ def _write_validation_report(
         "If `unavailable` is `0`, none of the attempted references failed DRBO retrieval/parsing."
     )
     lines.append("")
-    if spot_summary.get("sampled", 0) > 0:
-        lines.append(
-            f"- Sample size: `{spot_summary['sampled']}` | exact: `{spot_summary['exact_matched']}` "
-            f"({spot_summary['exact_match_percent']}%) | near: `{spot_summary['near_matched']}` | "
-            f"exact+near: `{spot_summary['matched']}` ({spot_summary['near_plus_exact_percent']}%) | "
-            f"mismatched: `{spot_summary['mismatched']}` | unavailable: `{spot_summary['unavailable']}` | "
-            f"attempted_refs: `{spot_summary['attempted_refs']}` | seed: `{spot_summary['seed']}` | "
-            f"near-threshold: `{spot_summary['near_match_threshold']}`"
-        )
-        lines.append(
-            "- Replacement sampling is enabled: if a sampled ref is unavailable, we keep sampling additional refs "
-            "until target sample size is reached or candidates are exhausted."
-        )
-        lines.append("")
-        lines.append("| Book | Ref | Result | Similarity | Local norm | DRBO norm |")
-        lines.append("| --- | --- | --- | --- | --- | --- |")
-        result_rank = {"text mismatch": 0, "near_match": 1, "exact_match": 2}
-        sorted_samples = sorted(
-            spot_samples,
-            key=lambda s: (
-                result_rank.get(s.note, 99),
-                0.0 if s.similarity is None else s.similarity,
-                s.book,
-                s.chapter,
-                s.verse,
-            ),
-        )
-        for sample in sorted_samples:
-            ref = f"{sample.chapter}:{sample.verse}"
-            remote_norm = sample.remote_norm or ""
-            similarity_text = f"{sample.similarity:.4f}" if sample.similarity is not None else ""
-            lines.append(
-                "| "
-                f"{_escape_md_cell(sample.book)} | {ref} | {_escape_md_cell(sample.note)} | {similarity_text} | "
-                f"{_escape_md_cell(sample.local_norm)} | {_escape_md_cell(remote_norm)} |"
-            )
-    else:
-        lines.append("- Spot-check not run.")
+    _append_drbo_sample_table(lines, spot_samples, spot_summary, variant="random")
+
+    lines.append("")
+    lines.append("## DRBO Mismatch Hunt (extended sampling)")
+    lines.append("")
+    lines.append(
+        "Plain-English: after the fixed random sample above, we run a second pass with the same "
+        "comparison rules. It keeps drawing new random verses until it records **20** strict "
+        "**text mismatch** outcomes (similarity strictly below the near-match threshold—not counting "
+        "near matches), **or** until **400** successful comparisons are accumulated—whichever occurs "
+        "first. Summary bullets below include full-run exact/near/mismatch counts; the markdown table "
+        "lists **only** problematic (**text mismatch**) rows (same columns as the random sample table)."
+    )
+    lines.append(
+        f"- Independent shuffle seed offset from the random sample seed: `{MISMATCH_HUNT_SEED_OFFSET}` "
+        "(mismatch-hunt seed = random-sample seed + offset)."
+    )
+    lines.append("")
+    _append_drbo_sample_table(
+        lines,
+        mismatch_hunt_samples,
+        mismatch_hunt_summary,
+        variant="mismatch_hunt",
+    )
 
     report_text = "\n".join(lines) + "\n"
     VALIDATION_LATEST_MD.write_text(report_text, encoding="utf-8")
@@ -448,6 +626,25 @@ def _write_validation_report(
                     "similarity": s.similarity,
                 }
                 for s in spot_samples
+            ],
+        },
+        "mismatch_hunt": {
+            "summary": mismatch_hunt_summary,
+            "samples": [
+                {
+                    "canonical_position": s.canonical_position,
+                    "book": s.book,
+                    "chapter": s.chapter,
+                    "verse": s.verse,
+                    "match": s.match,
+                    "note": s.note,
+                    "local_text": s.local_text,
+                    "remote_text": s.remote_text,
+                    "local_norm": s.local_norm,
+                    "remote_norm": s.remote_norm,
+                    "similarity": s.similarity,
+                }
+                for s in mismatch_hunt_samples
             ],
         },
     }
@@ -629,6 +826,26 @@ def validate_bible_integrity(config: Dict[str, object]) -> IntegrityResult:
         "seed": spot_seed,
         "near_match_threshold": NEAR_MATCH_THRESHOLD,
     }
+    mismatch_hunt_samples: List[SpotCheckSample] = []
+    hunt_seed = spot_seed + MISMATCH_HUNT_SEED_OFFSET
+    mismatch_hunt_summary: Dict[str, object] = {
+        "sampled": 0,
+        "exact_matched": 0,
+        "exact_match_percent": 0.0,
+        "near_matched": 0,
+        "matched": 0,
+        "near_plus_exact_percent": 0.0,
+        "mismatched": 0,
+        "unavailable": 0,
+        "seed": hunt_seed,
+        "near_match_threshold": NEAR_MATCH_THRESHOLD,
+        "target_mismatches": MISMATCH_HUNT_TARGET_MISMATCHES,
+        "max_samples": 0,
+        "true_mismatches": 0,
+        "stopped_because": "disabled",
+        "attempted_refs": 0,
+    }
+
     if spot_enabled:
         sampled, sampled_summary, sampled_warnings = _run_drbo_spot_check(
             output_dir=output_dir,
@@ -639,6 +856,17 @@ def validate_bible_integrity(config: Dict[str, object]) -> IntegrityResult:
         spot_samples = sampled
         spot_summary = sampled_summary
         warnings.extend(sampled_warnings)
+
+        hunted, hunted_summary, hunt_warnings = _run_drbo_mismatch_hunt(
+            output_dir=output_dir,
+            target_mismatches=MISMATCH_HUNT_TARGET_MISMATCHES,
+            max_samples=MISMATCH_HUNT_MAX_SAMPLES,
+            base_url=spot_base_url,
+            seed=hunt_seed,
+        )
+        mismatch_hunt_samples = hunted
+        mismatch_hunt_summary = hunted_summary
+        warnings.extend(hunt_warnings)
 
     summary: Dict[str, object] = {
         "files_found": len(md_files),
@@ -656,11 +884,17 @@ def validate_bible_integrity(config: Dict[str, object]) -> IntegrityResult:
         "spotcheck_unavailable": spot_summary.get("unavailable", 0),
         "spotcheck_seed": spot_summary.get("seed", spot_seed),
         "spotcheck_near_match_threshold": spot_summary.get("near_match_threshold", NEAR_MATCH_THRESHOLD),
+        "mismatch_hunt_sampled": mismatch_hunt_summary.get("sampled", 0),
+        "mismatch_hunt_true_mismatches": mismatch_hunt_summary.get("true_mismatches", 0),
+        "mismatch_hunt_stopped_because": mismatch_hunt_summary.get("stopped_because", ""),
+        "mismatch_hunt_seed": mismatch_hunt_summary.get("seed", hunt_seed),
     }
     report_path = _write_validation_report(
         IntegrityResult(ok=(len(errors) == 0), errors=errors, warnings=warnings, summary=summary),
         spot_samples=spot_samples,
         spot_summary=spot_summary,
+        mismatch_hunt_samples=mismatch_hunt_samples,
+        mismatch_hunt_summary=mismatch_hunt_summary,
         report_timestamp=report_timestamp,
     )
     summary["report_path"] = report_path

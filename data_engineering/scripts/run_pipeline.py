@@ -162,6 +162,13 @@ def validate_outputs(config):
                 integrity.summary.get("spotcheck_unavailable"),
                 integrity.summary.get("spotcheck_seed"),
             )
+            logger.info(
+                "✅ DRBO mismatch hunt: sampled=%s true_mismatches=%s stopped=%s hunt_seed=%s",
+                integrity.summary.get("mismatch_hunt_sampled"),
+                integrity.summary.get("mismatch_hunt_true_mismatches"),
+                integrity.summary.get("mismatch_hunt_stopped_because"),
+                integrity.summary.get("mismatch_hunt_seed"),
+            )
             report_path = integrity.summary.get("report_path")
             if report_path:
                 logger.info("Validation markdown report: %s", report_path)
