@@ -62,6 +62,10 @@ VERSE_START_RE = re.compile(r"^(\d+):([0-9lI]+)\.\s*(.*)$")
 CHAPTER_HEADING_RE = re.compile(r"^(.+?)\s+Chapter\s+(\d+)\s*$")
 BRACKETED_RE = re.compile(r"\[[^\]]*\]")
 EMPHASIS_ASTERISKS_RE = re.compile(r"\*+([^*]+?)\*+")
+# PG #8300 emits Challoner marginal notes as separate <p> blocks (no distinct class).
+# They almost always begin with a short quotation from the verse (opening words) and an
+# ellipsis before the explanatory sentence, e.g. "Enter not... No one but...".
+CHALLONER_NOTE_LEAD_RE = re.compile(r"^[^\n.]{1,200}\.\.\.")
 
 
 class ParseStats:
@@ -79,8 +83,18 @@ def sanitize_verse_text(text: str) -> str:
     return s
 
 
+def _looks_like_challoner_commentary_paragraph(block: str) -> bool:
+    """True if this <p> text matches the Challoner marginal-note pattern used in PG #8300."""
+    s = block.strip()
+    if not s:
+        return False
+    return bool(CHALLONER_NOTE_LEAD_RE.match(s))
+
+
 def _is_continuation_block(block: str, current_parts: List[str]) -> bool:
     if not block:
+        return False
+    if _looks_like_challoner_commentary_paragraph(block):
         return False
     first = block[0]
     if first in "\"'(":
