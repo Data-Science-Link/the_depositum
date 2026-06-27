@@ -35,12 +35,14 @@ The script extracts the catechism from a PDF file and converts it to clean Markd
 
 ## Usage
 
+From the project root:
+
 ```bash
 # Full extraction (all 346 pages)
-python extract_catechism.py
+uv run python data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py
 
 # Test extraction (first 5 pages)
-python extract_catechism.py --max-pages 5
+uv run python data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py --max-pages 5
 ```
 
 ## Output

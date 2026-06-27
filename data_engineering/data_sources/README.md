@@ -66,20 +66,16 @@ Each source has its own extraction script:
 
 ```bash
 # Bible - Extract 66 books from API
-cd bible_douay_rheims
-python extract_bible.py
+uv run python data_engineering/data_sources/bible_douay_rheims/extract_bible.py
 
 # Bible - Extract 7 Deuterocanonical books from GitHub
-cd bible_douay_rheims
-python extract_deuterocanonical.py
+uv run python data_engineering/data_sources/bible_douay_rheims/extract_deuterocanonical.py
 
 # Commentary (requires EPUB)
-cd bible_commentary_haydock
-python extract_commentary.py
+uv run python data_engineering/data_sources/bible_commentary_haydock/extract_commentary.py
 
 # Catechism (requires PDF)
-cd catholic_catechism_trent
-python extract_catechism.py
+uv run python data_engineering/data_sources/catholic_catechism_trent/extract_catechism.py
 ```
 
 ## Running All Extractors

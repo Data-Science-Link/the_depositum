@@ -60,6 +60,8 @@ The script is designed to be run manually on a regular basis as you finish raw p
 
 ### Basic Usage
 
+From the project root:
+
 ```bash
 # With explicit output path (MP3 format)
 uv run python data_engineering/audio_post_processing/process_podcast.py \
