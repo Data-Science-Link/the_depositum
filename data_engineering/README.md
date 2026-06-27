@@ -57,7 +57,6 @@ brew install uv
 
 # Linux/Windows (alternative)
 curl -LsSf https://astral.sh/uv/install.sh | sh
-# Or: pip install uv
 ```
 
 **Why uv?**
@@ -74,15 +73,11 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
    # From project root
    cd /path/to/the_depositum
 
-   # Create virtual environment in project root (.venv/)
-   # This creates .venv/ directory in the project root
-   uv venv
-
-   # Install all dependencies from pyproject.toml
-   # Automatically installs project in editable mode
+   # Synchronize dependencies and create virtual environment
+   # This will create .venv/ directory in the project root and install all dependencies
    uv sync
 
-   # Optional: Install with dev dependencies for testing
+   # Optional: Install with dev dependencies for development
    uv sync --extra dev
    ```
 
@@ -90,17 +85,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
    - The virtual environment is created at `.venv/` in the project root
    - `uv sync` reads `pyproject.toml` and installs all dependencies automatically
    - The project is installed in editable mode, so code changes are immediately available
-   - You can use `uv run <command>` to run commands without activating the venv manually
-
-2. **Activate virtual environment** (optional):
-   ```bash
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-   ```
-
-   **Alternative**: Use `uv run` to execute commands in the venv without activation:
-   ```bash
-   uv run python data_engineering/scripts/run_pipeline.py
-   ```
+   - You can use `uv run <command>` to run commands in the venv without activating it manually.
 
 2. **Set up environment variables** (optional):
    ```bash
@@ -217,23 +202,11 @@ python data_engineering/scripts/run_pipeline.py --validate
 
 ## 🧪 Testing
 
-### Unit Tests
-
-```bash
-# Run all tests
-python -m pytest tests/
-
-# Run specific test suite
-python -m pytest tests/test_bible_extraction.py
-python -m pytest tests/test_commentary_extraction.py
-python -m pytest tests/test_catechism_extraction.py
-```
-
 ### Integration Tests
 
 ```bash
 # Test full pipeline
-python data_engineering/scripts/run_pipeline.py --test
+uv run python data_engineering/scripts/run_pipeline.py --test
 ```
 
 ## ⚙️ Configuration

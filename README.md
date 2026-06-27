@@ -55,7 +55,6 @@ brew install uv
 
 # Linux/Windows (alternative)
 curl -LsSf https://astral.sh/uv/install.sh | sh
-# Or: pip install uv
 ```
 
 **Step 2: Set up the project**:
@@ -64,19 +63,12 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 git clone https://github.com/your-username/the_depositum.git
 cd the_depositum
 
-# Create virtual environment in project root (.venv/)
-# This will create .venv/ directory in the project root
-uv venv
-
-# Install all dependencies (uses pyproject.toml)
-# This automatically installs the project in editable mode
+# Synchronize dependencies and create virtual environment
+# This will create .venv/ directory in the project root and install all dependencies
 uv sync
 
-# Optional: Install with dev dependencies for testing
+# Optional: Install with dev dependencies for development
 uv sync --extra dev
-
-# Activate virtual environment (optional - uv run works without activation)
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 
 **Note**: The virtual environment (`.venv/`) is created in the project root directory. You can use `uv run <command>` to run commands in the venv without activating it manually.
@@ -191,7 +183,7 @@ the_depositum/
 │       └── security-audit.yml   # Automated security scanning
 │
 ├── data_final/                  # Final output (ready for NotebookLM)
-│   ├── 00_Project_Prompt_and_Sources.md # Project constitution and source documentation
+│   ├── 00_00_READ_ME.md        # Project constitution and source documentation
 │   ├── bible_douay_rheims/     # 73 Bible books (.md files) - Complete Catholic canon
 │   ├── bible_commentary_haydock/ # 73 Commentary files (.md files)
 │   └── catholic_catechism_trent/ # Catechism file (.md file)
@@ -248,14 +240,14 @@ the_depositum/
 - `data_engineering/data_sources/catholic_catechism_trent/cleaned_table_of_contents.csv` - Reference table of contents for validation
 
 ### Output Documentation
-- `data_final/00_Project_Prompt_and_Sources.md` - Project constitution and source documentation defining the three pillars and operational guidelines
+- `data_final/00_00_READ_ME.md` - Project constitution and source documentation defining the three pillars and operational guidelines for AI tools
 
 ### Generated Directories (not in version control)
 - `data_engineering/processed_data/` - Intermediate processed files
 - `data_final/bible_douay_rheims/` - Final Bible output (73 .md files, named like `Bible_Book_01_Genesis.md`, `Bible_Book_73_Revelation.md` - complete Catholic canon)
 - `data_final/bible_commentary_haydock/` - Final commentary output (73 .md files, named like `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 - `data_final/catholic_catechism_trent/` - Final catechism output (.md file)
-- `data_final/00_Project_Prompt_and_Sources.md` - Project constitution and source documentation
+- `data_final/00_00_READ_ME.md` - Project constitution and source documentation
 - `data_engineering/logs/` - Execution logs (bible_extraction.log, catechism_extraction.log)
 
 ## 🎓 Use Case: NotebookLM Integration
@@ -295,13 +287,11 @@ Edit `data_engineering/config/pipeline_config.yaml` to customize:
 1. **Fork and clone the repository**
 2. **Set up environment**:
    ```bash
-   uv venv
-   uv sync --extra dev  # Installs with dev dependencies
-   source .venv/bin/activate  # Optional: activate venv
+   uv sync --extra dev  # Installs with dev dependencies and creates venv
    ```
-3. **Run tests**:
+3. **Run pipeline in test mode**:
    ```bash
-   python data_engineering/scripts/run_pipeline.py --test
+   uv run python data_engineering/scripts/run_pipeline.py --test
    ```
 
 ### Contribution Guidelines
@@ -316,7 +306,7 @@ Edit `data_engineering/config/pipeline_config.yaml` to customize:
 For detailed technical information, see:
 - **[data_engineering/README.md](data_engineering/README.md)**: Complete technical documentation
 - **[data_engineering/data_sources/README.md](data_engineering/data_sources/README.md)**: Data sources overview
-- **[data_final/README.md](data_final/README.md)**: Final output documentation with historical context
+- **[data_final/00_00_READ_ME.md](data_final/00_00_READ_ME.md)**: Final output documentation with historical context
 - **[FILES.md](FILES.md)**: Complete file listing and organization guide
 - Individual source READMEs in each `data_sources/{source}/` directory
 

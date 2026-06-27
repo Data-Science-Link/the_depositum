@@ -50,8 +50,9 @@ A separate script (`extract_deuterocanonical.py`) extracts the 7 missing Deutero
 
 ### Usage
 
+From the project root:
 ```bash
-python extract_deuterocanonical.py
+uv run python data_engineering/data_sources/bible_douay_rheims/extract_deuterocanonical.py
 ```
 
 This script:
@@ -123,14 +124,16 @@ The patchwork solution (API + GitHub) is sufficient for MVP and development. Mig
 
 ### Main Bible Extraction (66 books)
 
+From the project root:
 ```bash
-python extract_bible.py
+uv run python data_engineering/data_sources/bible_douay_rheims/extract_bible.py
 ```
 
 ### Deuterocanonical Books Extraction (7 books)
 
+From the project root:
 ```bash
-python extract_deuterocanonical.py
+uv run python data_engineering/data_sources/bible_douay_rheims/extract_deuterocanonical.py
 ```
 
 ## Output
@@ -266,6 +269,6 @@ The same document also includes “Third-party Sanity Checks (DRBO)” with spot
 ### How to Run
 From project root:
 ```bash
-python data_engineering/scripts/post_process_repair_douay_rheims_dummy_verses.py
+uv run python data_engineering/scripts/post_process_repair_douay_rheims_dummy_verses.py
 ```
 

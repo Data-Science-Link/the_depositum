@@ -34,8 +34,9 @@ The script extracts commentary from an EPUB file and converts it to clean Markdo
 
 ## Usage
 
+From the project root:
 ```bash
-python extract_commentary.py
+uv run python data_engineering/data_sources/bible_commentary_haydock/extract_commentary.py
 ```
 
 ## Output

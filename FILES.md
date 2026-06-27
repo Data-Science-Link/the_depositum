@@ -71,8 +71,6 @@ This document provides a complete listing of all files in The Depositum reposito
 | `data_engineering/data_sources/catholic_catechism_trent/README.md` | Extraction guide with PDF parsing details, header detection methods, and content preservation rules |
 | `data_engineering/data_sources/catholic_catechism_trent/EXTRACTION_ANALYSIS.md` | Analysis document tracking the iterative improvement process for header detection accuracy |
 | `data_engineering/data_sources/catholic_catechism_trent/cleaned_table_of_contents.csv` | Reference table of contents used for validating header hierarchy accuracy |
-| `data_engineering/data_sources/catholic_catechism_trent/The Roman Catechism.pdf` | Source PDF file (not version controlled, must be downloaded separately) |
-
 #### Data Sources Overview
 | File | Description |
 |------|-------------|
@@ -82,8 +80,7 @@ This document provides a complete listing of all files in The Depositum reposito
 
 | File | Description |
 |------|-------------|
-| `data_final/00_Project_Prompt_and_Sources.md` | Project constitution and source documentation defining the three pillars (Scripture, Tradition, Magisterium) and operational guidelines for AI tools |
-| `data_final/bible_commentary_haydock/.gitkeep` | Placeholder to ensure directory is tracked in git |
+| `data_final/00_00_READ_ME.md` | Project constitution and source documentation defining the three pillars (Scripture, Tradition, Magisterium) and operational guidelines for AI tools |
 
 ## Generated Directories (Not Version Controlled)
 
@@ -95,10 +92,10 @@ These directories are created by the pipeline and contain generated files:
   - `catholic_catechism_trent/` - Intermediate catechism file
 
 - `data_final/` - Final output directories
-  - `bible_douay_rheims/` - 66 Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - currently missing 7 deuterocanonical books)
-  - `bible_commentary_haydock/` - Commentary Markdown files
+  - `bible_douay_rheims/` - 73 Markdown files (Bible_Book_01_Genesis.md through Bible_Book_73_Revelation.md - complete Catholic canon)
+  - `bible_commentary_haydock/` - 73 Commentary Markdown files
   - `catholic_catechism_trent/` - Catholic_Catechism_Trent.md
-  - `00_Project_Prompt_and_Sources.md` - Project constitution and source documentation for AI tools
+  - `00_00_READ_ME.md` - Project constitution and source documentation for AI tools
 
 - `data_engineering/logs/` - Execution logs (bible_extraction.log, catechism_extraction.log)
 
@@ -109,7 +106,7 @@ These directories are created by the pipeline and contain generated files:
 ### Source Files (Version Controlled)
 - **Python scripts**: 4 files (3 extraction scripts + 1 pipeline orchestrator)
 - **Configuration files**: 2 files (pipeline_config.yaml, pyproject.toml)
-- **Documentation files**: 12 files (9 README.md files + 1 FILES.md + 1 EXTRACTION_ANALYSIS.md + 1 00_Project_Prompt_and_Sources.md)
+- **Documentation files**: 12 files (9 README.md files + 1 FILES.md + 1 EXTRACTION_ANALYSIS.md + 1 00_00_READ_ME.md)
 - **Data files**: 1 CSV file (cleaned_table_of_contents.csv)
 - **Scripts**: 1 shell script (security_check.sh)
 - **Cursor rules**: 2 .mdc files (if .cursor/rules/ directory exists)
@@ -117,7 +114,7 @@ These directories are created by the pipeline and contain generated files:
 - **Other**: LICENSE, .gitignore
 
 ### Generated Files (Not Version Controlled)
-- **Bible output**: 66 Markdown files (currently missing 7 deuterocanonical books: Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees - see bible_douay_rheims/README.md for details)
+- **Bible output**: 73 Markdown files (complete Catholic canon - see bible_douay_rheims/README.md for details)
 - **Commentary output**: 73 Markdown files (one per book of the Catholic canon)
 - **Catechism output**: 1 Markdown file (after running pipeline)
 
