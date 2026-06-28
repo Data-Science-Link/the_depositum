@@ -136,7 +136,10 @@ def parse_chapter_header(text: str) -> Optional[Tuple[str, int]]:
         book_name = match.group(2).strip()
         # If there was a leading number, prepend it to the book name
         if leading_num:
-            book_name = (leading_num + book_name).strip()
+            book_name = (leading_num.strip() + " " + book_name).strip()
+
+        # Normalize multiple spaces inside the book name (e.g., "1   SAMUEL" -> "1 SAMUEL")
+        book_name = re.sub(r'\s+', ' ', book_name)
         try:
             chapter_num = int(match.group(3))
             return (book_name, chapter_num)
