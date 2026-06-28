@@ -17,7 +17,6 @@ xxruyle/Bible-DouayRheims (consolidated `EntireBible-DR.json`).
 from __future__ import annotations
 
 import argparse
-import json
 import logging
 import re
 import time
