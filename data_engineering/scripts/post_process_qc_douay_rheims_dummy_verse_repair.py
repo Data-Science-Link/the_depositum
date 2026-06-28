@@ -20,7 +20,6 @@ import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Sequence, Tuple
-from urllib.parse import quote
 
 import requests
 import yaml
