@@ -129,10 +129,14 @@ def _resolve_entire_bible_key(
     keys = list(alternate_keys_norm.keys())
     best: Optional[str] = None
     best_score = 0.0
+
+    norm_set = set(norm)
+    norm_set_len = max(1, len(norm_set))
+
     for k in keys:
         # Simple score: intersection proportion in normalized strings.
-        inter = set(k) & set(norm)
-        score = len(inter) / max(1, len(set(norm)))
+        inter = set(k) & norm_set
+        score = len(inter) / norm_set_len
         if score > best_score:
             best_score = score
             best = k
