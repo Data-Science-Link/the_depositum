@@ -447,39 +447,39 @@ def generate_markdown(book_name: str, book_id: str, canonical_position: int, par
             # Enhanced frontmatter following markdown best practices
             # Escape YAML special characters in book_name for safety
             safe_title = book_name.replace(':', '-').replace('|', '-').replace('@', '-')
-            f.write(f"---\n")
+            f.write("---\n")
             f.write(f"title: {safe_title}\n")
             f.write(f"canonical_position: {canonical_position}\n")
             f.write(f"testament: {testament}\n")
             if section:
                 f.write(f"section: {section}\n")
             f.write(f"book_id: {book_id}\n")
-            f.write(f"translation: Douay-Rheims 1899 American Edition\n")
+            f.write("translation: Douay-Rheims 1899 American Edition\n")
             f.write(f"total_chapters: {len(chapters)}\n")
-            f.write(f"tags:\n")
-            f.write(f"  - bible\n")
-            f.write(f"  - douay-rheims\n")
-            f.write(f"  - old-testament\n")
+            f.write("tags:\n")
+            f.write("  - bible\n")
+            f.write("  - douay-rheims\n")
+            f.write("  - old-testament\n")
             if section:
                 section_tag = section.lower().replace(' ', '-')
                 f.write(f"  - {section_tag}\n")
-            f.write(f"  - catholic-canon\n")
-            f.write(f"  - deuterocanonical\n")
-            f.write(f"language: en\n")
-            f.write(f"format: markdown\n")
-            f.write(f"---\n\n")
+            f.write("  - catholic-canon\n")
+            f.write("  - deuterocanonical\n")
+            f.write("language: en\n")
+            f.write("format: markdown\n")
+            f.write("---\n\n")
 
             # Book title
             f.write(f"# {book_name}\n\n")
 
             # Table of Contents
-            f.write(f"## Table of Contents\n\n")
+            f.write("## Table of Contents\n\n")
             for chapter_info in chapters:
                 chapter_num = chapter_info.get('chapter')
                 if chapter_num is not None:
                     chapter_anchor = f"chapter-{chapter_num}".lower()
                     f.write(f"- [Chapter {chapter_num}](#{chapter_anchor})\n")
-            f.write(f"\n---\n\n")
+            f.write("\n---\n\n")
 
             # Process each chapter
             total_chapters = len(chapters)
