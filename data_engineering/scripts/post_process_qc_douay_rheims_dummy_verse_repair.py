@@ -328,7 +328,6 @@ def main() -> int:
 
     total = len(rows)
     exact = sum(1 for r in rows if r["exact_match"])
-    non_exact = total - exact
 
     # Sample comparisons (pick deterministic verses we know were dummy-prone historically)
     samples_to_show: List[Tuple[str, int, int]] = [
