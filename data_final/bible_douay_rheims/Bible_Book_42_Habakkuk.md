@@ -4,7 +4,7 @@ canonical_position: 42
 testament: Old Testament
 section: Prophetic Books
 book_id: HAB
-translation: Douay-Rheims 1899 American Edition
+translation: Douay-Rheims (Challoner revision, Project Gutenberg #8300)
 total_chapters: 3
 tags:
   - bible
@@ -52,7 +52,7 @@ format: markdown
 
 **1** I will stand upon my watch, and fix my foot upon the tower: and I will watch, to see what will be said to me, and what I may answer to him that reproveth me.  
 **2** And the Lord answered me, and said: Write the vision, and make it plain upon tables: that he that readeth it may run over it.  
-**3** For as yet the vision is far off, and it shall appear at the end, and shall not lie: if it make any delay, wait for it: for it shall surely come, and it shall not be slack.  
+**3** For as yet the vision is far off, and it shall appear at the end, and shall notlie: if it make any delay, wait for it: for it shall surely come, and it shall not be slack.  
 **4** Behold, he that is unbelieving, his soul shall not be right in himself: but the just shall live in his faith.  
 **5** And as wine deceiveth him that drinketh it: so shall the proud man be, and he shall not be honoured: who hath enlarged his desire like hell: and is himself like death, and he is never satisfied: but will gather together unto him all nations, and heap together unto him all people.  
 **6** Shall not all these take up a parable against him, and a dark speech concerning him: and it shall be said: Woe to him that heapeth together that which is not his own? how long also doth he load himself with thick clay?  
@@ -78,7 +78,7 @@ format: markdown
 **1** A PRAYER OF HABACUC THE PROPHET FOR IGNORANCES.  
 **2** O Lord, I have heard thy hearing, and was afraid. O Lord, thy work, in the midst of the years bring it to life: In the midst of the years thou shalt make it known: when thou art angry, thou wilt remember mercy.  
 **3** God will come from the south, and the holy one from mount Pharan: His glory covered the heavens, and the earth is full of his praise.  
-**4** His brightness shall be as the light; horns are in his hands: There is his strength hid:  
+**4** His brightness shall be as the light: horns are in his hands: There is his strength hid:  
 **5** Death shall go before his face. And the devil shall go forth before his feet.  
 **6** He stood and measured the earth. He beheld, and melted the nations: and the ancient mountains were crushed to pieces. The hills of the world were bowed down by the journeys of his eternity.  
 **7** I saw the tents of Ethiopia for their iniquity, the curtains of the land of Madian shall be troubled.  

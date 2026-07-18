@@ -4,7 +4,7 @@ canonical_position: 44
 testament: Old Testament
 section: Prophetic Books
 book_id: HAG
-translation: Douay-Rheims 1899 American Edition
+translation: Douay-Rheims (Challoner revision, Project Gutenberg #8300)
 total_chapters: 2
 tags:
   - bible
@@ -33,14 +33,14 @@ format: markdown
 **4** Is it time for you to dwell in ceiled houses, and this house lie desolate?  
 **5** And now thus saith the Lord of hosts: Set your hearts to consider your ways.  
 **6** You have sowed much, and brought in little: you have eaten, but have not had enough: you have drunk, but have not been filled with drink: you have clothed yourselves, but have not been warmed: and he that hath earned wages, put them into a bag with holes.  
-**7** Thus saith the Lord of hosts: Set Your hearts upon your ways:  
+**7** Thus saith the Lord of hosts: Set your hearts upon your ways:  
 **8** Go up to the mountain, bring timber, and build the house: and it shall be acceptable to me, and I shall be glorified, saith the Lord.  
 **9** You have looked for more, and behold it became less, and you brought it home, and I blowed it away: why, saith the Lord of hosts? because my house is desolate, and you make haste every man to his own house.  
 **10** Therefore the heavens over you were stayed from giving dew, and the earth was hindered from yielding her fruits:  
 **11** And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the wine, and upon the oil, and upon all that the ground bringeth forth, and upon men, and upon beasts, and upon all the labour of the hands.  
 **12** Then Zorobabel the son of Salathiel, and Jesus the son of Josedec the high priest, and all the remnant of the people hearkened to the voice of the Lord their God, and to the words of Aggeus the prophet, as the Lord their God sent him to them: and the people feared before the Lord.  
 **13** And Aggeus the messenger of the Lord, as one of the messengers of the Lord, spoke, saying to the people: I am with you, saith the Lord.  
-**14** And the Lord stirred up the spirit of Zorobabel the son of Salathiel governor of Juda, and the spirit of Jesus the son of Josedec the high priest, and the spirit of all the rest of the people: and they went in, and did the work in the house of the Lord of hosts their God.  
+**14** And the Lord stirred up the spirit of Zorobabel the son of Salathiel governor of Juda, and the spirit of Jesus the son of Josedec the high priest, and the spirit of all the rest of the people: and they went in, and did the work in the house of the Lord of Hosts their God.  
 
 ---
 
@@ -50,8 +50,8 @@ format: markdown
 **2** And in the seventh month, the word of the Lord came by the hand of Aggeus the prophet, saying:  
 **3** Speak to Zorobabel the son of Salathiel the governor of Juda, and to Jesus the son of Josedec the high priest, and to the rest of the people, saying:  
 **4** Who is left among you, that saw this house in its first glory? and how do you see it now? is it not in comparison to that as nothing in your eyes?  
-**5** Yet now take courage, O Zorobabel, saith the Lord, and take courage, O Jesus the son of Josedec the high priest, and take courage, all ye people of the land, saith the Lord of hosts: and perform (for I am with you, saith the Lord of hosts)  
-**6** The word that I covenanted with you when you came out of the land of Egypt: and my spirit shall be in the midst of you: fear not.  
+**5** Yet now take courage, O Zorobabel, saith the Lord, and take courage, Jesus the son of Josedec the high priest, and take courage, all ye people of the land, saith the Lord of hosts: and perform (for I am with you, saith the Lord of hosts)  
+**6** The word that I convenanted with you when you came out of the land of Egypt: and my spirit shall be in the midst of you: fear not.  
 **7** For thus saith the Lord of hosts: Yet one little while, and I will move the heaven and the earth, and the sea, and the dry land.  
 **8** And I will move all nations: AND THE DESIRED OF ALL NATIONS SHALL COME: and I will fill this house with glory: saith the Lord of hosts.  
 **9** The silver is mine, and the gold is mine, saith the Lord of hosts.  
@@ -68,7 +68,7 @@ format: markdown
 **20** Is the seed as yet sprung up? or hath the vine, and the fig tree, and the pomegranate, and the olive tree as yet flourished? from this day I will bless you.  
 **21** And the word of the Lord came a second time to Aggeus in the four and twentieth day of the month, saying:  
 **22** Speak to Zorobabel the governor of Juda, saying: I will move both heaven and earth.  
-**23** And I will overthrow the throne of kingdoms, and will destroy the strength of the kingdom of the Gentiles: and I will overthrow the chariot, and him that rideth therein: and the horses and their riders shall come down, every one by the sword of his brother.  
+**23** And I will overthrow the throne of kingdoms, and will destroy the strength of the kingdom of the Gentiles: and I will overthrow the chariot, and him that rideth therin: and the horses and their riders shall come down, every one by the sword of his brother.  
 **24** In that day, saith the Lord of hosts, I will take thee, O Zorobabel the son of Salathiel, my servant, saith the Lord, and will make thee as a signet, for I have chosen thee, saith the Lord of hosts.  
 
 ---

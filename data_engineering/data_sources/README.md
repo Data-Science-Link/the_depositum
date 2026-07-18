@@ -5,31 +5,13 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 ## Available Sources
 
 ### 1. Douay-Rheims Bible (`bible_douay_rheims/`)
-**Status**: ✅ Complete - 73 books (full Catholic canon via patchwork approach)
+**Status**: ✅ Complete — 73 books (Project Gutenberg #8300, Challoner revision)
 
-**Overview**: Extracts the complete Douay-Rheims Bible (1899 American Edition) using a patchwork approach:
-- **66 books** from `bible-api.com` (Protestant canon)
-- **7 Deuterocanonical books** from GitHub repository (Catholic canon completion)
+**Overview**: Parses committed UTF-8 text `raw/pg8300.html` into `data_final/bible_douay_rheims/`.
 
-**Extraction Scripts**:
-- `extract_bible.py` - Extracts 66 books from bible-api.com API
-- `extract_deuterocanonical.py` - Extracts 7 Deuterocanonical books from GitHub JSON files
+**Extraction script**: `extract_bible.py` (single script, no network).
 
-**Key Features**:
-- Complete 73-book Catholic canon
-- Clean Markdown output with consistent formatting
-- Rate-limited API calls
-- No manual downloads required
-- Automatic verse sorting (numerical order)
-- Handles multiple JSON structures from GitHub
-
-**Approach Notes**:
-- This is an **MVP patchwork solution** - functional and complete, but requires two separate scripts
-- Works well for development and initial deployment
-- Future improvements may include migration to a unified API source for better robustness
-- Both scripts output to the same directory with identical formatting
-
-**See**: [bible_douay_rheims/README.md](bible_douay_rheims/README.md) for detailed documentation
+**See**: [bible_douay_rheims/README.md](bible_douay_rheims/README.md)
 
 ### 2. Haydock Commentary (`bible_commentary_haydock/`)
 **Status**: ⚠️ Requires EPUB download
@@ -65,13 +47,9 @@ This directory contains all data extraction scripts for The Depositum pipeline.
 Each source has its own extraction script:
 
 ```bash
-# Bible - Extract 66 books from API
+# Bible (requires raw/pg8300.html)
 cd bible_douay_rheims
 python extract_bible.py
-
-# Bible - Extract 7 Deuterocanonical books from GitHub
-cd bible_douay_rheims
-python extract_deuterocanonical.py
 
 # Commentary (requires EPUB)
 cd bible_commentary_haydock
@@ -100,36 +78,31 @@ python data_engineering/scripts/run_pipeline.py --source catechism
 
 ## Output Locations
 
-All extractors save intermediate files to:
-- `data_engineering/processed_data/bible_douay_rheims/` (Bible)
+Commentary and catechism save intermediate files to:
 - `data_engineering/processed_data/bible_commentary_haydock/` (Commentary)
 - `data_engineering/processed_data/catholic_catechism_trent/` (Catechism)
 
-Final output (after pipeline completion with `--copy-output`) is in:
-- `data_final/bible_douay_rheims/` (73 Bible books - complete Catholic canon)
+The Bible extractor writes **directly** to `data_final/bible_douay_rheims/`. Final outputs:
+- `data_final/bible_douay_rheims/` (73 Bible books)
 - `data_final/bible_commentary_haydock/` (73 Commentary files, named like `Bible_Book_01_Genesis_Commentary.md`, `Bible_Book_73_Revelation_Commentary.md`)
 - `data_final/catholic_catechism_trent/` (Catechism file)
 
 ## Data Flow
 
 ```
-Raw Sources → Extraction Scripts → Processed Data → Final Output
-     ↓              ↓                    ↓              ↓
-  API/EPUB/PDF   Python Scripts    Validation      Markdown Files
-  GitHub/JSON
+Raw Sources → Extraction Scripts → Processed / Final Output
+     ↓              ↓                    ↓
+  Gutenberg/EPUB/PDF   Python Scripts    Markdown in data_final/
 ```
 
-**Bible Extraction Flow:**
-- 66 books: `bible-api.com` → `extract_bible.py` → Markdown
-- 7 Deuterocanonical books: `GitHub JSON` → `extract_deuterocanonical.py` → Markdown
-- Both output to same directory with consistent formatting
+**Bible:** `raw/pg8300.html` → `extract_bible.py` → `data_final/bible_douay_rheims/`
 
 ## Troubleshooting
 
 ### Common Issues
 
 1. **Missing source files**: Ensure EPUB/PDF files are in the correct directories
-2. **API timeouts**: Increase delay in config for Bible extraction
+2. **Bible source missing**: Ensure `bible_douay_rheims/raw/pg8300.html` exists
 3. **Parsing errors**: Check EPUB/PDF structure and adjust parsing logic
 4. **Encoding issues**: Scripts handle UTF-8 and latin-1 automatically
 5. **Italic detection**: Catechism script uses font analysis; some italicized sections may use pattern-based fallback

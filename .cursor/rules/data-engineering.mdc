@@ -133,10 +133,9 @@ alwaysApply: true
 ## Source-Specific Guidelines
 
 ### Bible Extraction (douay_rheims)
-- Fetch book list first, then iterate through books
-- Handle API rate limits with delays
+- Read offline `raw/pg8300.html` (Project Gutenberg #8300 UTF-8)
 - Validate book count matches expected (73 books)
-- Check for missing chapters or verses
+- Check for missing chapters or verses after parsing
 
 ### Commentary Extraction (haydock)
 - Verify EPUB file exists before processing
