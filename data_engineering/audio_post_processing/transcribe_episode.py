@@ -21,7 +21,6 @@ This may have better pre-built wheel support for your platform.
 import sys
 import argparse
 import logging
-import ssl
 import os
 from pathlib import Path
 from datetime import datetime
@@ -38,11 +37,6 @@ except ImportError as e:
     print(f"Error importing whisper: {e}")
     print("Please install with: uv pip install openai-whisper")
     sys.exit(1)
-
-# Handle SSL certificate issues for model downloads
-# This is often needed in corporate environments or with certain network setups
-if hasattr(ssl, '_create_unverified_context'):
-    ssl._create_default_https_context = ssl._create_unverified_context
 
 # Set up logging
 LOG_DIR = Path(__file__).parent.parent / "logs"
